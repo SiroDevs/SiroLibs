@@ -1,0 +1,2573 @@
+{
+  "openapi": "3.0.1",
+  "x-stoplight": {
+    "id": "bw64ba11t80my"
+  },
+  "info": {
+    "title": "API.Bible",
+    "description": "Rest API Documentation for API.Bible.",
+    "termsOfService": "https://api.bible/terms-and-conditions",
+    "contact": {
+      "name": "Support",
+      "email": "support@api.bible",
+      "url": "mailto:support@api.bible"
+    },
+    "version": "1.6.3"
+  },
+  "servers": [
+    {
+      "url": "https://rest.api.bible/{version}",
+      "variables": {
+        "version": {
+          "default": "v1",
+          "description": "Current version of our API"
+        }
+      }
+    }
+  ],
+  "security": [
+    {
+      "API Key": []
+    }
+  ],
+  "tags": [
+    {
+      "name": "Bibles",
+      "description": "Fetch your available `Bibles` and their metadata"
+    },
+    {
+      "name": "Books",
+      "description": "Fetch the `Books` in a Bible"
+    },
+    {
+      "name": "Chapters",
+      "description": "Fetch the `Chapters` in a Bible"
+    },
+    {
+      "name": "Passages",
+      "description": "Fetch the `Passages` in a Bible"
+    },
+    {
+      "name": "Search",
+      "description": "Search a Bible by keyword or reference"
+    },
+    {
+      "name": "Sections",
+      "description": "Fetch the Sections in a Bible"
+    },
+    {
+      "name": "Verses",
+      "description": "Fetch the Verses in a Bible"
+    },
+    {
+      "name": "Audio Bibles",
+      "description": "Fetch your available `Audio Bibles` and their content"
+    }
+  ],
+  "paths": {
+    "/bibles": {
+      "get": {
+        "tags": [
+          "Bibles"
+        ],
+        "description": "Lists `Bible` objects authorized for the current API Key. This includes Creative Commons and Public Domain Bibles, as well as any Bibles licensed via a **Starter** or **Pro Plan**.\n\nA `Bible` object represents a single translation (NIV, ESV, etc.) of the Bible. Each Bible is accessible via its **Bible ID**, a string\nconsisting of a 16-digit unique string followed by a _publication number_ (`-01`, `-02`). A few popular examples are:\n\n| Bible                                  | Bible ID              |\n| -------------------------------------- | --------------------- |\n| King James Version (**KJV**)           | `de4e12af7f28f599-01` |\n| Douay-Rheims (**DRA**)                 | `179568874c45066f-01` |\n| Christian Standard Bible (**CSB**)     | `a556c5305ee15c3f-01` |",
+        "operationId": "getBibles",
+        "parameters": [
+          {
+            "name": "language",
+            "in": "query",
+            "description": "ISO 639-3 three digit language code used to filter results",
+            "schema": {
+              "type": "string",
+              "example": "eng",
+              "maxLength": 3,
+              "minLength": 3
+            }
+          },
+          {
+            "name": "abbreviation",
+            "in": "query",
+            "description": "Bible abbreviation to search for",
+            "schema": {
+              "type": "string",
+              "example": "NIV"
+            }
+          },
+          {
+            "name": "name",
+            "in": "query",
+            "description": "Bible name to search for",
+            "schema": {
+              "type": "string",
+              "example": "New International Version"
+            }
+          },
+          {
+            "name": "ids",
+            "in": "query",
+            "description": "Comma separated list of Bible Ids to return",
+            "schema": {
+              "type": "string",
+              "example": "78a9f6124f344018-01,a761ca71e0b3ddcf-01"
+            }
+          },
+          {
+            "name": "include-full-details",
+            "in": "query",
+            "description": "When `true`, the returned Bibles will include additional Bible details (e.g. copyright and promo info)",
+            "schema": {
+              "type": "boolean",
+              "default": false
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/Bible"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request\r\n\r\nInvalid language code provided",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "nghf7gsyt8hno"
+        },
+        "summary": "List Available Bibles"
+      }
+    },
+    "/bibles/{bibleId}": {
+      "get": {
+        "tags": [
+          "Bibles"
+        ],
+        "description": "Gets a single `Bible` object using the given `bibleId`. \n\nA `Bible` object represents a single translation (NIV, ESV, etc.) of the Bible. Each Bible is accessible via its **Bible ID**, a string\nconsisting of a 16-digit unique string followed by a _publication number_ (`-01`, `-02`). A few popular examples are:\n\n| Bible                                  | Bible ID              |\n| -------------------------------------- | --------------------- |\n| King James Version (**KJV**)           | `de4e12af7f28f599-01` |\n| Douay-Rheims (**DRA**)                 | `179568874c45066f-01` |\n| Christian Standard Bible (**CSB**)     | `a556c5305ee15c3f-01` |",
+        "operationId": "getBible",
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "$ref": "#/components/schemas/Bible"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request \r\n\r\nInvalid Bible ID supplied",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          },
+          "403": {
+            "description": "#### Forbidden\r\n\r\nNot authorized to access this Bible",
+            "content": {}
+          },
+          "404": {
+            "description": "#### Not Found\r\n\r\nUnable to find a Bible with the given `{bibleId}`",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "x9uzucwgss5e3"
+        },
+        "summary": "Get a Bible"
+      },
+      "parameters": [
+        {
+          "$ref": "#/components/parameters/bibleId"
+        }
+      ]
+    },
+    "/bibles/{bibleId}/books": {
+      "get": {
+        "tags": [
+          "Books"
+        ],
+        "description": "Lists `Book` objects for a given `bibleId`\n\nA `Book` object represents a single book (Matthew, Mark, etc.) of a single Bible.\nEach `Book` is accessible via a **Book ID**, a 3-digit code representing the book's name.\nA few examples are:\n\n| Book Name | Book ID |\n| --------- | ------- |\n| Genesis   | `GEN`   |\n| Mark      | `MRK`   |\n| 1 John    | `1JN`   |",
+        "operationId": "getBooks",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/include-chapters"
+          },
+          {
+            "$ref": "#/components/parameters/include-chapters-and-sections"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/Book"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request \r\n\r\nInvalid Bible ID supplied",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          },
+          "403": {
+            "description": "#### Forbidden\r\n\r\nNot authorized to access this Bible",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "9tfoshpl8m281"
+        },
+        "summary": "List Books in a Bible"
+      },
+      "parameters": [
+        {
+          "$ref": "#/components/parameters/bibleId"
+        }
+      ]
+    },
+    "/bibles/{bibleId}/books/{bookId}": {
+      "get": {
+        "tags": [
+          "Books"
+        ],
+        "description": "Gets a single `Book` object for a given `bibleId` and `bookId`. \n\nA `Book` object represents a single book (Matthew, Mark, etc.) of a single Bible.\nEach `Book` is accessible via a **Book ID**, a 3-digit code representing the book's name.\nA few examples are:\n\n| Book Name | Book ID |\n| --------- | ------- |\n| Genesis   | `GEN`   |\n| Mark      | `MRK`   |\n| 1 John    | `1JN`   |",
+        "operationId": "getBook",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/include-chapters"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "$ref": "#/components/schemas/Book"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request \r\n\r\nInvalid Bible ID supplied",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          },
+          "403": {
+            "description": "#### Forbidden\r\n\r\nNot authorized to access this Bible",
+            "content": {}
+          },
+          "404": {
+            "description": "#### Not Found\r\n\r\nUnable to find a book with the given `{bookId}`",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "9vfnigjejb3iu"
+        },
+        "summary": "Get a Book"
+      },
+      "parameters": [
+        {
+          "$ref": "#/components/parameters/bibleId"
+        },
+        {
+          "$ref": "#/components/parameters/bookId"
+        }
+      ]
+    },
+    "/bibles/{bibleId}/books/{bookId}/chapters": {
+      "get": {
+        "tags": [
+          "Chapters"
+        ],
+        "description": "Lists `Chapter` objects for a given `bibleId` and `bookId`\n\nA `Chapter` object represents a single chapter of the Bible. Each Chapter is accessible via its **Chapter ID**,\na string consisting of a [Book](#/components/schemas/Book) ID and a chapter number. A few examples are:\n\n| Chapter       | Chapter ID |\n| ------------- | ---------- |\n| Genesis 1     | `GEN.1`    |\n| John 3        | `JHN.3`    |\n| Revelation 22 | `REV.22`   |\n\n*Note: This endpoint does not return verse content*",
+        "operationId": "getChapters",
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/ChapterSummary"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request \r\n\r\nInvalid Bible ID supplied",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          },
+          "403": {
+            "description": "#### Forbidden\r\n\r\nNot authorized to access this Bible",
+            "content": {}
+          },
+          "404": {
+            "description": "#### Not Found\r\n\r\nUnable to find a book with the given `{bookId}`",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "qybpu0eshp6pt"
+        },
+        "summary": "List Chapters in a Book"
+      },
+      "parameters": [
+        {
+          "$ref": "#/components/parameters/bibleId"
+        },
+        {
+          "$ref": "#/components/parameters/bookId"
+        }
+      ]
+    },
+    "/bibles/{bibleId}/chapters/{chapterId}": {
+      "get": {
+        "tags": [
+          "Chapters"
+        ],
+        "description": "Gets a single `Chapter` object for a given `bibleId` and `chapterId`.\n\nA `Chapter` object represents a single chapter of the Bible. Each Chapter is accessible via its **Chapter ID**,\na string consisting of a [Book](https://docs.api.bible/guides/books) ID and a chapter number. A few examples are:\n\n| Chapter       | Chapter ID |\n| ------------- | ---------- |\n| Genesis 1     | `GEN.1`    |\n| John 3        | `JHN.3`    |\n| Revelation 22 | `REV.22`   |\n\nIn addition to information about the given chapter, this endpoint will also return all verse content included in that chapter within the `content` field.",
+        "operationId": "getChapter",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/content-type"
+          },
+          {
+            "$ref": "#/components/parameters/include-notes"
+          },
+          {
+            "$ref": "#/components/parameters/include-titles"
+          },
+          {
+            "$ref": "#/components/parameters/include-chapter-numbers"
+          },
+          {
+            "$ref": "#/components/parameters/include-verse-numbers"
+          },
+          {
+            "$ref": "#/components/parameters/include-verse-spans"
+          },
+          {
+            "$ref": "#/components/parameters/parallels"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data",
+                    "meta"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "$ref": "#/components/schemas/Chapter"
+                    },
+                    "meta": {
+                      "$ref": "#/components/schemas/Meta"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request \r\n\r\nInvalid Bible ID supplied",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          },
+          "403": {
+            "description": "#### Forbidden\r\n\r\nNot authorized to access this Bible",
+            "content": {}
+          },
+          "404": {
+            "description": "#### Not Found\r\n\r\nUnable to find a chapter with the given `{chapterId}`",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "jsgttp6uct6uu"
+        },
+        "summary": "Get a Chapter"
+      },
+      "parameters": [
+        {
+          "$ref": "#/components/parameters/bibleId"
+        },
+        {
+          "$ref": "#/components/parameters/chapterId"
+        }
+      ]
+    },
+    "/bibles/{bibleId}/passages/{passageId}": {
+      "get": {
+        "tags": [
+          "Passages"
+        ],
+        "description": "Gets a `Passage` object for a given `bibleId` and `passageId`.\n\nA `Passage` object represents an arbitrary range of verses from the Bible. These ranges are not predefined values, but instead depend\non the given input, known as a **Passage ID**. A **Passsage ID** consists of two [Verse](https://docs.api.bible/guides/verses) IDs separated by a `-`. These\n**Verse IDs** can span chapters and books, though passages are limited to 200 verses.\nA few passage examples are:\n\n| Verse Range                             | Passage ID          |\n| --------------------------------------- | ------------------- |\n| Genesis 1:1 - Genesis 2:3               | `GEN.1.1-GEN.2.3`   |\n| John 3:1 - John 3:16                    | `JHN.3:1-JHN.3.16`  |\n| 1 Corinthians 16:1 - 2 Corinthians 1:23 | `1CO.16.1-2CO.1.23` |\n\nIn addition to information about the given passage, this endpoint will also return all verse content included in that passage within the `content` field.\n",
+        "operationId": "getPassage",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/content-type"
+          },
+          {
+            "$ref": "#/components/parameters/include-notes"
+          },
+          {
+            "$ref": "#/components/parameters/include-titles"
+          },
+          {
+            "$ref": "#/components/parameters/include-chapter-numbers"
+          },
+          {
+            "$ref": "#/components/parameters/include-verse-numbers"
+          },
+          {
+            "$ref": "#/components/parameters/include-verse-spans"
+          },
+          {
+            "$ref": "#/components/parameters/parallels"
+          },
+          {
+            "$ref": "#/components/parameters/use-org-id"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data",
+                    "meta"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "$ref": "#/components/schemas/Passage"
+                    },
+                    "meta": {
+                      "$ref": "#/components/schemas/Meta"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request \r\n\r\nInvalid Bible ID supplied",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          },
+          "403": {
+            "description": "#### Forbidden\r\n\r\nNot authorized to access this Bible",
+            "content": {}
+          },
+          "404": {
+            "description": "#### Not Found\r\n\r\nUnable to find a passage with the given `{passageId}`",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "3f7gs2n64f4f8"
+        },
+        "summary": "Get a Passage"
+      },
+      "parameters": [
+        {
+          "$ref": "#/components/parameters/bibleId"
+        },
+        {
+          "$ref": "#/components/parameters/passageId"
+        }
+      ]
+    },
+    "/bibles/{bibleId}/books/{bookId}/sections": {
+      "get": {
+        "tags": [
+          "Sections"
+        ],
+        "description": "Lists `Section` objects for a given `bibleId` and `bookId`\n\nA `Section` object represents a known range of verses in the Bible, typically tied to a story. Each Section is accessible via its **Section ID**,\na string consisting of a [Book](https://docs.api.bible/guides/books) ID and a section number. Not every Bible has sections enabled. For Bibles with sections enabled,\nsections are sequential and _should_ cover nearly every verse if queried in order.\nA few examples from the book of Genesis are:\n\n| Section Title | Verse Range                | Section ID |\n| ------------- | -------------------------- | ---------- |\n| The Beginning | Genesis 1:1 - Genesis 2:3  | `GEN.S1`   |\n| Adam and Eve  | Genesis 2:4 - Genesis 2:25 | `GEN.S2`   |\n| The Fall      | Genesis 3:1 - Genesis 3:24 | `GEN.S3`   |\n\n*Note: This endpoint does not return verse content*\n",
+        "operationId": "getBookSections",
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/SectionSummary"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request \r\n\r\nInvalid Bible ID supplied",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          },
+          "403": {
+            "description": "#### Forbidden\r\n\r\nNot authorized to access this Bible",
+            "content": {}
+          },
+          "404": {
+            "description": "#### Not Found\r\n\r\nUnable to find a book with the given `{bookId}`",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "9xlv5dudyoylf"
+        },
+        "summary": "List Sections in a Book"
+      },
+      "parameters": [
+        {
+          "$ref": "#/components/parameters/bibleId"
+        },
+        {
+          "$ref": "#/components/parameters/bookId"
+        }
+      ]
+    },
+    "/bibles/{bibleId}/chapters/{chapterId}/sections": {
+      "get": {
+        "tags": [
+          "Sections"
+        ],
+        "description": "Lists `Section` objects for a given `bibleId` and `chapterId`\n\nLists `Section` objects for a given `bibleId` and `bookId`\n\nA `Section` object represents a known range of verses in the Bible, typically tied to a story. Each Section is accessible via its **Section ID**,\na string consisting of a [Book](https://docs.api.bible/guides/books) ID and a section number. Not every Bible has sections enabled. For Bibles with sections enabled,\nsections are sequential and _should_ cover nearly every verse if queried in order.\nA few examples from the book of Genesis are:\n\n| Section Title | Verse Range                | Section ID |\n| ------------- | -------------------------- | ---------- |\n| The Beginning | Genesis 1:1 - Genesis 2:3  | `GEN.S1`   |\n| Adam and Eve  | Genesis 2:4 - Genesis 2:25 | `GEN.S2`   |\n| The Fall      | Genesis 3:1 - Genesis 3:24 | `GEN.S3`   |\n\n*Note: This endpoint does not return verse content*\n",
+        "operationId": "getChapterSections",
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/SectionSummary"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request \r\n\r\nInvalid Bible ID supplied",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          },
+          "403": {
+            "description": "#### Forbidden\r\n\r\nNot authorized to access this Bible",
+            "content": {}
+          },
+          "404": {
+            "description": "#### Not Found\r\n\r\nUnable to find a book with the given `{bookId}`",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "yf5hp4aqpewet"
+        },
+        "summary": "List Sections in a Chapter"
+      },
+      "parameters": [
+        {
+          "$ref": "#/components/parameters/bibleId"
+        },
+        {
+          "$ref": "#/components/parameters/chapterId"
+        }
+      ]
+    },
+    "/bibles/{bibleId}/sections/{sectionId}": {
+      "get": {
+        "tags": [
+          "Sections"
+        ],
+        "description": "Gets a single `Section` object for a given `bibleId` and `sectionId`. \n\nLists `Section` objects for a given `bibleId` and `bookId`\n\nA `Section` object represents a known range of verses in the Bible, typically tied to a story. Each Section is accessible via its **Section ID**,\na string consisting of a [Book](https://docs.api.bible/guides/books) ID and a section number. Not every Bible has sections enabled. For Bibles with sections enabled,\nsections are sequential and _should_ cover nearly every verse if queried in order.\nA few examples from the book of Genesis are:\n\n| Section Title | Verse Range                | Section ID |\n| ------------- | -------------------------- | ---------- |\n| The Beginning | Genesis 1:1 - Genesis 2:3  | `GEN.S1`   |\n| Adam and Eve  | Genesis 2:4 - Genesis 2:25 | `GEN.S2`   |\n| The Fall      | Genesis 3:1 - Genesis 3:24 | `GEN.S3`   |\n\nIn addition to information about the given section, this endpoint will also return all verse content included in that section\nwithin the `content` field.\n",
+        "operationId": "getSection",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/content-type"
+          },
+          {
+            "$ref": "#/components/parameters/include-notes"
+          },
+          {
+            "$ref": "#/components/parameters/include-titles"
+          },
+          {
+            "$ref": "#/components/parameters/include-chapter-numbers"
+          },
+          {
+            "$ref": "#/components/parameters/include-verse-numbers"
+          },
+          {
+            "$ref": "#/components/parameters/include-verse-spans"
+          },
+          {
+            "$ref": "#/components/parameters/parallels"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data",
+                    "meta"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "$ref": "#/components/schemas/Section"
+                    },
+                    "meta": {
+                      "$ref": "#/components/schemas/Meta"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request \r\n\r\nInvalid Bible ID supplied",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          },
+          "403": {
+            "description": "#### Forbidden\r\n\r\nNot authorized to access this Bible",
+            "content": {}
+          },
+          "404": {
+            "description": "#### Not Found\r\n\r\nUnable to find a section with the given `{sectionId}`",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "bz4xhyiztrq3m"
+        },
+        "summary": "Get a Section"
+      },
+      "parameters": [
+        {
+          "$ref": "#/components/parameters/bibleId"
+        },
+        {
+          "$ref": "#/components/parameters/sectionId"
+        }
+      ]
+    },
+    "/bibles/{bibleId}/chapters/{chapterId}/verses": {
+      "get": {
+        "tags": [
+          "Verses"
+        ],
+        "description": "Lists `Verse` objects for a given `bibleId` and `chapterId`\n\nA `Verse` object represents a verse in the Bible. Each Verse is accessible via its **Verse ID**,\na string consisting of a [Book](https://docs.api.bible/guides/books) ID, a chapter number, and a verse number. A few examples are:\n\n| Verse           | Verse ID   |\n| --------------- | ---------- |\n| Genesis 1:1     | `GEN.1.1`  |\n| John 3:16       | `JHN.3.16` |\n| Revelation 21.4 | `REV.21.4` |\n\n*Note: This endpoint does not return verse content*\n",
+        "operationId": "getVerses",
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/VerseSummary"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request \r\n\r\nInvalid Bible ID supplied",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          },
+          "403": {
+            "description": "#### Forbidden\r\n\r\nNot authorized to access this Bible",
+            "content": {}
+          },
+          "404": {
+            "description": "#### Not Found\r\n\r\nUnable to find a book with the given `{bookId}`",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "2lj1fa3ok6dgs"
+        },
+        "summary": "List Verses in a Chapter"
+      },
+      "parameters": [
+        {
+          "$ref": "#/components/parameters/bibleId"
+        },
+        {
+          "$ref": "#/components/parameters/chapterId"
+        }
+      ]
+    },
+    "/bibles/{bibleId}/verses/{verseId}": {
+      "get": {
+        "tags": [
+          "Verses"
+        ],
+        "description": "Gets a `Verse` object for a given `bibleId` and `verseId`.\n\nA `Verse` object represents a verse in the Bible. Each Verse is accessible via its **Verse ID**,\na string consisting of a [Book](https://docs.api.bible/guides/books) ID, a chapter number, and a verse number. A few examples are:\n\n| Verse           | Verse ID   |\n| --------------- | ---------- |\n| Genesis 1:1     | `GEN.1.1`  |\n| John 3:16       | `JHN.3.16` |\n| Revelation 21.4 | `REV.21.4` |\n\nIn addition to information about the given verse, this endpoint will also return all verse content\nwithin the `content` field.\n",
+        "operationId": "getVerse",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/content-type"
+          },
+          {
+            "$ref": "#/components/parameters/include-notes"
+          },
+          {
+            "$ref": "#/components/parameters/include-titles"
+          },
+          {
+            "$ref": "#/components/parameters/include-chapter-numbers"
+          },
+          {
+            "$ref": "#/components/parameters/include-verse-numbers"
+          },
+          {
+            "$ref": "#/components/parameters/include-verse-spans"
+          },
+          {
+            "$ref": "#/components/parameters/parallels"
+          },
+          {
+            "$ref": "#/components/parameters/use-org-id"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data",
+                    "meta"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "$ref": "#/components/schemas/Verse"
+                    },
+                    "meta": {
+                      "$ref": "#/components/schemas/Meta"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request \r\n\r\nInvalid Bible ID supplied",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          },
+          "403": {
+            "description": "#### Forbidden\r\n\r\nNot authorized to access this Bible",
+            "content": {}
+          },
+          "404": {
+            "description": "#### Not Found\r\n\r\nUnable to find a passage with the given `{passageId}`",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "8iwkmgaimyh4j"
+        },
+        "summary": "Get a Verse"
+      },
+      "parameters": [
+        {
+          "$ref": "#/components/parameters/bibleId"
+        },
+        {
+          "$ref": "#/components/parameters/verseId"
+        }
+      ]
+    },
+    "/bibles/{bibleId}/search": {
+      "get": {
+        "tags": [
+          "Search"
+        ],
+        "description": "A search will attempt to match all verses with the list of keywords provided in the query string.\nThe order of the keywords does not matter, however _all listed keywords must be\npresent in a verse for it to be considered a match_.\n\nWildcard searches are supported, and can be used to match partial results:\n\n| Wildcard | Description                    | Example                                                      |\n| -------- | ------------------------------ | ------------------------------------------------------------ |\n| `*`      | Matches any character sequence | \"wo\\*d\" finds text such as \"word\", \"world\", and \"worshipped\" |\n| `?`      | Matches any single character   | \"l?ve\" finds text such as \"live\" and \"love\"                  |\n\nThe `text` property of each search result contains only the verse text, it does not\ncontain footnote references or additional formatting. However, more information on a verse can be queried directly by\n[fetching a single verse](https://docs.api.bible/guides/verses#fetching-a-single-verse).\n",
+        "operationId": "searchBible",
+        "parameters": [
+          {
+            "name": "query",
+            "in": "query",
+            "description": "Comma-separated search keywords or a passage reference. Supported wildcards are `*` and `?`. The `*` wildcard matches any character sequence (e.g. searching for \"wo*d\" finds text such as \"word\", \"world\", and \"worshipped\"). The `?` wildcard matches any matches any single character (e.g. searching for \"l?ve\" finds text such as \"live\" and \"love\").",
+            "schema": {
+              "type": "string",
+              "example": "love,world"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "Limits the number of search results returned. Used with the `offset` parameter to paginate results.",
+            "schema": {
+              "type": "integer",
+              "default": 10
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "Offsets results by the given amount. Used with the `limit` parameter to paginate results.",
+            "schema": {
+              "type": "integer",
+              "default": 0
+            }
+          },
+          {
+            "name": "sort",
+            "in": "query",
+            "description": "Sorts search results",
+            "schema": {
+              "type": "string",
+              "default": "relevance",
+              "enum": [
+                "relevance",
+                "canonical",
+                "reverse-canonical"
+              ]
+            }
+          },
+          {
+            "name": "range",
+            "in": "query",
+            "description": "Comma-separated list of Passage IDs which the search will be limited to.\n",
+            "schema": {
+              "type": "string",
+              "example": "GEN.1.1-EXO.1.1"
+            }
+          },
+          {
+            "name": "fuzziness",
+            "in": "query",
+            "description": "Sets the fuzziness of a search to account for misspellings. Values can be 0, 1, 2, or AUTO. Defaults to AUTO which varies depending on the\n",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "AUTO",
+                "0",
+                "1",
+                "2"
+              ]
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data",
+                    "meta"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "query": {
+                      "type": "string"
+                    },
+                    "data": {
+                      "$ref": "#/components/schemas/SearchResponse"
+                    },
+                    "meta": {
+                      "$ref": "#/components/schemas/Meta"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request \r\n\r\nInvalid Bible ID supplied",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          },
+          "403": {
+            "description": "#### Forbidden\r\n\r\nNot authorized to access this Bible",
+            "content": {}
+          },
+          "404": {
+            "description": "#### Not Found\r\n\r\nUnable to find a section with the given `{sectionId}`",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "m6tzt2mupdb7w"
+        },
+        "summary": "Search a Bible"
+      },
+      "parameters": [
+        {
+          "$ref": "#/components/parameters/bibleId"
+        }
+      ]
+    },
+    "/audio-bibles": {
+      "get": {
+        "tags": [
+          "Audio Bibles"
+        ],
+        "description": "Lists `AudioBible` objects authorized for current API Key.\n\n**Audio Bibles** are nearly identical to [Bibles](https://docs.api.bible/guides/bibles),\nincluding their content structure. Audio Bibles, however, have one audio file for each chapter and therefore cannot be queried at the verse level. This is why\nAudio Bibles are queried separately from normal Bibles.\n\nAudio Bible availability via API.Bible requires special licensing. For more information, please reach out to [support@api.bible](mailto:support@api.bible).\n",
+        "operationId": "getAudioBibles",
+        "parameters": [
+          {
+            "name": "language",
+            "in": "query",
+            "description": "ISO 639-3 three digit language code used to filter results",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "abbreviation",
+            "in": "query",
+            "description": "Bible abbreviation to search for",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "name",
+            "in": "query",
+            "description": "Bible name to search for",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "ids",
+            "in": "query",
+            "description": "Comma separated list of Bible Ids to return",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "bibleId",
+            "in": "query",
+            "description": "`bibleId` of related text Bible used to filter audio Bible results",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "include-full-details",
+            "in": "query",
+            "description": "When `true`, the returned Bibles will include additional Bible details (e.g. copyright and promo info)",
+            "schema": {
+              "type": "boolean"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/Bible"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request\r\n\r\nInvalid language code provided",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "7jgg2ga9h5orl"
+        },
+        "summary": "List Available Audio Bibles"
+      }
+    },
+    "/audio-bibles/{bibleId}": {
+      "get": {
+        "tags": [
+          "Audio Bibles"
+        ],
+        "description": "Gets a single `AudioBible` for a given `bibleId`\n\nAn `AudioBible` object represents a single auditory translation (NIV, ESV, etc.) of the Bible. Each Bible is accessible via its **Bible ID**, a string\nconsisting of a 16-digit unique string followed by a _publication number_ (`-01`, `-02`). A few popular examples are:\n\n| Bible                                  | Bible ID              |\n| -------------------------------------- | --------------------- |\n| King James Version (**KJV**)           | `de4e12af7f28f599-01` |\n| Douay-Rheims (**DRA**)                 | `179568874c45066f-01` |\n| Christian Standard Bible (**CSB**)     | `a556c5305ee15c3f-01` |",
+        "operationId": "getAudioBible",
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "$ref": "#/components/schemas/AudioBible"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request \r\n\r\nInvalid Bible ID supplied",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          },
+          "403": {
+            "description": "#### Forbidden\r\n\r\nNot authorized to access this Bible",
+            "content": {}
+          },
+          "404": {
+            "description": "#### Not Found\r\n\r\nUnable to find a Bible with the given `{bibleId}`",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "lkry5cipg163j"
+        },
+        "summary": "Get an Audio Bible"
+      },
+      "parameters": [
+        {
+          "$ref": "#/components/parameters/bibleId"
+        }
+      ]
+    },
+    "/audio-bibles/{bibleId}/books": {
+      "get": {
+        "tags": [
+          "Audio Bibles"
+        ],
+        "description": "Lists `Book` objects for a given `bibleId`\n\nA `Book` object represents a single book (Matthew, Mark, etc.) of a single Bible.\nEach `Book` is accessible via a **Book ID**, a 3-digit code representing the book's name.\nA few examples are:\n\n| Book Name | Book ID |\n| --------- | ------- |\n| Genesis   | `GEN`   |\n| Mark      | `MRK`   |\n| 1 John    | `1JN`   |",
+        "operationId": "getAudioBooks",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/include-chapters"
+          },
+          {
+            "$ref": "#/components/parameters/include-chapters-and-sections"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/Book"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request \r\n\r\nInvalid Bible ID supplied",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          },
+          "403": {
+            "description": "#### Forbidden\r\n\r\nNot authorized to access this Bible",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "4cdyngr9ejf9c"
+        },
+        "summary": "List Books in an Audio Bible"
+      },
+      "parameters": [
+        {
+          "name": "bibleId",
+          "schema": {
+            "type": "string",
+            "example": "65eec8e0b60e656b-01"
+          },
+          "in": "path",
+          "required": true,
+          "description": "The ID of the Bible you are looking to fetch"
+        }
+      ]
+    },
+    "/audio-bibles/{bibleId}/books/{bookId}": {
+      "get": {
+        "tags": [
+          "Audio Bibles"
+        ],
+        "description": "Gets a single `Book` object for a given `bibleId` and `bookId`\n\nA `Book` object represents a single book (Matthew, Mark, etc.) of a single Bible.\nEach `Book` is accessible via a **Book ID**, a 3-digit code representing the book's name.\nA few examples are:\n\n| Book Name | Book ID |\n| --------- | ------- |\n| Genesis   | `GEN`   |\n| Mark      | `MRK`   |\n| 1 John    | `1JN`   |\n",
+        "operationId": "getAudioBook",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/include-chapters"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "$ref": "#/components/schemas/Book"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request \r\n\r\nInvalid Bible ID supplied",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          },
+          "403": {
+            "description": "#### Forbidden\r\n\r\nNot authorized to access this Bible",
+            "content": {}
+          },
+          "404": {
+            "description": "#### Not Found\r\n\r\nUnable to find a book with the given `{bookId}`",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "b8nn97xfycb97"
+        },
+        "summary": "Get an Audio Book"
+      },
+      "parameters": [
+        {
+          "$ref": "#/components/parameters/bibleId"
+        },
+        {
+          "$ref": "#/components/parameters/bookId"
+        }
+      ]
+    },
+    "/audio-bibles/{bibleId}/books/{bookId}/chapters": {
+      "get": {
+        "tags": [
+          "Audio Bibles"
+        ],
+        "description": "Lists `Chapter` objects for a given `bibleId` and `bookId`\n\nA `Chapter` object represents a single chapter of the Bible. Each Chapter is accessible via its **Chapter ID**,\na string consisting of a [Book](https://docs.api.bible/guides/books) ID and a chapter number. A few examples are:\n\n| Chapter       | Chapter ID |\n| ------------- | ---------- |\n| Genesis 1     | `GEN.1`    |\n| John 3        | `JHN.3`    |\n| Revelation 22 | `REV.22`   |\n\n*Note: This endpoint does not return verse content*\n",
+        "operationId": "getAudioChapters",
+        "parameters": [
+          {
+            "name": "bookId",
+            "in": "path",
+            "description": "Id of the Book whose Chapters to fetch",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/ChapterSummary"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request \r\n\r\nInvalid Bible ID supplied",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          },
+          "403": {
+            "description": "#### Forbidden\r\n\r\nNot authorized to access this Bible",
+            "content": {}
+          },
+          "404": {
+            "description": "#### Not Found\r\n\r\nUnable to find a book with the given `{bookId}`",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "kwr0upctkgijv"
+        },
+        "summary": "List Audio Chapters in an Audio Book"
+      },
+      "parameters": [
+        {
+          "$ref": "#/components/parameters/bibleId"
+        },
+        {
+          "$ref": "#/components/parameters/bookId"
+        }
+      ]
+    },
+    "/audio-bibles/{bibleId}/chapters/{chapterId}": {
+      "get": {
+        "tags": [
+          "Audio Bibles"
+        ],
+        "description": "Gets a single `AudioChapter` object for a given `bible` and `chapterId`.\n\nA presigned link to the mp3 audio file for this audio chapter will be included in the `resourceUrl` field. This link is unique to your request and will\nwill expire, so it is recommended to download that audio file using that link as quickly as you are able. It is **not** recommended\nthat you stream audio directly from the provided link, as you will run into a number of ongoing issues.\n\nSome audio chapters will include `timecodes`. These allow you to match verses in a chapter to a specific time code in the audio file.\nThis can be helpful if you are using both text and audio Bibles and would like to highlight the verse as it is being read.",
+        "operationId": "getAudioChapter",
+        "parameters": [
+          {
+            "name": "chapterId",
+            "in": "path",
+            "description": "Id of the Chapter to fetch",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "##### OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data",
+                    "meta"
+                  ],
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "$ref": "#/components/schemas/AudioChapter"
+                    },
+                    "meta": {
+                      "$ref": "#/components/schemas/Meta"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "#### Bad Request \r\n\r\nInvalid Bible ID supplied",
+            "content": {}
+          },
+          "401": {
+            "description": "#### Unauthorized\r\n\r\nMissing or Invalid API Token provided.",
+            "content": {}
+          },
+          "403": {
+            "description": "#### Forbidden\r\n\r\nNot authorized to access this Bible",
+            "content": {}
+          },
+          "404": {
+            "description": "#### Not Found\r\n\r\nUnable to find a chapter with the given `{chapterId}`",
+            "content": {}
+          }
+        },
+        "x-stoplight": {
+          "id": "w9inv3nxhj4x2"
+        },
+        "summary": "Get an Audio Chapter"
+      },
+      "parameters": [
+        {
+          "$ref": "#/components/parameters/bibleId"
+        },
+        {
+          "$ref": "#/components/parameters/chapterId"
+        }
+      ]
+    }
+  },
+  "components": {
+    "schemas": {
+      "Bible": {
+        "type": "object",
+        "x-stoplight": {
+          "id": "4a97afj2it8mo"
+        },
+        "description": "A **Bible** object represents a single translation (NIV, ESV, etc.) of the Bible. ",
+        "title": "Bible",
+        "required": [
+          "id",
+          "dblId",
+          "abbreviation",
+          "abbreviationLocal",
+          "language",
+          "countries",
+          "name",
+          "nameLocal",
+          "description",
+          "descriptionLocal",
+          "type",
+          "updatedAt",
+          "relatedDbl"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "A string\r\nconsisting of a 16-digit unique string followed by a _publication number_ (`-01`, `-02`). A few popular examples are:\r\n\r\n| Bible                                  | Bible ID              |\r\n| -------------------------------------- | --------------------- |\r\n| King James Version (**KJV**)           | `de4e12af7f28f599-01` |\r\n| Douay-Rheims (**DRA**)                 | `179568874c45066f-01` |\r\n| Christian Standard Bible (**CSB**)     | `a556c5305ee15c3f-01` |"
+          },
+          "dblId": {
+            "type": "string",
+            "description": "The first 16 digits of the`id` field, represents this Bible's ID in the [Digital Bible Library](https://library.bible)"
+          },
+          "abbreviation": {
+            "type": "string",
+            "description": "Abbreviation for this Bible version"
+          },
+          "abbreviationLocal": {
+            "type": "string",
+            "description": "Localized abbreviation for this Bible version"
+          },
+          "copyright": {
+            "type": "string",
+            "description": "Copyright information for this Bible"
+          },
+          "language": {
+            "$ref": "#/components/schemas/Language"
+          },
+          "countries": {
+            "type": "array",
+            "description": "Countries this Bible is available in",
+            "items": {
+              "type": "object",
+              "required": [
+                "id",
+                "name",
+                "nameLocal"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nameLocal": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "name": {
+            "type": "string",
+            "description": "Name of this Bible version"
+          },
+          "nameLocal": {
+            "type": "string",
+            "description": "Localized name for this Bible version"
+          },
+          "description": {
+            "type": "string",
+            "description": "Description of this Bible version"
+          },
+          "descriptionLocal": {
+            "type": "string",
+            "description": "Localized description of this Bible version"
+          },
+          "info": {
+            "type": "string",
+            "description": "Additional information about this Bible provided by it's publisher"
+          },
+          "type": {
+            "description": "The type of Bible",
+            "enum": [
+              "text",
+              "audio"
+            ]
+          },
+          "updatedAt": {
+            "type": "string",
+            "format": "date-time",
+            "description": "The last time this Bible was updated"
+          },
+          "relatedDbl": {
+            "type": "string"
+          },
+          "audioBibles": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/AudioBibleSummary"
+            }
+          }
+        }
+      },
+      "Book": {
+        "type": "object",
+        "x-stoplight": {
+          "id": "mgsinv96lhzgw"
+        },
+        "description": "A **Book** object represents a single book (Matthew, Mark, etc.) of a single Bible.",
+        "title": "Book",
+        "required": [
+          "id",
+          "bibleId",
+          "abbreviation",
+          "name",
+          "nameLong"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "A 3-digit code representing the book's name. A few examples are:\r\n\r\n| Book Name | Book ID |\r\n| --------- | ------- |\r\n| Genesis   | `GEN`   |\r\n| Mark      | `MRK`   |\r\n| 1 John    | `1JN`   |"
+          },
+          "bibleId": {
+            "type": "string",
+            "description": "The **Bible ID** this book is associated with"
+          },
+          "abbreviation": {
+            "type": "string",
+            "description": "The abbreviation for this book, typically matches this book's ID"
+          },
+          "name": {
+            "type": "string",
+            "description": "The name of this book"
+          },
+          "nameLong": {
+            "type": "string",
+            "description": "The extended name of this book, if applicable"
+          },
+          "chapters": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ChapterSummary"
+            }
+          }
+        }
+      },
+      "ChapterSummary": {
+        "required": [
+          "bibleId",
+          "bookId",
+          "id",
+          "number",
+          "reference"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "A string consisting of a [Book](https://docs.api.bible/guides/books) ID and a chapter number. A few examples are:\r\n\r\n| Chapter       | Chapter ID |\r\n| ------------- | ---------- |\r\n| Genesis 1     | `GEN.1`    |\r\n| John 3        | `JHN.3`    |\r\n| Revelation 22 | `REV.22`   |"
+          },
+          "bibleId": {
+            "type": "string",
+            "description": "The **Bible ID** this chapter is associated with"
+          },
+          "number": {
+            "type": "string",
+            "description": "The chapter number"
+          },
+          "bookId": {
+            "type": "string",
+            "description": "The **Book ID** this chapter is associated with"
+          },
+          "reference": {
+            "type": "string",
+            "description": "The full reference for this chapter"
+          }
+        },
+        "x-stoplight": {
+          "id": "oczm2p60z2jup"
+        },
+        "title": "Chapter Summary",
+        "description": "A **ChapterSummary** object represents a single chapter of the Bible without verse content."
+      },
+      "Chapter": {
+        "type": "object",
+        "x-stoplight": {
+          "id": "1qukod7rin4on"
+        },
+        "title": "Chapter",
+        "description": "A **Chapter** object represents a single chapter of the Bible, including verse content.",
+        "required": [
+          "id",
+          "bibleId",
+          "number",
+          "bookId",
+          "content",
+          "reference",
+          "verseCount",
+          "copyright"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "A string consisting of a [Book](https://docs.api.bible/guides/books) ID and a chapter number. A few examples are:\r\n\r\n| Chapter       | Chapter ID |\r\n| ------------- | ---------- |\r\n| Genesis 1     | `GEN.1`    |\r\n| John 3        | `JHN.3`    |\r\n| Revelation 22 | `REV.22`   |"
+          },
+          "bibleId": {
+            "type": "string",
+            "description": "The **Bible ID** this chapter is associated with"
+          },
+          "number": {
+            "type": "string",
+            "description": "The chapter number"
+          },
+          "bookId": {
+            "type": "string",
+            "description": "The **Book ID** this chapter is associated with"
+          },
+          "content": {
+            "type": "string",
+            "description": "Chapter verse content. Can be formatted as `html`, `json`, or `text`."
+          },
+          "reference": {
+            "type": "string",
+            "description": "The full reference for this chapter"
+          },
+          "verseCount": {
+            "type": "integer",
+            "description": "The number of verses in this chapter"
+          },
+          "next": {
+            "type": "object",
+            "description": "Information about the next **Chapter**, if one exists. Can be used to navigate the Bible one chapter at a time.",
+            "required": [
+              "id",
+              "bookId",
+              "number"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "description": "The next chapter's `id`"
+              },
+              "bookId": {
+                "type": "string",
+                "description": "The next chapter's `bookId`"
+              },
+              "number": {
+                "type": "string",
+                "description": "The next chapter's chapter `number`"
+              }
+            }
+          },
+          "previous": {
+            "type": "object",
+            "description": "Information about the previous **Chapter**, if one exists. Can be used to navigate the Bible backwards one chapter at a time.",
+            "required": [
+              "id",
+              "bookId",
+              "number"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "description": "The previous chapter's `id`"
+              },
+              "bookId": {
+                "type": "string",
+                "description": "The previous chapter's `bookId`"
+              },
+              "number": {
+                "type": "string",
+                "description": "The previous chapter's chapter `number`"
+              }
+            }
+          },
+          "copyright": {
+            "type": "string",
+            "description": "Copyright info for this chapter"
+          }
+        }
+      },
+      "Passage": {
+        "type": "object",
+        "x-stoplight": {
+          "id": "kch8nt5wlqvad"
+        },
+        "title": "Passage",
+        "description": "A **Passage** object represents an arbitrary range of verses from the Bible. These ranges are not predefined values, but instead depend on the given input, known as a **Passage ID**.",
+        "required": [
+          "id",
+          "bibleId",
+          "orgId",
+          "content",
+          "reference",
+          "verseCount",
+          "copyright"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Consists of two [Verse](https://docs.api.bible/guides/verses) IDs separated by a `-`. These\r\n**Verse IDs** can span chapters and books, though passages are limited to 200 verses.\r\nA few passage examples are:\r\n\r\n| Verse Range                             | Passage ID          |\r\n| --------------------------------------- | ------------------- |\r\n| Genesis 1:1 - Genesis 2:3               | `GEN.1.1-GEN.2.3`   |\r\n| John 3:1 - John 3:16                    | `JHN.3:1-JHN.3.16`  |\r\n| 1 Corinthians 16:1 - 2 Corinthians 1:23 | `1CO.16.1-2CO.1.23` |"
+          },
+          "bibleId": {
+            "type": "string",
+            "description": "The **Bible ID** this passage is associated with"
+          },
+          "orgId": {
+            "type": "string",
+            "description": "The ID assigned to this passage by it's publishing organization, typically not relevant."
+          },
+          "content": {
+            "type": "string",
+            "description": "Passage verse content, truncated to the first 200 verses. Can be formatted as `html`, `json`, or `text`."
+          },
+          "reference": {
+            "type": "string",
+            "description": "The full reference for this passage"
+          },
+          "verseCount": {
+            "type": "integer",
+            "description": "The number of verses in this passage. \r\n\r\nIf it equals `200`, your requested passage was likely truncated. To fetch the full passage you will need to split it into smaller sub-passages and try again."
+          },
+          "copyright": {
+            "type": "string",
+            "description": "Copyright info for this passage"
+          }
+        }
+      },
+      "VerseSummary": {
+        "type": "object",
+        "x-stoplight": {
+          "id": "rppy7s0h9ju04"
+        },
+        "title": "Verse Summary",
+        "description": "A **VerseSummary** object represents a single verse in the Bible without verse content.",
+        "required": [
+          "id",
+          "orgId",
+          "bibleId",
+          "bookId",
+          "chapterId",
+          "reference"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "A string consisting of a [Book](https://docs.api.bible/guides/books) ID, a chapter number, and a verse number. A few examples are:\r\n\r\n| Verse           | Verse ID   |\r\n| --------------- | ---------- |\r\n| Genesis 1:1     | `GEN.1.1`  |\r\n| John 3:16       | `JHN.3.16` |\r\n| Revelation 21.4 | `REV.21.4` |"
+          },
+          "orgId": {
+            "type": "string",
+            "description": "The ID assigned to this verse by it's publishing organization, typically not relevant."
+          },
+          "bibleId": {
+            "type": "string",
+            "description": "The **Bible ID** this verse is associated with"
+          },
+          "bookId": {
+            "type": "string",
+            "description": "The **Book ID** this verse is associated with"
+          },
+          "chapterId": {
+            "type": "string",
+            "description": "The **Chapter ID** this verse is associated with"
+          },
+          "reference": {
+            "type": "string",
+            "description": "The full reference for this verse"
+          }
+        }
+      },
+      "Verse": {
+        "type": "object",
+        "x-stoplight": {
+          "id": "ryr4zgjvaii6s"
+        },
+        "title": "Verse",
+        "description": "A **Verse** object represents a single verse in the Bible, including verse content.",
+        "required": [
+          "id",
+          "orgId",
+          "bibleId",
+          "bookId",
+          "chapterId",
+          "reference",
+          "content",
+          "verseCount",
+          "copyright"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "A string consisting of a [Book](https://docs.api.bible/guides/books) ID, a chapter number, and a verse number. A few examples are:\r\n\r\n| Verse           | Verse ID   |\r\n| --------------- | ---------- |\r\n| Genesis 1:1     | `GEN.1.1`  |\r\n| John 3:16       | `JHN.3.16` |\r\n| Revelation 21.4 | `REV.21.4` |"
+          },
+          "orgId": {
+            "type": "string",
+            "description": "The ID assigned to this verse by it's publishing organization, typically not relevant."
+          },
+          "bibleId": {
+            "type": "string",
+            "description": "The **Bible ID** this verse is associated with"
+          },
+          "bookId": {
+            "type": "string",
+            "description": "The **Book ID** this verse is associated with"
+          },
+          "chapterId": {
+            "type": "string",
+            "description": "The **Chapter ID** this verse is associated with"
+          },
+          "reference": {
+            "type": "string",
+            "description": "The full reference for this verse"
+          },
+          "content": {
+            "type": "string",
+            "description": "Verse content. Can be formatted as `html`, `json`, or `text`."
+          },
+          "verseCount": {
+            "type": "integer",
+            "description": "The number of verses returned, should be `1`"
+          },
+          "copyright": {
+            "type": "string",
+            "description": "Copyright info for this verse"
+          },
+          "next": {
+            "type": "object",
+            "description": "Information about the next **Verse**, if one exists. Can be used to navigate the Bible one verse at a time.",
+            "required": [
+              "id",
+              "bookId"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "description": "The next verse's `id`"
+              },
+              "bookId": {
+                "type": "string",
+                "description": "The next verse's `bookId`"
+              }
+            }
+          },
+          "previous": {
+            "type": "object",
+            "description": "Information about the previous **Chapter**, if one exists. Can be used to navigate the Bible backwards one chapter at a time.",
+            "required": [
+              "id",
+              "bookId"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "description": "The next verse's `id`"
+              },
+              "bookId": {
+                "type": "string",
+                "description": "The previous verse's `bookId`"
+              }
+            }
+          }
+        }
+      },
+      "SectionSummary": {
+        "type": "object",
+        "x-stoplight": {
+          "id": "q6qizgq8zbhfm"
+        },
+        "title": "Section Summary",
+        "description": "A **SectionSummary** object represents a known range of verses in the Bible, typically tied to a story, without verse content. Not every Bible has sections enabled. For Bibles with sections enabled,\nsections are sequential and _should_ cover nearly every verse if queried in order.",
+        "required": [
+          "id",
+          "bibleId",
+          "bookId",
+          "title",
+          "firstVerseId",
+          "lastVerseId",
+          "firstVerseOrgId",
+          "lastVerseOrgId"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "A string consisting of a [Book](https://docs.api.bible/guides/books) ID and a section number. A few examples from the book of Genesis are:\r\n\r\n| Section Title | Verse Range                | Section ID |\r\n| ------------- | -------------------------- | ---------- |\r\n| The Beginning | Genesis 1:1 - Genesis 2:3  | `GEN.S1`   |\r\n| Adam and Eve  | Genesis 2:4 - Genesis 2:25 | `GEN.S2`   |\r\n| The Fall      | Genesis 3:1 - Genesis 3:24 | `GEN.S3`   |"
+          },
+          "bibleId": {
+            "type": "string",
+            "description": "The **Bible ID** this section is associated with"
+          },
+          "bookId": {
+            "type": "string",
+            "description": "The **Bible ID** this section is associated with"
+          },
+          "title": {
+            "type": "string",
+            "description": "The title of this section"
+          },
+          "firstVerseId": {
+            "type": "string",
+            "description": "The `id` of the first verse in this section"
+          },
+          "lastVerseId": {
+            "type": "string",
+            "description": "The `id` of the last verse in this section"
+          },
+          "firstVerseOrgId": {
+            "type": "string",
+            "description": "The `orgId` of the last verse in this section. Typically not relevant"
+          },
+          "lastVerseOrgId": {
+            "type": "string",
+            "description": "The `orgId` of the last verse in this section, typically not relevant."
+          }
+        }
+      },
+      "Section": {
+        "type": "object",
+        "x-stoplight": {
+          "id": "thjdojbnf4mej"
+        },
+        "title": "Section",
+        "description": "A **Section** object represents a known range of verses in the Bible, typically tied to a story, including verse content. Not every Bible has sections enabled. For Bibles with sections enabled,\nsections are sequential and _should_ cover nearly every verse if queried in order.",
+        "required": [
+          "id",
+          "bibleId",
+          "bookId",
+          "title",
+          "firstVerseId",
+          "lastVerseId",
+          "firstVerseOrgId",
+          "lastVerseOrgId",
+          "copyright"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "A string consisting of a [Book](https://docs.api.bible/guides/books) ID and a section number. A few examples from the book of Genesis are:\r\n\r\n| Section Title | Verse Range                | Section ID |\r\n| ------------- | -------------------------- | ---------- |\r\n| The Beginning | Genesis 1:1 - Genesis 2:3  | `GEN.S1`   |\r\n| Adam and Eve  | Genesis 2:4 - Genesis 2:25 | `GEN.S2`   |\r\n| The Fall      | Genesis 3:1 - Genesis 3:24 | `GEN.S3`   |"
+          },
+          "bibleId": {
+            "type": "string",
+            "description": "The **Bible ID** this section is associated with"
+          },
+          "bookId": {
+            "type": "string",
+            "description": "The **Bible ID** this section is associated with"
+          },
+          "title": {
+            "type": "string",
+            "description": "The title of this section"
+          },
+          "firstVerseId": {
+            "type": "string",
+            "description": "The `id` of the first verse in this section"
+          },
+          "lastVerseId": {
+            "type": "string",
+            "description": "The `id` of the last verse in this section"
+          },
+          "firstVerseOrgId": {
+            "type": "string",
+            "description": "The `orgId` of the last verse in this section. Typically not relevant"
+          },
+          "lastVerseOrgId": {
+            "type": "string",
+            "description": "The `orgId` of the last verse in this section, typically not relevant."
+          },
+          "copyright": {
+            "type": "string",
+            "description": "Copyright info for this section"
+          },
+          "next": {
+            "type": "object",
+            "description": "Information about the next **Section**, if one exists. Can be used to navigate the Bible one section at a time.",
+            "required": [
+              "id",
+              "title"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "description": "The next section's `id`"
+              },
+              "title": {
+                "type": "string",
+                "description": "The next section's `title`"
+              }
+            }
+          },
+          "previous": {
+            "type": "object",
+            "description": "Information about the previous **Section**, if one exists. Can be used to navigate the Bible backwards one verse at a time.",
+            "required": [
+              "id",
+              "title"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "description": "The previous section's `id`"
+              },
+              "title": {
+                "type": "string",
+                "description": "The previous section's `title`"
+              }
+            }
+          }
+        }
+      },
+      "SearchResponse": {
+        "type": "object",
+        "x-stoplight": {
+          "id": "vzs21ldtg3zw0"
+        },
+        "title": "Search Response",
+        "description": "The result of executing a search query. Paginated using the `limit` and `offset` query parameters.",
+        "required": [
+          "query",
+          "limit",
+          "offset",
+          "total",
+          "verseCount",
+          "verses"
+        ],
+        "properties": {
+          "query": {
+            "type": "string",
+            "description": "The initial search's `query` parameter"
+          },
+          "limit": {
+            "type": "integer",
+            "description": "The initial search's `limit` parameter"
+          },
+          "offset": {
+            "type": "integer",
+            "description": "The original search's `offset` parameter"
+          },
+          "total": {
+            "type": "integer",
+            "description": "The total number of search results"
+          },
+          "verseCount": {
+            "type": "integer",
+            "description": "The number of verses returned"
+          },
+          "verses": {
+            "type": "array",
+            "description": "The verses that match the search `query`. If a passage was searched rather than keywords, this array will be empty.",
+            "items": {
+              "type": "object",
+              "required": [
+                "id",
+                "orgId",
+                "bibleId",
+                "bookId",
+                "chapterId",
+                "reference",
+                "text"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "description": "A string consisting of a [Book](https://docs.api.bible/guides/books) ID, a chapter number, and a verse number. A few examples are:\r\n\r\n| Verse           | Verse ID   |\r\n| --------------- | ---------- |\r\n| Genesis 1:1     | `GEN.1.1`  |\r\n| John 3:16       | `JHN.3.16` |\r\n| Revelation 21.4 | `REV.21.4` |"
+                },
+                "orgId": {
+                  "type": "string",
+                  "description": "The ID assigned to this verse by it's publishing organization, typically not relevant."
+                },
+                "bibleId": {
+                  "type": "string",
+                  "description": "The **Bible ID** this verse is associated with"
+                },
+                "bookId": {
+                  "type": "string",
+                  "description": "The **Book ID** this verse is associated with"
+                },
+                "chapterId": {
+                  "type": "string",
+                  "description": "The **Chapter ID** this verse is associated with"
+                },
+                "reference": {
+                  "type": "string",
+                  "description": "The full reference for this verse"
+                },
+                "text": {
+                  "type": "string",
+                  "x-stoplight": {
+                    "id": "yetyl35q40dn4"
+                  },
+                  "description": "Verse content, formatted as `text`. Additional information about this verse can be fetched by making a request to `/bibles/{bibleId}/verses/{verseId}`"
+                }
+              }
+            }
+          },
+          "passages": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Passage"
+            }
+          }
+        }
+      },
+      "AudioBibleSummary": {
+        "type": "object",
+        "x-stoplight": {
+          "id": "ee3hnd3wgconc"
+        },
+        "title": "Audio Bible Summary",
+        "description": "An **AudioBibleSummary** object is a minimal representation of a single auditory translation (NIV, ESV, etc.) of the Bible, typically attached to an associated **Bible**",
+        "required": [
+          "id",
+          "name",
+          "nameLocal",
+          "description",
+          "descriptionLocal"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "A string\r\nconsisting of a 16-digit unique string followed by a _publication number_ (`-01`, `-02`). A few popular examples are:\r\n\r\n| Bible                                  | Bible ID              |\r\n| -------------------------------------- | --------------------- |\r\n| King James Version (**KJV**)           | `de4e12af7f28f599-01` |\r\n| Douay-Rheims (**DRA**)                 | `179568874c45066f-01` |\r\n| Christian Standard Bible (**CSB**)     | `a556c5305ee15c3f-01` |"
+          },
+          "name": {
+            "type": "string",
+            "description": "Name of this Audio Bible version"
+          },
+          "nameLocal": {
+            "type": "string",
+            "description": "Localized name of this Audio Bible version"
+          },
+          "description": {
+            "type": "string",
+            "description": "Description of this Audio Bible version"
+          },
+          "descriptionLocal": {
+            "type": "string",
+            "description": "Localized description of this Audio Bible version"
+          }
+        }
+      },
+      "AudioBible": {
+        "$ref": "#/components/schemas/Bible",
+        "title": "Audio Bible",
+        "description": "An **AudioBible** object represents a single auditory translation (NIV, ESV, etc.) of the Bible. For simplicity's sake, this model is identical to a `Bible`."
+      },
+      "AudioChapter": {
+        "type": "object",
+        "x-stoplight": {
+          "id": "7amo1hzbtc1h6"
+        },
+        "title": "Audio Chapter",
+        "description": "An **Audio Chapter** object represents a single auditory chapter of the Bible. Rather than verses or sections, audio chapter verse content is stored at the chapter level.",
+        "required": [
+          "id",
+          "bibleId",
+          "number",
+          "bookId",
+          "resourceUrl",
+          "expiresAt",
+          "reference"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "A string consisting of a [Book](https://docs.api.bible/guides/books) ID and a chapter number. A few examples are:\r\n\r\n| Chapter       | Chapter ID |\r\n| ------------- | ---------- |\r\n| Genesis 1     | `GEN.1`    |\r\n| John 3        | `JHN.3`    |\r\n| Revelation 22 | `REV.22`   |"
+          },
+          "bibleId": {
+            "type": "string",
+            "description": "The **Bible ID** this audio chapter is associated with"
+          },
+          "number": {
+            "type": "string",
+            "description": "The audio chapter number"
+          },
+          "bookId": {
+            "type": "string",
+            "description": "The **Book ID** this audio chapter is associated with"
+          },
+          "resourceUrl": {
+            "type": "string",
+            "description": "A presigned link to the audio file for this audio chapter. This link\r\nwill expire, so it is recommended to download that audio file using that link as quickly as you are able. It is **not** recommended\r\nthat you stream audio directly from the provided link, as you will run into a number of ongoing issues."
+          },
+          "timecodes": {
+            "type": "array",
+            "description": "Allows you to match verses in a chapter to a specific time code in the audio file. This can be helpful if you are using both text and audio Bibles and would like to highlight a verse as it is being read.",
+            "items": {
+              "type": "object",
+              "required": [
+                "end",
+                "start",
+                "verseId"
+              ],
+              "properties": {
+                "end": {
+                  "type": "string",
+                  "description": "The timestamp when this verse ends"
+                },
+                "start": {
+                  "type": "string",
+                  "description": "The timestamp when this verse starts"
+                },
+                "verseId": {
+                  "type": "string",
+                  "description": "The **Verse ID** being read at this timestamp"
+                }
+              }
+            }
+          },
+          "expiresAt": {
+            "type": "integer",
+            "description": "The timestamp the presigned `resourceUrl` link will expire"
+          },
+          "reference": {
+            "type": "string",
+            "description": "The full reference for this audio chapter"
+          },
+          "next": {
+            "type": "object",
+            "description": "Information about the next **AudioChapter**, if one exists. Can be used to navigate the Bible one audio chapter at a time.",
+            "required": [
+              "id",
+              "bookId",
+              "number"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "description": "The next audio chapter's `id`"
+              },
+              "bookId": {
+                "type": "string",
+                "description": "The next audio chapter's `bookId`"
+              },
+              "number": {
+                "type": "string",
+                "description": "The next audio chapter's chapter `number`"
+              }
+            }
+          },
+          "previous": {
+            "type": "object",
+            "description": "Information about the previous **AudioChapter**, if one exists. Can be used to navigate the Bible backwards one chapter at a time.",
+            "required": [
+              "id",
+              "bookId",
+              "number"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "description": "The previous audio chapter's `id`"
+              },
+              "bookId": {
+                "type": "string",
+                "description": "The previous audio chapter's `bookId`"
+              },
+              "number": {
+                "type": "string",
+                "description": "The previous audio chapter's chapter `number`"
+              }
+            }
+          },
+          "copyright": {
+            "type": "string",
+            "description": "Copyright info for this audio "
+          }
+        }
+      },
+      "Language": {
+        "type": "object",
+        "x-stoplight": {
+          "id": "b1r5qj45vnqhn"
+        },
+        "required": [
+          "id",
+          "name",
+          "nameLocal",
+          "script",
+          "scriptDirection"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "ISO 639-3 three digit language code"
+          },
+          "name": {
+            "type": "string",
+            "description": "English name of the language"
+          },
+          "nameLocal": {
+            "type": "string",
+            "description": "Localized name of the language"
+          },
+          "script": {
+            "type": "string",
+            "description": "The type of script used for this language",
+            "example": "Latin"
+          },
+          "scriptDirection": {
+            "description": "The direction this language writes",
+            "enum": [
+              "LTR",
+              "RTL"
+            ],
+            "default": "LTR"
+          }
+        }
+      },
+      "Meta": {
+        "type": "object",
+        "x-stoplight": {
+          "id": "4zl9ejj8hrlmn"
+        },
+        "title": "Request Meta",
+        "description": "Metadata returned alongside verse content. Primarily used for view tracking.",
+        "required": [
+          "fumsToken"
+        ],
+        "properties": {
+          "fumsToken": {
+            "type": "string",
+            "x-stoplight": {
+              "id": "stdle1mwqy08i"
+            },
+            "description": "A [FUMS Token](https://docs.api.bible/resources/fair-use) to be used in the FUMS system"
+          }
+        }
+      }
+    },
+    "parameters": {
+      "content-type": {
+        "name": "content-type",
+        "in": "query",
+        "description": "Determines the structure of returned verse content",
+        "schema": {
+          "type": "string",
+          "default": "html",
+          "enum": [
+            "html",
+            "json",
+            "text"
+          ]
+        }
+      },
+      "include-notes": {
+        "name": "include-notes",
+        "in": "query",
+        "description": "When `true`, returns footnotes in verse content",
+        "schema": {
+          "type": "boolean",
+          "default": false
+        }
+      },
+      "include-titles": {
+        "name": "include-titles",
+        "in": "query",
+        "description": "When `true`, returns section titles in verse content",
+        "schema": {
+          "type": "boolean",
+          "default": true
+        }
+      },
+      "include-chapter-numbers": {
+        "name": "include-chapter-numbers",
+        "in": "query",
+        "description": "When `true`, returns chapter numbers in verse content",
+        "schema": {
+          "type": "boolean",
+          "default": false
+        }
+      },
+      "include-verse-numbers": {
+        "name": "include-verse-numbers",
+        "in": "query",
+        "description": "When `true`, returns verse numbers in verse content",
+        "schema": {
+          "type": "boolean",
+          "default": true
+        }
+      },
+      "include-verse-spans": {
+        "name": "include-verse-spans",
+        "in": "query",
+        "description": "When `true`, returns spans that wrap verse numbers and verse text in content",
+        "schema": {
+          "type": "boolean",
+          "default": false
+        }
+      },
+      "parallels": {
+        "name": "parallels",
+        "in": "query",
+        "description": "Comma-separated list of Bible IDs. When included, returns parallel verses from the given Bibles",
+        "schema": {
+          "type": "string",
+          "example": "78a9f6124f344018-01,a761ca71e0b3ddcf-01"
+        }
+      },
+      "use-org-id": {
+        "name": "use-org-id",
+        "in": "query",
+        "description": "When `true`, uses the supplied id(s) to match the `verseOrgId` instead of the `verseId`",
+        "schema": {
+          "type": "boolean",
+          "default": false
+        }
+      },
+      "bibleId": {
+        "name": "bibleId",
+        "schema": {
+          "type": "string",
+          "example": "65eec8e0b60e656b-01"
+        },
+        "in": "path",
+        "required": true,
+        "description": "The ID of the Bible you are looking to fetch"
+      },
+      "chapterId": {
+        "name": "chapterId",
+        "schema": {
+          "type": "string",
+          "example": "GEN.1"
+        },
+        "in": "path",
+        "required": true,
+        "description": "The Chapter ID you are looking to fetch"
+      },
+      "sectionId": {
+        "name": "sectionId",
+        "schema": {
+          "type": "string",
+          "example": "GEN.S1"
+        },
+        "in": "path",
+        "required": true,
+        "description": "The Section ID you are looking to fetch"
+      },
+      "verseId": {
+        "name": "verseId",
+        "schema": {
+          "type": "string",
+          "example": "GEN.1.1"
+        },
+        "in": "path",
+        "required": true,
+        "description": "The Verse ID you are looking to fetch"
+      },
+      "passageId": {
+        "name": "passageId",
+        "schema": {
+          "type": "string",
+          "example": "GEN.1.1-GEN.2.1"
+        },
+        "in": "path",
+        "required": true,
+        "description": "The Passage ID you are looking to fetch"
+      },
+      "bookId": {
+        "name": "bookId",
+        "schema": {
+          "type": "string",
+          "example": "GEN"
+        },
+        "in": "path",
+        "required": true,
+        "description": "The Book ID you are looking to fetch"
+      },
+      "include-chapters": {
+        "name": "include-chapters",
+        "in": "query",
+        "description": "When `true`, returns available chapter information for each book",
+        "schema": {
+          "type": "boolean",
+          "default": false
+        }
+      },
+      "include-chapters-and-sections": {
+        "name": "include-chapters-and-sections",
+        "in": "query",
+        "description": "When `true`, returns available chapter and section (if available) information for each book",
+        "schema": {
+          "type": "boolean",
+          "default": false
+        }
+      }
+    },
+    "securitySchemes": {
+      "API Key": {
+        "type": "apiKey",
+        "name": "api-key",
+        "in": "header",
+        "x-data-threescale-name": "user_keys",
+        "description": "Your application's API key. Find yours or create a new one today at [https://api.bible](https://api.bible)."
+      }
+    }
+  },
+  "x-original-swagger-version": "2.0",
+  "host": "rest.api.bible"
+}
