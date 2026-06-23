@@ -6,7 +6,7 @@ import time
 import requests
 
 BASE_URL = "https://api.scripture.api.bible/v1"
-API_KEY = "TGRJdsFgcxbJJkUTWAItT"
+API_KEY = "ZshYwOU9nU75giOdxhkWH"
 
 def make_session() -> requests.Session:
     s = requests.Session()
