@@ -1,0 +1,205 @@
+{
+  "id": "PSA.131",
+  "number": "131",
+  "bookId": "PSA",
+  "reference": "Psaumes 131",
+  "copyright": "Texte libre de droits",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "131",
+        "style": "c",
+        "sid": "PSA 131"
+      },
+      "items": [
+        {
+          "text": "131",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 131:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Cantique des degrés. De David.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.131.1",
+            "verseOrgIds": [
+              "PSA.131.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Éternel",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.131.1",
+                "verseOrgIds": [
+                  "PSA.131.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "! mon cœur n'est pas hautain, et mes yeux ne s'élèvent pas ; et je n'ai pas marché en des choses trop grandes et trop merveilleuses pour moi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.131.1",
+            "verseOrgIds": [
+              "PSA.131.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 131:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "N'ai-je pas soumis",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.131.2",
+            "verseOrgIds": [
+              "PSA.131.2"
+            ]
+          }
+        },
+        {
+          "text": "et fait taire mon âme, comme un enfant sevré auprès de sa mère ? Mon âme est en moi comme l'enfant sevré.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.131.2",
+            "verseOrgIds": [
+              "PSA.131.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 131:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Israël, attends-toi à l'",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.131.3",
+            "verseOrgIds": [
+              "PSA.131.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Éternel",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.131.3",
+                "verseOrgIds": [
+                  "PSA.131.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", dès maintenant et à toujours !",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.131.3",
+            "verseOrgIds": [
+              "PSA.131.3"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.132",
+    "number": "132",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.130",
+    "number": "130",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "id": "PSA.117",
+  "number": "117",
+  "bookId": "PSA",
+  "reference": "Psaumes 117",
+  "copyright": "Texte libre de droits",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "117",
+        "style": "c",
+        "sid": "PSA 117"
+      },
+      "items": [
+        {
+          "text": "117",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 117:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Louez l'",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.1",
+            "verseOrgIds": [
+              "PSA.117.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Éternel",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.117.1",
+                "verseOrgIds": [
+                  "PSA.117.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", vous, toutes les nations ; célébrez-le, vous, tous les peuples !",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.1",
+            "verseOrgIds": [
+              "PSA.117.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 117:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Car sa bonté est grande envers nous, et la vérité de l'",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.2",
+            "verseOrgIds": [
+              "PSA.117.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Éternel",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.117.2",
+                "verseOrgIds": [
+                  "PSA.117.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "demeure à",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.2",
+            "verseOrgIds": [
+              "PSA.117.2"
+            ]
+          }
+        },
+        {
+          "text": "toujours. Louez Jah !",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.2",
+            "verseOrgIds": [
+              "PSA.117.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.118",
+    "number": "118",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.116",
+    "number": "116",
+    "bookId": "PSA"
+  }
+}

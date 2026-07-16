@@ -1,0 +1,861 @@
+{
+  "id": "JOB.42",
+  "number": "42",
+  "bookId": "JOB",
+  "reference": "Job 42",
+  "copyright": "Texte libre de droits",
+  "verseCount": 17,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "42",
+        "style": "c",
+        "sid": "JOB 42"
+      },
+      "items": [
+        {
+          "text": "42",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 42:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "*Et Job répondit à l'",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.1",
+            "verseOrgIds": [
+              "JOB.42.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Éternel",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.42.1",
+                "verseOrgIds": [
+                  "JOB.42.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "et dit :",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.1",
+            "verseOrgIds": [
+              "JOB.42.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JOB 42:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Je sais que tu peux tout, et qu'aucun dessein n'est trop difficile pour toi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.2",
+            "verseOrgIds": [
+              "JOB.42.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JOB 42:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Qui est celui-ci qui, sans connaissance, voile le conseil ? J'ai donc parlé, et sans comprendre, de choses trop merveilleuses pour moi, que je ne connaissais pas.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.3",
+            "verseOrgIds": [
+              "JOB.42.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JOB 42:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Écoute, je te prie, et je parlerai ; je t'interrogerai, et toi, instruis-moi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.4",
+            "verseOrgIds": [
+              "JOB.42.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JOB 42:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mon oreille avait entendu parler de toi, maintenant mon œil t'a vu :",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.5",
+            "verseOrgIds": [
+              "JOB.42.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOB 42:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "C'est pourquoi j'ai horreur de moi, et je me repens dans la poussière et dans la cendre.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.6",
+            "verseOrgIds": [
+              "JOB.42.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JOB 42:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "***Et il arriva, après que l'",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.7",
+            "verseOrgIds": [
+              "JOB.42.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Éternel",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.42.7",
+                "verseOrgIds": [
+                  "JOB.42.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "eut dit ces paroles à Job, que l'",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.7",
+            "verseOrgIds": [
+              "JOB.42.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Éternel",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.42.7",
+                "verseOrgIds": [
+                  "JOB.42.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "dit à Éliphaz, le Thémanite : Ma colère s'est enflammée contre toi et contre tes deux compagnons, car vous n'avez pas parlé de moi comme il convient, comme mon serviteur Job.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.7",
+            "verseOrgIds": [
+              "JOB.42.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JOB 42:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Et maintenant, prenez pour vous sept taureaux et sept béliers, et allez vers mon serviteur Job, et offrez un holocauste pour vous ; et mon serviteur Job priera pour vous : car, lui, je l'aurai pour agréable, afin que je n'agisse pas avec vous selon votre folie ; car vous n'avez pas parlé de moi comme il convient, comme mon serviteur Job.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.8",
+            "verseOrgIds": [
+              "JOB.42.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JOB 42:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Et Éliphaz le Thémanite, et Bildad le Shukhite, et Tsophar le Naamathite, allèrent et firent comme l'",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.9",
+            "verseOrgIds": [
+              "JOB.42.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Éternel",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.42.9",
+                "verseOrgIds": [
+                  "JOB.42.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "leur avait dit ; et l'",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.9",
+            "verseOrgIds": [
+              "JOB.42.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Éternel",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.42.9",
+                "verseOrgIds": [
+                  "JOB.42.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "eut Job pour agréable.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.9",
+            "verseOrgIds": [
+              "JOB.42.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JOB 42:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Et l'",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.10",
+            "verseOrgIds": [
+              "JOB.42.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Éternel",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.42.10",
+                "verseOrgIds": [
+                  "JOB.42.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "rétablit l'ancien état",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.10",
+            "verseOrgIds": [
+              "JOB.42.10"
+            ]
+          }
+        },
+        {
+          "text": "de Job, quand il eut prié pour ses amis ; et l'",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.10",
+            "verseOrgIds": [
+              "JOB.42.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Éternel",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.42.10",
+                "verseOrgIds": [
+                  "JOB.42.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "donna à Job le double de tout ce qu'il avait eu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.10",
+            "verseOrgIds": [
+              "JOB.42.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JOB 42:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Et tous ses frères, et toutes ses sœurs, et tous ceux qui l'avaient connu auparavant vinrent à lui, et mangèrent le pain avec lui dans sa maison ; et ils sympathisèrent avec lui et le consolèrent de tout le mal que l'",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.11",
+            "verseOrgIds": [
+              "JOB.42.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Éternel",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.42.11",
+                "verseOrgIds": [
+                  "JOB.42.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "avait fait venir sur lui, et lui donnèrent chacun un késita",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.11",
+            "verseOrgIds": [
+              "JOB.42.11"
+            ]
+          }
+        },
+        {
+          "text": ", et chacun un anneau d'or.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.11",
+            "verseOrgIds": [
+              "JOB.42.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JOB 42:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Et l'",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.12",
+            "verseOrgIds": [
+              "JOB.42.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Éternel",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.42.12",
+                "verseOrgIds": [
+                  "JOB.42.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "bénit la fin de Job plus que son commencement : et il eut 14 000 brebis, et 6 000 chameaux, et 1 000 paires de bœufs, et 1 000 ânesses ;",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.12",
+            "verseOrgIds": [
+              "JOB.42.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JOB 42:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "et il eut sept fils et trois filles ;",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.13",
+            "verseOrgIds": [
+              "JOB.42.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JOB 42:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "et il appela le nom de la première Jémima",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.14",
+            "verseOrgIds": [
+              "JOB.42.14"
+            ]
+          }
+        },
+        {
+          "text": ", et le nom de la seconde Ketsia",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.14",
+            "verseOrgIds": [
+              "JOB.42.14"
+            ]
+          }
+        },
+        {
+          "text": ", et le nom de la troisième Kéren-Happuc",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.14",
+            "verseOrgIds": [
+              "JOB.42.14"
+            ]
+          }
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.14",
+            "verseOrgIds": [
+              "JOB.42.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JOB 42:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Et, dans tout le pays, il ne se trouvait point de femmes belles comme les filles de Job ; et leur père leur donna un héritage parmi leurs frères.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.15",
+            "verseOrgIds": [
+              "JOB.42.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JOB 42:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Et, après cela, Job vécut 140 ans, et il vit ses fils, et les fils de ses fils, quatre générations.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.16",
+            "verseOrgIds": [
+              "JOB.42.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JOB 42:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Et Job mourut vieux et rassasié de jours.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.42.17",
+            "verseOrgIds": [
+              "JOB.42.17"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.intro",
+    "number": "intro",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "JOB.41",
+    "number": "41",
+    "bookId": "JOB"
+  }
+}
