@@ -1,0 +1,3706 @@
+{
+  "PHP.1": {
+    "id": "PHP.1",
+    "number": "1",
+    "bookId": "PHP",
+    "reference": "Philippiens 1",
+    "copyright": "Texte libre de droits",
+    "verseCount": 30,
+    "content": [
+      {
+        "name": "chapter",
+        "type": "tag",
+        "attrs": {
+          "number": "1",
+          "style": "c",
+          "sid": "PHP 1"
+        },
+        "items": [
+          {
+            "text": "1",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "1",
+              "style": "v",
+              "sid": "PHP 1:1"
+            },
+            "items": [
+              {
+                "text": "1",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Paul et Timothée, esclaves de Jésus Christ, à tous les saints dans le christ Jésus qui sont à Philippes, avec les surveillants et les serviteurs :",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.1",
+              "verseOrgIds": [
+                "PHP.1.1"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "2",
+              "style": "v",
+              "sid": "PHP 1:2"
+            },
+            "items": [
+              {
+                "text": "2",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Grâce et paix à vous, de la part de",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.2",
+              "verseOrgIds": [
+                "PHP.1.2"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.1.2",
+                  "verseOrgIds": [
+                    "PHP.1.2"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "notre Père et du seigneur Jésus Christ !",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.2",
+              "verseOrgIds": [
+                "PHP.1.2"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "3",
+              "style": "v",
+              "sid": "PHP 1:3"
+            },
+            "items": [
+              {
+                "text": "3",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Je rends grâces à mon",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.3",
+              "verseOrgIds": [
+                "PHP.1.3"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.1.3",
+                  "verseOrgIds": [
+                    "PHP.1.3"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "pour tout le souvenir que j'ai de vous,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.3",
+              "verseOrgIds": [
+                "PHP.1.3"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "4",
+              "style": "v",
+              "sid": "PHP 1:4"
+            },
+            "items": [
+              {
+                "text": "4",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "dans chacune de mes supplications, faisant toujours des supplications pour vous tous, avec joie,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.4",
+              "verseOrgIds": [
+                "PHP.1.4"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "5",
+              "style": "v",
+              "sid": "PHP 1:5"
+            },
+            "items": [
+              {
+                "text": "5",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "à cause de la part que vous prenez à l'évangile depuis le premier jour jusqu'à maintenant ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.5",
+              "verseOrgIds": [
+                "PHP.1.5"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "6",
+              "style": "v",
+              "sid": "PHP 1:6"
+            },
+            "items": [
+              {
+                "text": "6",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "étant assuré de ceci même, que celui qui a commencé en vous une bonne œuvre, l'achèvera jusqu'au jour de Jésus Christ :",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.6",
+              "verseOrgIds": [
+                "PHP.1.6"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "7",
+              "style": "v",
+              "sid": "PHP 1:7"
+            },
+            "items": [
+              {
+                "text": "7",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "comme il est juste que je pense ainsi de vous tous, parce que vous m'avez dans votre cœur, et que, dans mes liens et dans la défense et la confirmation de l'évangile, vous avez tous été participants de la grâce avec moi.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.7",
+              "verseOrgIds": [
+                "PHP.1.7"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "8",
+              "style": "v",
+              "sid": "PHP 1:8"
+            },
+            "items": [
+              {
+                "text": "8",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Car",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.8",
+              "verseOrgIds": [
+                "PHP.1.8"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.1.8",
+                  "verseOrgIds": [
+                    "PHP.1.8"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "m'est témoin que je pense avec une vive affection à vous tous, dans les entrailles du christ Jésus.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.8",
+              "verseOrgIds": [
+                "PHP.1.8"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "9",
+              "style": "v",
+              "sid": "PHP 1:9"
+            },
+            "items": [
+              {
+                "text": "9",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Et je demande ceci dans mes prières, que votre amour abonde encore de plus en plus en connaissance et toute intelligence,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.9",
+              "verseOrgIds": [
+                "PHP.1.9"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "10",
+              "style": "v",
+              "sid": "PHP 1:10"
+            },
+            "items": [
+              {
+                "text": "10",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "pour que vous discerniez les choses excellentes, afin que vous soyez purs et que vous ne bronchiez pas jusqu'au",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.10",
+              "verseOrgIds": [
+                "PHP.1.10"
+              ]
+            }
+          },
+          {
+            "text": "jour de Christ,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.10",
+              "verseOrgIds": [
+                "PHP.1.10"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "11",
+              "style": "v",
+              "sid": "PHP 1:11"
+            },
+            "items": [
+              {
+                "text": "11",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "étant remplis du fruit de la justice, qui est par Jésus Christ à la gloire et à la louange de",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.11",
+              "verseOrgIds": [
+                "PHP.1.11"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.1.11",
+                  "verseOrgIds": [
+                    "PHP.1.11"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": ".",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.11",
+              "verseOrgIds": [
+                "PHP.1.11"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "12",
+              "style": "v",
+              "sid": "PHP 1:12"
+            },
+            "items": [
+              {
+                "text": "12",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Or, frères, je veux que vous sachiez que les circonstances par lesquelles je passe sont plutôt arrivées pour l'avancement de l'évangile ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.12",
+              "verseOrgIds": [
+                "PHP.1.12"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "13",
+              "style": "v",
+              "sid": "PHP 1:13"
+            },
+            "items": [
+              {
+                "text": "13",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "en sorte que mes liens sont devenus manifestes comme étant en Christ, dans tout le prétoire et à tous les autres",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.13",
+              "verseOrgIds": [
+                "PHP.1.13"
+              ]
+            }
+          },
+          {
+            "text": ",",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.13",
+              "verseOrgIds": [
+                "PHP.1.13"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "14",
+              "style": "v",
+              "sid": "PHP 1:14"
+            },
+            "items": [
+              {
+                "text": "14",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "et que la plupart des frères, ayant, dans le Seigneur, pris confiance par mes liens, ont beaucoup plus de hardiesse pour annoncer la parole",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.14",
+              "verseOrgIds": [
+                "PHP.1.14"
+              ]
+            }
+          },
+          {
+            "text": "sans crainte.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.14",
+              "verseOrgIds": [
+                "PHP.1.14"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "15",
+              "style": "v",
+              "sid": "PHP 1:15"
+            },
+            "items": [
+              {
+                "text": "15",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Quelques-uns, il est vrai, prêchent le Christ aussi par envie et par un esprit de dispute, mais quelques-uns aussi de bonne volonté ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.15",
+              "verseOrgIds": [
+                "PHP.1.15"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "16",
+              "style": "v",
+              "sid": "PHP 1:16"
+            },
+            "items": [
+              {
+                "text": "16",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "ceux-ci par amour, sachant que je suis établi pour la défense de l'évangile ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.16",
+              "verseOrgIds": [
+                "PHP.1.16"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "17",
+              "style": "v",
+              "sid": "PHP 1:17"
+            },
+            "items": [
+              {
+                "text": "17",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "ceux-là annoncent le Christ par esprit de parti, non pas purement, croyant susciter de la tribulation pour mes liens.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.17",
+              "verseOrgIds": [
+                "PHP.1.17"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "18",
+              "style": "v",
+              "sid": "PHP 1:18"
+            },
+            "items": [
+              {
+                "text": "18",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Quoi donc ? – Toutefois, de toute manière, soit comme prétexte, soit en vérité, Christ est annoncé ; et en cela je me réjouis et aussi je me réjouirai.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.18",
+              "verseOrgIds": [
+                "PHP.1.18"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "19",
+              "style": "v",
+              "sid": "PHP 1:19"
+            },
+            "items": [
+              {
+                "text": "19",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Car je sais que ceci me tournera à salut par vos supplications et par les secours",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.19",
+              "verseOrgIds": [
+                "PHP.1.19"
+              ]
+            }
+          },
+          {
+            "text": "de l'Esprit de Jésus Christ,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.19",
+              "verseOrgIds": [
+                "PHP.1.19"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "20",
+              "style": "v",
+              "sid": "PHP 1:20"
+            },
+            "items": [
+              {
+                "text": "20",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "selon ma vive",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.20",
+              "verseOrgIds": [
+                "PHP.1.20"
+              ]
+            }
+          },
+          {
+            "text": "attente et mon espérance que je ne serai confus en rien, mais qu'avec toute hardiesse, maintenant encore comme toujours, Christ sera magnifié dans mon corps, soit par la vie, soit par la mort.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.20",
+              "verseOrgIds": [
+                "PHP.1.20"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "21",
+              "style": "v",
+              "sid": "PHP 1:21"
+            },
+            "items": [
+              {
+                "text": "21",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Car pour moi, vivre c'est Christ ; et mourir, un gain ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.21",
+              "verseOrgIds": [
+                "PHP.1.21"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "22",
+              "style": "v",
+              "sid": "PHP 1:22"
+            },
+            "items": [
+              {
+                "text": "22",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "mais si [je dois] vivre dans la chair, il en vaut bien la peine ; et ce que je dois choisir, je n'en sais rien ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.22",
+              "verseOrgIds": [
+                "PHP.1.22"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "23",
+              "style": "v",
+              "sid": "PHP 1:23"
+            },
+            "items": [
+              {
+                "text": "23",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "mais je suis pressé des deux côtés, ayant le désir de déloger et d'être avec Christ, [car] cela est de beaucoup meilleur ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.23",
+              "verseOrgIds": [
+                "PHP.1.23"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "24",
+              "style": "v",
+              "sid": "PHP 1:24"
+            },
+            "items": [
+              {
+                "text": "24",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "mais il est plus nécessaire à cause de vous que je demeure dans la chair.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.24",
+              "verseOrgIds": [
+                "PHP.1.24"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "25",
+              "style": "v",
+              "sid": "PHP 1:25"
+            },
+            "items": [
+              {
+                "text": "25",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Et ayant cette confiance, je sais que je demeurerai et que je resterai avec vous tous pour l'avancement et la joie de votre foi,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.25",
+              "verseOrgIds": [
+                "PHP.1.25"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "26",
+              "style": "v",
+              "sid": "PHP 1:26"
+            },
+            "items": [
+              {
+                "text": "26",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "afin qu'en moi vous ayez plus abondamment sujet de vous glorifier dans le christ Jésus, par mon retour au milieu de vous.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.26",
+              "verseOrgIds": [
+                "PHP.1.26"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "27",
+              "style": "v",
+              "sid": "PHP 1:27"
+            },
+            "items": [
+              {
+                "text": "27",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Seulement conduisez-vous d'une manière digne de l'évangile du Christ, afin que, soit que je vienne et que je vous voie, soit que je sois absent, j'apprenne à votre sujet que vous tenez ferme dans un seul et même esprit, combattant ensemble d'une même âme, avec la foi de l'évangile,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.27",
+              "verseOrgIds": [
+                "PHP.1.27"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "28",
+              "style": "v",
+              "sid": "PHP 1:28"
+            },
+            "items": [
+              {
+                "text": "28",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "et n'étant en rien épouvantés par les adversaires : ce qui pour eux est une démonstration de perdition, mais de votre salut, et cela de la part de",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.28",
+              "verseOrgIds": [
+                "PHP.1.28"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.1.28",
+                  "verseOrgIds": [
+                    "PHP.1.28"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": ":",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.28",
+              "verseOrgIds": [
+                "PHP.1.28"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "29",
+              "style": "v",
+              "sid": "PHP 1:29"
+            },
+            "items": [
+              {
+                "text": "29",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "parce qu'à vous, il a été gratuitement donné, par rapport à",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.29",
+              "verseOrgIds": [
+                "PHP.1.29"
+              ]
+            }
+          },
+          {
+            "text": "Christ, non seulement de croire en lui, mais aussi de souffrir pour lui,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.29",
+              "verseOrgIds": [
+                "PHP.1.29"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "30",
+              "style": "v",
+              "sid": "PHP 1:30"
+            },
+            "items": [
+              {
+                "text": "30",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "ayant [à soutenir] le même combat que vous avez vu en moi et que vous apprenez être maintenant en moi.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.1.30",
+              "verseOrgIds": [
+                "PHP.1.30"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "next": {
+      "id": "PHP.2",
+      "number": "2",
+      "bookId": "PHP"
+    },
+    "previous": {
+      "id": "PHP.intro",
+      "number": "intro",
+      "bookId": "PHP"
+    }
+  },
+  "PHP.2": {
+    "id": "PHP.2",
+    "number": "2",
+    "bookId": "PHP",
+    "reference": "Philippiens 2",
+    "copyright": "Texte libre de droits",
+    "verseCount": 30,
+    "content": [
+      {
+        "name": "chapter",
+        "type": "tag",
+        "attrs": {
+          "number": "2",
+          "style": "c",
+          "sid": "PHP 2"
+        },
+        "items": [
+          {
+            "text": "2",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "1",
+              "style": "v",
+              "sid": "PHP 2:1"
+            },
+            "items": [
+              {
+                "text": "1",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Si donc il y a quelque consolation en Christ, si quelque soulagement d'amour, si quelque communion de l'Esprit, si quelque tendresse et quelques compassions,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.1",
+              "verseOrgIds": [
+                "PHP.2.1"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "2",
+              "style": "v",
+              "sid": "PHP 2:2"
+            },
+            "items": [
+              {
+                "text": "2",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "rendez ma joie accomplie [en ceci] que vous ayez une même pensée, ayant un même amour, étant d'un même sentiment, pensant à une seule et même chose.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.2",
+              "verseOrgIds": [
+                "PHP.2.2"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "3",
+              "style": "v",
+              "sid": "PHP 2:3"
+            },
+            "items": [
+              {
+                "text": "3",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "[Que] rien [ne se fasse] par esprit de parti, ou par vaine gloire ; mais que, dans l'humilité, l'un estime l'autre supérieur à lui-même,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.3",
+              "verseOrgIds": [
+                "PHP.2.3"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "4",
+              "style": "v",
+              "sid": "PHP 2:4"
+            },
+            "items": [
+              {
+                "text": "4",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "chacun ne regardant pas à ce qui est à lui, mais chacun aussi à ce qui est aux autres.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.4",
+              "verseOrgIds": [
+                "PHP.2.4"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "5",
+              "style": "v",
+              "sid": "PHP 2:5"
+            },
+            "items": [
+              {
+                "text": "5",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Qu'il y ait donc en vous cette pensée qui a été aussi dans le christ Jésus,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.5",
+              "verseOrgIds": [
+                "PHP.2.5"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "6",
+              "style": "v",
+              "sid": "PHP 2:6"
+            },
+            "items": [
+              {
+                "text": "6",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "lequel, étant en forme de",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.6",
+              "verseOrgIds": [
+                "PHP.2.6"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.2.6",
+                  "verseOrgIds": [
+                    "PHP.2.6"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": ", n'a pas regardé comme un objet à ravir",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.6",
+              "verseOrgIds": [
+                "PHP.2.6"
+              ]
+            }
+          },
+          {
+            "text": "d'être égal à",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.6",
+              "verseOrgIds": [
+                "PHP.2.6"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.2.6",
+                  "verseOrgIds": [
+                    "PHP.2.6"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": ",",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.6",
+              "verseOrgIds": [
+                "PHP.2.6"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "7",
+              "style": "v",
+              "sid": "PHP 2:7"
+            },
+            "items": [
+              {
+                "text": "7",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "mais s'est anéanti lui-même, prenant la forme d'esclave, étant fait",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.7",
+              "verseOrgIds": [
+                "PHP.2.7"
+              ]
+            }
+          },
+          {
+            "text": "à la ressemblance des hommes ; et, étant trouvé en figure comme un homme,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.7",
+              "verseOrgIds": [
+                "PHP.2.7"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "8",
+              "style": "v",
+              "sid": "PHP 2:8"
+            },
+            "items": [
+              {
+                "text": "8",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "il s'est abaissé lui-même, étant devenu obéissant jusqu'à la mort, et à la mort de la croix.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.8",
+              "verseOrgIds": [
+                "PHP.2.8"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "9",
+              "style": "v",
+              "sid": "PHP 2:9"
+            },
+            "items": [
+              {
+                "text": "9",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "C'est pourquoi aussi",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.9",
+              "verseOrgIds": [
+                "PHP.2.9"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.2.9",
+                  "verseOrgIds": [
+                    "PHP.2.9"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "l'a haut élevé et lui a donné un nom",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.9",
+              "verseOrgIds": [
+                "PHP.2.9"
+              ]
+            }
+          },
+          {
+            "text": "au-dessus de tout nom,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.9",
+              "verseOrgIds": [
+                "PHP.2.9"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "10",
+              "style": "v",
+              "sid": "PHP 2:10"
+            },
+            "items": [
+              {
+                "text": "10",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "afin qu'au nom de Jésus se ploie tout genou des êtres célestes, et terrestres, et infernaux,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.10",
+              "verseOrgIds": [
+                "PHP.2.10"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "11",
+              "style": "v",
+              "sid": "PHP 2:11"
+            },
+            "items": [
+              {
+                "text": "11",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "et que toute langue confesse que Jésus Christ est Seigneur, à la gloire de",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.11",
+              "verseOrgIds": [
+                "PHP.2.11"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.2.11",
+                  "verseOrgIds": [
+                    "PHP.2.11"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "le Père.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.11",
+              "verseOrgIds": [
+                "PHP.2.11"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "12",
+              "style": "v",
+              "sid": "PHP 2:12"
+            },
+            "items": [
+              {
+                "text": "12",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Ainsi donc, mes bien-aimés, de même que vous avez toujours obéi, non seulement comme en ma présence, mais beaucoup plus maintenant en mon absence, travaillez",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.12",
+              "verseOrgIds": [
+                "PHP.2.12"
+              ]
+            }
+          },
+          {
+            "text": "à votre propre salut avec crainte et tremblement :",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.12",
+              "verseOrgIds": [
+                "PHP.2.12"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "13",
+              "style": "v",
+              "sid": "PHP 2:13"
+            },
+            "items": [
+              {
+                "text": "13",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "car c'est",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.13",
+              "verseOrgIds": [
+                "PHP.2.13"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.2.13",
+                  "verseOrgIds": [
+                    "PHP.2.13"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "qui opère en vous et le vouloir et le faire",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.13",
+              "verseOrgIds": [
+                "PHP.2.13"
+              ]
+            }
+          },
+          {
+            "text": ", selon son bon plaisir.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.13",
+              "verseOrgIds": [
+                "PHP.2.13"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "14",
+              "style": "v",
+              "sid": "PHP 2:14"
+            },
+            "items": [
+              {
+                "text": "14",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Faites toutes choses sans murmures et sans raisonnements,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.14",
+              "verseOrgIds": [
+                "PHP.2.14"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "15",
+              "style": "v",
+              "sid": "PHP 2:15"
+            },
+            "items": [
+              {
+                "text": "15",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "afin que vous soyez sans reproche et purs, des enfants de",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.15",
+              "verseOrgIds": [
+                "PHP.2.15"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.2.15",
+                  "verseOrgIds": [
+                    "PHP.2.15"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "irréprochables, au milieu d'une génération tortue et perverse, parmi laquelle vous reluisez comme des luminaires dans le monde,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.15",
+              "verseOrgIds": [
+                "PHP.2.15"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "16",
+              "style": "v",
+              "sid": "PHP 2:16"
+            },
+            "items": [
+              {
+                "text": "16",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "présentant la parole de vie, pour ma gloire au jour de Christ, [en témoignage] que je n'ai pas couru en vain ni travaillé en vain.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.16",
+              "verseOrgIds": [
+                "PHP.2.16"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "17",
+              "style": "v",
+              "sid": "PHP 2:17"
+            },
+            "items": [
+              {
+                "text": "17",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mais si même je sers d'aspersion sur le sacrifice et le service de votre foi, j'en suis joyeux et je m'en réjouis avec vous tous.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.17",
+              "verseOrgIds": [
+                "PHP.2.17"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "18",
+              "style": "v",
+              "sid": "PHP 2:18"
+            },
+            "items": [
+              {
+                "text": "18",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Pareillement, vous aussi, soyez-en joyeux et réjouissez-vous-en avec moi.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.18",
+              "verseOrgIds": [
+                "PHP.2.18"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "19",
+              "style": "v",
+              "sid": "PHP 2:19"
+            },
+            "items": [
+              {
+                "text": "19",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Or j'espère dans le seigneur Jésus vous envoyer bientôt Timothée, afin que moi aussi j'aie bon courage quand j'aurai connu l'état de vos affaires ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.19",
+              "verseOrgIds": [
+                "PHP.2.19"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "20",
+              "style": "v",
+              "sid": "PHP 2:20"
+            },
+            "items": [
+              {
+                "text": "20",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "car je n'ai personne qui soit animé d'un même sentiment [avec moi] pour avoir une sincère sollicitude à l'égard de ce qui vous concerne ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.20",
+              "verseOrgIds": [
+                "PHP.2.20"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "21",
+              "style": "v",
+              "sid": "PHP 2:21"
+            },
+            "items": [
+              {
+                "text": "21",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "parce que tous cherchent leurs propres intérêts, non pas ceux de Jésus Christ.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.21",
+              "verseOrgIds": [
+                "PHP.2.21"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "22",
+              "style": "v",
+              "sid": "PHP 2:22"
+            },
+            "items": [
+              {
+                "text": "22",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mais vous savez qu'il a été connu à l'épreuve, [savoir] qu'il a servi",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.22",
+              "verseOrgIds": [
+                "PHP.2.22"
+              ]
+            }
+          },
+          {
+            "text": "avec moi dans l'évangile comme un enfant [sert] son père.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.22",
+              "verseOrgIds": [
+                "PHP.2.22"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "23",
+              "style": "v",
+              "sid": "PHP 2:23"
+            },
+            "items": [
+              {
+                "text": "23",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "J'espère donc l'envoyer incessamment, quand j'aurai vu la tournure que prendront mes affaires.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.23",
+              "verseOrgIds": [
+                "PHP.2.23"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "24",
+              "style": "v",
+              "sid": "PHP 2:24"
+            },
+            "items": [
+              {
+                "text": "24",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mais j'ai confiance dans le Seigneur que, moi-même aussi, j'irai [vous voir] bientôt ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.24",
+              "verseOrgIds": [
+                "PHP.2.24"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "25",
+              "style": "v",
+              "sid": "PHP 2:25"
+            },
+            "items": [
+              {
+                "text": "25",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "mais j'ai estimé nécessaire de vous envoyer Épaphrodite mon frère, mon compagnon d'œuvre et mon compagnon d'armes, mais votre envoyé et ministre",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.25",
+              "verseOrgIds": [
+                "PHP.2.25"
+              ]
+            }
+          },
+          {
+            "text": "pour mes besoins.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.25",
+              "verseOrgIds": [
+                "PHP.2.25"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "26",
+              "style": "v",
+              "sid": "PHP 2:26"
+            },
+            "items": [
+              {
+                "text": "26",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Car il pensait à vous tous avec une vive affection, et il était fort abattu parce que vous aviez entendu dire qu'il était malade ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.26",
+              "verseOrgIds": [
+                "PHP.2.26"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "27",
+              "style": "v",
+              "sid": "PHP 2:27"
+            },
+            "items": [
+              {
+                "text": "27",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "en effet il a été malade, fort près de la mort, mais",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.27",
+              "verseOrgIds": [
+                "PHP.2.27"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.2.27",
+                  "verseOrgIds": [
+                    "PHP.2.27"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "a eu pitié de lui, et non seulement de lui, mais aussi de moi, afin que je n'aie pas tristesse sur tristesse.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.27",
+              "verseOrgIds": [
+                "PHP.2.27"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "28",
+              "style": "v",
+              "sid": "PHP 2:28"
+            },
+            "items": [
+              {
+                "text": "28",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Je l'ai donc envoyé avec d'autant plus d'empressement, afin qu'en le revoyant vous ayez de la joie, et que moi j'aie moins de tristesse.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.28",
+              "verseOrgIds": [
+                "PHP.2.28"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "29",
+              "style": "v",
+              "sid": "PHP 2:29"
+            },
+            "items": [
+              {
+                "text": "29",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Recevez-le donc dans le Seigneur avec toute sorte de joie, et honorez de tels hommes ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.29",
+              "verseOrgIds": [
+                "PHP.2.29"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "30",
+              "style": "v",
+              "sid": "PHP 2:30"
+            },
+            "items": [
+              {
+                "text": "30",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "car, pour l'œuvre, il a été proche de la mort, ayant exposé sa vie, afin de compléter ce qui manquait à votre service envers moi.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.2.30",
+              "verseOrgIds": [
+                "PHP.2.30"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "next": {
+      "id": "PHP.3",
+      "number": "3",
+      "bookId": "PHP"
+    },
+    "previous": {
+      "id": "PHP.1",
+      "number": "1",
+      "bookId": "PHP"
+    }
+  },
+  "PHP.3": {
+    "id": "PHP.3",
+    "number": "3",
+    "bookId": "PHP",
+    "reference": "Philippiens 3",
+    "copyright": "Texte libre de droits",
+    "verseCount": 21,
+    "content": [
+      {
+        "name": "chapter",
+        "type": "tag",
+        "attrs": {
+          "number": "3",
+          "style": "c",
+          "sid": "PHP 3"
+        },
+        "items": [
+          {
+            "text": "3",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "1",
+              "style": "v",
+              "sid": "PHP 3:1"
+            },
+            "items": [
+              {
+                "text": "1",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Au reste, mes frères, réjouissez-vous dans le Seigneur : vous écrire les mêmes choses n'est pas pénible pour moi, et c'est votre sûreté.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.1",
+              "verseOrgIds": [
+                "PHP.3.1"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "2",
+              "style": "v",
+              "sid": "PHP 3:2"
+            },
+            "items": [
+              {
+                "text": "2",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Prenez garde aux chiens, prenez garde aux mauvais ouvriers, prenez garde à la concision",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.2",
+              "verseOrgIds": [
+                "PHP.3.2"
+              ]
+            }
+          },
+          {
+            "text": ";",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.2",
+              "verseOrgIds": [
+                "PHP.3.2"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "3",
+              "style": "v",
+              "sid": "PHP 3:3"
+            },
+            "items": [
+              {
+                "text": "3",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "car nous sommes la circoncision, nous qui rendons culte par l'Esprit de",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.3",
+              "verseOrgIds": [
+                "PHP.3.3"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.3.3",
+                  "verseOrgIds": [
+                    "PHP.3.3"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": ", et qui nous glorifions dans le christ Jésus, et qui n'avons pas confiance en la chair :",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.3",
+              "verseOrgIds": [
+                "PHP.3.3"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "4",
+              "style": "v",
+              "sid": "PHP 3:4"
+            },
+            "items": [
+              {
+                "text": "4",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "bien que moi, j'aie [de quoi avoir] confiance même dans la chair. Si quelque autre s'imagine [pouvoir] se confier en la chair, moi davantage :",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.4",
+              "verseOrgIds": [
+                "PHP.3.4"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "5",
+              "style": "v",
+              "sid": "PHP 3:5"
+            },
+            "items": [
+              {
+                "text": "5",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "[moi] circoncis le huitième jour, de la race d'Israël, de la tribu de Benjamin, Hébreu des Hébreux ; quant à la loi, pharisien ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.5",
+              "verseOrgIds": [
+                "PHP.3.5"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "6",
+              "style": "v",
+              "sid": "PHP 3:6"
+            },
+            "items": [
+              {
+                "text": "6",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "quant au zèle, persécutant l'assemblée ; quant à la justice qui est par [la] loi, étant sans reproche.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.6",
+              "verseOrgIds": [
+                "PHP.3.6"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "7",
+              "style": "v",
+              "sid": "PHP 3:7"
+            },
+            "items": [
+              {
+                "text": "7",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mais les choses qui pour moi étaient un gain, je les ai regardées, à cause du Christ, comme une perte.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.7",
+              "verseOrgIds": [
+                "PHP.3.7"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "8",
+              "style": "v",
+              "sid": "PHP 3:8"
+            },
+            "items": [
+              {
+                "text": "8",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Et je regarde même aussi toutes choses comme étant une perte, à cause de l'excellence de la connaissance du christ Jésus, mon Seigneur, à cause duquel j'ai fait la perte de toutes et je les estime comme des ordures, afin que je gagne Christ,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.8",
+              "verseOrgIds": [
+                "PHP.3.8"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "9",
+              "style": "v",
+              "sid": "PHP 3:9"
+            },
+            "items": [
+              {
+                "text": "9",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "et que je sois trouvé en lui, n'ayant pas ma justice qui est de [la] loi, mais celle qui est par [la] foi en Christ, la justice qui est de",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.9",
+              "verseOrgIds": [
+                "PHP.3.9"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.3.9",
+                  "verseOrgIds": [
+                    "PHP.3.9"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": ", moyennant la foi ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.9",
+              "verseOrgIds": [
+                "PHP.3.9"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "10",
+              "style": "v",
+              "sid": "PHP 3:10"
+            },
+            "items": [
+              {
+                "text": "10",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "pour le connaître, lui, et la puissance de sa résurrection, et la communion de ses souffrances, étant rendu conforme à sa mort,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.10",
+              "verseOrgIds": [
+                "PHP.3.10"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "11",
+              "style": "v",
+              "sid": "PHP 3:11"
+            },
+            "items": [
+              {
+                "text": "11",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "si en quelque manière que ce soit je puis parvenir à la résurrection d'entre les morts.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.11",
+              "verseOrgIds": [
+                "PHP.3.11"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "12",
+              "style": "v",
+              "sid": "PHP 3:12"
+            },
+            "items": [
+              {
+                "text": "12",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Non que j'aie déjà reçu [le prix] ou que je sois déjà parvenu à la perfection ; mais je poursuis, cherchant à le saisir, vu aussi que j'ai été saisi par le Christ.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.12",
+              "verseOrgIds": [
+                "PHP.3.12"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "13",
+              "style": "v",
+              "sid": "PHP 3:13"
+            },
+            "items": [
+              {
+                "text": "13",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Frères, pour moi, je ne pense pas moi-même l'avoir saisi ; mais [je fais] une",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.13",
+              "verseOrgIds": [
+                "PHP.3.13"
+              ]
+            }
+          },
+          {
+            "text": "chose : oubliant les choses qui sont derrière et tendant avec effort vers celles qui sont devant,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.13",
+              "verseOrgIds": [
+                "PHP.3.13"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "14",
+              "style": "v",
+              "sid": "PHP 3:14"
+            },
+            "items": [
+              {
+                "text": "14",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "je cours droit au but pour le prix de l'appel céleste",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.14",
+              "verseOrgIds": [
+                "PHP.3.14"
+              ]
+            }
+          },
+          {
+            "text": "de",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.14",
+              "verseOrgIds": [
+                "PHP.3.14"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.3.14",
+                  "verseOrgIds": [
+                    "PHP.3.14"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "dans le christ Jésus.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.14",
+              "verseOrgIds": [
+                "PHP.3.14"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "15",
+              "style": "v",
+              "sid": "PHP 3:15"
+            },
+            "items": [
+              {
+                "text": "15",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Nous tous donc qui sommes parfaits, ayons ce sentiment ; et si en quelque chose vous avez un autre sentiment, cela aussi",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.15",
+              "verseOrgIds": [
+                "PHP.3.15"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.3.15",
+                  "verseOrgIds": [
+                    "PHP.3.15"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "vous le révélera ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.15",
+              "verseOrgIds": [
+                "PHP.3.15"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "16",
+              "style": "v",
+              "sid": "PHP 3:16"
+            },
+            "items": [
+              {
+                "text": "16",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "cependant, dans les choses auxquelles nous sommes parvenus, marchons dans le même [sentier].",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.16",
+              "verseOrgIds": [
+                "PHP.3.16"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "17",
+              "style": "v",
+              "sid": "PHP 3:17"
+            },
+            "items": [
+              {
+                "text": "17",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Soyez tous ensemble mes imitateurs, frères, et portez vos regards sur ceux qui marchent ainsi suivant le modèle que vous avez en nous.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.17",
+              "verseOrgIds": [
+                "PHP.3.17"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "18",
+              "style": "v",
+              "sid": "PHP 3:18"
+            },
+            "items": [
+              {
+                "text": "18",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Car plusieurs marchent, dont je vous ai dit souvent et dont maintenant je le dis même en pleurant, qu'ils sont ennemis de la croix du Christ,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.18",
+              "verseOrgIds": [
+                "PHP.3.18"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "19",
+              "style": "v",
+              "sid": "PHP 3:19"
+            },
+            "items": [
+              {
+                "text": "19",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "dont la fin est la perdition, dont le dieu est le ventre et dont la gloire est dans leur honte, qui ont leurs pensées aux choses terrestres.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.19",
+              "verseOrgIds": [
+                "PHP.3.19"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "20",
+              "style": "v",
+              "sid": "PHP 3:20"
+            },
+            "items": [
+              {
+                "text": "20",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Car notre bourgeoisie est dans les cieux, d'où aussi nous attendons le Seigneur Jésus Christ [comme] Sauveur,",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.20",
+              "verseOrgIds": [
+                "PHP.3.20"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "21",
+              "style": "v",
+              "sid": "PHP 3:21"
+            },
+            "items": [
+              {
+                "text": "21",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "qui transformera le corps de notre abaissement en la conformité du corps de sa gloire, selon l'opération de ce pouvoir qu'il a de s'assujettir même toutes choses.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.3.21",
+              "verseOrgIds": [
+                "PHP.3.21"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "next": {
+      "id": "PHP.4",
+      "number": "4",
+      "bookId": "PHP"
+    },
+    "previous": {
+      "id": "PHP.2",
+      "number": "2",
+      "bookId": "PHP"
+    }
+  },
+  "PHP.4": {
+    "id": "PHP.4",
+    "number": "4",
+    "bookId": "PHP",
+    "reference": "Philippiens 4",
+    "copyright": "Texte libre de droits",
+    "verseCount": 23,
+    "content": [
+      {
+        "name": "chapter",
+        "type": "tag",
+        "attrs": {
+          "number": "4",
+          "style": "c",
+          "sid": "PHP 4"
+        },
+        "items": [
+          {
+            "text": "4",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "1",
+              "style": "v",
+              "sid": "PHP 4:1"
+            },
+            "items": [
+              {
+                "text": "1",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Ainsi donc, mes frères bien-aimés et ardemment désirés, ma joie et ma couronne, demeurez ainsi fermes dans le Seigneur, bien-aimés.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.1",
+              "verseOrgIds": [
+                "PHP.4.1"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "2",
+              "style": "v",
+              "sid": "PHP 4:2"
+            },
+            "items": [
+              {
+                "text": "2",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Je supplie Évodie, et je supplie Syntyche, d'avoir une même pensée dans le Seigneur.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.2",
+              "verseOrgIds": [
+                "PHP.4.2"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "3",
+              "style": "v",
+              "sid": "PHP 4:3"
+            },
+            "items": [
+              {
+                "text": "3",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Oui, je te prie, toi aussi, vrai compagnon de travail, aide celles qui ont combattu avec moi dans l'évangile avec Clément aussi et mes autres compagnons d'œuvre, dont les noms sont dans le livre de vie.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.3",
+              "verseOrgIds": [
+                "PHP.4.3"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "4",
+              "style": "v",
+              "sid": "PHP 4:4"
+            },
+            "items": [
+              {
+                "text": "4",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Réjouissez-vous toujours dans le Seigneur ; encore une fois, je vous le dirai : réjouissez-vous.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.4",
+              "verseOrgIds": [
+                "PHP.4.4"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "5",
+              "style": "v",
+              "sid": "PHP 4:5"
+            },
+            "items": [
+              {
+                "text": "5",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Que votre douceur",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.5",
+              "verseOrgIds": [
+                "PHP.4.5"
+              ]
+            }
+          },
+          {
+            "text": "soit connue de tous les hommes ; le Seigneur est proche ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.5",
+              "verseOrgIds": [
+                "PHP.4.5"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "6",
+              "style": "v",
+              "sid": "PHP 4:6"
+            },
+            "items": [
+              {
+                "text": "6",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "ne vous inquiétez de rien, mais, en toutes choses, exposez vos requêtes à",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.6",
+              "verseOrgIds": [
+                "PHP.4.6"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.4.6",
+                  "verseOrgIds": [
+                    "PHP.4.6"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "par des prières et des supplications avec des actions de grâces ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.6",
+              "verseOrgIds": [
+                "PHP.4.6"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "7",
+              "style": "v",
+              "sid": "PHP 4:7"
+            },
+            "items": [
+              {
+                "text": "7",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "et la paix de",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.7",
+              "verseOrgIds": [
+                "PHP.4.7"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.4.7",
+                  "verseOrgIds": [
+                    "PHP.4.7"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": ", laquelle surpasse toute intelligence, gardera vos cœurs et vos pensées dans le christ Jésus.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.7",
+              "verseOrgIds": [
+                "PHP.4.7"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "8",
+              "style": "v",
+              "sid": "PHP 4:8"
+            },
+            "items": [
+              {
+                "text": "8",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Au reste, frères, toutes les choses qui sont vraies, toutes les choses qui sont vénérables, toutes les choses qui sont justes, toutes les choses qui sont pures, toutes les choses qui sont aimables, toutes les choses qui sont de bonne renommée, – s'il y a quelque vertu et quelque louange, – que ces choses occupent vos pensées :",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.8",
+              "verseOrgIds": [
+                "PHP.4.8"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "9",
+              "style": "v",
+              "sid": "PHP 4:9"
+            },
+            "items": [
+              {
+                "text": "9",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "ce que vous avez et appris, et reçu, et entendu, et vu en moi, – faites ces choses, et le",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.9",
+              "verseOrgIds": [
+                "PHP.4.9"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.4.9",
+                  "verseOrgIds": [
+                    "PHP.4.9"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "de paix sera avec vous.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.9",
+              "verseOrgIds": [
+                "PHP.4.9"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "10",
+              "style": "v",
+              "sid": "PHP 4:10"
+            },
+            "items": [
+              {
+                "text": "10",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Or je me suis grandement réjoui dans le Seigneur de ce que maintenant enfin vous avez fait revivre votre pensée pour moi, quoique vous y ayez bien aussi pensé, mais l'occasion vous manquait ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.10",
+              "verseOrgIds": [
+                "PHP.4.10"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "11",
+              "style": "v",
+              "sid": "PHP 4:11"
+            },
+            "items": [
+              {
+                "text": "11",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "non que je parle ayant égard à des privations, car, moi, j'ai appris à être content en moi-même dans les circonstances où je me trouve.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.11",
+              "verseOrgIds": [
+                "PHP.4.11"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "12",
+              "style": "v",
+              "sid": "PHP 4:12"
+            },
+            "items": [
+              {
+                "text": "12",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Je sais être abaissé, je sais aussi être dans l'abondance ; en toutes choses et à tous égards, je suis enseigné",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.12",
+              "verseOrgIds": [
+                "PHP.4.12"
+              ]
+            }
+          },
+          {
+            "text": "aussi bien à être rassasié qu'à avoir faim, aussi bien à être dans l'abondance qu'à être dans les privations.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.12",
+              "verseOrgIds": [
+                "PHP.4.12"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "13",
+              "style": "v",
+              "sid": "PHP 4:13"
+            },
+            "items": [
+              {
+                "text": "13",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Je puis toutes choses en celui qui me fortifie.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.13",
+              "verseOrgIds": [
+                "PHP.4.13"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "14",
+              "style": "v",
+              "sid": "PHP 4:14"
+            },
+            "items": [
+              {
+                "text": "14",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Néanmoins vous avez bien fait de prendre part à mon affliction.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.14",
+              "verseOrgIds": [
+                "PHP.4.14"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "15",
+              "style": "v",
+              "sid": "PHP 4:15"
+            },
+            "items": [
+              {
+                "text": "15",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Or vous aussi, Philippiens, vous savez qu'au commencement de l'évangile, quand je quittai",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.15",
+              "verseOrgIds": [
+                "PHP.4.15"
+              ]
+            }
+          },
+          {
+            "text": "la Macédoine, aucune assemblée ne me communiqua [rien], pour ce qui est de donner et de recevoir, excepté vous seuls ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.15",
+              "verseOrgIds": [
+                "PHP.4.15"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "16",
+              "style": "v",
+              "sid": "PHP 4:16"
+            },
+            "items": [
+              {
+                "text": "16",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "car, même à Thessalonique, une fois et même deux fois, vous m'avez fait un envoi pour mes besoins ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.16",
+              "verseOrgIds": [
+                "PHP.4.16"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "17",
+              "style": "v",
+              "sid": "PHP 4:17"
+            },
+            "items": [
+              {
+                "text": "17",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "non que je recherche un don, mais je recherche du fruit qui abonde pour votre compte.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.17",
+              "verseOrgIds": [
+                "PHP.4.17"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "18",
+              "style": "v",
+              "sid": "PHP 4:18"
+            },
+            "items": [
+              {
+                "text": "18",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Or j'ai amplement de tout, et je suis dans l'abondance ; je suis comblé, ayant reçu d'Épaphrodite ce qui [m'a été envoyé] de votre part…, un parfum de bonne odeur, un sacrifice acceptable, agréable à",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.18",
+              "verseOrgIds": [
+                "PHP.4.18"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.4.18",
+                  "verseOrgIds": [
+                    "PHP.4.18"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": ":",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.18",
+              "verseOrgIds": [
+                "PHP.4.18"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "19",
+              "style": "v",
+              "sid": "PHP 4:19"
+            },
+            "items": [
+              {
+                "text": "19",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "mais mon",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.19",
+              "verseOrgIds": [
+                "PHP.4.19"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.4.19",
+                  "verseOrgIds": [
+                    "PHP.4.19"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "suppléera à tous vos besoins selon ses richesses en gloire par le christ Jésus.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.19",
+              "verseOrgIds": [
+                "PHP.4.19"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "20",
+              "style": "v",
+              "sid": "PHP 4:20"
+            },
+            "items": [
+              {
+                "text": "20",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Or à notre",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.20",
+              "verseOrgIds": [
+                "PHP.4.20"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "PHP.4.20",
+                  "verseOrgIds": [
+                    "PHP.4.20"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "et Père soit la gloire aux siècles des siècles ! Amen.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.20",
+              "verseOrgIds": [
+                "PHP.4.20"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "21",
+              "style": "v",
+              "sid": "PHP 4:21"
+            },
+            "items": [
+              {
+                "text": "21",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Saluez chaque saint dans le christ Jésus. Les frères qui sont avec moi vous saluent.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.21",
+              "verseOrgIds": [
+                "PHP.4.21"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "22",
+              "style": "v",
+              "sid": "PHP 4:22"
+            },
+            "items": [
+              {
+                "text": "22",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Tous les saints vous saluent, et principalement ceux qui sont de la maison de César.",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.22",
+              "verseOrgIds": [
+                "PHP.4.22"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "23",
+              "style": "v",
+              "sid": "PHP 4:23"
+            },
+            "items": [
+              {
+                "text": "23",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Que la grâce du seigneur Jésus Christ soit avec votre esprit ! Amen",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.23",
+              "verseOrgIds": [
+                "PHP.4.23"
+              ]
+            }
+          },
+          {
+            "text": ".",
+            "type": "text",
+            "attrs": {
+              "verseId": "PHP.4.23",
+              "verseOrgIds": [
+                "PHP.4.23"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "next": {
+      "id": "COL.intro",
+      "number": "intro",
+      "bookId": "COL"
+    },
+    "previous": {
+      "id": "PHP.3",
+      "number": "3",
+      "bookId": "PHP"
+    }
+  }
+}

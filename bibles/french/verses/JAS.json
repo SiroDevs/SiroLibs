@@ -1,0 +1,3853 @@
+{
+  "JAS.1": {
+    "id": "JAS.1",
+    "number": "1",
+    "bookId": "JAS",
+    "reference": "Jacques 1",
+    "copyright": "Texte libre de droits",
+    "verseCount": 27,
+    "content": [
+      {
+        "name": "chapter",
+        "type": "tag",
+        "attrs": {
+          "number": "1",
+          "style": "c",
+          "sid": "JAS 1"
+        },
+        "items": [
+          {
+            "text": "1",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "1",
+              "style": "v",
+              "sid": "JAS 1:1"
+            },
+            "items": [
+              {
+                "text": "1",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Jacques, esclave de",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.1",
+              "verseOrgIds": [
+                "JAS.1.1"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "JAS.1.1",
+                  "verseOrgIds": [
+                    "JAS.1.1"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "et du seigneur Jésus Christ, aux douze tribus qui sont dans la dispersion, salut !",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.1",
+              "verseOrgIds": [
+                "JAS.1.1"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "2",
+              "style": "v",
+              "sid": "JAS 1:2"
+            },
+            "items": [
+              {
+                "text": "2",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Estimez-le comme une parfaite",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.2",
+              "verseOrgIds": [
+                "JAS.1.2"
+              ]
+            }
+          },
+          {
+            "text": "joie, mes frères, quand vous serez en butte à diverses tentations,",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.2",
+              "verseOrgIds": [
+                "JAS.1.2"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "3",
+              "style": "v",
+              "sid": "JAS 1:3"
+            },
+            "items": [
+              {
+                "text": "3",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "sachant que l'épreuve de votre foi produit la patience.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.3",
+              "verseOrgIds": [
+                "JAS.1.3"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "4",
+              "style": "v",
+              "sid": "JAS 1:4"
+            },
+            "items": [
+              {
+                "text": "4",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mais que la patience ait son œuvre parfaite, afin que vous soyez parfaits et accomplis, ne manquant de rien.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.4",
+              "verseOrgIds": [
+                "JAS.1.4"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "5",
+              "style": "v",
+              "sid": "JAS 1:5"
+            },
+            "items": [
+              {
+                "text": "5",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Et si quelqu'un de vous manque de sagesse, qu'il demande à",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.5",
+              "verseOrgIds": [
+                "JAS.1.5"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "JAS.1.5",
+                  "verseOrgIds": [
+                    "JAS.1.5"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "qui donne à tous libéralement et qui ne fait pas de reproches, et il lui sera donné ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.5",
+              "verseOrgIds": [
+                "JAS.1.5"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "6",
+              "style": "v",
+              "sid": "JAS 1:6"
+            },
+            "items": [
+              {
+                "text": "6",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "mais qu'il demande avec foi, ne doutant nullement ; car celui qui doute est semblable au flot de la mer, agité par le vent et jeté çà et là ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.6",
+              "verseOrgIds": [
+                "JAS.1.6"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "7",
+              "style": "v",
+              "sid": "JAS 1:7"
+            },
+            "items": [
+              {
+                "text": "7",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "or",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.7",
+              "verseOrgIds": [
+                "JAS.1.7"
+              ]
+            }
+          },
+          {
+            "text": "que cet homme-là ne pense pas qu'il recevra quoi que ce soit du Seigneur :",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.7",
+              "verseOrgIds": [
+                "JAS.1.7"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "8",
+              "style": "v",
+              "sid": "JAS 1:8"
+            },
+            "items": [
+              {
+                "text": "8",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "il est un homme incertain dans ses pensées, inconstant dans toutes ses voies.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.8",
+              "verseOrgIds": [
+                "JAS.1.8"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "9",
+              "style": "v",
+              "sid": "JAS 1:9"
+            },
+            "items": [
+              {
+                "text": "9",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Or que le frère de basse condition se glorifie dans son élévation,",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.9",
+              "verseOrgIds": [
+                "JAS.1.9"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "10",
+              "style": "v",
+              "sid": "JAS 1:10"
+            },
+            "items": [
+              {
+                "text": "10",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "et le riche dans son abaissement, car il passera comme la fleur de l'herbe.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.10",
+              "verseOrgIds": [
+                "JAS.1.10"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "11",
+              "style": "v",
+              "sid": "JAS 1:11"
+            },
+            "items": [
+              {
+                "text": "11",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Car le soleil s'est levé avec sa brûlante chaleur et a séché l'herbe, et sa fleur est tombée, et la grâce de sa forme a péri : ainsi aussi le riche se flétrira dans ses voies.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.11",
+              "verseOrgIds": [
+                "JAS.1.11"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "12",
+              "style": "v",
+              "sid": "JAS 1:12"
+            },
+            "items": [
+              {
+                "text": "12",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Bienheureux est l'homme qui endure la tentation ; car, quand il aura été manifesté fidèle par l'épreuve il recevra la couronne de vie, qu'Il a promise à ceux qui l'aiment.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.12",
+              "verseOrgIds": [
+                "JAS.1.12"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "13",
+              "style": "v",
+              "sid": "JAS 1:13"
+            },
+            "items": [
+              {
+                "text": "13",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Que nul, quand il est tenté, ne dise : Je suis tenté par",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.13",
+              "verseOrgIds": [
+                "JAS.1.13"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "JAS.1.13",
+                  "verseOrgIds": [
+                    "JAS.1.13"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "; – car",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.13",
+              "verseOrgIds": [
+                "JAS.1.13"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "JAS.1.13",
+                  "verseOrgIds": [
+                    "JAS.1.13"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "ne peut être tenté par le mal, et lui ne tente personne.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.13",
+              "verseOrgIds": [
+                "JAS.1.13"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "14",
+              "style": "v",
+              "sid": "JAS 1:14"
+            },
+            "items": [
+              {
+                "text": "14",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mais chacun est tenté, étant attiré et amorcé par sa propre convoitise ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.14",
+              "verseOrgIds": [
+                "JAS.1.14"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "15",
+              "style": "v",
+              "sid": "JAS 1:15"
+            },
+            "items": [
+              {
+                "text": "15",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "puis la convoitise, ayant conçu, enfante le péché ; et le péché, étant consommé, produit",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.15",
+              "verseOrgIds": [
+                "JAS.1.15"
+              ]
+            }
+          },
+          {
+            "text": "la mort.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.15",
+              "verseOrgIds": [
+                "JAS.1.15"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "16",
+              "style": "v",
+              "sid": "JAS 1:16"
+            },
+            "items": [
+              {
+                "text": "16",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Ne vous égarez pas, mes frères bien-aimés :",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.16",
+              "verseOrgIds": [
+                "JAS.1.16"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "17",
+              "style": "v",
+              "sid": "JAS 1:17"
+            },
+            "items": [
+              {
+                "text": "17",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "tout ce qui nous est donné de bon et tout don parfait descendent d'en haut, du Père des lumières, en qui il n'y a pas de variation ou d'ombre de changement.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.17",
+              "verseOrgIds": [
+                "JAS.1.17"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "18",
+              "style": "v",
+              "sid": "JAS 1:18"
+            },
+            "items": [
+              {
+                "text": "18",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "De sa propre volonté, il nous a engendrés par la parole de la vérité, pour que nous soyons une sorte de prémices de ses créatures.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.18",
+              "verseOrgIds": [
+                "JAS.1.18"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "19",
+              "style": "v",
+              "sid": "JAS 1:19"
+            },
+            "items": [
+              {
+                "text": "19",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Ainsi",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.19",
+              "verseOrgIds": [
+                "JAS.1.19"
+              ]
+            }
+          },
+          {
+            "text": ", mes frères bien-aimés, que tout homme soit prompt à écouter, lent à parler, lent à la colère ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.19",
+              "verseOrgIds": [
+                "JAS.1.19"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "20",
+              "style": "v",
+              "sid": "JAS 1:20"
+            },
+            "items": [
+              {
+                "text": "20",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "car la colère de l'homme n'accomplit pas",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.20",
+              "verseOrgIds": [
+                "JAS.1.20"
+              ]
+            }
+          },
+          {
+            "text": "la justice de",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.20",
+              "verseOrgIds": [
+                "JAS.1.20"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "JAS.1.20",
+                  "verseOrgIds": [
+                    "JAS.1.20"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": ".",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.20",
+              "verseOrgIds": [
+                "JAS.1.20"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "21",
+              "style": "v",
+              "sid": "JAS 1:21"
+            },
+            "items": [
+              {
+                "text": "21",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "C'est pourquoi, rejetant toute saleté et tout débordement de malice, recevez avec douceur la parole implantée, qui a la puissance de sauver vos âmes.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.21",
+              "verseOrgIds": [
+                "JAS.1.21"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "22",
+              "style": "v",
+              "sid": "JAS 1:22"
+            },
+            "items": [
+              {
+                "text": "22",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mais mettez la parole en pratique, et ne l'écoutez pas seulement, vous séduisant vous-mêmes.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.22",
+              "verseOrgIds": [
+                "JAS.1.22"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "23",
+              "style": "v",
+              "sid": "JAS 1:23"
+            },
+            "items": [
+              {
+                "text": "23",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Car si quelqu'un écoute la parole et ne la met pas en pratique, il est semblable à un homme qui considère sa face naturelle dans un miroir ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.23",
+              "verseOrgIds": [
+                "JAS.1.23"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "24",
+              "style": "v",
+              "sid": "JAS 1:24"
+            },
+            "items": [
+              {
+                "text": "24",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "car il s'est considéré lui-même et s'en est allé, et aussitôt il a oublié quel il était.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.24",
+              "verseOrgIds": [
+                "JAS.1.24"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "25",
+              "style": "v",
+              "sid": "JAS 1:25"
+            },
+            "items": [
+              {
+                "text": "25",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mais celui qui aura regardé de près dans la loi parfaite, celle de la liberté, et qui aura persévéré, n'étant pas un auditeur oublieux, mais un faiseur d'œuvre, celui-là sera bienheureux dans son faire.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.25",
+              "verseOrgIds": [
+                "JAS.1.25"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "26",
+              "style": "v",
+              "sid": "JAS 1:26"
+            },
+            "items": [
+              {
+                "text": "26",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Si quelqu'un pense",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.26",
+              "verseOrgIds": [
+                "JAS.1.26"
+              ]
+            }
+          },
+          {
+            "text": "être religieux et qu'il ne tienne pas sa langue en bride, mais séduise son cœur, le service religieux de cet homme est vain.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.26",
+              "verseOrgIds": [
+                "JAS.1.26"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "27",
+              "style": "v",
+              "sid": "JAS 1:27"
+            },
+            "items": [
+              {
+                "text": "27",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Le service religieux pur et sans tache devant",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.27",
+              "verseOrgIds": [
+                "JAS.1.27"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "JAS.1.27",
+                  "verseOrgIds": [
+                    "JAS.1.27"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "le Père",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.27",
+              "verseOrgIds": [
+                "JAS.1.27"
+              ]
+            }
+          },
+          {
+            "text": ", est celui-ci : de visiter les orphelins et les veuves dans leur affliction, de se conserver pur du monde.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.1.27",
+              "verseOrgIds": [
+                "JAS.1.27"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "next": {
+      "id": "JAS.2",
+      "number": "2",
+      "bookId": "JAS"
+    },
+    "previous": {
+      "id": "JAS.intro",
+      "number": "intro",
+      "bookId": "JAS"
+    }
+  },
+  "JAS.2": {
+    "id": "JAS.2",
+    "number": "2",
+    "bookId": "JAS",
+    "reference": "Jacques 2",
+    "copyright": "Texte libre de droits",
+    "verseCount": 26,
+    "content": [
+      {
+        "name": "chapter",
+        "type": "tag",
+        "attrs": {
+          "number": "2",
+          "style": "c",
+          "sid": "JAS 2"
+        },
+        "items": [
+          {
+            "text": "2",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "1",
+              "style": "v",
+              "sid": "JAS 2:1"
+            },
+            "items": [
+              {
+                "text": "1",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mes frères, n'ayez pas la foi de notre seigneur Jésus Christ, [seigneur] de gloire, en faisant acception de personnes.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.1",
+              "verseOrgIds": [
+                "JAS.2.1"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "2",
+              "style": "v",
+              "sid": "JAS 2:2"
+            },
+            "items": [
+              {
+                "text": "2",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Car s'il entre dans votre synagogue un homme portant une bague d'or, en vêtements éclatants, et qu'il entre aussi un pauvre en vêtements sales,",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.2",
+              "verseOrgIds": [
+                "JAS.2.2"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "3",
+              "style": "v",
+              "sid": "JAS 2:3"
+            },
+            "items": [
+              {
+                "text": "3",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "et que vous regardiez vers celui qui porte les vêtements éclatants, et que vous disiez : Toi, assieds-toi ici à ton aise ; et que vous disiez au pauvre : Toi, tiens-toi là debout ; ou : Assieds-toi ici au bas de mon marchepied ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.3",
+              "verseOrgIds": [
+                "JAS.2.3"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "4",
+              "style": "v",
+              "sid": "JAS 2:4"
+            },
+            "items": [
+              {
+                "text": "4",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "n'avez-vous pas fait une distinction en vous-mêmes",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.4",
+              "verseOrgIds": [
+                "JAS.2.4"
+              ]
+            }
+          },
+          {
+            "text": ", et n'êtes-vous pas devenus des juges ayant de mauvaises pensées ?",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.4",
+              "verseOrgIds": [
+                "JAS.2.4"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "5",
+              "style": "v",
+              "sid": "JAS 2:5"
+            },
+            "items": [
+              {
+                "text": "5",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Écoutez, mes frères bien-aimés :",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.5",
+              "verseOrgIds": [
+                "JAS.2.5"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "JAS.2.5",
+                  "verseOrgIds": [
+                    "JAS.2.5"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "n'a-t-il pas choisi les pauvres quant au monde, riches en foi et héritiers du royaume qu'il a promis à ceux qui l'aiment ?",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.5",
+              "verseOrgIds": [
+                "JAS.2.5"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "6",
+              "style": "v",
+              "sid": "JAS 2:6"
+            },
+            "items": [
+              {
+                "text": "6",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mais vous, vous avez méprisé le pauvre. Les riches ne vous oppriment-ils pas, et ne sont-ce pas eux qui vous tirent devant les tribunaux ?",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.6",
+              "verseOrgIds": [
+                "JAS.2.6"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "7",
+              "style": "v",
+              "sid": "JAS 2:7"
+            },
+            "items": [
+              {
+                "text": "7",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Ne sont-ce pas eux qui blasphèment le beau nom qui a été invoqué sur vous ?",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.7",
+              "verseOrgIds": [
+                "JAS.2.7"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "8",
+              "style": "v",
+              "sid": "JAS 2:8"
+            },
+            "items": [
+              {
+                "text": "8",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Si en effet vous accomplissez la loi royale, selon",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.8",
+              "verseOrgIds": [
+                "JAS.2.8"
+              ]
+            }
+          },
+          {
+            "text": "l'écriture : « Tu aimeras ton prochain comme toi-même »",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.8",
+              "verseOrgIds": [
+                "JAS.2.8"
+              ]
+            }
+          },
+          {
+            "text": ", vous faites bien ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.8",
+              "verseOrgIds": [
+                "JAS.2.8"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "9",
+              "style": "v",
+              "sid": "JAS 2:9"
+            },
+            "items": [
+              {
+                "text": "9",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "mais si vous faites acception de personnes, vous commettez le péché, et vous êtes convaincus par la loi comme transgresseurs.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.9",
+              "verseOrgIds": [
+                "JAS.2.9"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "10",
+              "style": "v",
+              "sid": "JAS 2:10"
+            },
+            "items": [
+              {
+                "text": "10",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Car quiconque gardera toute la loi et faillira en un seul point, est coupable sur tous.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.10",
+              "verseOrgIds": [
+                "JAS.2.10"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "11",
+              "style": "v",
+              "sid": "JAS 2:11"
+            },
+            "items": [
+              {
+                "text": "11",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Car celui qui a dit : « Tu ne commettras pas adultère », a dit aussi : « Tu ne tueras pas ». Or si tu ne commets pas adultère, mais que tu tues, tu es devenu transgresseur de [la] loi.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.11",
+              "verseOrgIds": [
+                "JAS.2.11"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "12",
+              "style": "v",
+              "sid": "JAS 2:12"
+            },
+            "items": [
+              {
+                "text": "12",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Ainsi parlez, et ainsi agissez comme devant être jugés par la loi de la liberté ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.12",
+              "verseOrgIds": [
+                "JAS.2.12"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "13",
+              "style": "v",
+              "sid": "JAS 2:13"
+            },
+            "items": [
+              {
+                "text": "13",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "car le jugement est sans miséricorde pour celui qui n'a pas usé de miséricorde. La miséricorde se glorifie vis-à-vis du jugement.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.13",
+              "verseOrgIds": [
+                "JAS.2.13"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "14",
+              "style": "v",
+              "sid": "JAS 2:14"
+            },
+            "items": [
+              {
+                "text": "14",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mes frères, quel profit y a-t-il si quelqu'un dit qu'il a la foi, et qu'il n'ait pas d'œuvres ? La foi peut-elle le sauver ?",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.14",
+              "verseOrgIds": [
+                "JAS.2.14"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "15",
+              "style": "v",
+              "sid": "JAS 2:15"
+            },
+            "items": [
+              {
+                "text": "15",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Et si un frère ou une sœur sont nus et manquent de leur nourriture de tous les jours,",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.15",
+              "verseOrgIds": [
+                "JAS.2.15"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "16",
+              "style": "v",
+              "sid": "JAS 2:16"
+            },
+            "items": [
+              {
+                "text": "16",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "et que quelqu'un d'entre vous leur dise : Allez en paix, chauffez-vous et rassasiez-vous, – et que vous ne leur donniez pas les choses nécessaires pour le corps, quel profit y a-t-il ?",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.16",
+              "verseOrgIds": [
+                "JAS.2.16"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "17",
+              "style": "v",
+              "sid": "JAS 2:17"
+            },
+            "items": [
+              {
+                "text": "17",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "De même aussi la foi, si elle n'a pas d'œuvres, est morte par elle-même.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.17",
+              "verseOrgIds": [
+                "JAS.2.17"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "18",
+              "style": "v",
+              "sid": "JAS 2:18"
+            },
+            "items": [
+              {
+                "text": "18",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mais quelqu'un dira : Tu as la foi, et moi j'ai des œuvres. Montre-moi ta foi sans œuvres, et moi, par",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.18",
+              "verseOrgIds": [
+                "JAS.2.18"
+              ]
+            }
+          },
+          {
+            "text": "mes œuvres, je te montrerai ma foi.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.18",
+              "verseOrgIds": [
+                "JAS.2.18"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "19",
+              "style": "v",
+              "sid": "JAS 2:19"
+            },
+            "items": [
+              {
+                "text": "19",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Tu crois que",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.19",
+              "verseOrgIds": [
+                "JAS.2.19"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "JAS.2.19",
+                  "verseOrgIds": [
+                    "JAS.2.19"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "est un ; tu fais bien : les démons aussi croient, et ils frissonnent.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.19",
+              "verseOrgIds": [
+                "JAS.2.19"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "20",
+              "style": "v",
+              "sid": "JAS 2:20"
+            },
+            "items": [
+              {
+                "text": "20",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mais veux-tu savoir, ô homme vain, que la foi sans les œuvres est morte",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.20",
+              "verseOrgIds": [
+                "JAS.2.20"
+              ]
+            }
+          },
+          {
+            "text": "?",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.20",
+              "verseOrgIds": [
+                "JAS.2.20"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "21",
+              "style": "v",
+              "sid": "JAS 2:21"
+            },
+            "items": [
+              {
+                "text": "21",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Abraham, notre père, n'a-t-il pas été justifié par des œuvres, ayant offert son fils Isaac sur l'autel ?",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.21",
+              "verseOrgIds": [
+                "JAS.2.21"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "22",
+              "style": "v",
+              "sid": "JAS 2:22"
+            },
+            "items": [
+              {
+                "text": "22",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Tu vois que la foi agissait avec ses œuvres ; et par les œuvres la foi fut rendue parfaite.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.22",
+              "verseOrgIds": [
+                "JAS.2.22"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "23",
+              "style": "v",
+              "sid": "JAS 2:23"
+            },
+            "items": [
+              {
+                "text": "23",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Et l'écriture a été accomplie qui dit : « Et Abraham crut",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.23",
+              "verseOrgIds": [
+                "JAS.2.23"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "JAS.2.23",
+                  "verseOrgIds": [
+                    "JAS.2.23"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": ", et cela lui fut compté à justice »",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.23",
+              "verseOrgIds": [
+                "JAS.2.23"
+              ]
+            }
+          },
+          {
+            "text": "; et il a été appelé ami de",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.23",
+              "verseOrgIds": [
+                "JAS.2.23"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "JAS.2.23",
+                  "verseOrgIds": [
+                    "JAS.2.23"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": ".",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.23",
+              "verseOrgIds": [
+                "JAS.2.23"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "24",
+              "style": "v",
+              "sid": "JAS 2:24"
+            },
+            "items": [
+              {
+                "text": "24",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Vous voyez qu'un homme est justifié par les œuvres et non par la foi seulement.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.24",
+              "verseOrgIds": [
+                "JAS.2.24"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "25",
+              "style": "v",
+              "sid": "JAS 2:25"
+            },
+            "items": [
+              {
+                "text": "25",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Et pareillement Rahab aussi, la prostituée, n'a-t-elle pas été justifiée par les œuvres, ayant reçu les messagers et les ayant mis dehors par un autre chemin ?",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.25",
+              "verseOrgIds": [
+                "JAS.2.25"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "26",
+              "style": "v",
+              "sid": "JAS 2:26"
+            },
+            "items": [
+              {
+                "text": "26",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Car comme le corps sans esprit est mort, ainsi aussi la foi sans les œuvres est morte.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.2.26",
+              "verseOrgIds": [
+                "JAS.2.26"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "next": {
+      "id": "JAS.3",
+      "number": "3",
+      "bookId": "JAS"
+    },
+    "previous": {
+      "id": "JAS.1",
+      "number": "1",
+      "bookId": "JAS"
+    }
+  },
+  "JAS.3": {
+    "id": "JAS.3",
+    "number": "3",
+    "bookId": "JAS",
+    "reference": "Jacques 3",
+    "copyright": "Texte libre de droits",
+    "verseCount": 18,
+    "content": [
+      {
+        "name": "chapter",
+        "type": "tag",
+        "attrs": {
+          "number": "3",
+          "style": "c",
+          "sid": "JAS 3"
+        },
+        "items": [
+          {
+            "text": "3",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "1",
+              "style": "v",
+              "sid": "JAS 3:1"
+            },
+            "items": [
+              {
+                "text": "1",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Ne soyez pas beaucoup de docteurs",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.1",
+              "verseOrgIds": [
+                "JAS.3.1"
+              ]
+            }
+          },
+          {
+            "text": ", mes frères, sachant que nous en recevrons un jugement plus sévère ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.1",
+              "verseOrgIds": [
+                "JAS.3.1"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "2",
+              "style": "v",
+              "sid": "JAS 3:2"
+            },
+            "items": [
+              {
+                "text": "2",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "car nous faillissons tous à plusieurs égards",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.2",
+              "verseOrgIds": [
+                "JAS.3.2"
+              ]
+            }
+          },
+          {
+            "text": ". Si quelqu'un ne faillit pas en paroles, celui-là est un homme parfait, capable de tenir aussi tout le corps en bride.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.2",
+              "verseOrgIds": [
+                "JAS.3.2"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "3",
+              "style": "v",
+              "sid": "JAS 3:3"
+            },
+            "items": [
+              {
+                "text": "3",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Voici, nous mettons les mors des chevaux dans leurs bouches, pour qu'ils nous obéissent, et nous dirigeons çà et là leur corps tout entier.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.3",
+              "verseOrgIds": [
+                "JAS.3.3"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "4",
+              "style": "v",
+              "sid": "JAS 3:4"
+            },
+            "items": [
+              {
+                "text": "4",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Voici, les navires aussi, qui sont si grands et qui sont poussés par des vents violents, sont dirigés çà et là par un très petit gouvernail, où que ce soit que le veuille l'impulsion de celui qui les gouverne.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.4",
+              "verseOrgIds": [
+                "JAS.3.4"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "5",
+              "style": "v",
+              "sid": "JAS 3:5"
+            },
+            "items": [
+              {
+                "text": "5",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Ainsi aussi la langue est un petit membre et elle se vante de grandes choses. Voici, un petit feu, quelle grande forêt",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.5",
+              "verseOrgIds": [
+                "JAS.3.5"
+              ]
+            }
+          },
+          {
+            "text": "allume-t-il !",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.5",
+              "verseOrgIds": [
+                "JAS.3.5"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "6",
+              "style": "v",
+              "sid": "JAS 3:6"
+            },
+            "items": [
+              {
+                "text": "6",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Et la langue est un feu. La langue, un monde d'iniquité",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.6",
+              "verseOrgIds": [
+                "JAS.3.6"
+              ]
+            }
+          },
+          {
+            "text": ", est établie parmi nos membres ; c'est elle qui souille tout le corps, et enflamme tout le cours de la nature, et est enflammée par la géhenne.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.6",
+              "verseOrgIds": [
+                "JAS.3.6"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "7",
+              "style": "v",
+              "sid": "JAS 3:7"
+            },
+            "items": [
+              {
+                "text": "7",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Car toute espèce de bêtes sauvages et d'oiseaux, de reptiles et d'animaux marins, se dompte et a été domptée par l'espèce humaine ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.7",
+              "verseOrgIds": [
+                "JAS.3.7"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "8",
+              "style": "v",
+              "sid": "JAS 3:8"
+            },
+            "items": [
+              {
+                "text": "8",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "mais pour la langue, aucun des hommes ne peut la dompter : c'est un mal désordonné, plein d'un venin mortel.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.8",
+              "verseOrgIds": [
+                "JAS.3.8"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "9",
+              "style": "v",
+              "sid": "JAS 3:9"
+            },
+            "items": [
+              {
+                "text": "9",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Par elle nous bénissons le Seigneur et Père, et par elle nous maudissons les hommes faits à la ressemblance de",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.9",
+              "verseOrgIds": [
+                "JAS.3.9"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "JAS.3.9",
+                  "verseOrgIds": [
+                    "JAS.3.9"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": ";",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.9",
+              "verseOrgIds": [
+                "JAS.3.9"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "10",
+              "style": "v",
+              "sid": "JAS 3:10"
+            },
+            "items": [
+              {
+                "text": "10",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "de la même bouche procède la bénédiction et la malédiction. Mes frères, il ne devrait pas en être ainsi.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.10",
+              "verseOrgIds": [
+                "JAS.3.10"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "11",
+              "style": "v",
+              "sid": "JAS 3:11"
+            },
+            "items": [
+              {
+                "text": "11",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Une fontaine fait-elle jaillir par une même ouverture le doux et l'amer ?",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.11",
+              "verseOrgIds": [
+                "JAS.3.11"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "12",
+              "style": "v",
+              "sid": "JAS 3:12"
+            },
+            "items": [
+              {
+                "text": "12",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mes frères, un figuier peut-il produire des olives, ou une vigne, des figues ? De l'eau salée ne peut pas non plus faire de l'eau douce.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.12",
+              "verseOrgIds": [
+                "JAS.3.12"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "13",
+              "style": "v",
+              "sid": "JAS 3:13"
+            },
+            "items": [
+              {
+                "text": "13",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Qui est sage et intelligent parmi vous ? Que par une bonne conduite il montre ses œuvres avec la douceur de la sagesse.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.13",
+              "verseOrgIds": [
+                "JAS.3.13"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "14",
+              "style": "v",
+              "sid": "JAS 3:14"
+            },
+            "items": [
+              {
+                "text": "14",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mais si vous avez une jalousie amère et un esprit de querelle dans vos cœurs, ne vous glorifiez pas et ne mentez pas contre la vérité",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.14",
+              "verseOrgIds": [
+                "JAS.3.14"
+              ]
+            }
+          },
+          {
+            "text": ".",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.14",
+              "verseOrgIds": [
+                "JAS.3.14"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "15",
+              "style": "v",
+              "sid": "JAS 3:15"
+            },
+            "items": [
+              {
+                "text": "15",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Ce n'est pas là la sagesse qui descend d'en haut, mais [une sagesse] terrestre, animale, diabolique.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.15",
+              "verseOrgIds": [
+                "JAS.3.15"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "16",
+              "style": "v",
+              "sid": "JAS 3:16"
+            },
+            "items": [
+              {
+                "text": "16",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Car où il y a de la jalousie et un esprit de querelle, là il y a du désordre et toute espèce de mauvaises actions.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.16",
+              "verseOrgIds": [
+                "JAS.3.16"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "17",
+              "style": "v",
+              "sid": "JAS 3:17"
+            },
+            "items": [
+              {
+                "text": "17",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mais la sagesse d'en haut est premièrement pure, ensuite paisible, modérée, traitable, pleine de miséricorde et de bons fruits, sans partialité",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.17",
+              "verseOrgIds": [
+                "JAS.3.17"
+              ]
+            }
+          },
+          {
+            "text": ", sans hypocrisie.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.17",
+              "verseOrgIds": [
+                "JAS.3.17"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "18",
+              "style": "v",
+              "sid": "JAS 3:18"
+            },
+            "items": [
+              {
+                "text": "18",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Or le fruit de la justice, dans la paix, se sème pour ceux qui procurent la paix.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.3.18",
+              "verseOrgIds": [
+                "JAS.3.18"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "next": {
+      "id": "JAS.4",
+      "number": "4",
+      "bookId": "JAS"
+    },
+    "previous": {
+      "id": "JAS.2",
+      "number": "2",
+      "bookId": "JAS"
+    }
+  },
+  "JAS.4": {
+    "id": "JAS.4",
+    "number": "4",
+    "bookId": "JAS",
+    "reference": "Jacques 4",
+    "copyright": "Texte libre de droits",
+    "verseCount": 17,
+    "content": [
+      {
+        "name": "chapter",
+        "type": "tag",
+        "attrs": {
+          "number": "4",
+          "style": "c",
+          "sid": "JAS 4"
+        },
+        "items": [
+          {
+            "text": "4",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "1",
+              "style": "v",
+              "sid": "JAS 4:1"
+            },
+            "items": [
+              {
+                "text": "1",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "D'où viennent les guerres, et d'où les batailles parmi vous ? N'est-ce pas de cela, de vos voluptés qui combattent dans vos membres ?",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.1",
+              "verseOrgIds": [
+                "JAS.4.1"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "2",
+              "style": "v",
+              "sid": "JAS 4:2"
+            },
+            "items": [
+              {
+                "text": "2",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Vous convoitez, et vous n'avez pas ; vous tuez et vous avez d'ardents désirs, et vous ne pouvez obtenir ; vous contestez et vous faites la guerre ; vous n'avez pas, parce que vous ne demandez pas ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.2",
+              "verseOrgIds": [
+                "JAS.4.2"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "3",
+              "style": "v",
+              "sid": "JAS 4:3"
+            },
+            "items": [
+              {
+                "text": "3",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "vous demandez, et vous ne recevez pas, parce que vous demandez mal, afin de le dépenser pour vos voluptés.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.3",
+              "verseOrgIds": [
+                "JAS.4.3"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "4",
+              "style": "v",
+              "sid": "JAS 4:4"
+            },
+            "items": [
+              {
+                "text": "4",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Adultères",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.4",
+              "verseOrgIds": [
+                "JAS.4.4"
+              ]
+            }
+          },
+          {
+            "text": ", ne savez-vous pas que l'amitié du monde est inimitié contre",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.4",
+              "verseOrgIds": [
+                "JAS.4.4"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "JAS.4.4",
+                  "verseOrgIds": [
+                    "JAS.4.4"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "? Quiconque donc voudra être ami du monde, se constitue ennemi de",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.4",
+              "verseOrgIds": [
+                "JAS.4.4"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "JAS.4.4",
+                  "verseOrgIds": [
+                    "JAS.4.4"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": ".",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.4",
+              "verseOrgIds": [
+                "JAS.4.4"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "5",
+              "style": "v",
+              "sid": "JAS 4:5"
+            },
+            "items": [
+              {
+                "text": "5",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Ou pensez-vous que l'écriture parle en vain ? L'Esprit qui demeure en nous, désire-t-il avec envie ?",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.5",
+              "verseOrgIds": [
+                "JAS.4.5"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "6",
+              "style": "v",
+              "sid": "JAS 4:6"
+            },
+            "items": [
+              {
+                "text": "6",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mais il donne une plus grande grâce. C'est pourquoi il dit : «",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.6",
+              "verseOrgIds": [
+                "JAS.4.6"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "JAS.4.6",
+                  "verseOrgIds": [
+                    "JAS.4.6"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": "résiste aux orgueilleux, mais il donne [la] grâce aux humbles »",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.6",
+              "verseOrgIds": [
+                "JAS.4.6"
+              ]
+            }
+          },
+          {
+            "text": ".",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.6",
+              "verseOrgIds": [
+                "JAS.4.6"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "7",
+              "style": "v",
+              "sid": "JAS 4:7"
+            },
+            "items": [
+              {
+                "text": "7",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Soumettez-vous donc à",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.7",
+              "verseOrgIds": [
+                "JAS.4.7"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "JAS.4.7",
+                  "verseOrgIds": [
+                    "JAS.4.7"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": ".",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.7",
+              "verseOrgIds": [
+                "JAS.4.7"
+              ]
+            }
+          },
+          {
+            "text": "Résistez au diable, et il s'enfuira de vous.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.7",
+              "verseOrgIds": [
+                "JAS.4.7"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "8",
+              "style": "v",
+              "sid": "JAS 4:8"
+            },
+            "items": [
+              {
+                "text": "8",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Approchez-vous de",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.8",
+              "verseOrgIds": [
+                "JAS.4.8"
+              ]
+            }
+          },
+          {
+            "name": "char",
+            "type": "tag",
+            "attrs": {
+              "style": "nd"
+            },
+            "items": [
+              {
+                "text": "Dieu",
+                "type": "text",
+                "attrs": {
+                  "verseId": "JAS.4.8",
+                  "verseOrgIds": [
+                    "JAS.4.8"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "text": ", et il s'approchera de vous. Nettoyez vos mains, pécheurs, et purifiez vos cœurs, vous qui êtes doubles de cœur.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.8",
+              "verseOrgIds": [
+                "JAS.4.8"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "9",
+              "style": "v",
+              "sid": "JAS 4:9"
+            },
+            "items": [
+              {
+                "text": "9",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Sentez vos misères, et menez deuil et pleurez. Que votre rire se change en deuil, et votre joie en tristesse.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.9",
+              "verseOrgIds": [
+                "JAS.4.9"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "10",
+              "style": "v",
+              "sid": "JAS 4:10"
+            },
+            "items": [
+              {
+                "text": "10",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Humiliez-vous devant le ✶Seigneur, et il vous élèvera.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.10",
+              "verseOrgIds": [
+                "JAS.4.10"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "11",
+              "style": "v",
+              "sid": "JAS 4:11"
+            },
+            "items": [
+              {
+                "text": "11",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Ne parlez pas l'un contre l'autre, frères. Celui qui parle contre son frère ou qui juge son frère, parle contre la loi et juge la loi. Or si tu juges la loi, tu n'es pas un observateur de la loi, mais un juge.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.11",
+              "verseOrgIds": [
+                "JAS.4.11"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "12",
+              "style": "v",
+              "sid": "JAS 4:12"
+            },
+            "items": [
+              {
+                "text": "12",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Un seul est législateur et juge, celui qui peut",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.12",
+              "verseOrgIds": [
+                "JAS.4.12"
+              ]
+            }
+          },
+          {
+            "text": "sauver et détruire ; mais toi, qui es-tu qui juges ton prochain ?",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.12",
+              "verseOrgIds": [
+                "JAS.4.12"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "13",
+              "style": "v",
+              "sid": "JAS 4:13"
+            },
+            "items": [
+              {
+                "text": "13",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "À vous maintenant, qui dites : Aujourd'hui ou demain nous irons dans telle ou telle ville, et nous y passerons une année, et nous trafiquerons et nous gagnerons,",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.13",
+              "verseOrgIds": [
+                "JAS.4.13"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "14",
+              "style": "v",
+              "sid": "JAS 4:14"
+            },
+            "items": [
+              {
+                "text": "14",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "vous qui ne savez pas ce [qui arrivera] le jour de demain ; (car qu'est-ce que votre vie ? car elle n'est qu'une vapeur paraissant pour un peu de temps et puis disparaissant ;)",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.14",
+              "verseOrgIds": [
+                "JAS.4.14"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "15",
+              "style": "v",
+              "sid": "JAS 4:15"
+            },
+            "items": [
+              {
+                "text": "15",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "au lieu de dire : Si le Seigneur le veut et si nous vivons, nous ferons aussi ceci ou cela.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.15",
+              "verseOrgIds": [
+                "JAS.4.15"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "16",
+              "style": "v",
+              "sid": "JAS 4:16"
+            },
+            "items": [
+              {
+                "text": "16",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mais maintenant vous vous glorifiez dans vos vanteries. Toute jactance pareille est mauvaise.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.16",
+              "verseOrgIds": [
+                "JAS.4.16"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "17",
+              "style": "v",
+              "sid": "JAS 4:17"
+            },
+            "items": [
+              {
+                "text": "17",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Pour celui donc qui sait faire le bien et qui ne le fait pas, pour lui c'est pécher",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.17",
+              "verseOrgIds": [
+                "JAS.4.17"
+              ]
+            }
+          },
+          {
+            "text": ".",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.4.17",
+              "verseOrgIds": [
+                "JAS.4.17"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "next": {
+      "id": "JAS.5",
+      "number": "5",
+      "bookId": "JAS"
+    },
+    "previous": {
+      "id": "JAS.3",
+      "number": "3",
+      "bookId": "JAS"
+    }
+  },
+  "JAS.5": {
+    "id": "JAS.5",
+    "number": "5",
+    "bookId": "JAS",
+    "reference": "Jacques 5",
+    "copyright": "Texte libre de droits",
+    "verseCount": 20,
+    "content": [
+      {
+        "name": "chapter",
+        "type": "tag",
+        "attrs": {
+          "number": "5",
+          "style": "c",
+          "sid": "JAS 5"
+        },
+        "items": [
+          {
+            "text": "5",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "1",
+              "style": "v",
+              "sid": "JAS 5:1"
+            },
+            "items": [
+              {
+                "text": "1",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "À vous maintenant, riches ! Pleurez en poussant des cris, à cause des misères qui vont venir sur vous.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.1",
+              "verseOrgIds": [
+                "JAS.5.1"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "2",
+              "style": "v",
+              "sid": "JAS 5:2"
+            },
+            "items": [
+              {
+                "text": "2",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Vos richesses sont pourries et vos vêtements sont rongés par les vers ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.2",
+              "verseOrgIds": [
+                "JAS.5.2"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "3",
+              "style": "v",
+              "sid": "JAS 5:3"
+            },
+            "items": [
+              {
+                "text": "3",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "votre or et votre argent sont rouillés, et leur rouille sera en témoignage contre vous et dévorera votre chair comme le feu : vous avez amassé un trésor dans les derniers jours.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.3",
+              "verseOrgIds": [
+                "JAS.5.3"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "4",
+              "style": "v",
+              "sid": "JAS 5:4"
+            },
+            "items": [
+              {
+                "text": "4",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Voici, le salaire des ouvriers qui ont moissonné vos champs et duquel ils ont été frustrés par vous, crie, et les cris de ceux qui ont moissonné sont parvenus aux oreilles du ✶Seigneur Sabaoth",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.4",
+              "verseOrgIds": [
+                "JAS.5.4"
+              ]
+            }
+          },
+          {
+            "text": ".",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.4",
+              "verseOrgIds": [
+                "JAS.5.4"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "5",
+              "style": "v",
+              "sid": "JAS 5:5"
+            },
+            "items": [
+              {
+                "text": "5",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Vous avez vécu dans les délices sur la terre, et vous vous êtes livrés aux voluptés ; vous avez rassasié vos cœurs [comme] en un jour de sacrifice ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.5",
+              "verseOrgIds": [
+                "JAS.5.5"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "6",
+              "style": "v",
+              "sid": "JAS 5:6"
+            },
+            "items": [
+              {
+                "text": "6",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "vous avez condamné, vous avez mis à mort le juste : il ne vous résiste pas.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.6",
+              "verseOrgIds": [
+                "JAS.5.6"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "7",
+              "style": "v",
+              "sid": "JAS 5:7"
+            },
+            "items": [
+              {
+                "text": "7",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Usez donc de patience",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.7",
+              "verseOrgIds": [
+                "JAS.5.7"
+              ]
+            }
+          },
+          {
+            "text": ", frères, jusqu'à la venue du Seigneur. Voici, le laboureur attend le fruit précieux de la terre, prenant patience",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.7",
+              "verseOrgIds": [
+                "JAS.5.7"
+              ]
+            }
+          },
+          {
+            "text": "à son égard, jusqu'à ce qu'il reçoive les pluies de la première et de la dernière saison.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.7",
+              "verseOrgIds": [
+                "JAS.5.7"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "8",
+              "style": "v",
+              "sid": "JAS 5:8"
+            },
+            "items": [
+              {
+                "text": "8",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Vous aussi, usez de patience",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.8",
+              "verseOrgIds": [
+                "JAS.5.8"
+              ]
+            }
+          },
+          {
+            "text": "; affermissez vos cœurs, car la venue du Seigneur est proche.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.8",
+              "verseOrgIds": [
+                "JAS.5.8"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "9",
+              "style": "v",
+              "sid": "JAS 5:9"
+            },
+            "items": [
+              {
+                "text": "9",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Ne murmurez",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.9",
+              "verseOrgIds": [
+                "JAS.5.9"
+              ]
+            }
+          },
+          {
+            "text": "pas les uns contre les autres, frères, afin que vous ne soyez pas jugés : voici, le juge se tient devant la porte.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.9",
+              "verseOrgIds": [
+                "JAS.5.9"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "10",
+              "style": "v",
+              "sid": "JAS 5:10"
+            },
+            "items": [
+              {
+                "text": "10",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mes frères, prenez pour exemple de souffrance",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.10",
+              "verseOrgIds": [
+                "JAS.5.10"
+              ]
+            }
+          },
+          {
+            "text": "et de patience",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.10",
+              "verseOrgIds": [
+                "JAS.5.10"
+              ]
+            }
+          },
+          {
+            "text": "les prophètes qui ont parlé au nom du ✶Seigneur.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.10",
+              "verseOrgIds": [
+                "JAS.5.10"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "11",
+              "style": "v",
+              "sid": "JAS 5:11"
+            },
+            "items": [
+              {
+                "text": "11",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Voici, nous disons bienheureux ceux qui endurent [l'épreuve avec patience]. Vous avez entendu parler de la patience de Job, et vous avez vu la fin du ✶Seigneur, [savoir] que le ✶Seigneur est plein de compassion et miséricordieux.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.11",
+              "verseOrgIds": [
+                "JAS.5.11"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "12",
+              "style": "v",
+              "sid": "JAS 5:12"
+            },
+            "items": [
+              {
+                "text": "12",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mais avant toutes choses, mes frères, ne jurez pas, ni par le ciel, ni par la terre, ni par aucun autre serment ; mais que votre oui soit oui, et votre non, non, afin que vous ne tombiez pas sous le jugement.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.12",
+              "verseOrgIds": [
+                "JAS.5.12"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "13",
+              "style": "v",
+              "sid": "JAS 5:13"
+            },
+            "items": [
+              {
+                "text": "13",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Quelqu'un parmi vous est-il maltraité, qu'il prie. Quelqu'un est-il joyeux, qu'il chante des cantiques.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.13",
+              "verseOrgIds": [
+                "JAS.5.13"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "14",
+              "style": "v",
+              "sid": "JAS 5:14"
+            },
+            "items": [
+              {
+                "text": "14",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Quelqu'un parmi vous est-il malade, qu'il appelle les anciens de l'assemblée, et qu'ils prient pour lui en l'oignant d'huile au nom du Seigneur ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.14",
+              "verseOrgIds": [
+                "JAS.5.14"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "15",
+              "style": "v",
+              "sid": "JAS 5:15"
+            },
+            "items": [
+              {
+                "text": "15",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "et la prière de la foi sauvera le malade, et le Seigneur le relèvera ; et s'il a commis des péchés, il lui sera pardonné.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.15",
+              "verseOrgIds": [
+                "JAS.5.15"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "16",
+              "style": "v",
+              "sid": "JAS 5:16"
+            },
+            "items": [
+              {
+                "text": "16",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Confessez donc vos fautes",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.16",
+              "verseOrgIds": [
+                "JAS.5.16"
+              ]
+            }
+          },
+          {
+            "text": "l'un à l'autre, et priez l'un pour l'autre, en sorte que vous soyez guéris : la fervente",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.16",
+              "verseOrgIds": [
+                "JAS.5.16"
+              ]
+            }
+          },
+          {
+            "text": "supplication du juste peut beaucoup.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.16",
+              "verseOrgIds": [
+                "JAS.5.16"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "17",
+              "style": "v",
+              "sid": "JAS 5:17"
+            },
+            "items": [
+              {
+                "text": "17",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Élie était un homme ayant les mêmes passions que nous",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.17",
+              "verseOrgIds": [
+                "JAS.5.17"
+              ]
+            }
+          },
+          {
+            "text": ", et il pria avec instance",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.17",
+              "verseOrgIds": [
+                "JAS.5.17"
+              ]
+            }
+          },
+          {
+            "text": "qu'il ne pleuve pas, et il ne tomba pas de pluie sur la terre durant trois ans et six mois ;",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.17",
+              "verseOrgIds": [
+                "JAS.5.17"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "18",
+              "style": "v",
+              "sid": "JAS 5:18"
+            },
+            "items": [
+              {
+                "text": "18",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "et il pria de nouveau, et le ciel donna de la pluie, et la terre produisit son fruit.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.18",
+              "verseOrgIds": [
+                "JAS.5.18"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "para",
+        "type": "tag",
+        "attrs": {
+          "style": "p"
+        },
+        "items": [
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "19",
+              "style": "v",
+              "sid": "JAS 5:19"
+            },
+            "items": [
+              {
+                "text": "19",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "Mes frères, si quelqu'un parmi vous s'égare de la vérité, et que quelqu'un le ramène,",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.19",
+              "verseOrgIds": [
+                "JAS.5.19"
+              ]
+            }
+          },
+          {
+            "name": "verse",
+            "type": "tag",
+            "attrs": {
+              "number": "20",
+              "style": "v",
+              "sid": "JAS 5:20"
+            },
+            "items": [
+              {
+                "text": "20",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "text": "qu'il sache que celui qui aura ramené un pécheur de l'égarement de son chemin, sauvera une âme de la mort et couvrira une multitude de péchés.",
+            "type": "text",
+            "attrs": {
+              "verseId": "JAS.5.20",
+              "verseOrgIds": [
+                "JAS.5.20"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "next": {
+      "id": "1PE.intro",
+      "number": "intro",
+      "bookId": "1PE"
+    },
+    "previous": {
+      "id": "JAS.4",
+      "number": "4",
+      "bookId": "JAS"
+    }
+  }
+}
