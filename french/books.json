@@ -1,400 +1,398 @@
-{
-  "data": [
-    {
-      "id": "GEN",
-      "abbreviation": "Genèse",
-      "name": "Genèse",
-      "nameLong": "Le premier livre de Moïse dit la Genèse"
-    },
-    {
-      "id": "EXO",
-      "abbreviation": "Exode",
-      "name": "Exode",
-      "nameLong": "Le second livre de Moïse dit l’Exode"
-    },
-    {
-      "id": "LEV",
-      "abbreviation": "Lévitique",
-      "name": "Lévitique",
-      "nameLong": "Le troisième livre de Moïse dit le Lévitique"
-    },
-    {
-      "id": "NUM",
-      "abbreviation": "Nombres",
-      "name": "Nombres",
-      "nameLong": "Le quatrième livre de Moïse dit les Nombres"
-    },
-    {
-      "id": "DEU",
-      "abbreviation": "Deutéronome",
-      "name": "Deutéronome",
-      "nameLong": "Le cinquième livre de Moïse dit le Deutéronome"
-    },
-    {
-      "id": "JOS",
-      "abbreviation": "Josué",
-      "name": "Josué",
-      "nameLong": "Le livre de Josué"
-    },
-    {
-      "id": "JDG",
-      "abbreviation": "Juges",
-      "name": "Juges",
-      "nameLong": "Le livre des Juges"
-    },
-    {
-      "id": "RUT",
-      "abbreviation": "Ruth",
-      "name": "Ruth",
-      "nameLong": "Ruth"
-    },
-    {
-      "id": "1SA",
-      "abbreviation": "1 Samuel",
-      "name": "1 Samuel",
-      "nameLong": "Le premier livre de Samuel"
-    },
-    {
-      "id": "2SA",
-      "abbreviation": "2 Samuel",
-      "name": "2 Samuel",
-      "nameLong": "Le second livre de Samuel"
-    },
-    {
-      "id": "1KI",
-      "abbreviation": "1 Rois",
-      "name": "1 Rois",
-      "nameLong": "Le premier livre des Rois"
-    },
-    {
-      "id": "2KI",
-      "abbreviation": "2 Rois",
-      "name": "2 Rois",
-      "nameLong": "Le second livre des Rois"
-    },
-    {
-      "id": "1CH",
-      "abbreviation": "1 Chroniques",
-      "name": "1 Chroniques",
-      "nameLong": "Le premier livre des Chroniques"
-    },
-    {
-      "id": "2CH",
-      "abbreviation": "2 Chroniques",
-      "name": "2 Chroniques",
-      "nameLong": "Le second livre des Chroniques"
-    },
-    {
-      "id": "EZR",
-      "abbreviation": "Esdras",
-      "name": "Esdras",
-      "nameLong": "Esdras"
-    },
-    {
-      "id": "NEH",
-      "abbreviation": "Néhémie",
-      "name": "Néhémie",
-      "nameLong": "Néhémie"
-    },
-    {
-      "id": "EST",
-      "abbreviation": "Esther",
-      "name": "Esther",
-      "nameLong": "Esther"
-    },
-    {
-      "id": "JOB",
-      "abbreviation": "Job",
-      "name": "Job",
-      "nameLong": "Le livre de Job"
-    },
-    {
-      "id": "PSA",
-      "abbreviation": "Psaumes",
-      "name": "Psaumes",
-      "nameLong": "Les Psaumes"
-    },
-    {
-      "id": "PRO",
-      "abbreviation": "Proverbes",
-      "name": "Proverbes",
-      "nameLong": "Les Proverbes"
-    },
-    {
-      "id": "ECC",
-      "abbreviation": "Ecclésiaste",
-      "name": "Ecclésiaste",
-      "nameLong": "Le Prédicateur connu sous le nom de L’Ecclésiaste"
-    },
-    {
-      "id": "SNG",
-      "abbreviation": "Cantique des Cantiques",
-      "name": "Cantique des Cantiques",
-      "nameLong": "Le Cantique des cantiques"
-    },
-    {
-      "id": "ISA",
-      "abbreviation": "Ésaïe",
-      "name": "Ésaïe",
-      "nameLong": "Le livre du prophète Ésaïe"
-    },
-    {
-      "id": "JER",
-      "abbreviation": "Jérémie",
-      "name": "Jérémie",
-      "nameLong": "Le livre du prophète Jérémie"
-    },
-    {
-      "id": "LAM",
-      "abbreviation": "Lamentations de Jérémie",
-      "name": "Lamentations de Jérémie",
-      "nameLong": "Les lamentations de Jérémie"
-    },
-    {
-      "id": "EZK",
-      "abbreviation": "Ézéchiel",
-      "name": "Ézéchiel",
-      "nameLong": "Le livre du prophète Ézéchiel"
-    },
-    {
-      "id": "DAN",
-      "abbreviation": "Daniel",
-      "name": "Daniel",
-      "nameLong": "Le livre du prophète Daniel"
-    },
-    {
-      "id": "HOS",
-      "abbreviation": "Osée",
-      "name": "Osée",
-      "nameLong": "Le livre du prophète Osée"
-    },
-    {
-      "id": "JOL",
-      "abbreviation": "Joël",
-      "name": "Joël",
-      "nameLong": "Le livre du prophète Joël"
-    },
-    {
-      "id": "AMO",
-      "abbreviation": "Amos",
-      "name": "Amos",
-      "nameLong": "Le livre du prophète Amos"
-    },
-    {
-      "id": "OBA",
-      "abbreviation": "Abdias",
-      "name": "Abdias",
-      "nameLong": "Le livre du prophète Abdias"
-    },
-    {
-      "id": "JON",
-      "abbreviation": "Jonas",
-      "name": "Jonas",
-      "nameLong": "Le livre du prophète Jonas"
-    },
-    {
-      "id": "MIC",
-      "abbreviation": "Michée",
-      "name": "Michée",
-      "nameLong": "Le livre du prophète Michée"
-    },
-    {
-      "id": "NAM",
-      "abbreviation": "Nahum",
-      "name": "Nahum",
-      "nameLong": "Le livre du prophète Nahum"
-    },
-    {
-      "id": "HAB",
-      "abbreviation": "Habakuk",
-      "name": "Habakuk",
-      "nameLong": "Le livre du prophète Habakuk"
-    },
-    {
-      "id": "ZEP",
-      "abbreviation": "Sophonie",
-      "name": "Sophonie",
-      "nameLong": "Le livre du prophète Sophonie"
-    },
-    {
-      "id": "HAG",
-      "abbreviation": "Aggée",
-      "name": "Aggée",
-      "nameLong": "Le livre du prophète Aggée"
-    },
-    {
-      "id": "ZEC",
-      "abbreviation": "Zacharie",
-      "name": "Zacharie",
-      "nameLong": "Le livre du prophète Zacharie"
-    },
-    {
-      "id": "MAL",
-      "abbreviation": "Malachie",
-      "name": "Malachie",
-      "nameLong": "Le livre du prophète Malachie"
-    },
-    {
-      "id": "MAT",
-      "abbreviation": "Matthieu",
-      "name": "Matthieu",
-      "nameLong": "Évangile selon Matthieu"
-    },
-    {
-      "id": "MRK",
-      "abbreviation": "Marc",
-      "name": "Marc",
-      "nameLong": "Évangile selon Marc"
-    },
-    {
-      "id": "LUK",
-      "abbreviation": "Luc",
-      "name": "Luc",
-      "nameLong": "Évangile selon Luc"
-    },
-    {
-      "id": "JHN",
-      "abbreviation": "Jean",
-      "name": "Jean",
-      "nameLong": "Évangile selon Jean"
-    },
-    {
-      "id": "ACT",
-      "abbreviation": "Actes",
-      "name": "Actes",
-      "nameLong": "Actes des Apôtres"
-    },
-    {
-      "id": "ROM",
-      "abbreviation": "Romains",
-      "name": "Romains",
-      "nameLong": "Épître aux Romains"
-    },
-    {
-      "id": "1CO",
-      "abbreviation": "1 Corinthiens",
-      "name": "1 Corinthiens",
-      "nameLong": "Première épître aux Corinthiens"
-    },
-    {
-      "id": "2CO",
-      "abbreviation": "2 Corinthiens",
-      "name": "2 Corinthiens",
-      "nameLong": "Seconde épître aux Corinthiens"
-    },
-    {
-      "id": "GAL",
-      "abbreviation": "Galates",
-      "name": "Galates",
-      "nameLong": "Épître aux Galates"
-    },
-    {
-      "id": "EPH",
-      "abbreviation": "Éphésiens",
-      "name": "Éphésiens",
-      "nameLong": "Épître aux Éphésiens"
-    },
-    {
-      "id": "PHP",
-      "abbreviation": "Philippiens",
-      "name": "Philippiens",
-      "nameLong": "Épître aux Philippiens"
-    },
-    {
-      "id": "COL",
-      "abbreviation": "Colossiens",
-      "name": "Colossiens",
-      "nameLong": "Épître aux Colossiens"
-    },
-    {
-      "id": "1TH",
-      "abbreviation": "1 Thessaloniciens",
-      "name": "1 Thessaloniciens",
-      "nameLong": "Première épître aux Thessaloniciens"
-    },
-    {
-      "id": "2TH",
-      "abbreviation": "2 Thessaloniciens",
-      "name": "2 Thessaloniciens",
-      "nameLong": "Seconde épître aux Thessaloniciens"
-    },
-    {
-      "id": "1TI",
-      "abbreviation": "1 Timothée",
-      "name": "1 Timothée",
-      "nameLong": "Première épître à Timothée"
-    },
-    {
-      "id": "2TI",
-      "abbreviation": "2 Timothée",
-      "name": "2 Timothée",
-      "nameLong": "Seconde épître à Timothée"
-    },
-    {
-      "id": "TIT",
-      "abbreviation": "Tite",
-      "name": "Tite",
-      "nameLong": "Épître à Tite"
-    },
-    {
-      "id": "PHM",
-      "abbreviation": "Philémon",
-      "name": "Philémon",
-      "nameLong": "Épître à Philémon"
-    },
-    {
-      "id": "HEB",
-      "abbreviation": "Hébreux",
-      "name": "Hébreux",
-      "nameLong": "Épître aux Hébreux"
-    },
-    {
-      "id": "JAS",
-      "abbreviation": "Jacques",
-      "name": "Jacques",
-      "nameLong": "Épître de Jacques"
-    },
-    {
-      "id": "1PE",
-      "abbreviation": "1 Pierre",
-      "name": "1 Pierre",
-      "nameLong": "Première épître de Pierre"
-    },
-    {
-      "id": "2PE",
-      "abbreviation": "2 Pierre",
-      "name": "2 Pierre",
-      "nameLong": "Seconde épître de Pierre"
-    },
-    {
-      "id": "1JN",
-      "abbreviation": "1 Jean",
-      "name": "1 Jean",
-      "nameLong": "Première épître de Jean"
-    },
-    {
-      "id": "2JN",
-      "abbreviation": "2 Jean",
-      "name": "2 Jean",
-      "nameLong": "Deuxième épître de Jean"
-    },
-    {
-      "id": "3JN",
-      "abbreviation": "3 Jean",
-      "name": "3 Jean",
-      "nameLong": "Troisième épître de Jean"
-    },
-    {
-      "id": "JUD",
-      "abbreviation": "Jude",
-      "name": "Jude",
-      "nameLong": "Épître de Jude"
-    },
-    {
-      "id": "REV",
-      "abbreviation": "Apocalypse",
-      "name": "Apocalypse",
-      "nameLong": "Apocalypse"
-    }
-  ]
-}
+[
+  {
+    "id": "GEN",
+    "abbreviation": "Genèse",
+    "name": "Genèse",
+    "nameLong": "Le premier livre de Moïse dit la Genèse"
+  },
+  {
+    "id": "EXO",
+    "abbreviation": "Exode",
+    "name": "Exode",
+    "nameLong": "Le second livre de Moïse dit l’Exode"
+  },
+  {
+    "id": "LEV",
+    "abbreviation": "Lévitique",
+    "name": "Lévitique",
+    "nameLong": "Le troisième livre de Moïse dit le Lévitique"
+  },
+  {
+    "id": "NUM",
+    "abbreviation": "Nombres",
+    "name": "Nombres",
+    "nameLong": "Le quatrième livre de Moïse dit les Nombres"
+  },
+  {
+    "id": "DEU",
+    "abbreviation": "Deutéronome",
+    "name": "Deutéronome",
+    "nameLong": "Le cinquième livre de Moïse dit le Deutéronome"
+  },
+  {
+    "id": "JOS",
+    "abbreviation": "Josué",
+    "name": "Josué",
+    "nameLong": "Le livre de Josué"
+  },
+  {
+    "id": "JDG",
+    "abbreviation": "Juges",
+    "name": "Juges",
+    "nameLong": "Le livre des Juges"
+  },
+  {
+    "id": "RUT",
+    "abbreviation": "Ruth",
+    "name": "Ruth",
+    "nameLong": "Ruth"
+  },
+  {
+    "id": "1SA",
+    "abbreviation": "1 Samuel",
+    "name": "1 Samuel",
+    "nameLong": "Le premier livre de Samuel"
+  },
+  {
+    "id": "2SA",
+    "abbreviation": "2 Samuel",
+    "name": "2 Samuel",
+    "nameLong": "Le second livre de Samuel"
+  },
+  {
+    "id": "1KI",
+    "abbreviation": "1 Rois",
+    "name": "1 Rois",
+    "nameLong": "Le premier livre des Rois"
+  },
+  {
+    "id": "2KI",
+    "abbreviation": "2 Rois",
+    "name": "2 Rois",
+    "nameLong": "Le second livre des Rois"
+  },
+  {
+    "id": "1CH",
+    "abbreviation": "1 Chroniques",
+    "name": "1 Chroniques",
+    "nameLong": "Le premier livre des Chroniques"
+  },
+  {
+    "id": "2CH",
+    "abbreviation": "2 Chroniques",
+    "name": "2 Chroniques",
+    "nameLong": "Le second livre des Chroniques"
+  },
+  {
+    "id": "EZR",
+    "abbreviation": "Esdras",
+    "name": "Esdras",
+    "nameLong": "Esdras"
+  },
+  {
+    "id": "NEH",
+    "abbreviation": "Néhémie",
+    "name": "Néhémie",
+    "nameLong": "Néhémie"
+  },
+  {
+    "id": "EST",
+    "abbreviation": "Esther",
+    "name": "Esther",
+    "nameLong": "Esther"
+  },
+  {
+    "id": "JOB",
+    "abbreviation": "Job",
+    "name": "Job",
+    "nameLong": "Le livre de Job"
+  },
+  {
+    "id": "PSA",
+    "abbreviation": "Psaumes",
+    "name": "Psaumes",
+    "nameLong": "Les Psaumes"
+  },
+  {
+    "id": "PRO",
+    "abbreviation": "Proverbes",
+    "name": "Proverbes",
+    "nameLong": "Les Proverbes"
+  },
+  {
+    "id": "ECC",
+    "abbreviation": "Ecclésiaste",
+    "name": "Ecclésiaste",
+    "nameLong": "Le Prédicateur connu sous le nom de L’Ecclésiaste"
+  },
+  {
+    "id": "SNG",
+    "abbreviation": "Cantique des Cantiques",
+    "name": "Cantique des Cantiques",
+    "nameLong": "Le Cantique des cantiques"
+  },
+  {
+    "id": "ISA",
+    "abbreviation": "Ésaïe",
+    "name": "Ésaïe",
+    "nameLong": "Le livre du prophète Ésaïe"
+  },
+  {
+    "id": "JER",
+    "abbreviation": "Jérémie",
+    "name": "Jérémie",
+    "nameLong": "Le livre du prophète Jérémie"
+  },
+  {
+    "id": "LAM",
+    "abbreviation": "Lamentations de Jérémie",
+    "name": "Lamentations de Jérémie",
+    "nameLong": "Les lamentations de Jérémie"
+  },
+  {
+    "id": "EZK",
+    "abbreviation": "Ézéchiel",
+    "name": "Ézéchiel",
+    "nameLong": "Le livre du prophète Ézéchiel"
+  },
+  {
+    "id": "DAN",
+    "abbreviation": "Daniel",
+    "name": "Daniel",
+    "nameLong": "Le livre du prophète Daniel"
+  },
+  {
+    "id": "HOS",
+    "abbreviation": "Osée",
+    "name": "Osée",
+    "nameLong": "Le livre du prophète Osée"
+  },
+  {
+    "id": "JOL",
+    "abbreviation": "Joël",
+    "name": "Joël",
+    "nameLong": "Le livre du prophète Joël"
+  },
+  {
+    "id": "AMO",
+    "abbreviation": "Amos",
+    "name": "Amos",
+    "nameLong": "Le livre du prophète Amos"
+  },
+  {
+    "id": "OBA",
+    "abbreviation": "Abdias",
+    "name": "Abdias",
+    "nameLong": "Le livre du prophète Abdias"
+  },
+  {
+    "id": "JON",
+    "abbreviation": "Jonas",
+    "name": "Jonas",
+    "nameLong": "Le livre du prophète Jonas"
+  },
+  {
+    "id": "MIC",
+    "abbreviation": "Michée",
+    "name": "Michée",
+    "nameLong": "Le livre du prophète Michée"
+  },
+  {
+    "id": "NAM",
+    "abbreviation": "Nahum",
+    "name": "Nahum",
+    "nameLong": "Le livre du prophète Nahum"
+  },
+  {
+    "id": "HAB",
+    "abbreviation": "Habakuk",
+    "name": "Habakuk",
+    "nameLong": "Le livre du prophète Habakuk"
+  },
+  {
+    "id": "ZEP",
+    "abbreviation": "Sophonie",
+    "name": "Sophonie",
+    "nameLong": "Le livre du prophète Sophonie"
+  },
+  {
+    "id": "HAG",
+    "abbreviation": "Aggée",
+    "name": "Aggée",
+    "nameLong": "Le livre du prophète Aggée"
+  },
+  {
+    "id": "ZEC",
+    "abbreviation": "Zacharie",
+    "name": "Zacharie",
+    "nameLong": "Le livre du prophète Zacharie"
+  },
+  {
+    "id": "MAL",
+    "abbreviation": "Malachie",
+    "name": "Malachie",
+    "nameLong": "Le livre du prophète Malachie"
+  },
+  {
+    "id": "MAT",
+    "abbreviation": "Matthieu",
+    "name": "Matthieu",
+    "nameLong": "Évangile selon Matthieu"
+  },
+  {
+    "id": "MRK",
+    "abbreviation": "Marc",
+    "name": "Marc",
+    "nameLong": "Évangile selon Marc"
+  },
+  {
+    "id": "LUK",
+    "abbreviation": "Luc",
+    "name": "Luc",
+    "nameLong": "Évangile selon Luc"
+  },
+  {
+    "id": "JHN",
+    "abbreviation": "Jean",
+    "name": "Jean",
+    "nameLong": "Évangile selon Jean"
+  },
+  {
+    "id": "ACT",
+    "abbreviation": "Actes",
+    "name": "Actes",
+    "nameLong": "Actes des Apôtres"
+  },
+  {
+    "id": "ROM",
+    "abbreviation": "Romains",
+    "name": "Romains",
+    "nameLong": "Épître aux Romains"
+  },
+  {
+    "id": "1CO",
+    "abbreviation": "1 Corinthiens",
+    "name": "1 Corinthiens",
+    "nameLong": "Première épître aux Corinthiens"
+  },
+  {
+    "id": "2CO",
+    "abbreviation": "2 Corinthiens",
+    "name": "2 Corinthiens",
+    "nameLong": "Seconde épître aux Corinthiens"
+  },
+  {
+    "id": "GAL",
+    "abbreviation": "Galates",
+    "name": "Galates",
+    "nameLong": "Épître aux Galates"
+  },
+  {
+    "id": "EPH",
+    "abbreviation": "Éphésiens",
+    "name": "Éphésiens",
+    "nameLong": "Épître aux Éphésiens"
+  },
+  {
+    "id": "PHP",
+    "abbreviation": "Philippiens",
+    "name": "Philippiens",
+    "nameLong": "Épître aux Philippiens"
+  },
+  {
+    "id": "COL",
+    "abbreviation": "Colossiens",
+    "name": "Colossiens",
+    "nameLong": "Épître aux Colossiens"
+  },
+  {
+    "id": "1TH",
+    "abbreviation": "1 Thessaloniciens",
+    "name": "1 Thessaloniciens",
+    "nameLong": "Première épître aux Thessaloniciens"
+  },
+  {
+    "id": "2TH",
+    "abbreviation": "2 Thessaloniciens",
+    "name": "2 Thessaloniciens",
+    "nameLong": "Seconde épître aux Thessaloniciens"
+  },
+  {
+    "id": "1TI",
+    "abbreviation": "1 Timothée",
+    "name": "1 Timothée",
+    "nameLong": "Première épître à Timothée"
+  },
+  {
+    "id": "2TI",
+    "abbreviation": "2 Timothée",
+    "name": "2 Timothée",
+    "nameLong": "Seconde épître à Timothée"
+  },
+  {
+    "id": "TIT",
+    "abbreviation": "Tite",
+    "name": "Tite",
+    "nameLong": "Épître à Tite"
+  },
+  {
+    "id": "PHM",
+    "abbreviation": "Philémon",
+    "name": "Philémon",
+    "nameLong": "Épître à Philémon"
+  },
+  {
+    "id": "HEB",
+    "abbreviation": "Hébreux",
+    "name": "Hébreux",
+    "nameLong": "Épître aux Hébreux"
+  },
+  {
+    "id": "JAS",
+    "abbreviation": "Jacques",
+    "name": "Jacques",
+    "nameLong": "Épître de Jacques"
+  },
+  {
+    "id": "1PE",
+    "abbreviation": "1 Pierre",
+    "name": "1 Pierre",
+    "nameLong": "Première épître de Pierre"
+  },
+  {
+    "id": "2PE",
+    "abbreviation": "2 Pierre",
+    "name": "2 Pierre",
+    "nameLong": "Seconde épître de Pierre"
+  },
+  {
+    "id": "1JN",
+    "abbreviation": "1 Jean",
+    "name": "1 Jean",
+    "nameLong": "Première épître de Jean"
+  },
+  {
+    "id": "2JN",
+    "abbreviation": "2 Jean",
+    "name": "2 Jean",
+    "nameLong": "Deuxième épître de Jean"
+  },
+  {
+    "id": "3JN",
+    "abbreviation": "3 Jean",
+    "name": "3 Jean",
+    "nameLong": "Troisième épître de Jean"
+  },
+  {
+    "id": "JUD",
+    "abbreviation": "Jude",
+    "name": "Jude",
+    "nameLong": "Épître de Jude"
+  },
+  {
+    "id": "REV",
+    "abbreviation": "Apocalypse",
+    "name": "Apocalypse",
+    "nameLong": "Apocalypse"
+  }
+]

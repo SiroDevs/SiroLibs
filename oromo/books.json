@@ -1,400 +1,398 @@
-{
-  "data": [
-    {
-      "id": "GEN",
-      "abbreviation": "Uma",
-      "name": "Uumama",
-      "nameLong": "Seera Uumamaa"
-    },
-    {
-      "id": "EXO",
-      "abbreviation": "Bau",
-      "name": "Baʼuu",
-      "nameLong": "Seera Baʼuu"
-    },
-    {
-      "id": "LEV",
-      "abbreviation": "Lew",
-      "name": "Lewwota",
-      "nameLong": "Seera Lewwotaa"
-    },
-    {
-      "id": "NUM",
-      "abbreviation": "Lak",
-      "name": "Lakkoobsa",
-      "nameLong": "Seera Lakkoobsaa"
-    },
-    {
-      "id": "DEU",
-      "abbreviation": "KeD",
-      "name": "Keessa Deebii",
-      "nameLong": "Seera Keessa Deebii"
-    },
-    {
-      "id": "JOS",
-      "abbreviation": "Iya",
-      "name": "Iyyaasuu",
-      "nameLong": "Kitaaba Iyyaasuu"
-    },
-    {
-      "id": "JDG",
-      "abbreviation": "AbM",
-      "name": "Abbootii Murtii",
-      "nameLong": "Kitaaba Abbootii Murtii"
-    },
-    {
-      "id": "RUT",
-      "abbreviation": "Rut",
-      "name": "Ruut",
-      "nameLong": "Kitaaba Ruut"
-    },
-    {
-      "id": "1SA",
-      "abbreviation": "1Sm",
-      "name": "1 Saamuʼeel",
-      "nameLong": "Kitaaba Saamuʼeel Tokkoffaa"
-    },
-    {
-      "id": "2SA",
-      "abbreviation": "2Sm",
-      "name": "2 Saamuʼeel",
-      "nameLong": "Kitaaba Saamuʼeel Lammaffaa"
-    },
-    {
-      "id": "1KI",
-      "abbreviation": "1Mt",
-      "name": "1 Mootota",
-      "nameLong": "Kitaaba Moototaa Tokkoffaa"
-    },
-    {
-      "id": "2KI",
-      "abbreviation": "2Mt",
-      "name": "2 Mootota",
-      "nameLong": "Kitaaba Moototaa Lammaffaa"
-    },
-    {
-      "id": "1CH",
-      "abbreviation": "1Sn",
-      "name": "1 Seenaa",
-      "nameLong": "Kitaaba Seenaa Tokkoffaa"
-    },
-    {
-      "id": "2CH",
-      "abbreviation": "2Sn",
-      "name": "2 Seenaa",
-      "nameLong": "Kitaaba Seenaa Lammaffaa"
-    },
-    {
-      "id": "EZR",
-      "abbreviation": "Izr",
-      "name": "Izraa",
-      "nameLong": "Kitaaba Izraa"
-    },
-    {
-      "id": "NEH",
-      "abbreviation": "Nah",
-      "name": "Nahimiyaa",
-      "nameLong": "Kitaaba Nahimiyaa"
-    },
-    {
-      "id": "EST",
-      "abbreviation": "Ast",
-      "name": "Asteer",
-      "nameLong": "Kitaaba Asteer"
-    },
-    {
-      "id": "JOB",
-      "abbreviation": "Iyo",
-      "name": "Iyyoob",
-      "nameLong": "Kitaaba Iyyoob"
-    },
-    {
-      "id": "PSA",
-      "abbreviation": "Far",
-      "name": "Faarfannaa",
-      "nameLong": "Kitaabota Faarfannaa"
-    },
-    {
-      "id": "PRO",
-      "abbreviation": "Fak",
-      "name": "Fakkeenya",
-      "nameLong": "Kitaaba Fakkeenyaa"
-    },
-    {
-      "id": "ECC",
-      "abbreviation": "Lal",
-      "name": "Lallaba",
-      "nameLong": "Kitaaba Lallabaa"
-    },
-    {
-      "id": "SNG",
-      "abbreviation": "Wed",
-      "name": "Weedduu",
-      "nameLong": "Weedduu Weeddotaa"
-    },
-    {
-      "id": "ISA",
-      "abbreviation": "Isa",
-      "name": "Isaayyaas",
-      "nameLong": "Raajii Isaayyaas"
-    },
-    {
-      "id": "JER",
-      "abbreviation": "Erm",
-      "name": "Ermiyaas",
-      "nameLong": "Raajii Ermiyaas"
-    },
-    {
-      "id": "LAM",
-      "abbreviation": "Fru",
-      "name": "Faaruu",
-      "nameLong": "Faaruu Ermiyaas"
-    },
-    {
-      "id": "EZK",
-      "abbreviation": "His",
-      "name": "Hisqiʼeel",
-      "nameLong": "Raajii Hisqiʼeel"
-    },
-    {
-      "id": "DAN",
-      "abbreviation": "Dan",
-      "name": "Daaniʼel",
-      "nameLong": "Raajii Daaniʼel"
-    },
-    {
-      "id": "HOS",
-      "abbreviation": "Hos",
-      "name": "Hooseʼaa",
-      "nameLong": "Raajii Hooseʼaa"
-    },
-    {
-      "id": "JOL",
-      "abbreviation": "Yoe",
-      "name": "Yooʼeel",
-      "nameLong": "Raajii Yooʼeel"
-    },
-    {
-      "id": "AMO",
-      "abbreviation": "Amo",
-      "name": "Amoos",
-      "nameLong": "Raajii Amoos"
-    },
-    {
-      "id": "OBA",
-      "abbreviation": "Abd",
-      "name": "Obaadiyaa",
-      "nameLong": "Raajii Obaadiyaa"
-    },
-    {
-      "id": "JON",
-      "abbreviation": "Yon",
-      "name": "Yoonaas",
-      "nameLong": "Raajii Yoonaas"
-    },
-    {
-      "id": "MIC",
-      "abbreviation": "Mik",
-      "name": "Miikiyaas",
-      "nameLong": "Raajii Miikiyaas"
-    },
-    {
-      "id": "NAM",
-      "abbreviation": "Nho",
-      "name": "Naahoom",
-      "nameLong": "Raajii Naahoom"
-    },
-    {
-      "id": "HAB",
-      "abbreviation": "Anb",
-      "name": "Anbaaqoom",
-      "nameLong": "Raajii Anbaaqoom"
-    },
-    {
-      "id": "ZEP",
-      "abbreviation": "Sef",
-      "name": "Sefaaniyaa",
-      "nameLong": "Raajii Sefaaniyaa"
-    },
-    {
-      "id": "HAG",
-      "abbreviation": "Hag",
-      "name": "Haagee",
-      "nameLong": "Raajii Haagee"
-    },
-    {
-      "id": "ZEC",
-      "abbreviation": "Zak",
-      "name": "Zakkaariyaas",
-      "nameLong": "Raajii Zakkaariyaas"
-    },
-    {
-      "id": "MAL",
-      "abbreviation": "Mil",
-      "name": "Miilkiyaas",
-      "nameLong": "Raajii Miilkiyaas"
-    },
-    {
-      "id": "MAT",
-      "abbreviation": "Mat",
-      "name": "Maatewos",
-      "nameLong": "Wangeela Maatewos"
-    },
-    {
-      "id": "MRK",
-      "abbreviation": "Mar",
-      "name": "Maarqos",
-      "nameLong": "Wangeela Maarqos"
-    },
-    {
-      "id": "LUK",
-      "abbreviation": "Luq",
-      "name": "Luqaas",
-      "nameLong": "Wangeela Luqaas"
-    },
-    {
-      "id": "JHN",
-      "abbreviation": "Yoh",
-      "name": "Yohannis",
-      "nameLong": "Wangeela Yohannis"
-    },
-    {
-      "id": "ACT",
-      "abbreviation": "Hoj",
-      "name": "Hojii",
-      "nameLong": "Hojii Ergamootaa"
-    },
-    {
-      "id": "ROM",
-      "abbreviation": "Rom",
-      "name": "Roomaa",
-      "nameLong": "Roomaa"
-    },
-    {
-      "id": "1CO",
-      "abbreviation": "1Qr",
-      "name": "1 Qorontos",
-      "nameLong": "Qorontos Tokkoffaa"
-    },
-    {
-      "id": "2CO",
-      "abbreviation": "2Qr",
-      "name": "2 Qorontos",
-      "nameLong": "Qorontos Lammaffaa"
-    },
-    {
-      "id": "GAL",
-      "abbreviation": "Gal",
-      "name": "Galaatiyaa",
-      "nameLong": "Galaatiyaa"
-    },
-    {
-      "id": "EPH",
-      "abbreviation": "Efe",
-      "name": "Efesoon",
-      "nameLong": "Efesoon"
-    },
-    {
-      "id": "PHP",
-      "abbreviation": "Flp",
-      "name": "Fiiliphisiyuus",
-      "nameLong": "Fiiliphisiyuus"
-    },
-    {
-      "id": "COL",
-      "abbreviation": "Qol",
-      "name": "Qolosaayis",
-      "nameLong": "Qolosaayis"
-    },
-    {
-      "id": "1TH",
-      "abbreviation": "1Ts",
-      "name": "1 Tasaloniiqee",
-      "nameLong": "Tasaloniiqee Tokkoffaa"
-    },
-    {
-      "id": "2TH",
-      "abbreviation": "2Ts",
-      "name": "2 Tasaloniiqee",
-      "nameLong": "Tasaloniiqee Lammaffaa"
-    },
-    {
-      "id": "1TI",
-      "abbreviation": "1Xm",
-      "name": "1 Xiimotewos",
-      "nameLong": "Xiimotewos Tokkoffaa"
-    },
-    {
-      "id": "2TI",
-      "abbreviation": "2Xm",
-      "name": "2 Xiimotewos",
-      "nameLong": "Xiimotewos Lammaffaa"
-    },
-    {
-      "id": "TIT",
-      "abbreviation": "Tit",
-      "name": "Tiitoo",
-      "nameLong": "Tiitoo"
-    },
-    {
-      "id": "PHM",
-      "abbreviation": "Flm",
-      "name": "Fiilmoonaa",
-      "nameLong": "Fiilmoonaa"
-    },
-    {
-      "id": "HEB",
-      "abbreviation": "Ibr",
-      "name": "Ibroota",
-      "nameLong": "Ibroota"
-    },
-    {
-      "id": "JAS",
-      "abbreviation": "Yaq",
-      "name": "Yaaqoob",
-      "nameLong": "Yaaqoob"
-    },
-    {
-      "id": "1PE",
-      "abbreviation": "1Ph",
-      "name": "1 Phexros",
-      "nameLong": "Phexros Tokkoffaa"
-    },
-    {
-      "id": "2PE",
-      "abbreviation": "2Ph",
-      "name": "2 Phexros",
-      "nameLong": "Phexros Lammaffaa"
-    },
-    {
-      "id": "1JN",
-      "abbreviation": "1Yh",
-      "name": "1 Yohannis",
-      "nameLong": "Yohannis Tokkoffaa"
-    },
-    {
-      "id": "2JN",
-      "abbreviation": "2Yh",
-      "name": "2 Yohannis",
-      "nameLong": "Yohannis Lammaffaa"
-    },
-    {
-      "id": "3JN",
-      "abbreviation": "3Yh",
-      "name": "3 Yohannis",
-      "nameLong": "Yohannis Sadaffaa"
-    },
-    {
-      "id": "JUD",
-      "abbreviation": "Yhd",
-      "name": "Yihuudaa",
-      "nameLong": "Yihuudaa"
-    },
-    {
-      "id": "REV",
-      "abbreviation": "Mul",
-      "name": "Mulʼata",
-      "nameLong": "Mulʼata Yohannis"
-    }
-  ]
-}
+[
+  {
+    "id": "GEN",
+    "abbreviation": "Uma",
+    "name": "Uumama",
+    "nameLong": "Seera Uumamaa"
+  },
+  {
+    "id": "EXO",
+    "abbreviation": "Bau",
+    "name": "Baʼuu",
+    "nameLong": "Seera Baʼuu"
+  },
+  {
+    "id": "LEV",
+    "abbreviation": "Lew",
+    "name": "Lewwota",
+    "nameLong": "Seera Lewwotaa"
+  },
+  {
+    "id": "NUM",
+    "abbreviation": "Lak",
+    "name": "Lakkoobsa",
+    "nameLong": "Seera Lakkoobsaa"
+  },
+  {
+    "id": "DEU",
+    "abbreviation": "KeD",
+    "name": "Keessa Deebii",
+    "nameLong": "Seera Keessa Deebii"
+  },
+  {
+    "id": "JOS",
+    "abbreviation": "Iya",
+    "name": "Iyyaasuu",
+    "nameLong": "Kitaaba Iyyaasuu"
+  },
+  {
+    "id": "JDG",
+    "abbreviation": "AbM",
+    "name": "Abbootii Murtii",
+    "nameLong": "Kitaaba Abbootii Murtii"
+  },
+  {
+    "id": "RUT",
+    "abbreviation": "Rut",
+    "name": "Ruut",
+    "nameLong": "Kitaaba Ruut"
+  },
+  {
+    "id": "1SA",
+    "abbreviation": "1Sm",
+    "name": "1 Saamuʼeel",
+    "nameLong": "Kitaaba Saamuʼeel Tokkoffaa"
+  },
+  {
+    "id": "2SA",
+    "abbreviation": "2Sm",
+    "name": "2 Saamuʼeel",
+    "nameLong": "Kitaaba Saamuʼeel Lammaffaa"
+  },
+  {
+    "id": "1KI",
+    "abbreviation": "1Mt",
+    "name": "1 Mootota",
+    "nameLong": "Kitaaba Moototaa Tokkoffaa"
+  },
+  {
+    "id": "2KI",
+    "abbreviation": "2Mt",
+    "name": "2 Mootota",
+    "nameLong": "Kitaaba Moototaa Lammaffaa"
+  },
+  {
+    "id": "1CH",
+    "abbreviation": "1Sn",
+    "name": "1 Seenaa",
+    "nameLong": "Kitaaba Seenaa Tokkoffaa"
+  },
+  {
+    "id": "2CH",
+    "abbreviation": "2Sn",
+    "name": "2 Seenaa",
+    "nameLong": "Kitaaba Seenaa Lammaffaa"
+  },
+  {
+    "id": "EZR",
+    "abbreviation": "Izr",
+    "name": "Izraa",
+    "nameLong": "Kitaaba Izraa"
+  },
+  {
+    "id": "NEH",
+    "abbreviation": "Nah",
+    "name": "Nahimiyaa",
+    "nameLong": "Kitaaba Nahimiyaa"
+  },
+  {
+    "id": "EST",
+    "abbreviation": "Ast",
+    "name": "Asteer",
+    "nameLong": "Kitaaba Asteer"
+  },
+  {
+    "id": "JOB",
+    "abbreviation": "Iyo",
+    "name": "Iyyoob",
+    "nameLong": "Kitaaba Iyyoob"
+  },
+  {
+    "id": "PSA",
+    "abbreviation": "Far",
+    "name": "Faarfannaa",
+    "nameLong": "Kitaabota Faarfannaa"
+  },
+  {
+    "id": "PRO",
+    "abbreviation": "Fak",
+    "name": "Fakkeenya",
+    "nameLong": "Kitaaba Fakkeenyaa"
+  },
+  {
+    "id": "ECC",
+    "abbreviation": "Lal",
+    "name": "Lallaba",
+    "nameLong": "Kitaaba Lallabaa"
+  },
+  {
+    "id": "SNG",
+    "abbreviation": "Wed",
+    "name": "Weedduu",
+    "nameLong": "Weedduu Weeddotaa"
+  },
+  {
+    "id": "ISA",
+    "abbreviation": "Isa",
+    "name": "Isaayyaas",
+    "nameLong": "Raajii Isaayyaas"
+  },
+  {
+    "id": "JER",
+    "abbreviation": "Erm",
+    "name": "Ermiyaas",
+    "nameLong": "Raajii Ermiyaas"
+  },
+  {
+    "id": "LAM",
+    "abbreviation": "Fru",
+    "name": "Faaruu",
+    "nameLong": "Faaruu Ermiyaas"
+  },
+  {
+    "id": "EZK",
+    "abbreviation": "His",
+    "name": "Hisqiʼeel",
+    "nameLong": "Raajii Hisqiʼeel"
+  },
+  {
+    "id": "DAN",
+    "abbreviation": "Dan",
+    "name": "Daaniʼel",
+    "nameLong": "Raajii Daaniʼel"
+  },
+  {
+    "id": "HOS",
+    "abbreviation": "Hos",
+    "name": "Hooseʼaa",
+    "nameLong": "Raajii Hooseʼaa"
+  },
+  {
+    "id": "JOL",
+    "abbreviation": "Yoe",
+    "name": "Yooʼeel",
+    "nameLong": "Raajii Yooʼeel"
+  },
+  {
+    "id": "AMO",
+    "abbreviation": "Amo",
+    "name": "Amoos",
+    "nameLong": "Raajii Amoos"
+  },
+  {
+    "id": "OBA",
+    "abbreviation": "Abd",
+    "name": "Obaadiyaa",
+    "nameLong": "Raajii Obaadiyaa"
+  },
+  {
+    "id": "JON",
+    "abbreviation": "Yon",
+    "name": "Yoonaas",
+    "nameLong": "Raajii Yoonaas"
+  },
+  {
+    "id": "MIC",
+    "abbreviation": "Mik",
+    "name": "Miikiyaas",
+    "nameLong": "Raajii Miikiyaas"
+  },
+  {
+    "id": "NAM",
+    "abbreviation": "Nho",
+    "name": "Naahoom",
+    "nameLong": "Raajii Naahoom"
+  },
+  {
+    "id": "HAB",
+    "abbreviation": "Anb",
+    "name": "Anbaaqoom",
+    "nameLong": "Raajii Anbaaqoom"
+  },
+  {
+    "id": "ZEP",
+    "abbreviation": "Sef",
+    "name": "Sefaaniyaa",
+    "nameLong": "Raajii Sefaaniyaa"
+  },
+  {
+    "id": "HAG",
+    "abbreviation": "Hag",
+    "name": "Haagee",
+    "nameLong": "Raajii Haagee"
+  },
+  {
+    "id": "ZEC",
+    "abbreviation": "Zak",
+    "name": "Zakkaariyaas",
+    "nameLong": "Raajii Zakkaariyaas"
+  },
+  {
+    "id": "MAL",
+    "abbreviation": "Mil",
+    "name": "Miilkiyaas",
+    "nameLong": "Raajii Miilkiyaas"
+  },
+  {
+    "id": "MAT",
+    "abbreviation": "Mat",
+    "name": "Maatewos",
+    "nameLong": "Wangeela Maatewos"
+  },
+  {
+    "id": "MRK",
+    "abbreviation": "Mar",
+    "name": "Maarqos",
+    "nameLong": "Wangeela Maarqos"
+  },
+  {
+    "id": "LUK",
+    "abbreviation": "Luq",
+    "name": "Luqaas",
+    "nameLong": "Wangeela Luqaas"
+  },
+  {
+    "id": "JHN",
+    "abbreviation": "Yoh",
+    "name": "Yohannis",
+    "nameLong": "Wangeela Yohannis"
+  },
+  {
+    "id": "ACT",
+    "abbreviation": "Hoj",
+    "name": "Hojii",
+    "nameLong": "Hojii Ergamootaa"
+  },
+  {
+    "id": "ROM",
+    "abbreviation": "Rom",
+    "name": "Roomaa",
+    "nameLong": "Roomaa"
+  },
+  {
+    "id": "1CO",
+    "abbreviation": "1Qr",
+    "name": "1 Qorontos",
+    "nameLong": "Qorontos Tokkoffaa"
+  },
+  {
+    "id": "2CO",
+    "abbreviation": "2Qr",
+    "name": "2 Qorontos",
+    "nameLong": "Qorontos Lammaffaa"
+  },
+  {
+    "id": "GAL",
+    "abbreviation": "Gal",
+    "name": "Galaatiyaa",
+    "nameLong": "Galaatiyaa"
+  },
+  {
+    "id": "EPH",
+    "abbreviation": "Efe",
+    "name": "Efesoon",
+    "nameLong": "Efesoon"
+  },
+  {
+    "id": "PHP",
+    "abbreviation": "Flp",
+    "name": "Fiiliphisiyuus",
+    "nameLong": "Fiiliphisiyuus"
+  },
+  {
+    "id": "COL",
+    "abbreviation": "Qol",
+    "name": "Qolosaayis",
+    "nameLong": "Qolosaayis"
+  },
+  {
+    "id": "1TH",
+    "abbreviation": "1Ts",
+    "name": "1 Tasaloniiqee",
+    "nameLong": "Tasaloniiqee Tokkoffaa"
+  },
+  {
+    "id": "2TH",
+    "abbreviation": "2Ts",
+    "name": "2 Tasaloniiqee",
+    "nameLong": "Tasaloniiqee Lammaffaa"
+  },
+  {
+    "id": "1TI",
+    "abbreviation": "1Xm",
+    "name": "1 Xiimotewos",
+    "nameLong": "Xiimotewos Tokkoffaa"
+  },
+  {
+    "id": "2TI",
+    "abbreviation": "2Xm",
+    "name": "2 Xiimotewos",
+    "nameLong": "Xiimotewos Lammaffaa"
+  },
+  {
+    "id": "TIT",
+    "abbreviation": "Tit",
+    "name": "Tiitoo",
+    "nameLong": "Tiitoo"
+  },
+  {
+    "id": "PHM",
+    "abbreviation": "Flm",
+    "name": "Fiilmoonaa",
+    "nameLong": "Fiilmoonaa"
+  },
+  {
+    "id": "HEB",
+    "abbreviation": "Ibr",
+    "name": "Ibroota",
+    "nameLong": "Ibroota"
+  },
+  {
+    "id": "JAS",
+    "abbreviation": "Yaq",
+    "name": "Yaaqoob",
+    "nameLong": "Yaaqoob"
+  },
+  {
+    "id": "1PE",
+    "abbreviation": "1Ph",
+    "name": "1 Phexros",
+    "nameLong": "Phexros Tokkoffaa"
+  },
+  {
+    "id": "2PE",
+    "abbreviation": "2Ph",
+    "name": "2 Phexros",
+    "nameLong": "Phexros Lammaffaa"
+  },
+  {
+    "id": "1JN",
+    "abbreviation": "1Yh",
+    "name": "1 Yohannis",
+    "nameLong": "Yohannis Tokkoffaa"
+  },
+  {
+    "id": "2JN",
+    "abbreviation": "2Yh",
+    "name": "2 Yohannis",
+    "nameLong": "Yohannis Lammaffaa"
+  },
+  {
+    "id": "3JN",
+    "abbreviation": "3Yh",
+    "name": "3 Yohannis",
+    "nameLong": "Yohannis Sadaffaa"
+  },
+  {
+    "id": "JUD",
+    "abbreviation": "Yhd",
+    "name": "Yihuudaa",
+    "nameLong": "Yihuudaa"
+  },
+  {
+    "id": "REV",
+    "abbreviation": "Mul",
+    "name": "Mulʼata",
+    "nameLong": "Mulʼata Yohannis"
+  }
+]

@@ -1,1673 +1,398 @@
-{
-  "translation": {
-    "id": "kik_bib",
-    "name": "Biblica® Kiugo Gĩtheru Kĩa Ngai Kĩhingũre",
-    "website": "https://ebible.org/Scriptures/details.php?id=kik",
-    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=kik",
-    "shortName": "BIB",
-    "englishName": "Kikuyu Bible",
-    "language": "kik",
-    "textDirection": "ltr",
-    "sha256": "4e7f0793cd7744a7cde62d35efbc8e34d17e758e567ebaa2f0169b0714939ad8",
-    "availableFormats": ["json"],
-    "listOfBooksApiLink": "/api/kik_bib/books.json",
-    "completeTranslationApiLink": "/api/kik_bib/complete.json",
-    "numberOfBooks": 66,
-    "totalNumberOfChapters": 1189,
-    "totalNumberOfVerses": 31101,
-    "languageName": "Gikuyu",
-    "languageEnglishName": "Kikuyu"
+[
+  {
+    "id": "GEN",
+    "abbreviation": "Kĩa",
+    "name": "Kĩambĩrĩria",
+    "nameLong": "Kĩambĩrĩria"
   },
-  "books": [
-    {
-      "id": "GEN",
-      "translationId": "kik_bib",
-      "name": "Kĩambĩrĩria",
-      "commonName": "Kĩambĩrĩria",
-      "title": "KĨAMBĨRĨRIA",
-      "order": 1,
-      "numberOfChapters": 50,
-      "sha256": "996859416b152863a1d77c3540621a4913a4c5dc9aa08c41fbe64b0338a88119",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/GEN/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "GEN",
-        "chapter": 1
-      },
-      "lastChapterNumber": 50,
-      "lastChapterApiLink": "/api/kik_bib/GEN/50.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "GEN",
-        "chapter": 50
-      },
-      "totalNumberOfVerses": 1533
-    },
-    {
-      "id": "EXO",
-      "translationId": "kik_bib",
-      "name": "Thaama",
-      "commonName": "Thaama",
-      "title": "THAAMA",
-      "order": 2,
-      "numberOfChapters": 40,
-      "sha256": "4e45b57d9107bd75279e1f2ec4645eb7ae7790fef11292d92e92ba6bafbe91b3",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/EXO/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "EXO",
-        "chapter": 1
-      },
-      "lastChapterNumber": 40,
-      "lastChapterApiLink": "/api/kik_bib/EXO/40.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "EXO",
-        "chapter": 40
-      },
-      "totalNumberOfVerses": 1213
-    },
-    {
-      "id": "LEV",
-      "translationId": "kik_bib",
-      "name": "Alawii",
-      "commonName": "Alawii",
-      "title": "MAŨNDŨ MA ALAWII",
-      "order": 3,
-      "numberOfChapters": 27,
-      "sha256": "517654727301cbc0be9a98c1c1c2388cf7a9f8a62697de5e3c0fd73194135cc5",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/LEV/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "LEV",
-        "chapter": 1
-      },
-      "lastChapterNumber": 27,
-      "lastChapterApiLink": "/api/kik_bib/LEV/27.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "LEV",
-        "chapter": 27
-      },
-      "totalNumberOfVerses": 859
-    },
-    {
-      "id": "NUM",
-      "translationId": "kik_bib",
-      "name": "Ndari",
-      "commonName": "Ndari",
-      "title": "NDARI",
-      "order": 4,
-      "numberOfChapters": 36,
-      "sha256": "752ced7bab9d855c9970769717e302545a9ca161d5ccabf82f13bc8aad33fea8",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/NUM/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "NUM",
-        "chapter": 1
-      },
-      "lastChapterNumber": 36,
-      "lastChapterApiLink": "/api/kik_bib/NUM/36.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "NUM",
-        "chapter": 36
-      },
-      "totalNumberOfVerses": 1288
-    },
-    {
-      "id": "DEU",
-      "translationId": "kik_bib",
-      "name": "Gũcookerithia",
-      "commonName": "Gũcookerithia",
-      "title": "GŨCOOKERITHIA MAATHANI",
-      "order": 5,
-      "numberOfChapters": 34,
-      "sha256": "95c26c8d468c79df408e69a9158912129e0453bd0f4e27245672eba3545ffd1b",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/DEU/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "DEU",
-        "chapter": 1
-      },
-      "lastChapterNumber": 34,
-      "lastChapterApiLink": "/api/kik_bib/DEU/34.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "DEU",
-        "chapter": 34
-      },
-      "totalNumberOfVerses": 959
-    },
-    {
-      "id": "JOS",
-      "translationId": "kik_bib",
-      "name": "Joshua",
-      "commonName": "Joshua",
-      "title": "JOSHUA",
-      "order": 6,
-      "numberOfChapters": 24,
-      "sha256": "1cf15d2d034a06d53fd79d2329502815e5da38d6fc46e9db4f9cc0a8360afde0",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/JOS/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JOS",
-        "chapter": 1
-      },
-      "lastChapterNumber": 24,
-      "lastChapterApiLink": "/api/kik_bib/JOS/24.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JOS",
-        "chapter": 24
-      },
-      "totalNumberOfVerses": 658
-    },
-    {
-      "id": "JDG",
-      "translationId": "kik_bib",
-      "name": "Atiirĩrĩri",
-      "commonName": "Atiirĩrĩri",
-      "title": "ATIIRĨRĨRI BŨRŨRI",
-      "order": 7,
-      "numberOfChapters": 21,
-      "sha256": "60294b38b68a60c505602c7674db742da7b528ddce498596e1f8f29675437d66",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/JDG/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JDG",
-        "chapter": 1
-      },
-      "lastChapterNumber": 21,
-      "lastChapterApiLink": "/api/kik_bib/JDG/21.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JDG",
-        "chapter": 21
-      },
-      "totalNumberOfVerses": 618
-    },
-    {
-      "id": "RUT",
-      "translationId": "kik_bib",
-      "name": "Ruthu",
-      "commonName": "Ruthu",
-      "title": "RUTHU",
-      "order": 8,
-      "numberOfChapters": 4,
-      "sha256": "69871a769069db65205dd3b597b36632f2aaf498ddb408ed24a1ee5571abf612",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/RUT/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "RUT",
-        "chapter": 1
-      },
-      "lastChapterNumber": 4,
-      "lastChapterApiLink": "/api/kik_bib/RUT/4.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "RUT",
-        "chapter": 4
-      },
-      "totalNumberOfVerses": 85
-    },
-    {
-      "id": "1SA",
-      "translationId": "kik_bib",
-      "name": "1 Samũeli",
-      "commonName": "1 Samũeli",
-      "title": "IBUKU RĨA MBERE RĨA SAMŨELI",
-      "order": 9,
-      "numberOfChapters": 31,
-      "sha256": "f3cdf699847ba4006e93f8a3d19744e5dfca704e30154dbfb4402918509063f6",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/1SA/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "1SA",
-        "chapter": 1
-      },
-      "lastChapterNumber": 31,
-      "lastChapterApiLink": "/api/kik_bib/1SA/31.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "1SA",
-        "chapter": 31
-      },
-      "totalNumberOfVerses": 810
-    },
-    {
-      "id": "2SA",
-      "translationId": "kik_bib",
-      "name": "2 Samũeli",
-      "commonName": "2 Samũeli",
-      "title": "IBUKU RĨA KEERĨ RĨA SAMŨELI",
-      "order": 10,
-      "numberOfChapters": 24,
-      "sha256": "2cf7c7874c909bcdea850687f72f6c28af007c7a8638deb2e931041f66d59233",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/2SA/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "2SA",
-        "chapter": 1
-      },
-      "lastChapterNumber": 24,
-      "lastChapterApiLink": "/api/kik_bib/2SA/24.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "2SA",
-        "chapter": 24
-      },
-      "totalNumberOfVerses": 695
-    },
-    {
-      "id": "1KI",
-      "translationId": "kik_bib",
-      "name": "1 Athamaki",
-      "commonName": "1 Athamaki",
-      "title": "IBUKU RĨA MBERE RĨA ATHAMAKI",
-      "order": 11,
-      "numberOfChapters": 22,
-      "sha256": "62ecfb6643d0b934e1d09b8de76fec9d38c4bb13841d1a8207d077c865eeb164",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/1KI/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "1KI",
-        "chapter": 1
-      },
-      "lastChapterNumber": 22,
-      "lastChapterApiLink": "/api/kik_bib/1KI/22.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "1KI",
-        "chapter": 22
-      },
-      "totalNumberOfVerses": 816
-    },
-    {
-      "id": "2KI",
-      "translationId": "kik_bib",
-      "name": "2 Athamaki",
-      "commonName": "2 Athamaki",
-      "title": "IBUKU RĨA KEERĨ RĨA ATHAMAKI",
-      "order": 12,
-      "numberOfChapters": 25,
-      "sha256": "8d701814314d1b06d7ba605f2d53bb770f4b59ec2489404afcd645db7a0a2f70",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/2KI/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "2KI",
-        "chapter": 1
-      },
-      "lastChapterNumber": 25,
-      "lastChapterApiLink": "/api/kik_bib/2KI/25.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "2KI",
-        "chapter": 25
-      },
-      "totalNumberOfVerses": 719
-    },
-    {
-      "id": "1CH",
-      "translationId": "kik_bib",
-      "name": "1 Maũndũ Ma Matukũ Ma Tene",
-      "commonName": "1 Maũndũ Ma Matukũ Ma Tene",
-      "title": "IBUKU RĨA MBERE RĨA MAŨNDŨ MA MATUKŨ MA TENE",
-      "order": 13,
-      "numberOfChapters": 29,
-      "sha256": "065012323f7f7732d6d1d52614d31aa840579f46f5a73711140774886c1f7fa0",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/1CH/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "1CH",
-        "chapter": 1
-      },
-      "lastChapterNumber": 29,
-      "lastChapterApiLink": "/api/kik_bib/1CH/29.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "1CH",
-        "chapter": 29
-      },
-      "totalNumberOfVerses": 942
-    },
-    {
-      "id": "2CH",
-      "translationId": "kik_bib",
-      "name": "2 Maũndũ ma Matukũ ma Tene",
-      "commonName": "2 Maũndũ ma Matukũ ma Tene",
-      "title": "IBUKU RĨA KEERĨ RĨA MAŨNDŨ MA MATUKŨ MA TENE",
-      "order": 14,
-      "numberOfChapters": 36,
-      "sha256": "45af654df9b39394cb04e8b165b8ec26673537dd6c667406ae72390fac2d8483",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/2CH/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "2CH",
-        "chapter": 1
-      },
-      "lastChapterNumber": 36,
-      "lastChapterApiLink": "/api/kik_bib/2CH/36.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "2CH",
-        "chapter": 36
-      },
-      "totalNumberOfVerses": 822
-    },
-    {
-      "id": "EZR",
-      "translationId": "kik_bib",
-      "name": "Ezara",
-      "commonName": "Ezara",
-      "title": "EZARA",
-      "order": 15,
-      "numberOfChapters": 10,
-      "sha256": "dee9147045d6bf3e54a483cd6c330314e92cb3e3b0bee3cf6764d456cbbf6813",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/EZR/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "EZR",
-        "chapter": 1
-      },
-      "lastChapterNumber": 10,
-      "lastChapterApiLink": "/api/kik_bib/EZR/10.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "EZR",
-        "chapter": 10
-      },
-      "totalNumberOfVerses": 280
-    },
-    {
-      "id": "NEH",
-      "translationId": "kik_bib",
-      "name": "Nehemia",
-      "commonName": "Nehemia",
-      "title": "NEHEMIA",
-      "order": 16,
-      "numberOfChapters": 13,
-      "sha256": "72eea2df1ff16cf65e1e532aee6d48615a986d1bda1b5b4c144afc978551f612",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/NEH/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "NEH",
-        "chapter": 1
-      },
-      "lastChapterNumber": 13,
-      "lastChapterApiLink": "/api/kik_bib/NEH/13.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "NEH",
-        "chapter": 13
-      },
-      "totalNumberOfVerses": 406
-    },
-    {
-      "id": "EST",
-      "translationId": "kik_bib",
-      "name": "Esiteri",
-      "commonName": "Esiteri",
-      "title": "ESITERI",
-      "order": 17,
-      "numberOfChapters": 10,
-      "sha256": "b75f2e1a7f3088833c64cebb22c0445abecc91f17a8fe3333e9d9833fd09fddd",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/EST/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "EST",
-        "chapter": 1
-      },
-      "lastChapterNumber": 10,
-      "lastChapterApiLink": "/api/kik_bib/EST/10.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "EST",
-        "chapter": 10
-      },
-      "totalNumberOfVerses": 167
-    },
-    {
-      "id": "JOB",
-      "translationId": "kik_bib",
-      "name": "Ayubu",
-      "commonName": "Ayubu",
-      "title": "AYUBU",
-      "order": 18,
-      "numberOfChapters": 42,
-      "sha256": "08c3bbc44e87bdaa4f6f0e32227bb26e855725e8b41719fb92fbe51dae625235",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/JOB/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JOB",
-        "chapter": 1
-      },
-      "lastChapterNumber": 42,
-      "lastChapterApiLink": "/api/kik_bib/JOB/42.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JOB",
-        "chapter": 42
-      },
-      "totalNumberOfVerses": 1070
-    },
-    {
-      "id": "PSA",
-      "translationId": "kik_bib",
-      "name": "Thaburi",
-      "commonName": "Thaburi",
-      "title": "THABURI",
-      "order": 19,
-      "numberOfChapters": 150,
-      "sha256": "31ec432bff01754184156c5ebda35a35fdd824d268f34d2b8d3beb063da955ad",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/PSA/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "PSA",
-        "chapter": 1
-      },
-      "lastChapterNumber": 150,
-      "lastChapterApiLink": "/api/kik_bib/PSA/150.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "PSA",
-        "chapter": 150
-      },
-      "totalNumberOfVerses": 2461
-    },
-    {
-      "id": "PRO",
-      "translationId": "kik_bib",
-      "name": "Thimo",
-      "commonName": "Thimo",
-      "title": "THIMO",
-      "order": 20,
-      "numberOfChapters": 31,
-      "sha256": "279d933c762769e72a83253cc70c16e050e2b4d09fa50b2857d6764cf3694baf",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/PRO/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "PRO",
-        "chapter": 1
-      },
-      "lastChapterNumber": 31,
-      "lastChapterApiLink": "/api/kik_bib/PRO/31.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "PRO",
-        "chapter": 31
-      },
-      "totalNumberOfVerses": 915
-    },
-    {
-      "id": "ECC",
-      "translationId": "kik_bib",
-      "name": "Kohelethu",
-      "commonName": "Kohelethu",
-      "title": "KOHELETHU",
-      "order": 21,
-      "numberOfChapters": 12,
-      "sha256": "9c8544df06bfc79b9e396d036259b635e3abe975e66784c63582ee1afc1f357f",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/ECC/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "ECC",
-        "chapter": 1
-      },
-      "lastChapterNumber": 12,
-      "lastChapterApiLink": "/api/kik_bib/ECC/12.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "ECC",
-        "chapter": 12
-      },
-      "totalNumberOfVerses": 222
-    },
-    {
-      "id": "SNG",
-      "translationId": "kik_bib",
-      "name": "Rwĩmbo",
-      "commonName": "Rwĩmbo",
-      "title": "RWĨMBO RŨRĨA RWEGA MŨNO",
-      "order": 22,
-      "numberOfChapters": 8,
-      "sha256": "e6b7dfdf1056c078bc6e1169182c571122f7142367811fad60c02ca292db2cb5",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/SNG/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "SNG",
-        "chapter": 1
-      },
-      "lastChapterNumber": 8,
-      "lastChapterApiLink": "/api/kik_bib/SNG/8.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "SNG",
-        "chapter": 8
-      },
-      "totalNumberOfVerses": 117
-    },
-    {
-      "id": "ISA",
-      "translationId": "kik_bib",
-      "name": "Isaia",
-      "commonName": "Isaia",
-      "title": "ISAIA",
-      "order": 23,
-      "numberOfChapters": 66,
-      "sha256": "093c33ab7826ddf011865bfa58920a5f9dab9d59e3f585ea59ac2a1bc40e176f",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/ISA/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "ISA",
-        "chapter": 1
-      },
-      "lastChapterNumber": 66,
-      "lastChapterApiLink": "/api/kik_bib/ISA/66.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "ISA",
-        "chapter": 66
-      },
-      "totalNumberOfVerses": 1292
-    },
-    {
-      "id": "JER",
-      "translationId": "kik_bib",
-      "name": "Jeremia",
-      "commonName": "Jeremia",
-      "title": "JEREMIA",
-      "order": 24,
-      "numberOfChapters": 52,
-      "sha256": "3dddfc3b5508439af355ff3e06e99368ecc65eafed0a432df5dee460ff615803",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/JER/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JER",
-        "chapter": 1
-      },
-      "lastChapterNumber": 52,
-      "lastChapterApiLink": "/api/kik_bib/JER/52.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JER",
-        "chapter": 52
-      },
-      "totalNumberOfVerses": 1364
-    },
-    {
-      "id": "LAM",
-      "translationId": "kik_bib",
-      "name": "Macakaya",
-      "commonName": "Macakaya",
-      "title": "MACAKAYA",
-      "order": 25,
-      "numberOfChapters": 5,
-      "sha256": "ff13f8444b11e53ae165f30069c6439553dc71ddd0f2539a856c1865ca04ebd5",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/LAM/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "LAM",
-        "chapter": 1
-      },
-      "lastChapterNumber": 5,
-      "lastChapterApiLink": "/api/kik_bib/LAM/5.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "LAM",
-        "chapter": 5
-      },
-      "totalNumberOfVerses": 154
-    },
-    {
-      "id": "EZK",
-      "translationId": "kik_bib",
-      "name": "Ezekieli",
-      "commonName": "Ezekieli",
-      "title": "EZEKIELI",
-      "order": 26,
-      "numberOfChapters": 48,
-      "sha256": "fe298899ee81651aeaad4d6a9f6c169a5011f6331a1da55b6ade972ed1dea063",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/EZK/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "EZK",
-        "chapter": 1
-      },
-      "lastChapterNumber": 48,
-      "lastChapterApiLink": "/api/kik_bib/EZK/48.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "EZK",
-        "chapter": 48
-      },
-      "totalNumberOfVerses": 1273
-    },
-    {
-      "id": "DAN",
-      "translationId": "kik_bib",
-      "name": "Danieli",
-      "commonName": "Danieli",
-      "title": "DANIELI",
-      "order": 27,
-      "numberOfChapters": 12,
-      "sha256": "e91775ce17a81284b764dd3ac3924f70b48ada8fe2a083b4814cbd0bd281dd69",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/DAN/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "DAN",
-        "chapter": 1
-      },
-      "lastChapterNumber": 12,
-      "lastChapterApiLink": "/api/kik_bib/DAN/12.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "DAN",
-        "chapter": 12
-      },
-      "totalNumberOfVerses": 357
-    },
-    {
-      "id": "HOS",
-      "translationId": "kik_bib",
-      "name": "Hosea",
-      "commonName": "Hosea",
-      "title": "HOSEA",
-      "order": 28,
-      "numberOfChapters": 14,
-      "sha256": "62c1fe76af542efb4da4d0b1abd511352eb7fa00fcb2d2485283f08b9f00f680",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/HOS/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "HOS",
-        "chapter": 1
-      },
-      "lastChapterNumber": 14,
-      "lastChapterApiLink": "/api/kik_bib/HOS/14.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "HOS",
-        "chapter": 14
-      },
-      "totalNumberOfVerses": 197
-    },
-    {
-      "id": "JOL",
-      "translationId": "kik_bib",
-      "name": "Joeli",
-      "commonName": "Joeli",
-      "title": "JOELI",
-      "order": 29,
-      "numberOfChapters": 3,
-      "sha256": "8ff363049c3223d5cd4103ff2b99df851ec8ca455a52cbed007c3362ec39642a",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/JOL/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JOL",
-        "chapter": 1
-      },
-      "lastChapterNumber": 3,
-      "lastChapterApiLink": "/api/kik_bib/JOL/3.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JOL",
-        "chapter": 3
-      },
-      "totalNumberOfVerses": 73
-    },
-    {
-      "id": "AMO",
-      "translationId": "kik_bib",
-      "name": "Amosi",
-      "commonName": "Amosi",
-      "title": "AMOSI",
-      "order": 30,
-      "numberOfChapters": 9,
-      "sha256": "1296161f1f62594e215b50658d2fd35d4427e6bd9130433d72434db5828fe47d",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/AMO/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "AMO",
-        "chapter": 1
-      },
-      "lastChapterNumber": 9,
-      "lastChapterApiLink": "/api/kik_bib/AMO/9.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "AMO",
-        "chapter": 9
-      },
-      "totalNumberOfVerses": 146
-    },
-    {
-      "id": "OBA",
-      "translationId": "kik_bib",
-      "name": "Obadia",
-      "commonName": "Obadia",
-      "title": "OBADIA",
-      "order": 31,
-      "numberOfChapters": 1,
-      "sha256": "c66f9df26f8f142fafc931a2ce410139bc6d1b87d6e658ad4b8a7a2ebd2d4f24",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/OBA/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "OBA",
-        "chapter": 1
-      },
-      "lastChapterNumber": 1,
-      "lastChapterApiLink": "/api/kik_bib/OBA/1.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "OBA",
-        "chapter": 1
-      },
-      "totalNumberOfVerses": 21
-    },
-    {
-      "id": "JON",
-      "translationId": "kik_bib",
-      "name": "Jona",
-      "commonName": "Jona",
-      "title": "JONA",
-      "order": 32,
-      "numberOfChapters": 4,
-      "sha256": "89e085c11bb68c50b9e92d202cb9890a08d93d28206f59b53f4be15ff14aa01b",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/JON/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JON",
-        "chapter": 1
-      },
-      "lastChapterNumber": 4,
-      "lastChapterApiLink": "/api/kik_bib/JON/4.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JON",
-        "chapter": 4
-      },
-      "totalNumberOfVerses": 48
-    },
-    {
-      "id": "MIC",
-      "translationId": "kik_bib",
-      "name": "Mika",
-      "commonName": "Mika",
-      "title": "MIKA",
-      "order": 33,
-      "numberOfChapters": 7,
-      "sha256": "6539f28bc8918d4d8056902728d5a43dae6f5b4ce2b403ffbffd416e9b5c2ebc",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/MIC/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "MIC",
-        "chapter": 1
-      },
-      "lastChapterNumber": 7,
-      "lastChapterApiLink": "/api/kik_bib/MIC/7.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "MIC",
-        "chapter": 7
-      },
-      "totalNumberOfVerses": 105
-    },
-    {
-      "id": "NAM",
-      "translationId": "kik_bib",
-      "name": "Nahumu",
-      "commonName": "Nahumu",
-      "title": "NAHUMU",
-      "order": 34,
-      "numberOfChapters": 3,
-      "sha256": "ea95390a1a3b04d5b05a8a610405904db57aff20c1660ddc1c7e18920c0e2117",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/NAM/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "NAM",
-        "chapter": 1
-      },
-      "lastChapterNumber": 3,
-      "lastChapterApiLink": "/api/kik_bib/NAM/3.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "NAM",
-        "chapter": 3
-      },
-      "totalNumberOfVerses": 47
-    },
-    {
-      "id": "HAB",
-      "translationId": "kik_bib",
-      "name": "Habakuku",
-      "commonName": "Habakuku",
-      "title": "HABAKUKU",
-      "order": 35,
-      "numberOfChapters": 3,
-      "sha256": "76dac96ce5bc89d6611c1e8af6e555816ffbe7ffebc334d138e35e30b39ee3d6",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/HAB/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "HAB",
-        "chapter": 1
-      },
-      "lastChapterNumber": 3,
-      "lastChapterApiLink": "/api/kik_bib/HAB/3.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "HAB",
-        "chapter": 3
-      },
-      "totalNumberOfVerses": 56
-    },
-    {
-      "id": "ZEP",
-      "translationId": "kik_bib",
-      "name": "Zefania",
-      "commonName": "Zefania",
-      "title": "ZEFANIA",
-      "order": 36,
-      "numberOfChapters": 3,
-      "sha256": "a8c93e77ab4a54fc7c01792122f850832709817d0463dec7b6e061dfe2fa3490",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/ZEP/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "ZEP",
-        "chapter": 1
-      },
-      "lastChapterNumber": 3,
-      "lastChapterApiLink": "/api/kik_bib/ZEP/3.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "ZEP",
-        "chapter": 3
-      },
-      "totalNumberOfVerses": 53
-    },
-    {
-      "id": "HAG",
-      "translationId": "kik_bib",
-      "name": "Hagai",
-      "commonName": "Hagai",
-      "title": "HAGAI",
-      "order": 37,
-      "numberOfChapters": 2,
-      "sha256": "e9dd6f540e3de9726ff86d2df76a5c0bacf26eb994d7394dfc1450e068819496",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/HAG/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "HAG",
-        "chapter": 1
-      },
-      "lastChapterNumber": 2,
-      "lastChapterApiLink": "/api/kik_bib/HAG/2.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "HAG",
-        "chapter": 2
-      },
-      "totalNumberOfVerses": 38
-    },
-    {
-      "id": "ZEC",
-      "translationId": "kik_bib",
-      "name": "Zekaria",
-      "commonName": "Zekaria",
-      "title": "ZEKARIA",
-      "order": 38,
-      "numberOfChapters": 14,
-      "sha256": "9f34f24e09742c473a23b5dcddf331cc32b9f72083cc1b3d2b071276244f38ad",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/ZEC/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "ZEC",
-        "chapter": 1
-      },
-      "lastChapterNumber": 14,
-      "lastChapterApiLink": "/api/kik_bib/ZEC/14.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "ZEC",
-        "chapter": 14
-      },
-      "totalNumberOfVerses": 211
-    },
-    {
-      "id": "MAL",
-      "translationId": "kik_bib",
-      "name": "Malaki",
-      "commonName": "Malaki",
-      "title": "MALAKI",
-      "order": 39,
-      "numberOfChapters": 4,
-      "sha256": "bfdf2b7b709d002d0620dbe5e18c529b71ef2b73992fd6f3eaed9981c2d4f7c0",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/MAL/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "MAL",
-        "chapter": 1
-      },
-      "lastChapterNumber": 4,
-      "lastChapterApiLink": "/api/kik_bib/MAL/4.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "MAL",
-        "chapter": 4
-      },
-      "totalNumberOfVerses": 55
-    },
-    {
-      "id": "MAT",
-      "translationId": "kik_bib",
-      "name": "Mathayo",
-      "commonName": "Mathayo",
-      "title": "MATHAYO",
-      "order": 40,
-      "numberOfChapters": 28,
-      "sha256": "8605cb8710989ea26e66d4856d7529210adbfd2b012cb0628b519dac4f7cbcc9",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/MAT/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "MAT",
-        "chapter": 1
-      },
-      "lastChapterNumber": 28,
-      "lastChapterApiLink": "/api/kik_bib/MAT/28.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "MAT",
-        "chapter": 28
-      },
-      "totalNumberOfVerses": 1071
-    },
-    {
-      "id": "MRK",
-      "translationId": "kik_bib",
-      "name": "Mariko",
-      "commonName": "Mariko",
-      "title": "MARIKO",
-      "order": 41,
-      "numberOfChapters": 16,
-      "sha256": "2c0a175863dba6b5a68a77f5e85b5cc7773271cdf9b44367e3c0318d9849917d",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/MRK/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "MRK",
-        "chapter": 1
-      },
-      "lastChapterNumber": 16,
-      "lastChapterApiLink": "/api/kik_bib/MRK/16.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "MRK",
-        "chapter": 16
-      },
-      "totalNumberOfVerses": 678
-    },
-    {
-      "id": "LUK",
-      "translationId": "kik_bib",
-      "name": "Luka",
-      "commonName": "Luka",
-      "title": "LUKA",
-      "order": 42,
-      "numberOfChapters": 24,
-      "sha256": "0ba7eaf48226225de60e53831c5418a23e58443868730875face2b42ba78e549",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/LUK/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "LUK",
-        "chapter": 1
-      },
-      "lastChapterNumber": 24,
-      "lastChapterApiLink": "/api/kik_bib/LUK/24.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "LUK",
-        "chapter": 24
-      },
-      "totalNumberOfVerses": 1151
-    },
-    {
-      "id": "JHN",
-      "translationId": "kik_bib",
-      "name": "Johana",
-      "commonName": "Johana",
-      "title": "JOHANA",
-      "order": 43,
-      "numberOfChapters": 21,
-      "sha256": "2313f90b53b083ee6a07413aa2b93943e24de197d9eb7f57322a28b25dc66e94",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/JHN/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JHN",
-        "chapter": 1
-      },
-      "lastChapterNumber": 21,
-      "lastChapterApiLink": "/api/kik_bib/JHN/21.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JHN",
-        "chapter": 21
-      },
-      "totalNumberOfVerses": 879
-    },
-    {
-      "id": "ACT",
-      "translationId": "kik_bib",
-      "name": "Atũmwo",
-      "commonName": "Atũmwo",
-      "title": "ATŨMWO",
-      "order": 44,
-      "numberOfChapters": 28,
-      "sha256": "89dbebf7b0dbd2c8f0b50004270a2962bb781b295492813875bdc51584a0e789",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/ACT/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "ACT",
-        "chapter": 1
-      },
-      "lastChapterNumber": 28,
-      "lastChapterApiLink": "/api/kik_bib/ACT/28.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "ACT",
-        "chapter": 28
-      },
-      "totalNumberOfVerses": 1007
-    },
-    {
-      "id": "ROM",
-      "translationId": "kik_bib",
-      "name": "Aroma",
-      "commonName": "Aroma",
-      "title": "MARŨA MA PAŨLŨ KŨRĨ AROMA",
-      "order": 45,
-      "numberOfChapters": 16,
-      "sha256": "bdbb9673cd5f6fa196434870fc4b809496580b73fc6bee83c6ba17158e2ec017",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/ROM/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "ROM",
-        "chapter": 1
-      },
-      "lastChapterNumber": 16,
-      "lastChapterApiLink": "/api/kik_bib/ROM/16.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "ROM",
-        "chapter": 16
-      },
-      "totalNumberOfVerses": 433
-    },
-    {
-      "id": "1CO",
-      "translationId": "kik_bib",
-      "name": "1 Akorinitho",
-      "commonName": "1 Akorinitho",
-      "title": "MARŨA MA MBERE MA PAŨLŨ KŨRĨ AKORINITHO",
-      "order": 46,
-      "numberOfChapters": 16,
-      "sha256": "fdcd805f10704fda78ef6523a57b7f131cab381ae8774b1dc442d059676d47ad",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/1CO/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "1CO",
-        "chapter": 1
-      },
-      "lastChapterNumber": 16,
-      "lastChapterApiLink": "/api/kik_bib/1CO/16.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "1CO",
-        "chapter": 16
-      },
-      "totalNumberOfVerses": 437
-    },
-    {
-      "id": "2CO",
-      "translationId": "kik_bib",
-      "name": "2 Akorinitho",
-      "commonName": "2 Akorinitho",
-      "title": "MARŨA MA KEERĨ MA PAŨLŨ KŨRĨ AKORINITHO",
-      "order": 47,
-      "numberOfChapters": 13,
-      "sha256": "43f0c4ec01bede874130024385bd4afb22b83595d4155f71edb421cc1e29aba3",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/2CO/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "2CO",
-        "chapter": 1
-      },
-      "lastChapterNumber": 13,
-      "lastChapterApiLink": "/api/kik_bib/2CO/13.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "2CO",
-        "chapter": 13
-      },
-      "totalNumberOfVerses": 257
-    },
-    {
-      "id": "GAL",
-      "translationId": "kik_bib",
-      "name": "Agalatia",
-      "commonName": "Agalatia",
-      "title": "MARŨA MA PAŨLŨ KŨRĨ AGALATIA",
-      "order": 48,
-      "numberOfChapters": 6,
-      "sha256": "292f831d72f7435cd4d6c1404dde69a3800e383a9b92202d94e133416a9d5d70",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/GAL/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "GAL",
-        "chapter": 1
-      },
-      "lastChapterNumber": 6,
-      "lastChapterApiLink": "/api/kik_bib/GAL/6.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "GAL",
-        "chapter": 6
-      },
-      "totalNumberOfVerses": 149
-    },
-    {
-      "id": "EPH",
-      "translationId": "kik_bib",
-      "name": "Aefeso",
-      "commonName": "Aefeso",
-      "title": "MARŨA MA PAŨLŨ KŨRĨ AEFESO",
-      "order": 49,
-      "numberOfChapters": 6,
-      "sha256": "8de340c8f18f67211fce18fcb3470c0cc499d2be80961f238f7e1adeceb3cdbd",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/EPH/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "EPH",
-        "chapter": 1
-      },
-      "lastChapterNumber": 6,
-      "lastChapterApiLink": "/api/kik_bib/EPH/6.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "EPH",
-        "chapter": 6
-      },
-      "totalNumberOfVerses": 155
-    },
-    {
-      "id": "PHP",
-      "translationId": "kik_bib",
-      "name": "Afilipi",
-      "commonName": "Afilipi",
-      "title": "MARŨA MA PAŨLŨ KŨRĨ AFILIPI",
-      "order": 50,
-      "numberOfChapters": 4,
-      "sha256": "e79a1fb68d105110dde7b3d9f71b56a9410d004dcbf9afde97d14b84f1fc8744",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/PHP/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "PHP",
-        "chapter": 1
-      },
-      "lastChapterNumber": 4,
-      "lastChapterApiLink": "/api/kik_bib/PHP/4.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "PHP",
-        "chapter": 4
-      },
-      "totalNumberOfVerses": 104
-    },
-    {
-      "id": "COL",
-      "translationId": "kik_bib",
-      "name": "Akolosai",
-      "commonName": "Akolosai",
-      "title": "MARŨA MA PAŨLŨ KŨRĨ AKOLOSAI",
-      "order": 51,
-      "numberOfChapters": 4,
-      "sha256": "8c0228183725c1300b140175fe9464779cbeca3aa84b01c641dd7d14353eb45b",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/COL/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "COL",
-        "chapter": 1
-      },
-      "lastChapterNumber": 4,
-      "lastChapterApiLink": "/api/kik_bib/COL/4.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "COL",
-        "chapter": 4
-      },
-      "totalNumberOfVerses": 95
-    },
-    {
-      "id": "1TH",
-      "translationId": "kik_bib",
-      "name": "1 Athesalonike",
-      "commonName": "1 Athesalonike",
-      "title": "MARŨA MA MBERE MA PAŨLŨ KŨRĨ ATHESALONIKE",
-      "order": 52,
-      "numberOfChapters": 5,
-      "sha256": "1f49561106fb7c576b1fb7d5e5f361d42aaabf7b1c50ca8af09536ba5fcd54b3",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/1TH/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "1TH",
-        "chapter": 1
-      },
-      "lastChapterNumber": 5,
-      "lastChapterApiLink": "/api/kik_bib/1TH/5.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "1TH",
-        "chapter": 5
-      },
-      "totalNumberOfVerses": 88
-    },
-    {
-      "id": "2TH",
-      "translationId": "kik_bib",
-      "name": "2 Athesalonike",
-      "commonName": "2 Athesalonike",
-      "title": "MARŨA MA KEERĨ MA PAŨLŨ KŨRĨ ATHESALONIKE",
-      "order": 53,
-      "numberOfChapters": 3,
-      "sha256": "e027a64bdc708d6696212cee8fbb18ec905789b5c72ff4011f665659d30bee5c",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/2TH/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "2TH",
-        "chapter": 1
-      },
-      "lastChapterNumber": 3,
-      "lastChapterApiLink": "/api/kik_bib/2TH/3.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "2TH",
-        "chapter": 3
-      },
-      "totalNumberOfVerses": 47
-    },
-    {
-      "id": "1TI",
-      "translationId": "kik_bib",
-      "name": "1 Timotheo",
-      "commonName": "1 Timotheo",
-      "title": "MARŨA MA MBERE MA PAŨLŨ KŨRĨ TIMOTHEO",
-      "order": 54,
-      "numberOfChapters": 6,
-      "sha256": "c193336528fdf3947c02dbb780e1663bba67c7e0af08a178c29f8340399154f6",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/1TI/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "1TI",
-        "chapter": 1
-      },
-      "lastChapterNumber": 6,
-      "lastChapterApiLink": "/api/kik_bib/1TI/6.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "1TI",
-        "chapter": 6
-      },
-      "totalNumberOfVerses": 113
-    },
-    {
-      "id": "2TI",
-      "translationId": "kik_bib",
-      "name": "2 Timotheo",
-      "commonName": "2 Timotheo",
-      "title": "MARŨA MA KEERĨ MA PAŨLŨ KŨRĨ TIMOTHEO",
-      "order": 55,
-      "numberOfChapters": 4,
-      "sha256": "56f0ae098083efca450b55857ff270934e82658345ab0c5672cc723ba0918bbc",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/2TI/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "2TI",
-        "chapter": 1
-      },
-      "lastChapterNumber": 4,
-      "lastChapterApiLink": "/api/kik_bib/2TI/4.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "2TI",
-        "chapter": 4
-      },
-      "totalNumberOfVerses": 83
-    },
-    {
-      "id": "TIT",
-      "translationId": "kik_bib",
-      "name": "Tito",
-      "commonName": "Tito",
-      "title": "MARŨA MA PAŨLŨ KŨRĨ TITO",
-      "order": 56,
-      "numberOfChapters": 3,
-      "sha256": "eebd1c77b213358b16c2af2496f2d2bbff7c7d4d3ae600bd392c5bd1d76b9f13",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/TIT/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "TIT",
-        "chapter": 1
-      },
-      "lastChapterNumber": 3,
-      "lastChapterApiLink": "/api/kik_bib/TIT/3.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "TIT",
-        "chapter": 3
-      },
-      "totalNumberOfVerses": 46
-    },
-    {
-      "id": "PHM",
-      "translationId": "kik_bib",
-      "name": "Filemona",
-      "commonName": "Filemona",
-      "title": "MARŨA MA PAŨLŨ KŨRĨ FILEMONA",
-      "order": 57,
-      "numberOfChapters": 1,
-      "sha256": "3069cd9b4a6ad3394019b4eb185bcd5b125e91811c7d826f3e4c2ce22288836b",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/PHM/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "PHM",
-        "chapter": 1
-      },
-      "lastChapterNumber": 1,
-      "lastChapterApiLink": "/api/kik_bib/PHM/1.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "PHM",
-        "chapter": 1
-      },
-      "totalNumberOfVerses": 25
-    },
-    {
-      "id": "HEB",
-      "translationId": "kik_bib",
-      "name": "Ahibirania",
-      "commonName": "Ahibirania",
-      "title": "MARŨA KŨRĨ AHIBIRANIA",
-      "order": 58,
-      "numberOfChapters": 13,
-      "sha256": "c4ad7e7a4a2b1ae5a2c6d7af2eaa96008f24d747ad3b6b078831214895759c12",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/HEB/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "HEB",
-        "chapter": 1
-      },
-      "lastChapterNumber": 13,
-      "lastChapterApiLink": "/api/kik_bib/HEB/13.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "HEB",
-        "chapter": 13
-      },
-      "totalNumberOfVerses": 303
-    },
-    {
-      "id": "JAS",
-      "translationId": "kik_bib",
-      "name": "Jakubu",
-      "commonName": "Jakubu",
-      "title": "MARŨA MA JAKUBU",
-      "order": 59,
-      "numberOfChapters": 5,
-      "sha256": "ccbc50835cdfd1a143f66c401e0172565fb2dad9a78fe68d890f83c02d1572f4",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/JAS/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JAS",
-        "chapter": 1
-      },
-      "lastChapterNumber": 5,
-      "lastChapterApiLink": "/api/kik_bib/JAS/5.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JAS",
-        "chapter": 5
-      },
-      "totalNumberOfVerses": 108
-    },
-    {
-      "id": "1PE",
-      "translationId": "kik_bib",
-      "name": "1 Petero",
-      "commonName": "1 Petero",
-      "title": "MARŨA MA MBERE MA PETERO",
-      "order": 60,
-      "numberOfChapters": 5,
-      "sha256": "152a46faddd80ee513d3a1c0d078ed5afd4ef5b818ace2e68eea0132b8267c5f",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/1PE/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "1PE",
-        "chapter": 1
-      },
-      "lastChapterNumber": 5,
-      "lastChapterApiLink": "/api/kik_bib/1PE/5.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "1PE",
-        "chapter": 5
-      },
-      "totalNumberOfVerses": 105
-    },
-    {
-      "id": "2PE",
-      "translationId": "kik_bib",
-      "name": "2 Petero",
-      "commonName": "2 Petero",
-      "title": "MARŨA MA KEERĨ MA PETERO",
-      "order": 61,
-      "numberOfChapters": 3,
-      "sha256": "1d3d5150b7016a74e861c462b6a98b85ed2152a5e20c6b676a416f2179cd120c",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/2PE/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "2PE",
-        "chapter": 1
-      },
-      "lastChapterNumber": 3,
-      "lastChapterApiLink": "/api/kik_bib/2PE/3.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "2PE",
-        "chapter": 3
-      },
-      "totalNumberOfVerses": 61
-    },
-    {
-      "id": "1JN",
-      "translationId": "kik_bib",
-      "name": "1 Johana",
-      "commonName": "1 Johana",
-      "title": "MARŨA MA MBERE MA JOHANA",
-      "order": 62,
-      "numberOfChapters": 5,
-      "sha256": "d5e824dda7b4f392884a394550b68855cdef20147f8dd9b1662863bd4795fce2",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/1JN/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "1JN",
-        "chapter": 1
-      },
-      "lastChapterNumber": 5,
-      "lastChapterApiLink": "/api/kik_bib/1JN/5.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "1JN",
-        "chapter": 5
-      },
-      "totalNumberOfVerses": 105
-    },
-    {
-      "id": "2JN",
-      "translationId": "kik_bib",
-      "name": "2 Johana",
-      "commonName": "2 Johana",
-      "title": "MARŨA MA KEERĨ MA JOHANA",
-      "order": 63,
-      "numberOfChapters": 1,
-      "sha256": "4bb0e431d20c23d85a63aad0e106865e6bae8543d2ced189ea19ae7b8399262b",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/2JN/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "2JN",
-        "chapter": 1
-      },
-      "lastChapterNumber": 1,
-      "lastChapterApiLink": "/api/kik_bib/2JN/1.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "2JN",
-        "chapter": 1
-      },
-      "totalNumberOfVerses": 13
-    },
-    {
-      "id": "3JN",
-      "translationId": "kik_bib",
-      "name": "3 Johana",
-      "commonName": "3 Johana",
-      "title": "MARŨA MA GATATŨ MA JOHANA",
-      "order": 64,
-      "numberOfChapters": 1,
-      "sha256": "191252c5ba16225c86e0d290297fdd741a15a62d99d44f4f75adbb5c01d8959f",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/3JN/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "3JN",
-        "chapter": 1
-      },
-      "lastChapterNumber": 1,
-      "lastChapterApiLink": "/api/kik_bib/3JN/1.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "3JN",
-        "chapter": 1
-      },
-      "totalNumberOfVerses": 14
-    },
-    {
-      "id": "JUD",
-      "translationId": "kik_bib",
-      "name": "Judasi",
-      "commonName": "Judasi",
-      "title": "MARŨA MA JUDASI",
-      "order": 65,
-      "numberOfChapters": 1,
-      "sha256": "7df035622a4da758c9bb9200b963917abc6ae3382f9d2386f54e048fb9571028",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/JUD/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JUD",
-        "chapter": 1
-      },
-      "lastChapterNumber": 1,
-      "lastChapterApiLink": "/api/kik_bib/JUD/1.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "JUD",
-        "chapter": 1
-      },
-      "totalNumberOfVerses": 25
-    },
-    {
-      "id": "REV",
-      "translationId": "kik_bib",
-      "name": "Kũguũrĩrio",
-      "commonName": "Kũguũrĩrio",
-      "title": "KŨGUŨRĨRIO KWA JOHANA",
-      "order": 66,
-      "numberOfChapters": 22,
-      "sha256": "41b25f0b1a4e778cd5f6be0f22ae8ca81fd3c85dcd0ce285043b3cb305178607",
-      "firstChapterNumber": 1,
-      "firstChapterApiLink": "/api/kik_bib/REV/1.json",
-      "firstChapterReference": {
-        "translationId": "kik_bib",
-        "book": "REV",
-        "chapter": 1
-      },
-      "lastChapterNumber": 22,
-      "lastChapterApiLink": "/api/kik_bib/REV/22.json",
-      "lastChapterReference": {
-        "translationId": "kik_bib",
-        "book": "REV",
-        "chapter": 22
-      },
-      "totalNumberOfVerses": 404
-    }
-  ]
-}
+  {
+    "id": "EXO",
+    "abbreviation": "Tha",
+    "name": "Thaama",
+    "nameLong": "Thaama"
+  },
+  {
+    "id": "LEV",
+    "abbreviation": "Ala",
+    "name": "Alawii",
+    "nameLong": "Alawii"
+  },
+  {
+    "id": "NUM",
+    "abbreviation": "Nda",
+    "name": "Ndari",
+    "nameLong": "Ndari"
+  },
+  {
+    "id": "DEU",
+    "abbreviation": "Gũc",
+    "name": "Gũcookerithia",
+    "nameLong": "Gũcookerithia"
+  },
+  {
+    "id": "JOS",
+    "abbreviation": "Jos",
+    "name": "Joshua",
+    "nameLong": "Joshua"
+  },
+  {
+    "id": "JDG",
+    "abbreviation": "Ati",
+    "name": "Atiirĩrĩri",
+    "nameLong": "Atiirĩrĩri"
+  },
+  {
+    "id": "RUT",
+    "abbreviation": "Rut",
+    "name": "Ruthu",
+    "nameLong": "Ruthu"
+  },
+  {
+    "id": "1SA",
+    "abbreviation": "1 S",
+    "name": "1 Samũeli",
+    "nameLong": "1 Samũeli"
+  },
+  {
+    "id": "2SA",
+    "abbreviation": "2 S",
+    "name": "2 Samũeli",
+    "nameLong": "2 Samũeli"
+  },
+  {
+    "id": "1KI",
+    "abbreviation": "1 A",
+    "name": "1 Athamaki",
+    "nameLong": "1 Athamaki"
+  },
+  {
+    "id": "2KI",
+    "abbreviation": "2 A",
+    "name": "2 Athamaki",
+    "nameLong": "2 Athamaki"
+  },
+  {
+    "id": "1CH",
+    "abbreviation": "1 M",
+    "name": "1 Maũndũ Ma Matukũ Ma Tene",
+    "nameLong": "1 Maũndũ Ma Matukũ Ma Tene"
+  },
+  {
+    "id": "2CH",
+    "abbreviation": "2 M",
+    "name": "2 Maũndũ ma Matukũ ma Tene",
+    "nameLong": "2 Maũndũ ma Matukũ ma Tene"
+  },
+  {
+    "id": "EZR",
+    "abbreviation": "Eza",
+    "name": "Ezara",
+    "nameLong": "Ezara"
+  },
+  {
+    "id": "NEH",
+    "abbreviation": "Neh",
+    "name": "Nehemia",
+    "nameLong": "Nehemia"
+  },
+  {
+    "id": "EST",
+    "abbreviation": "Esi",
+    "name": "Esiteri",
+    "nameLong": "Esiteri"
+  },
+  {
+    "id": "JOB",
+    "abbreviation": "Ayu",
+    "name": "Ayubu",
+    "nameLong": "Ayubu"
+  },
+  {
+    "id": "PSA",
+    "abbreviation": "Tha",
+    "name": "Thaburi",
+    "nameLong": "Thaburi"
+  },
+  {
+    "id": "PRO",
+    "abbreviation": "Thi",
+    "name": "Thimo",
+    "nameLong": "Thimo"
+  },
+  {
+    "id": "ECC",
+    "abbreviation": "Koh",
+    "name": "Kohelethu",
+    "nameLong": "Kohelethu"
+  },
+  {
+    "id": "SNG",
+    "abbreviation": "Rwĩ",
+    "name": "Rwĩmbo",
+    "nameLong": "Rwĩmbo"
+  },
+  {
+    "id": "ISA",
+    "abbreviation": "Isa",
+    "name": "Isaia",
+    "nameLong": "Isaia"
+  },
+  {
+    "id": "JER",
+    "abbreviation": "Jer",
+    "name": "Jeremia",
+    "nameLong": "Jeremia"
+  },
+  {
+    "id": "LAM",
+    "abbreviation": "Mac",
+    "name": "Macakaya",
+    "nameLong": "Macakaya"
+  },
+  {
+    "id": "EZK",
+    "abbreviation": "Eze",
+    "name": "Ezekieli",
+    "nameLong": "Ezekieli"
+  },
+  {
+    "id": "DAN",
+    "abbreviation": "Dan",
+    "name": "Danieli",
+    "nameLong": "Danieli"
+  },
+  {
+    "id": "HOS",
+    "abbreviation": "Hos",
+    "name": "Hosea",
+    "nameLong": "Hosea"
+  },
+  {
+    "id": "JOL",
+    "abbreviation": "Joe",
+    "name": "Joeli",
+    "nameLong": "Joeli"
+  },
+  {
+    "id": "AMO",
+    "abbreviation": "Amo",
+    "name": "Amosi",
+    "nameLong": "Amosi"
+  },
+  {
+    "id": "OBA",
+    "abbreviation": "Oba",
+    "name": "Obadia",
+    "nameLong": "Obadia"
+  },
+  {
+    "id": "JON",
+    "abbreviation": "Jon",
+    "name": "Jona",
+    "nameLong": "Jona"
+  },
+  {
+    "id": "MIC",
+    "abbreviation": "Mik",
+    "name": "Mika",
+    "nameLong": "Mika"
+  },
+  {
+    "id": "NAM",
+    "abbreviation": "Nah",
+    "name": "Nahumu",
+    "nameLong": "Nahumu"
+  },
+  {
+    "id": "HAB",
+    "abbreviation": "Hab",
+    "name": "Habakuku",
+    "nameLong": "Habakuku"
+  },
+  {
+    "id": "ZEP",
+    "abbreviation": "Zef",
+    "name": "Zefania",
+    "nameLong": "Zefania"
+  },
+  {
+    "id": "HAG",
+    "abbreviation": "Hag",
+    "name": "Hagai",
+    "nameLong": "Hagai"
+  },
+  {
+    "id": "ZEC",
+    "abbreviation": "Zek",
+    "name": "Zekaria",
+    "nameLong": "Zekaria"
+  },
+  {
+    "id": "MAL",
+    "abbreviation": "Mal",
+    "name": "Malaki",
+    "nameLong": "Malaki"
+  },
+  {
+    "id": "MAT",
+    "abbreviation": "Mat",
+    "name": "Mathayo",
+    "nameLong": "Mathayo"
+  },
+  {
+    "id": "MRK",
+    "abbreviation": "Mar",
+    "name": "Mariko",
+    "nameLong": "Mariko"
+  },
+  {
+    "id": "LUK",
+    "abbreviation": "Luk",
+    "name": "Luka",
+    "nameLong": "Luka"
+  },
+  {
+    "id": "JHN",
+    "abbreviation": "Joh",
+    "name": "Johana",
+    "nameLong": "Johana"
+  },
+  {
+    "id": "ACT",
+    "abbreviation": "Atũ",
+    "name": "Atũmwo",
+    "nameLong": "Atũmwo"
+  },
+  {
+    "id": "ROM",
+    "abbreviation": "Aro",
+    "name": "Aroma",
+    "nameLong": "Aroma"
+  },
+  {
+    "id": "1CO",
+    "abbreviation": "1 A",
+    "name": "1 Akorinitho",
+    "nameLong": "1 Akorinitho"
+  },
+  {
+    "id": "2CO",
+    "abbreviation": "2 A",
+    "name": "2 Akorinitho",
+    "nameLong": "2 Akorinitho"
+  },
+  {
+    "id": "GAL",
+    "abbreviation": "Aga",
+    "name": "Agalatia",
+    "nameLong": "Agalatia"
+  },
+  {
+    "id": "EPH",
+    "abbreviation": "Aef",
+    "name": "Aefeso",
+    "nameLong": "Aefeso"
+  },
+  {
+    "id": "PHP",
+    "abbreviation": "Afi",
+    "name": "Afilipi",
+    "nameLong": "Afilipi"
+  },
+  {
+    "id": "COL",
+    "abbreviation": "Ako",
+    "name": "Akolosai",
+    "nameLong": "Akolosai"
+  },
+  {
+    "id": "1TH",
+    "abbreviation": "1 A",
+    "name": "1 Athesalonike",
+    "nameLong": "1 Athesalonike"
+  },
+  {
+    "id": "2TH",
+    "abbreviation": "2 A",
+    "name": "2 Athesalonike",
+    "nameLong": "2 Athesalonike"
+  },
+  {
+    "id": "1TI",
+    "abbreviation": "1 T",
+    "name": "1 Timotheo",
+    "nameLong": "1 Timotheo"
+  },
+  {
+    "id": "2TI",
+    "abbreviation": "2 T",
+    "name": "2 Timotheo",
+    "nameLong": "2 Timotheo"
+  },
+  {
+    "id": "TIT",
+    "abbreviation": "Tit",
+    "name": "Tito",
+    "nameLong": "Tito"
+  },
+  {
+    "id": "PHM",
+    "abbreviation": "Fil",
+    "name": "Filemona",
+    "nameLong": "Filemona"
+  },
+  {
+    "id": "HEB",
+    "abbreviation": "Ahi",
+    "name": "Ahibirania",
+    "nameLong": "Ahibirania"
+  },
+  {
+    "id": "JAS",
+    "abbreviation": "Jak",
+    "name": "Jakubu",
+    "nameLong": "Jakubu"
+  },
+  {
+    "id": "1PE",
+    "abbreviation": "1 P",
+    "name": "1 Petero",
+    "nameLong": "1 Petero"
+  },
+  {
+    "id": "2PE",
+    "abbreviation": "2 P",
+    "name": "2 Petero",
+    "nameLong": "2 Petero"
+  },
+  {
+    "id": "1JN",
+    "abbreviation": "1 J",
+    "name": "1 Johana",
+    "nameLong": "1 Johana"
+  },
+  {
+    "id": "2JN",
+    "abbreviation": "2 J",
+    "name": "2 Johana",
+    "nameLong": "2 Johana"
+  },
+  {
+    "id": "3JN",
+    "abbreviation": "3 J",
+    "name": "3 Johana",
+    "nameLong": "3 Johana"
+  },
+  {
+    "id": "JUD",
+    "abbreviation": "Jud",
+    "name": "Judasi",
+    "nameLong": "Judasi"
+  },
+  {
+    "id": "REV",
+    "abbreviation": "Kũg",
+    "name": "Kũguũrĩrio",
+    "nameLong": "Kũguũrĩrio"
+  }
+]
