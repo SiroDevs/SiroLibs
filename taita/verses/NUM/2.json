@@ -1,22 +1,22 @@
 {
-  "id": "GEN.1",
-  "number": "1",
-  "bookId": "GEN",
-  "reference": "Kuzoya 1",
+  "id": "NUM.2",
+  "number": "2",
+  "bookId": "NUM",
+  "reference": "Mitalo 2",
   "copyright": "PUBLIC DOMAIN",
-  "verseCount": 31,
+  "verseCount": 34,
   "content": [
     {
       "name": "chapter",
       "type": "tag",
       "attrs": {
-        "number": "1",
+        "number": "2",
         "style": "c",
-        "sid": "GEN 1"
+        "sid": "NUM 2"
       },
       "items": [
         {
-          "text": "1",
+          "text": "2",
           "type": "text"
         }
       ]
@@ -29,7 +29,7 @@
       },
       "items": [
         {
-          "text": "Kuumbwa kwa wurumwengu",
+          "text": "Mapango gha vichuku va wandu kambinyi",
           "type": "text"
         }
       ]
@@ -47,7 +47,7 @@
           "attrs": {
             "number": "1",
             "style": "v",
-            "sid": "GEN 1:1"
+            "sid": "NUM 2:1"
           },
           "items": [
             {
@@ -57,12 +57,12 @@
           ]
         },
         {
-          "text": "Aho kuzoenyi, Mlungu oreumbieghe mlungunyi na ndoenyi. ",
+          "text": "Nao BWANA ukawizera Musa na Haruni, ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.1",
+            "verseId": "NUM.2.1",
             "verseOrgIds": [
-              "GEN.1.1"
+              "NUM.2.1"
             ]
           }
         },
@@ -72,7 +72,7 @@
           "attrs": {
             "number": "2",
             "style": "v",
-            "sid": "GEN 1:2"
+            "sid": "NUM 2:2"
           },
           "items": [
             {
@@ -82,12 +82,12 @@
           ]
         },
         {
-          "text": "Ndoenyi ndekorekoghe na fwana ingi, angu kilambo chingi. Kira cherekoghe aighu ya machi ghimilie, na Roho wa Mlungu ukakaia ukisela-sela aighu ya machi. ",
+          "text": "“Wandu wa Israeli widunge kambi kunughana na bendera ra vichuku vawo, na kula mundu alama ya nyumba ya mzawo; nawo wipange kulangaya Hema ekwania chia rose. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.2",
+            "verseId": "NUM.2.2",
             "verseOrgIds": [
-              "GEN.1.2"
+              "NUM.2.2"
             ]
           }
         },
@@ -97,7 +97,7 @@
           "attrs": {
             "number": "3",
             "style": "v",
-            "sid": "GEN 1:3"
+            "sid": "NUM 2:3"
           },
           "items": [
             {
@@ -107,45 +107,12 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Mwengere ndeghukaie”, na mwengere ghukakaia.",
+          "text": "Awandu wichaapanga iichia cha mashariki andu iruwa jibukiagha, ni wa bendera ya kambi ya kichuku cha Juda, kwa mafungu ghawo; na kilongozi wawo uchakaia Nashoni mwana wa Aminadabu. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.3",
+            "verseId": "NUM.2.3",
             "verseOrgIds": [
-              "GEN.1.3"
-            ]
-          }
-        },
-        {
-          "name": "note",
-          "type": "tag",
-          "attrs": {
-            "style": "x",
-            "caller": "#"
-          },
-          "items": [
-            {
-              "name": "ref",
-              "type": "tag",
-              "attrs": {
-                "loc": "2CO.4.6"
-              },
-              "items": [
-                {
-                  "text": "2 Wakor. 4.6",
-                  "type": "text"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.3",
-            "verseOrgIds": [
-              "GEN.1.3"
+              "NUM.2.3"
             ]
           }
         },
@@ -155,7 +122,7 @@
           "attrs": {
             "number": "4",
             "style": "v",
-            "sid": "GEN 1:4"
+            "sid": "NUM 2:4"
           },
           "items": [
             {
@@ -165,12 +132,12 @@
           ]
         },
         {
-          "text": "Mlungu ukawona angu ghwaboie; ukaghutanya mwengere na kira. ",
+          "text": "Ijeshi seji jitalilo, ni elfu mirongo mfungade na inya, na maghana arandadu. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.4",
+            "verseId": "NUM.2.4",
             "verseOrgIds": [
-              "GEN.1.4"
+              "NUM.2.4"
             ]
           }
         },
@@ -180,7 +147,7 @@
           "attrs": {
             "number": "5",
             "style": "v",
-            "sid": "GEN 1:5"
+            "sid": "NUM 2:5"
           },
           "items": [
             {
@@ -190,46 +157,12 @@
           ]
         },
         {
-          "text": "Mwengere ukaghuwanga, “Dime” na kira ukachiwanga “Kio”. Kukakaia nakenyi, kukakaia nakesho, ituku ja imbiri.",
+          "text": "Wandu wichaapanga kunughana na kichuku cha Juda, ni kichuku cha Isakari; na kilongozi chawo ni Nethaneli mwana wa Suari. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.5",
+            "verseId": "NUM.2.5",
             "verseOrgIds": [
-              "GEN.1.5"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "name": "para",
-      "type": "tag",
-      "attrs": {
-        "style": "p"
-      },
-      "items": [
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
-            "number": "5",
-            "style": "v",
-            "sid": "GEN 1:5"
-          },
-          "items": [
-            {
-              "text": "5",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.5",
-            "verseOrgIds": [
-              "GEN.1.5"
+              "NUM.2.5"
             ]
           }
         },
@@ -239,7 +172,7 @@
           "attrs": {
             "number": "6",
             "style": "v",
-            "sid": "GEN 1:6"
+            "sid": "NUM 2:6"
           },
           "items": [
             {
@@ -249,45 +182,12 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Mawingu ndeghikaie ghadi na ghadi ya machi, ghighiwaghanye mafungu awi.”",
+          "text": "Ijeshi jake seji jitalilo, ni elfu mirongo misanu na inya na maghana ana. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.6",
+            "verseId": "NUM.2.6",
             "verseOrgIds": [
-              "GEN.1.6"
-            ]
-          }
-        },
-        {
-          "name": "note",
-          "type": "tag",
-          "attrs": {
-            "style": "x",
-            "caller": "#"
-          },
-          "items": [
-            {
-              "name": "ref",
-              "type": "tag",
-              "attrs": {
-                "loc": "2PE.3.5"
-              },
-              "items": [
-                {
-                  "text": "2 Pet. 3.5",
-                  "type": "text"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.6",
-            "verseOrgIds": [
-              "GEN.1.6"
+              "NUM.2.6"
             ]
           }
         },
@@ -297,7 +197,7 @@
           "attrs": {
             "number": "7",
             "style": "v",
-            "sid": "GEN 1:7"
+            "sid": "NUM 2:7"
           },
           "items": [
             {
@@ -307,12 +207,12 @@
           ]
         },
         {
-          "text": "Mlungu ukabonya mawingunyi, nao ukaghitanya agho machi gherekoghe mawingunyi nandonyi na agho gherekoghe mawingunyi naighu. Nao ikakaia wokoni. ",
+          "text": "Wandu winughagha ni kichuku cha Zebluni, na kilongozi chawo ni Eliabu mwana wa Heloni. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.7",
+            "verseId": "NUM.2.7",
             "verseOrgIds": [
-              "GEN.1.7"
+              "NUM.2.7"
             ]
           }
         },
@@ -322,7 +222,7 @@
           "attrs": {
             "number": "8",
             "style": "v",
-            "sid": "GEN 1:8"
+            "sid": "NUM 2:8"
           },
           "items": [
             {
@@ -332,46 +232,12 @@
           ]
         },
         {
-          "text": "Nao Mlungu ukakuwanga aho mawingunyi, “Mlungunyi.” Kukakaia nakenyi, kukaia nakesho, ituku ja kawi.",
+          "text": "Ijeshi jawo seji jitalilo, ni elfu mirongo misanu na mfungade na maghana ana. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.8",
+            "verseId": "NUM.2.8",
             "verseOrgIds": [
-              "GEN.1.8"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "name": "para",
-      "type": "tag",
-      "attrs": {
-        "style": "p"
-      },
-      "items": [
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
-            "number": "8",
-            "style": "v",
-            "sid": "GEN 1:8"
-          },
-          "items": [
-            {
-              "text": "8",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.8",
-            "verseOrgIds": [
-              "GEN.1.8"
+              "NUM.2.8"
             ]
           }
         },
@@ -381,7 +247,7 @@
           "attrs": {
             "number": "9",
             "style": "v",
-            "sid": "GEN 1:9"
+            "sid": "NUM 2:9"
           },
           "items": [
             {
@@ -391,12 +257,46 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Machi ghiko mlungunyi nandonyi ndeghitumbanyike chiaimweri, na ndoe iomie iwoneke.” Nao ikakaia wokoni. ",
+          "text": "Mtalo ghwa wandu wose wa kambi ya Juda kwa mafungu ghawo, ni elfu ighana na mirongo wunyanya na irandadu na maghana ana. Awo niwo wichaakaia wikizoya kughenda.",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.9",
+            "verseId": "NUM.2.9",
             "verseOrgIds": [
-              "GEN.1.9"
+              "NUM.2.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NUM 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.9",
+            "verseOrgIds": [
+              "NUM.2.9"
             ]
           }
         },
@@ -406,7 +306,7 @@
           "attrs": {
             "number": "10",
             "style": "v",
-            "sid": "GEN 1:10"
+            "sid": "NUM 2:10"
           },
           "items": [
             {
@@ -416,12 +316,12 @@
           ]
         },
         {
-          "text": "Mlungu ukawanga andu kuomie “Ndoenyi,” na agho machi gheretumbanyikieghe ukaghiwanga, “Bahari.” Mlungu ukawona angu vaboie. ",
+          "text": "“Wandu wichaapanga ii chia cha kusinyi, ni wa bendera ya kambi ya kichuku cha Reubeni kwa mafungu ghwawo; na kilongozi chawo ni Elisuri mwana wa Shedeuri. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.10",
+            "verseId": "NUM.2.10",
             "verseOrgIds": [
-              "GEN.1.10"
+              "NUM.2.10"
             ]
           }
         },
@@ -431,7 +331,7 @@
           "attrs": {
             "number": "11",
             "style": "v",
-            "sid": "GEN 1:11"
+            "sid": "NUM 2:11"
           },
           "items": [
             {
@@ -441,12 +341,12 @@
           ]
         },
         {
-          "text": "Niko Mlungu ukaghamba, “Ndoe ndeibuse midi, miwalwa ifunyagha mbeu, na midi ya matunda ghiko na mbeu, kula mudi ghwa mbari yaro.” Nao ikakaia wokoni. ",
+          "text": "Ijeshi jake seji jitalilo ni elfu mirongo ina na irandadu na maghana masanu. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.11",
+            "verseId": "NUM.2.11",
             "verseOrgIds": [
-              "GEN.1.11"
+              "NUM.2.11"
             ]
           }
         },
@@ -456,7 +356,7 @@
           "attrs": {
             "number": "12",
             "style": "v",
-            "sid": "GEN 1:12"
+            "sid": "NUM 2:12"
           },
           "items": [
             {
@@ -466,12 +366,12 @@
           ]
         },
         {
-          "text": "Ndoe ikabusa midi, miwalwa ifunyagha mbeu kwa vichuku varo, na midi ivagha matunda ghiko na mbeu raro andenyi, kula ghumu kwa mbari yaro. Mlungu ukawona angu vaboie na ndighi. ",
+          "text": "Wandu wichaapanga kunughana na kichuku cha Reubeni, ni kichuku cha Simeoni, na kilongozi chawo ni Shelumieli mwana wa Surishadai. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.12",
+            "verseId": "NUM.2.12",
             "verseOrgIds": [
-              "GEN.1.12"
+              "NUM.2.12"
             ]
           }
         },
@@ -481,7 +381,7 @@
           "attrs": {
             "number": "13",
             "style": "v",
-            "sid": "GEN 1:13"
+            "sid": "NUM 2:13"
           },
           "items": [
             {
@@ -491,46 +391,12 @@
           ]
         },
         {
-          "text": "Kukakaia nakenyi, kukakaia nakesho, ituku ja kadadu.",
+          "text": "Ijeshi jake seji jitalilo ni elfu mirongo misanu na ikenda na maghana adadu. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.13",
+            "verseId": "NUM.2.13",
             "verseOrgIds": [
-              "GEN.1.13"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "name": "para",
-      "type": "tag",
-      "attrs": {
-        "style": "p"
-      },
-      "items": [
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
-            "number": "13",
-            "style": "v",
-            "sid": "GEN 1:13"
-          },
-          "items": [
-            {
-              "text": "13",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.13",
-            "verseOrgIds": [
-              "GEN.1.13"
+              "NUM.2.13"
             ]
           }
         },
@@ -540,7 +406,7 @@
           "attrs": {
             "number": "14",
             "style": "v",
-            "sid": "GEN 1:14"
+            "sid": "NUM 2:14"
           },
           "items": [
             {
@@ -550,12 +416,12 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Miengere ndeikaie aighu mawingunyi, ipate kutanya kio na dime, na kuwonyera alama, vimu, matuku, na miaka; ",
+          "text": "Wandu winughagha ni kichuku cha Gadi; na kilongozi chawo ni Eliasafu mwana wa Dueli. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.14",
+            "verseId": "NUM.2.14",
             "verseOrgIds": [
-              "GEN.1.14"
+              "NUM.2.14"
             ]
           }
         },
@@ -565,7 +431,7 @@
           "attrs": {
             "number": "15",
             "style": "v",
-            "sid": "GEN 1:15"
+            "sid": "NUM 2:15"
           },
           "items": [
             {
@@ -575,12 +441,12 @@
           ]
         },
         {
-          "text": "nayo ikaie aighu mawingunyi, ilangalishireghe ndoenyi.” Nao ikakaia wokoni. ",
+          "text": "Ijeshi jake seji jitalilo, ni elfu mirongo ina na isanu na mirongo misanu. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.15",
+            "verseId": "NUM.2.15",
             "verseOrgIds": [
-              "GEN.1.15"
+              "NUM.2.15"
             ]
           }
         },
@@ -590,7 +456,7 @@
           "attrs": {
             "number": "16",
             "style": "v",
-            "sid": "GEN 1:16"
+            "sid": "NUM 2:16"
           },
           "items": [
             {
@@ -600,12 +466,46 @@
           ]
         },
         {
-          "text": "Nao Mlungu ukabonya miengere mibaa iwi, ugho mwengere m'baa ghuibonyere dime nguma, na ugho mtini ghubonyere kio nguma, ukabonya na nyerinyeri wokoni. ",
+          "text": "Mtalo ghwa wandu wose wa kambi ya Reubeni kwa mafungu ghawo, ni elfu ighana na mirongo misanu na imweri maghana ana na mirongo misanu. Awo wichakaia wa kawi kuzoya kughenda.",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.16",
+            "verseId": "NUM.2.16",
             "verseOrgIds": [
-              "GEN.1.16"
+              "NUM.2.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NUM 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.16",
+            "verseOrgIds": [
+              "NUM.2.16"
             ]
           }
         },
@@ -615,7 +515,7 @@
           "attrs": {
             "number": "17",
             "style": "v",
-            "sid": "GEN 1:17"
+            "sid": "NUM 2:17"
           },
           "items": [
             {
@@ -625,12 +525,46 @@
           ]
         },
         {
-          "text": "Mlungu ukaiwika iyo miengere aighu mawingunyi gha mlungunyi, ipate kuilangalishira ndoenyi, ",
+          "text": "“Niko wandu wa kichuku cha Lawi wichaiduka ija Hema Ekwania na kuzoya kughenda, wikikaia ghadi na ghadi sa iji koni kambi rawo rerekoghe; nawo wichaghenda kunughana na bendera rawo.",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.17",
+            "verseId": "NUM.2.17",
             "verseOrgIds": [
-              "GEN.1.17"
+              "NUM.2.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "NUM 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.17",
+            "verseOrgIds": [
+              "NUM.2.17"
             ]
           }
         },
@@ -640,7 +574,7 @@
           "attrs": {
             "number": "18",
             "style": "v",
-            "sid": "GEN 1:18"
+            "sid": "NUM 2:18"
           },
           "items": [
             {
@@ -650,12 +584,12 @@
           ]
         },
         {
-          "text": "ibonye nguma na dime hata na kio wori, nayo itanye mwengere na kira. Nao Mlungu ukawona angu vaboie. ",
+          "text": "“Wandu wichaapanga ii chia cha magharibi, ni wa bendera ya kambi ya kichuku cha Efraimu kwa mafungu ghawo, kilongozi chawo ni Elishama mwana wa Amihudi. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.18",
+            "verseId": "NUM.2.18",
             "verseOrgIds": [
-              "GEN.1.18"
+              "NUM.2.18"
             ]
           }
         },
@@ -665,7 +599,7 @@
           "attrs": {
             "number": "19",
             "style": "v",
-            "sid": "GEN 1:19"
+            "sid": "NUM 2:19"
           },
           "items": [
             {
@@ -675,46 +609,12 @@
           ]
         },
         {
-          "text": "Kukakaia nakenyi, kukaia nakesho, ituku ja kana.",
+          "text": "Ijeshi jake seji jitalilo ni elfu mirongo ina na maghana masanu. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.19",
+            "verseId": "NUM.2.19",
             "verseOrgIds": [
-              "GEN.1.19"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "name": "para",
-      "type": "tag",
-      "attrs": {
-        "style": "p"
-      },
-      "items": [
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
-            "number": "19",
-            "style": "v",
-            "sid": "GEN 1:19"
-          },
-          "items": [
-            {
-              "text": "19",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.19",
-            "verseOrgIds": [
-              "GEN.1.19"
+              "NUM.2.19"
             ]
           }
         },
@@ -724,7 +624,7 @@
           "attrs": {
             "number": "20",
             "style": "v",
-            "sid": "GEN 1:20"
+            "sid": "NUM 2:20"
           },
           "items": [
             {
@@ -734,12 +634,12 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Machi ndeghichuo nyamandu riko moyo kwa wungi, na nyonyi nderiburuke aighu ya ndoenyi, mbeonyi.” ",
+          "text": "Wandu winughagha ni wa kichuku cha Manase; na kilongozi chawo ni Gamalieli mwana wa Pedasuri. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.20",
+            "verseId": "NUM.2.20",
             "verseOrgIds": [
-              "GEN.1.20"
+              "NUM.2.20"
             ]
           }
         },
@@ -749,7 +649,7 @@
           "attrs": {
             "number": "21",
             "style": "v",
-            "sid": "GEN 1:21"
+            "sid": "NUM 2:21"
           },
           "items": [
             {
@@ -759,12 +659,12 @@
           ]
         },
         {
-          "text": "Mlungu ukaumba nyamandu mbaa reobosha ra machinyi, na ivo vose viko moyo vighendagha andenyi machinyi kwa mbari raro, na nyonyi ra mbari rose. Mlungu ukawona angu vaboie. ",
+          "text": "Ijeshi jake seji jitalilo ni elfu mirongo idadu na iwi na maghana awi. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.21",
+            "verseId": "NUM.2.21",
             "verseOrgIds": [
-              "GEN.1.21"
+              "NUM.2.21"
             ]
           }
         },
@@ -774,7 +674,7 @@
           "attrs": {
             "number": "22",
             "style": "v",
-            "sid": "GEN 1:22"
+            "sid": "NUM 2:22"
           },
           "items": [
             {
@@ -784,12 +684,12 @@
           ]
         },
         {
-          "text": "Nao ukavirasimia ukaghamba, “Venyi mchurikie mchuo baharinyi, na nyonyi nderichurikie ndoenyi.” ",
+          "text": "Niko kichuku cha Benjamini chichanugha; na kilongozi chawo ni Abidani mwana wa Gideoni. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.22",
+            "verseId": "NUM.2.22",
             "verseOrgIds": [
-              "GEN.1.22"
+              "NUM.2.22"
             ]
           }
         },
@@ -799,7 +699,7 @@
           "attrs": {
             "number": "23",
             "style": "v",
-            "sid": "GEN 1:23"
+            "sid": "NUM 2:23"
           },
           "items": [
             {
@@ -809,46 +709,12 @@
           ]
         },
         {
-          "text": "Kukakaia nakenyi, kukaia nakesho, ituku ja kasanu.",
+          "text": "Ijeshi jake seji jitalilo, ni elfu mirongo idadu na isanu na maghana ana. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.23",
+            "verseId": "NUM.2.23",
             "verseOrgIds": [
-              "GEN.1.23"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "name": "para",
-      "type": "tag",
-      "attrs": {
-        "style": "p"
-      },
-      "items": [
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
-            "number": "23",
-            "style": "v",
-            "sid": "GEN 1:23"
-          },
-          "items": [
-            {
-              "text": "23",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.23",
-            "verseOrgIds": [
-              "GEN.1.23"
+              "NUM.2.23"
             ]
           }
         },
@@ -858,7 +724,7 @@
           "attrs": {
             "number": "24",
             "style": "v",
-            "sid": "GEN 1:24"
+            "sid": "NUM 2:24"
           },
           "items": [
             {
@@ -868,37 +734,12 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Ndoe ndeifunye nyamandu riko moyo kwa mbari raro, mfugho rose na shimandu riavuagha, na nyamandu ra mbari rose ra isakenyi.” Nao ikakaia wokoni. ",
+          "text": "Mtalo ghwa wandu wose wa kambi ya Efraimu kwa mafungu ghawo, ni elfu ighana na wunyanya na ighana jimweri. Wichakaia wa kadadu kuzoya kughenda.",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.24",
+            "verseId": "NUM.2.24",
             "verseOrgIds": [
-              "GEN.1.24"
-            ]
-          }
-        },
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
-            "number": "25",
-            "style": "v",
-            "sid": "GEN 1:25"
-          },
-          "items": [
-            {
-              "text": "25",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": "Nao Mlungu ukabonya nyamandu ra mbari rose ra isakenyi, na mfugho kwa mbari raro, na kula shimandu iavuagha andoenyi kwa mbari raro. Mlungu ukawona vose kukaia vaboie.",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.25",
-            "verseOrgIds": [
-              "GEN.1.25"
+              "NUM.2.24"
             ]
           }
         }
@@ -915,9 +756,34 @@
           "name": "verse",
           "type": "tag",
           "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "NUM 2:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.24",
+            "verseOrgIds": [
+              "NUM.2.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
             "number": "25",
             "style": "v",
-            "sid": "GEN 1:25"
+            "sid": "NUM 2:25"
           },
           "items": [
             {
@@ -927,12 +793,12 @@
           ]
         },
         {
-          "text": " ",
+          "text": "“Wandu wichaapanga ii chia cha kaskazinyi, ni wa bendera ya kambi ya kichuku cha Dani kwa mafungu ghawo; na kilongozi chawo ni Ahiezeri mwana wa Amishadai. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.25",
+            "verseId": "NUM.2.25",
             "verseOrgIds": [
-              "GEN.1.25"
+              "NUM.2.25"
             ]
           }
         },
@@ -942,7 +808,7 @@
           "attrs": {
             "number": "26",
             "style": "v",
-            "sid": "GEN 1:26"
+            "sid": "NUM 2:26"
           },
           "items": [
             {
@@ -952,45 +818,12 @@
           ]
         },
         {
-          "text": "Niko Mlungu ukaghamba, “Ndedim'bonye mdamu kwa fwana yedu cheni, ufwanane na isi, wipate kukaia na nguma aighu ya samaki ra baharinyi na aighu ya nyonyi ra mbeonyi; aighu ya mfugho rose, na aighu ya ndoenyi kose putu, na kula shimandu iavuagha andoenyi.”",
+          "text": "Ijeshi jake seji jitalilo ni elfu mirongo irandadu na iwi na maghana mfungade. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.26",
+            "verseId": "NUM.2.26",
             "verseOrgIds": [
-              "GEN.1.26"
-            ]
-          }
-        },
-        {
-          "name": "note",
-          "type": "tag",
-          "attrs": {
-            "style": "x",
-            "caller": "#"
-          },
-          "items": [
-            {
-              "name": "ref",
-              "type": "tag",
-              "attrs": {
-                "loc": "1CO.11.7"
-              },
-              "items": [
-                {
-                  "text": "1 Wakor. 11.7",
-                  "type": "text"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.26",
-            "verseOrgIds": [
-              "GEN.1.26"
+              "NUM.2.26"
             ]
           }
         },
@@ -1000,7 +833,7 @@
           "attrs": {
             "number": "27",
             "style": "v",
-            "sid": "GEN 1:27"
+            "sid": "NUM 2:27"
           },
           "items": [
             {
@@ -1010,81 +843,12 @@
           ]
         },
         {
-          "text": "Nao Mlungu ukaumba mdamu kwa fwana yake cheni, kwa fwana ya Mlungu ukawiumba mundu wa womi na wa waka.",
+          "text": "Na awo wichaapanga kunughana nawo, ni wandu wa kichuku cha Asheri; na kilongozi chawo ni Pagieli mwana wa Okrani. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.27",
+            "verseId": "NUM.2.27",
             "verseOrgIds": [
-              "GEN.1.27"
-            ]
-          }
-        },
-        {
-          "name": "note",
-          "type": "tag",
-          "attrs": {
-            "style": "x",
-            "caller": "#"
-          },
-          "items": [
-            {
-              "name": "ref",
-              "type": "tag",
-              "attrs": {
-                "loc": "MAT.19.4"
-              },
-              "items": [
-                {
-                  "text": "Mat. 19.4",
-                  "type": "text"
-                }
-              ]
-            },
-            {
-              "name": "ref",
-              "type": "tag",
-              "attrs": {
-                "loc": "MRK.10.6"
-              },
-              "items": [
-                {
-                  "text": "Mk. 10.6",
-                  "type": "text"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "note",
-          "type": "tag",
-          "attrs": {
-            "style": "x",
-            "caller": "#"
-          },
-          "items": [
-            {
-              "name": "ref",
-              "type": "tag",
-              "attrs": {
-                "loc": "GEN.5.1+GEN.5.2"
-              },
-              "items": [
-                {
-                  "text": "Kuz. 5.1-2",
-                  "type": "text"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.27",
-            "verseOrgIds": [
-              "GEN.1.27"
+              "NUM.2.27"
             ]
           }
         },
@@ -1094,7 +858,7 @@
           "attrs": {
             "number": "28",
             "style": "v",
-            "sid": "GEN 1:28"
+            "sid": "NUM 2:28"
           },
           "items": [
             {
@@ -1104,12 +868,12 @@
           ]
         },
         {
-          "text": "Mlungu ukawirasimia ukaghamba, “Venyi mchurikie, mchure ndoenyi kose, nayo muibonyere nguma, mkaie na nguma aighu ya samaki ra baharinyi, na nyonyi ra mbeonyi, na kula nyamandu iko ndoenyi kose.” ",
+          "text": "Ijeshi jake seji jitalilo ni elfu mirongo ina na iweri na maghana masanu. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.28",
+            "verseId": "NUM.2.28",
             "verseOrgIds": [
-              "GEN.1.28"
+              "NUM.2.28"
             ]
           }
         },
@@ -1119,7 +883,7 @@
           "attrs": {
             "number": "29",
             "style": "v",
-            "sid": "GEN 1:29"
+            "sid": "NUM 2:29"
           },
           "items": [
             {
@@ -1129,12 +893,12 @@
           ]
         },
         {
-          "text": "Nao Mlungu ukaghamba, “Olenyi namneka midi yose ivagha mbeu iko ndoenyi, na kula mudi ghuko na mbeu andenyi ya matunda gharo, vikaie vindo venyu. ",
+          "text": "Niko kichuku cha Naftali chichanugha; na kilongozi chawo ni Ahira mwana wa Enani. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.29",
+            "verseId": "NUM.2.29",
             "verseOrgIds": [
-              "GEN.1.29"
+              "NUM.2.29"
             ]
           }
         },
@@ -1144,7 +908,7 @@
           "attrs": {
             "number": "30",
             "style": "v",
-            "sid": "GEN 1:30"
+            "sid": "NUM 2:30"
           },
           "items": [
             {
@@ -1154,12 +918,12 @@
           ]
         },
         {
-          "text": "Na nyamandu rose riko ndoenyi, nyonyi ra mbeonyi na kula shimandu iavuagha andoenyi, kula kilambo chiko na miruke ya irangi, navineka nyasi na malemba mawishi kukaia vindo.” Nao ikakaia wokoni. ",
+          "text": "Ijeshi jake seji jitalilo, ni elfu mirongo misanu na idadu na maghana ana. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.30",
+            "verseId": "NUM.2.30",
             "verseOrgIds": [
-              "GEN.1.30"
+              "NUM.2.30"
             ]
           }
         },
@@ -1169,7 +933,7 @@
           "attrs": {
             "number": "31",
             "style": "v",
-            "sid": "GEN 1:31"
+            "sid": "NUM 2:31"
           },
           "items": [
             {
@@ -1179,12 +943,155 @@
           ]
         },
         {
-          "text": "Mlungu ukazighana kula kilambo uchibonyere, nao ola ukawona vose vaboie na ndighi. Kukakaia nakenyi, kukakaia nakesho, ituku ja karandadu.",
+          "text": "Mtalo ghwa wandu wose wa kambi ya Dani, ni elfu ighana na mirongo misanu na mfungade, na maghana arandadu. Nawo wichakaia wa kutua kughenda, kunughana na bendera rawo.”",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.31",
+            "verseId": "NUM.2.31",
             "verseOrgIds": [
-              "GEN.1.31"
+              "NUM.2.31"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "NUM 2:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.31",
+            "verseOrgIds": [
+              "NUM.2.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "NUM 2:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Awo niwo wandu wa Israeli weretaliloghe kunughana na vichuku vawo. Wandu wose werekoghe kambinyi na kutalwa kwa mafungu ghawo, werekoghe elfu maghana arandadu na idadu maghana masanu na mirongo misanu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.32",
+            "verseOrgIds": [
+              "NUM.2.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "NUM 2:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ela kichuku cha Lawi ndecheretaliloghe aghadi ya wandu wa Israeli, sa iji koni BWANA oremlaghirieghe Musa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.33",
+            "verseOrgIds": [
+              "NUM.2.33"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "NUM 2:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.33",
+            "verseOrgIds": [
+              "NUM.2.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "NUM 2:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Huwo niko wandu wa Israeli werebonyereghe. Werebonyereghe kambi kunughana na bendera rawo, wikaghenda kula umu kinyumba chake na kichuku chake, sa iji koni BWANA oremlaghirieghe Musa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.34",
+            "verseOrgIds": [
+              "NUM.2.34"
             ]
           }
         }
@@ -1192,13 +1099,13 @@
     }
   ],
   "next": {
-    "id": "GEN.2",
-    "number": "2",
-    "bookId": "GEN"
+    "id": "NUM.3",
+    "number": "3",
+    "bookId": "NUM"
   },
   "previous": {
-    "id": "GEN.intro",
-    "number": "intro",
-    "bookId": "GEN"
+    "id": "NUM.1",
+    "number": "1",
+    "bookId": "NUM"
   }
 }

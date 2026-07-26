@@ -1,22 +1,22 @@
 {
-  "id": "GEN.1",
-  "number": "1",
-  "bookId": "GEN",
-  "reference": "Kuzoya 1",
+  "id": "EXO.26",
+  "number": "26",
+  "bookId": "EXO",
+  "reference": "Kufuma 26",
   "copyright": "PUBLIC DOMAIN",
-  "verseCount": 31,
+  "verseCount": 37,
   "content": [
     {
       "name": "chapter",
       "type": "tag",
       "attrs": {
-        "number": "1",
+        "number": "26",
         "style": "c",
-        "sid": "GEN 1"
+        "sid": "EXO 26"
       },
       "items": [
         {
-          "text": "1",
+          "text": "26",
           "type": "text"
         }
       ]
@@ -29,7 +29,7 @@
       },
       "items": [
         {
-          "text": "Kuumbwa kwa wurumwengu",
+          "text": "Hema ya Wueli",
           "type": "text"
         }
       ]
@@ -47,7 +47,7 @@
           "attrs": {
             "number": "1",
             "style": "v",
-            "sid": "GEN 1:1"
+            "sid": "EXO 26:1"
           },
           "items": [
             {
@@ -57,12 +57,12 @@
           ]
         },
         {
-          "text": "Aho kuzoenyi, Mlungu oreumbieghe mlungunyi na ndoenyi. ",
+          "text": "“Wokoni kubonye Hema ya Wueli, iyo Hema ya andu dikwaniagha; kuibonye na vipande ikumi va kitani iboie ilukilo kwa uzi, wa rangi ya buluu, zambarau, na ya ngundu, itolelo fwana ra makerubi kwa wuya. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.1",
+            "verseId": "EXO.26.1",
             "verseOrgIds": [
-              "GEN.1.1"
+              "EXO.26.1"
             ]
           }
         },
@@ -72,7 +72,7 @@
           "attrs": {
             "number": "2",
             "style": "v",
-            "sid": "GEN 1:2"
+            "sid": "EXO 26:2"
           },
           "items": [
             {
@@ -82,12 +82,12 @@
           ]
         },
         {
-          "text": "Ndoenyi ndekorekoghe na fwana ingi, angu kilambo chingi. Kira cherekoghe aighu ya machi ghimilie, na Roho wa Mlungu ukakaia ukisela-sela aighu ya machi. ",
+          "text": "Kula kipande chikaie chikatane na mmbao, wulacha meta ikumi na iwi, na wushapa meta iwi. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.2",
+            "verseId": "EXO.26.2",
             "verseOrgIds": [
-              "GEN.1.2"
+              "EXO.26.2"
             ]
           }
         },
@@ -97,7 +97,7 @@
           "attrs": {
             "number": "3",
             "style": "v",
-            "sid": "GEN 1:3"
+            "sid": "EXO 26:3"
           },
           "items": [
             {
@@ -107,45 +107,12 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Mwengere ndeghukaie”, na mwengere ghukakaia.",
+          "text": "Kushonanye vipande visanu vikaie chimweri, na vizima visanu vikaie chimweri. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.3",
+            "verseId": "EXO.26.3",
             "verseOrgIds": [
-              "GEN.1.3"
-            ]
-          }
-        },
-        {
-          "name": "note",
-          "type": "tag",
-          "attrs": {
-            "style": "x",
-            "caller": "#"
-          },
-          "items": [
-            {
-              "name": "ref",
-              "type": "tag",
-              "attrs": {
-                "loc": "2CO.4.6"
-              },
-              "items": [
-                {
-                  "text": "2 Wakor. 4.6",
-                  "type": "text"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.3",
-            "verseOrgIds": [
-              "GEN.1.3"
+              "EXO.26.3"
             ]
           }
         },
@@ -155,7 +122,7 @@
           "attrs": {
             "number": "4",
             "style": "v",
-            "sid": "GEN 1:4"
+            "sid": "EXO 26:4"
           },
           "items": [
             {
@@ -165,12 +132,12 @@
           ]
         },
         {
-          "text": "Mlungu ukawona angu ghwaboie; ukaghutanya mwengere na kira. ",
+          "text": "Mbembenyi kwa kula kipande kudungie kamba cha shighadi ra nguwo ya buluu. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.4",
+            "verseId": "EXO.26.4",
             "verseOrgIds": [
-              "GEN.1.4"
+              "EXO.26.4"
             ]
           }
         },
@@ -180,7 +147,7 @@
           "attrs": {
             "number": "5",
             "style": "v",
-            "sid": "GEN 1:5"
+            "sid": "EXO 26:5"
           },
           "items": [
             {
@@ -190,46 +157,12 @@
           ]
         },
         {
-          "text": "Mwengere ukaghuwanga, “Dime” na kira ukachiwanga “Kio”. Kukakaia nakenyi, kukakaia nakesho, ituku ja imbiri.",
+          "text": "Sena kudunge kamba rimu mirongo misanu kwa kipande chimu, na kamba mirongo misanu kwa kipande chija chimu. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.5",
+            "verseId": "EXO.26.5",
             "verseOrgIds": [
-              "GEN.1.5"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "name": "para",
-      "type": "tag",
-      "attrs": {
-        "style": "p"
-      },
-      "items": [
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
-            "number": "5",
-            "style": "v",
-            "sid": "GEN 1:5"
-          },
-          "items": [
-            {
-              "text": "5",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.5",
-            "verseOrgIds": [
-              "GEN.1.5"
+              "EXO.26.5"
             ]
           }
         },
@@ -239,7 +172,7 @@
           "attrs": {
             "number": "6",
             "style": "v",
-            "sid": "GEN 1:6"
+            "sid": "EXO 26:6"
           },
           "items": [
             {
@@ -249,35 +182,36 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Mawingu ndeghikaie ghadi na ghadi ya machi, ghighiwaghanye mafungu awi.”",
+          "text": "Kubonye koleo mirongo misanu, ra dhahabu kupate kuvikwanya ivo vipande viwi viwuye kipande chimweri.",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.6",
+            "verseId": "EXO.26.6",
             "verseOrgIds": [
-              "GEN.1.6"
+              "EXO.26.6"
             ]
           }
-        },
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
         {
-          "name": "note",
+          "name": "verse",
           "type": "tag",
           "attrs": {
-            "style": "x",
-            "caller": "#"
+            "number": "6",
+            "style": "v",
+            "sid": "EXO 26:6"
           },
           "items": [
             {
-              "name": "ref",
-              "type": "tag",
-              "attrs": {
-                "loc": "2PE.3.5"
-              },
-              "items": [
-                {
-                  "text": "2 Pet. 3.5",
-                  "type": "text"
-                }
-              ]
+              "text": "6",
+              "type": "text"
             }
           ]
         },
@@ -285,9 +219,9 @@
           "text": " ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.6",
+            "verseId": "EXO.26.6",
             "verseOrgIds": [
-              "GEN.1.6"
+              "EXO.26.6"
             ]
           }
         },
@@ -297,7 +231,7 @@
           "attrs": {
             "number": "7",
             "style": "v",
-            "sid": "GEN 1:7"
+            "sid": "EXO 26:7"
           },
           "items": [
             {
@@ -307,12 +241,12 @@
           ]
         },
         {
-          "text": "Mlungu ukabonya mawingunyi, nao ukaghitanya agho machi gherekoghe mawingunyi nandonyi na agho gherekoghe mawingunyi naighu. Nao ikakaia wokoni. ",
+          "text": "“Kuibonyere iyo Hema kifuniko cha vipande ikumi na chimweri va nguwo ibonyero kwa mafuri gha mburi. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.7",
+            "verseId": "EXO.26.7",
             "verseOrgIds": [
-              "GEN.1.7"
+              "EXO.26.7"
             ]
           }
         },
@@ -322,7 +256,7 @@
           "attrs": {
             "number": "8",
             "style": "v",
-            "sid": "GEN 1:8"
+            "sid": "EXO 26:8"
           },
           "items": [
             {
@@ -332,46 +266,12 @@
           ]
         },
         {
-          "text": "Nao Mlungu ukakuwanga aho mawingunyi, “Mlungunyi.” Kukakaia nakenyi, kukaia nakesho, ituku ja kawi.",
+          "text": "Vipande vose vikaie vikatane; wulacha meta ikumi na idadu, na wushapa meta iwi. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.8",
+            "verseId": "EXO.26.8",
             "verseOrgIds": [
-              "GEN.1.8"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "name": "para",
-      "type": "tag",
-      "attrs": {
-        "style": "p"
-      },
-      "items": [
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
-            "number": "8",
-            "style": "v",
-            "sid": "GEN 1:8"
-          },
-          "items": [
-            {
-              "text": "8",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.8",
-            "verseOrgIds": [
-              "GEN.1.8"
+              "EXO.26.8"
             ]
           }
         },
@@ -381,7 +281,7 @@
           "attrs": {
             "number": "9",
             "style": "v",
-            "sid": "GEN 1:9"
+            "sid": "EXO 26:9"
           },
           "items": [
             {
@@ -391,12 +291,12 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Machi ghiko mlungunyi nandonyi ndeghitumbanyike chiaimweri, na ndoe iomie iwoneke.” Nao ikakaia wokoni. ",
+          "text": "Kudunganye vipande visanu vikaie chimweri, na vipande vimu virandadu vikaie chimweri. Kipande cha karandadu, kuchikuche mando awi aighu na imbiri ya iyo Hema. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.9",
+            "verseId": "EXO.26.9",
             "verseOrgIds": [
-              "GEN.1.9"
+              "EXO.26.9"
             ]
           }
         },
@@ -406,7 +306,7 @@
           "attrs": {
             "number": "10",
             "style": "v",
-            "sid": "GEN 1:10"
+            "sid": "EXO 26:10"
           },
           "items": [
             {
@@ -416,12 +316,12 @@
           ]
         },
         {
-          "text": "Mlungu ukawanga andu kuomie “Ndoenyi,” na agho machi gheretumbanyikieghe ukaghiwanga, “Bahari.” Mlungu ukawona angu vaboie. ",
+          "text": "Kudungie makamba mirongo misanu kutuonyi kwa mbembe ya kipande chimu, na kamba mirongo misanu kutuonyi kwa mbembe ya chija kipande chimu. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.10",
+            "verseId": "EXO.26.10",
             "verseOrgIds": [
-              "GEN.1.10"
+              "EXO.26.10"
             ]
           }
         },
@@ -431,7 +331,7 @@
           "attrs": {
             "number": "11",
             "style": "v",
-            "sid": "GEN 1:11"
+            "sid": "EXO 26:11"
           },
           "items": [
             {
@@ -441,12 +341,12 @@
           ]
         },
         {
-          "text": "Niko Mlungu ukaghamba, “Ndoe ndeibuse midi, miwalwa ifunyagha mbeu, na midi ya matunda ghiko na mbeu, kula mudi ghwa mbari yaro.” Nao ikakaia wokoni. ",
+          "text": "Kubonye koleo mirongo misanu ra shaba, kuringirie kambenyi, kupate kuvikwanya ivo vipande viwi viwuye kipande chimweri. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.11",
+            "verseId": "EXO.26.11",
             "verseOrgIds": [
-              "GEN.1.11"
+              "EXO.26.11"
             ]
           }
         },
@@ -456,7 +356,7 @@
           "attrs": {
             "number": "12",
             "style": "v",
-            "sid": "GEN 1:12"
+            "sid": "EXO 26:12"
           },
           "items": [
             {
@@ -466,12 +366,12 @@
           ]
         },
         {
-          "text": "Ndoe ikabusa midi, miwalwa ifunyagha mbeu kwa vichuku varo, na midi ivagha matunda ghiko na mbeu raro andenyi, kula ghumu kwa mbari yaro. Mlungu ukawona angu vaboie na ndighi. ",
+          "text": "Kukuchuo icho kipande chikuchiroghe nusu yaro inyonyore na nyuma ya iyo Hema. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.12",
+            "verseId": "EXO.26.12",
             "verseOrgIds": [
-              "GEN.1.12"
+              "EXO.26.12"
             ]
           }
         },
@@ -481,7 +381,7 @@
           "attrs": {
             "number": "13",
             "style": "v",
-            "sid": "GEN 1:13"
+            "sid": "EXO 26:13"
           },
           "items": [
             {
@@ -491,46 +391,12 @@
           ]
         },
         {
-          "text": "Kukakaia nakenyi, kukakaia nakesho, ituku ja kadadu.",
+          "text": "Na ivo vipande vichumbanagha ii chia na ii chia va sentimeta mirongo misanu, vichanyonyora kutuonyi kwa Hema, kwa kuifinikira. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.13",
+            "verseId": "EXO.26.13",
             "verseOrgIds": [
-              "GEN.1.13"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "name": "para",
-      "type": "tag",
-      "attrs": {
-        "style": "p"
-      },
-      "items": [
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
-            "number": "13",
-            "style": "v",
-            "sid": "GEN 1:13"
-          },
-          "items": [
-            {
-              "text": "13",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.13",
-            "verseOrgIds": [
-              "GEN.1.13"
+              "EXO.26.13"
             ]
           }
         },
@@ -540,7 +406,7 @@
           "attrs": {
             "number": "14",
             "style": "v",
-            "sid": "GEN 1:14"
+            "sid": "EXO 26:14"
           },
           "items": [
             {
@@ -550,12 +416,46 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Miengere ndeikaie aighu mawingunyi, ipate kutanya kio na dime, na kuwonyera alama, vimu, matuku, na miaka; ",
+          "text": "Kubonye vifinikiro viwi va Hema, chimu cha mirongo ya bauru ishingilo rangi ya ngundu, na chimu cha mirongo ya mburi iboisiro nicha.",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.14",
+            "verseId": "EXO.26.14",
             "verseOrgIds": [
-              "GEN.1.14"
+              "EXO.26.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EXO 26:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.26.14",
+            "verseOrgIds": [
+              "EXO.26.14"
             ]
           }
         },
@@ -565,7 +465,7 @@
           "attrs": {
             "number": "15",
             "style": "v",
-            "sid": "GEN 1:15"
+            "sid": "EXO 26:15"
           },
           "items": [
             {
@@ -575,12 +475,12 @@
           ]
         },
         {
-          "text": "nayo ikaie aighu mawingunyi, ilangalishireghe ndoenyi.” Nao ikakaia wokoni. ",
+          "text": "“Kubonye fremu iwi ra mkame kwa wundu ghwa iyo Hema. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.15",
+            "verseId": "EXO.26.15",
             "verseOrgIds": [
-              "GEN.1.15"
+              "EXO.26.15"
             ]
           }
         },
@@ -590,7 +490,7 @@
           "attrs": {
             "number": "16",
             "style": "v",
-            "sid": "GEN 1:16"
+            "sid": "EXO 26:16"
           },
           "items": [
             {
@@ -600,12 +500,12 @@
           ]
         },
         {
-          "text": "Nao Mlungu ukabonya miengere mibaa iwi, ugho mwengere m'baa ghuibonyere dime nguma, na ugho mtini ghubonyere kio nguma, ukabonya na nyerinyeri wokoni. ",
+          "text": "Wulacha ghwa fremu ghukaie meta inya, na wushapa ghukaie sentimeta mirongo irandadu na irandadu; ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.16",
+            "verseId": "EXO.26.16",
             "verseOrgIds": [
-              "GEN.1.16"
+              "EXO.26.16"
             ]
           }
         },
@@ -615,7 +515,7 @@
           "attrs": {
             "number": "17",
             "style": "v",
-            "sid": "GEN 1:17"
+            "sid": "EXO 26:17"
           },
           "items": [
             {
@@ -625,12 +525,12 @@
           ]
         },
         {
-          "text": "Mlungu ukaiwika iyo miengere aighu mawingunyi gha mlungunyi, ipate kuilangalishira ndoenyi, ",
+          "text": "iyo fremu kuifunge na mbau iwi. Kula fremu ikaie na iro mbau. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.17",
+            "verseId": "EXO.26.17",
             "verseOrgIds": [
-              "GEN.1.17"
+              "EXO.26.17"
             ]
           }
         },
@@ -640,7 +540,7 @@
           "attrs": {
             "number": "18",
             "style": "v",
-            "sid": "GEN 1:18"
+            "sid": "EXO 26:18"
           },
           "items": [
             {
@@ -650,12 +550,12 @@
           ]
         },
         {
-          "text": "ibonye nguma na dime hata na kio wori, nayo itanye mwengere na kira. Nao Mlungu ukawona angu vaboie. ",
+          "text": "Kubonye fremu mirongo iwi ii chia ya kusinyi ya hema; ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.18",
+            "verseId": "EXO.26.18",
             "verseOrgIds": [
-              "GEN.1.18"
+              "EXO.26.18"
             ]
           }
         },
@@ -665,7 +565,7 @@
           "attrs": {
             "number": "19",
             "style": "v",
-            "sid": "GEN 1:19"
+            "sid": "EXO 26:19"
           },
           "items": [
             {
@@ -675,46 +575,12 @@
           ]
         },
         {
-          "text": "Kukakaia nakenyi, kukaia nakesho, ituku ja kana.",
+          "text": "na vitiri va feza mirongo ina vewikwa aisi ya iro fremu mirongo iwi, vikarilo ni iro mbau; kula m'bau vitiri viwi va feza. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.19",
+            "verseId": "EXO.26.19",
             "verseOrgIds": [
-              "GEN.1.19"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "name": "para",
-      "type": "tag",
-      "attrs": {
-        "style": "p"
-      },
-      "items": [
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
-            "number": "19",
-            "style": "v",
-            "sid": "GEN 1:19"
-          },
-          "items": [
-            {
-              "text": "19",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.19",
-            "verseOrgIds": [
-              "GEN.1.19"
+              "EXO.26.19"
             ]
           }
         },
@@ -724,7 +590,7 @@
           "attrs": {
             "number": "20",
             "style": "v",
-            "sid": "GEN 1:20"
+            "sid": "EXO 26:20"
           },
           "items": [
             {
@@ -734,12 +600,12 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Machi ndeghichuo nyamandu riko moyo kwa wungi, na nyonyi nderiburuke aighu ya ndoenyi, mbeonyi.” ",
+          "text": "Kubonye fremu iwi ii chia ya kaskazinyi ya Hema, ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.20",
+            "verseId": "EXO.26.20",
             "verseOrgIds": [
-              "GEN.1.20"
+              "EXO.26.20"
             ]
           }
         },
@@ -749,7 +615,7 @@
           "attrs": {
             "number": "21",
             "style": "v",
-            "sid": "GEN 1:21"
+            "sid": "EXO 26:21"
           },
           "items": [
             {
@@ -759,12 +625,12 @@
           ]
         },
         {
-          "text": "Mlungu ukaumba nyamandu mbaa reobosha ra machinyi, na ivo vose viko moyo vighendagha andenyi machinyi kwa mbari raro, na nyonyi ra mbari rose. Mlungu ukawona angu vaboie. ",
+          "text": "na vitiri va feza mirongo ina; viwi viwiko aisi ya kula fremu. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.21",
+            "verseId": "EXO.26.21",
             "verseOrgIds": [
-              "GEN.1.21"
+              "EXO.26.21"
             ]
           }
         },
@@ -774,7 +640,7 @@
           "attrs": {
             "number": "22",
             "style": "v",
-            "sid": "GEN 1:22"
+            "sid": "EXO 26:22"
           },
           "items": [
             {
@@ -784,12 +650,12 @@
           ]
         },
         {
-          "text": "Nao ukavirasimia ukaghamba, “Venyi mchurikie mchuo baharinyi, na nyonyi nderichurikie ndoenyi.” ",
+          "text": "Nyuma ya Hema, chia ya magharibi, kubonye mifumbati irandadu, ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.22",
+            "verseId": "EXO.26.22",
             "verseOrgIds": [
-              "GEN.1.22"
+              "EXO.26.22"
             ]
           }
         },
@@ -799,7 +665,7 @@
           "attrs": {
             "number": "23",
             "style": "v",
-            "sid": "GEN 1:23"
+            "sid": "EXO 26:23"
           },
           "items": [
             {
@@ -809,46 +675,12 @@
           ]
         },
         {
-          "text": "Kukakaia nakenyi, kukaia nakesho, ituku ja kasanu.",
+          "text": "na mifumbati iwi ya konenyi ichakaia ikatane kondonyi, ela koighu ichawadanishwa. Huwo niko iyo mifumbati iwi ya konenyi ichaafungwa. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.23",
+            "verseId": "EXO.26.23",
             "verseOrgIds": [
-              "GEN.1.23"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "name": "para",
-      "type": "tag",
-      "attrs": {
-        "style": "p"
-      },
-      "items": [
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
-            "number": "23",
-            "style": "v",
-            "sid": "GEN 1:23"
-          },
-          "items": [
-            {
-              "text": "23",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.23",
-            "verseOrgIds": [
-              "GEN.1.23"
+              "EXO.26.23"
             ]
           }
         },
@@ -858,7 +690,7 @@
           "attrs": {
             "number": "24",
             "style": "v",
-            "sid": "GEN 1:24"
+            "sid": "EXO 26:24"
           },
           "items": [
             {
@@ -868,12 +700,12 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Ndoe ndeifunye nyamandu riko moyo kwa mbari raro, mfugho rose na shimandu riavuagha, na nyamandu ra mbari rose ra isakenyi.” Nao ikakaia wokoni. ",
+          "text": "Iri fremu ra konenyi richakaia ritane kondonyi, ela koighu richawadanishwa. Huwo niko iyo mifumbati iwi ya konenyi ichaafungwa. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.24",
+            "verseId": "EXO.26.24",
             "verseOrgIds": [
-              "GEN.1.24"
+              "EXO.26.24"
             ]
           }
         },
@@ -883,7 +715,7 @@
           "attrs": {
             "number": "25",
             "style": "v",
-            "sid": "GEN 1:25"
+            "sid": "EXO 26:25"
           },
           "items": [
             {
@@ -893,12 +725,12 @@
           ]
         },
         {
-          "text": "Nao Mlungu ukabonya nyamandu ra mbari rose ra isakenyi, na mfugho kwa mbari raro, na kula shimandu iavuagha andoenyi kwa mbari raro. Mlungu ukawona vose kukaia vaboie.",
+          "text": "Kwa huwo, richakaia fremu wunyanya, na vishawalata varo va feza ikumi na virandadu, viwi viwi vekaia na ndonyi ya kula fremu.",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.25",
+            "verseId": "EXO.26.25",
             "verseOrgIds": [
-              "GEN.1.25"
+              "EXO.26.25"
             ]
           }
         }
@@ -917,7 +749,7 @@
           "attrs": {
             "number": "25",
             "style": "v",
-            "sid": "GEN 1:25"
+            "sid": "EXO 26:25"
           },
           "items": [
             {
@@ -930,9 +762,9 @@
           "text": " ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.25",
+            "verseId": "EXO.26.25",
             "verseOrgIds": [
-              "GEN.1.25"
+              "EXO.26.25"
             ]
           }
         },
@@ -942,7 +774,7 @@
           "attrs": {
             "number": "26",
             "style": "v",
-            "sid": "GEN 1:26"
+            "sid": "EXO 26:26"
           },
           "items": [
             {
@@ -952,45 +784,12 @@
           ]
         },
         {
-          "text": "Niko Mlungu ukaghamba, “Ndedim'bonye mdamu kwa fwana yedu cheni, ufwanane na isi, wipate kukaia na nguma aighu ya samaki ra baharinyi na aighu ya nyonyi ra mbeonyi; aighu ya mfugho rose, na aighu ya ndoenyi kose putu, na kula shimandu iavuagha andoenyi.”",
+          "text": "“Kubonye mbau ra mshita ikumi na isanu; mbau isanu kwa fremu ra luwaru lumu lwa Hema, ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.26",
+            "verseId": "EXO.26.26",
             "verseOrgIds": [
-              "GEN.1.26"
-            ]
-          }
-        },
-        {
-          "name": "note",
-          "type": "tag",
-          "attrs": {
-            "style": "x",
-            "caller": "#"
-          },
-          "items": [
-            {
-              "name": "ref",
-              "type": "tag",
-              "attrs": {
-                "loc": "1CO.11.7"
-              },
-              "items": [
-                {
-                  "text": "1 Wakor. 11.7",
-                  "type": "text"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.26",
-            "verseOrgIds": [
-              "GEN.1.26"
+              "EXO.26.26"
             ]
           }
         },
@@ -1000,7 +799,7 @@
           "attrs": {
             "number": "27",
             "style": "v",
-            "sid": "GEN 1:27"
+            "sid": "EXO 26:27"
           },
           "items": [
             {
@@ -1010,12 +809,196 @@
           ]
         },
         {
-          "text": "Nao Mlungu ukaumba mdamu kwa fwana yake cheni, kwa fwana ya Mlungu ukawiumba mundu wa womi na wa waka.",
+          "text": "na mbau isanu kwa fremu ra luwaru lumu lwa Hema, na mbau rimu isanu kwa fremu ra chia ya magharibi na nyuma ya Hema. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.27",
+            "verseId": "EXO.26.27",
             "verseOrgIds": [
-              "GEN.1.27"
+              "EXO.26.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "EXO 26:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ghadi na ghadi ya mfumbati kuchakabiria m'bau ghumweri kufuma kutua kwa ii chia hata kwa ii chia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.26.28",
+            "verseOrgIds": [
+              "EXO.26.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "EXO 26:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Iro fremu kucharishinga dhahabu, na pete raro rewadia ugho m'bau, kucharibonya ra dhahabu, na ugho m'bau kuchaghushinga dhahabu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.26.29",
+            "verseOrgIds": [
+              "EXO.26.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "EXO 26:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na oho kuchaidunga iyo Hema karakara na mfwano nakuwonyera aho mghondinyi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.26.30",
+            "verseOrgIds": [
+              "EXO.26.30"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "EXO 26:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.26.30",
+            "verseOrgIds": [
+              "EXO.26.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "EXO 26:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Kubonye pazia ya kitani iboie, ilukilo kwa uzi wa buluu, zambarau, na wa ngundu. Kuitole fwana ra makerubi wiko na mawawa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.26.31",
+            "verseOrgIds": [
+              "EXO.26.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "EXO 26:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na oho kuchaifunga aighu ya nguro inya ra mshita rishingilo dhahabu na kukomerelwa koleo ra dhahabu, na kuwikwa aighu ya vitiri vina va feza. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.26.32",
+            "verseOrgIds": [
+              "EXO.26.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "EXO 26:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuwanike iyo pazia kwa iro koleo, nao kurede ija Sanduku ya Ilaghano iko na vishawalata viwi va magho andenyi, na kuiwika nanyuma ya iyo pazia. Iyo pazia ichatanya Andu kwa Wueli na Andu kwa Wueli Kuchumbie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.26.33",
+            "verseOrgIds": [
+              "EXO.26.33"
             ]
           }
         },
@@ -1031,11 +1014,11 @@
               "name": "ref",
               "type": "tag",
               "attrs": {
-                "loc": "MAT.19.4"
+                "loc": "HEB.6.19"
               },
               "items": [
                 {
-                  "text": "Mat. 19.4",
+                  "text": "Waeb. 6.19",
                   "type": "text"
                 }
               ]
@@ -1044,34 +1027,11 @@
               "name": "ref",
               "type": "tag",
               "attrs": {
-                "loc": "MRK.10.6"
+                "loc": "HEB.9.3+HEB.9.4+HEB.9.5"
               },
               "items": [
                 {
-                  "text": "Mk. 10.6",
-                  "type": "text"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "note",
-          "type": "tag",
-          "attrs": {
-            "style": "x",
-            "caller": "#"
-          },
-          "items": [
-            {
-              "name": "ref",
-              "type": "tag",
-              "attrs": {
-                "loc": "GEN.5.1+GEN.5.2"
-              },
-              "items": [
-                {
-                  "text": "Kuz. 5.1-2",
+                  "text": "9.3-5",
                   "type": "text"
                 }
               ]
@@ -1082,9 +1042,9 @@
           "text": " ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.27",
+            "verseId": "EXO.26.33",
             "verseOrgIds": [
-              "GEN.1.27"
+              "EXO.26.33"
             ]
           }
         },
@@ -1092,24 +1052,24 @@
           "name": "verse",
           "type": "tag",
           "attrs": {
-            "number": "28",
+            "number": "34",
             "style": "v",
-            "sid": "GEN 1:28"
+            "sid": "EXO 26:34"
           },
           "items": [
             {
-              "text": "28",
+              "text": "34",
               "type": "text"
             }
           ]
         },
         {
-          "text": "Mlungu ukawirasimia ukaghamba, “Venyi mchurikie, mchure ndoenyi kose, nayo muibonyere nguma, mkaie na nguma aighu ya samaki ra baharinyi, na nyonyi ra mbeonyi, na kula nyamandu iko ndoenyi kose.” ",
+          "text": "Kuchawika kifuniko icho kifumbi cha wughoma aighu ya ijo Isanduku ja Ilaghano andenyi ya Andu kwa Wueli kuchumbie. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.28",
+            "verseId": "EXO.26.34",
             "verseOrgIds": [
-              "GEN.1.28"
+              "EXO.26.34"
             ]
           }
         },
@@ -1117,24 +1077,58 @@
           "name": "verse",
           "type": "tag",
           "attrs": {
-            "number": "29",
+            "number": "35",
             "style": "v",
-            "sid": "GEN 1:29"
+            "sid": "EXO 26:35"
           },
           "items": [
             {
-              "text": "29",
+              "text": "35",
               "type": "text"
             }
           ]
         },
         {
-          "text": "Nao Mlungu ukaghamba, “Olenyi namneka midi yose ivagha mbeu iko ndoenyi, na kula mudi ghuko na mbeu andenyi ya matunda gharo, vikaie vindo venyu. ",
+          "text": "Kuwike meza shighadi ya Andu kwa Wueli kuchumbie, chia ya magharibi, na kilambo chewikiria taa kuchiwike chia ya kusinyi.",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.29",
+            "verseId": "EXO.26.35",
             "verseOrgIds": [
-              "GEN.1.29"
+              "EXO.26.35"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "EXO 26:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.26.35",
+            "verseOrgIds": [
+              "EXO.26.35"
             ]
           }
         },
@@ -1142,24 +1136,24 @@
           "name": "verse",
           "type": "tag",
           "attrs": {
-            "number": "30",
+            "number": "36",
             "style": "v",
-            "sid": "GEN 1:30"
+            "sid": "EXO 26:36"
           },
           "items": [
             {
-              "text": "30",
+              "text": "36",
               "type": "text"
             }
           ]
         },
         {
-          "text": "Na nyamandu rose riko ndoenyi, nyonyi ra mbeonyi na kula shimandu iavuagha andoenyi, kula kilambo chiko na miruke ya irangi, navineka nyasi na malemba mawishi kukaia vindo.” Nao ikakaia wokoni. ",
+          "text": "“Mnyangonyi ghongia cha hemenyi kubonye pazia ya kitani iboie kwa wundu ghwa mnyango ghwa Hema, ilukilo kwa uzi ra buluu, zambarau na ra ngundu; itolelo nicha. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.30",
+            "verseId": "EXO.26.36",
             "verseOrgIds": [
-              "GEN.1.30"
+              "EXO.26.36"
             ]
           }
         },
@@ -1167,24 +1161,24 @@
           "name": "verse",
           "type": "tag",
           "attrs": {
-            "number": "31",
+            "number": "37",
             "style": "v",
-            "sid": "GEN 1:31"
+            "sid": "EXO 26:37"
           },
           "items": [
             {
-              "text": "31",
+              "text": "37",
               "type": "text"
             }
           ]
         },
         {
-          "text": "Mlungu ukazighana kula kilambo uchibonyere, nao ola ukawona vose vaboie na ndighi. Kukakaia nakenyi, kukakaia nakesho, ituku ja karandadu.",
+          "text": "Iyo pazia kuibonye kwa midi ya mgholeka misanu; kuishinge dhahabu, nao kuifunge koleo ra dhahabu, na kuwika vishawalata visanu va shaba nandonyi yaro.",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.31",
+            "verseId": "EXO.26.37",
             "verseOrgIds": [
-              "GEN.1.31"
+              "EXO.26.37"
             ]
           }
         }
@@ -1192,13 +1186,13 @@
     }
   ],
   "next": {
-    "id": "GEN.2",
-    "number": "2",
-    "bookId": "GEN"
+    "id": "EXO.27",
+    "number": "27",
+    "bookId": "EXO"
   },
   "previous": {
-    "id": "GEN.intro",
-    "number": "intro",
-    "bookId": "GEN"
+    "id": "EXO.25",
+    "number": "25",
+    "bookId": "EXO"
   }
 }

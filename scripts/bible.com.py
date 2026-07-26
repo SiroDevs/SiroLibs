@@ -1,22 +1,35 @@
 #!/usr/bin/env python3
 """
-Scrape a chapter from Bible.com and save it as a structured JSON file
-(a simplified USX-style tag tree, similar to YouVersion's own chapter JSON).
+Scrape every chapter of a Bible.com version into JSON files, one per chapter,
+localizing book names/references from the scraped pages as it goes.
 
 Example:
-    python scrape_bible_chapter.py --bible-id 2138 --name taita --usfm GEN.1
+    python3 scripts/bible.com.py 2138 taita
 
 This will:
-  * request https://www.bible.com/bible/2138/GEN.1.TAITA
-  * pull the embedded __NEXT_DATA__ blob out of the page
-  * convert the chapter's HTML into a content tree
-  * write the result to taita/verses/GEN/1.json (relative to the project
-    root, i.e. one level above wherever this script file lives)
+  1. Copy swahili/books.json and swahili/chapters.json (the starting template)
+     into taita/books.json and taita/chapters.json.
+  2. Walk every entry in taita/chapters.json. For each one, build the chapter's
+     URL (e.g. https://www.bible.com/bible/2138/GEN.1.TAITA), fetch the page,
+     and parse the __NEXT_DATA__ blob into a content tree.
+  3. The first time a given book is encountered, read the page's <h1> chapter
+     heading (e.g. "KUZOYA 1"), strip the chapter number off it to recover the
+     localized book name ("Kuzoya"), and use it to update:
+       - taita/books.json:    name / nameLong / abbreviation for that book
+       - taita/chapters.json: reference for every chapter of that book
+     All later chapters of the same book reuse this cached name.
+  4. Save each chapter's content to taita/verses/<BOOK_ID>/<chapter_number>.json,
+     e.g. taita/verses/GEN/1.json, with "reference" set to the localized name.
+
+All paths are relative to SCRIPT_ROOT (the project root, one level above
+wherever this script file lives), not the current working directory, so
+behavior is the same no matter where/how this script is invoked.
 """
 
 import argparse
 import json
 import re
+import shutil
 import time
 from pathlib import Path
 
@@ -43,27 +56,9 @@ HEADERS = {
     )
 }
 
-# Standard USFM book code -> English book name, used to build the
-# "reference" field (e.g. "Genesis 1"). Extend / edit as needed.
-BOOK_NAMES = {
-    "GEN": "Genesis", "EXO": "Exodus", "LEV": "Leviticus", "NUM": "Numbers",
-    "DEU": "Deuteronomy", "JOS": "Joshua", "JDG": "Judges", "RUT": "Ruth",
-    "1SA": "1 Samuel", "2SA": "2 Samuel", "1KI": "1 Kings", "2KI": "2 Kings",
-    "1CH": "1 Chronicles", "2CH": "2 Chronicles", "EZR": "Ezra", "NEH": "Nehemiah",
-    "EST": "Esther", "JOB": "Job", "PSA": "Psalm", "PRO": "Proverbs",
-    "ECC": "Ecclesiastes", "SNG": "Song of Solomon", "ISA": "Isaiah",
-    "JER": "Jeremiah", "LAM": "Lamentations", "EZK": "Ezekiel", "DAN": "Daniel",
-    "HOS": "Hosea", "JOL": "Joel", "AMO": "Amos", "OBA": "Obadiah",
-    "JON": "Jonah", "MIC": "Micah", "NAM": "Nahum", "HAB": "Habakkuk",
-    "ZEP": "Zephaniah", "HAG": "Haggai", "ZEC": "Zechariah", "MAL": "Malachi",
-    "MAT": "Matthew", "MRK": "Mark", "LUK": "Luke", "JHN": "John",
-    "ACT": "Acts", "ROM": "Romans", "1CO": "1 Corinthians", "2CO": "2 Corinthians",
-    "GAL": "Galatians", "EPH": "Ephesians", "PHP": "Philippians", "COL": "Colossians",
-    "1TH": "1 Thessalonians", "2TH": "2 Thessalonians", "1TI": "1 Timothy",
-    "2TI": "2 Timothy", "TIT": "Titus", "PHM": "Philemon", "HEB": "Hebrews",
-    "JAS": "James", "1PE": "1 Peter", "2PE": "2 Peter", "1JN": "1 John",
-    "2JN": "2 John", "3JN": "3 John", "JUD": "Jude", "REV": "Revelation",
-}
+# Source language whose books.json / chapters.json are copied as the starting
+# template for a new version folder (see main()). Override with --source.
+DEFAULT_SOURCE_NAME = "swahili"
 
 
 # --------------------------------------------------------------------------
@@ -74,18 +69,29 @@ def build_url(bible_id: int, usfm: str, name: str) -> str:
     return f"https://www.bible.com/bible/{bible_id}/{usfm}.{name.upper()}"
 
 
-def fetch_next_data(bible_id: int, usfm: str, name: str) -> dict:
-    """Download the chapter page and pull out the embedded __NEXT_DATA__ JSON blob."""
+def fetch_page(bible_id: int, usfm: str, name: str):
+    """Download the chapter page.
+
+    Returns (next_data, heading_text):
+      * next_data    - the embedded __NEXT_DATA__ JSON blob (dict)
+      * heading_text - the raw text of the page's <h1> chapter heading,
+                       e.g. "KUZOYA 1" (used to derive the localized book name)
+    """
     url = build_url(bible_id, usfm, name)
     resp = requests.get(url, headers=HEADERS, timeout=30)
     resp.raise_for_status()
 
     soup = BeautifulSoup(resp.text, "html.parser")
+
     script_tag = soup.find("script", id="__NEXT_DATA__")
     if not script_tag or not script_tag.string:
         raise RuntimeError(f"Could not find __NEXT_DATA__ script on {url}")
+    next_data = json.loads(script_tag.string)
 
-    return json.loads(script_tag.string)
+    h1 = soup.find("h1")
+    heading_text = h1.get_text(strip=True) if h1 else ""
+
+    return next_data, heading_text
 
 
 # --------------------------------------------------------------------------
@@ -277,16 +283,52 @@ def normalize_ref(usfm_token: str) -> dict:
 
 
 # --------------------------------------------------------------------------
+# Localized book name (from the page's <h1>, e.g. "KUZOYA 1" -> "Kuzoya")
+# --------------------------------------------------------------------------
+
+def extract_book_name_from_heading(heading_text: str, chapter_number: str) -> str:
+    """'KUZOYA 1' + chapter_number='1' -> 'Kuzoya'.
+
+    Strips the trailing chapter number off the page's <h1> text to recover
+    just the localized book title, then title-cases it.
+    """
+    text = heading_text.strip()
+
+    # Prefer stripping the exact chapter number we requested...
+    stripped = re.sub(r"\s*" + re.escape(chapter_number) + r"\s*$", "", text)
+    if stripped == text:
+        # ...fall back to stripping any trailing digits, in case of a mismatch.
+        stripped = re.sub(r"\s*\d+\s*$", "", text)
+
+    return stripped.strip().title()
+
+
+# --------------------------------------------------------------------------
 # Top-level chapter build
 # --------------------------------------------------------------------------
 
-def build_chapter_json(bible_id: int, usfm: str, name: str, copyright_text: str) -> dict:
-    data = fetch_next_data(bible_id, usfm, name)
-    page_props = data["props"]["pageProps"]
+def build_chapter_json(bible_id: int, usfm: str, name: str, copyright_text: str,
+                        book_name_cache: dict) -> tuple:
+    """Fetch + parse a single chapter.
+
+    book_name_cache maps bookId -> localized book name (e.g. {"GEN": "Kuzoya"}).
+    It's read/written in place: the first time a given bookId is seen, the
+    localized name is derived from this page's <h1> and cached; subsequent
+    chapters of the same book reuse the cached name instead of re-deriving it.
+
+    Returns (result_dict, local_book_name, is_newly_resolved).
+    """
+    next_data, heading_text = fetch_page(bible_id, usfm, name)
+    page_props = next_data["props"]["pageProps"]
     chapter_info = page_props["chapterInfo"]
 
     ref_usfm = chapter_info["reference"]["usfm"][0]
     book_id, chapter_number = ref_usfm.split(".")
+
+    is_newly_resolved = book_id not in book_name_cache
+    if is_newly_resolved:
+        book_name_cache[book_id] = extract_book_name_from_heading(heading_text, chapter_number)
+    local_book_name = book_name_cache[book_id]
 
     content = parse_chapter_html(chapter_info["content"], book_id, chapter_number)
 
@@ -294,7 +336,7 @@ def build_chapter_json(bible_id: int, usfm: str, name: str, copyright_text: str)
         "id": f"{book_id}.{chapter_number}",
         "number": chapter_number,
         "bookId": book_id,
-        "reference": f"{BOOK_NAMES.get(book_id, book_id)} {chapter_number}",
+        "reference": f"{local_book_name} {chapter_number}",
         "copyright": copyright_text,
         "verseCount": count_verses(content),
         "content": content,
@@ -305,73 +347,129 @@ def build_chapter_json(bible_id: int, usfm: str, name: str, copyright_text: str)
     if chapter_info.get("previous"):
         result["previous"] = normalize_ref(chapter_info["previous"]["usfm"][0])
 
-    return result
+    return result, local_book_name, is_newly_resolved
+
+
+# --------------------------------------------------------------------------
+# books.json / chapters.json helpers
+# --------------------------------------------------------------------------
+
+def load_json(path: Path):
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def save_json(path: Path, data) -> None:
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+def copy_template_files(source_dir: Path, dest_dir: Path) -> tuple:
+    """Copy books.json and chapters.json from source_dir into dest_dir.
+
+    Returns (books_path, chapters_path) inside dest_dir.
+    """
+    dest_dir.mkdir(parents=True, exist_ok=True)
+
+    src_books = source_dir / "books.json"
+    src_chapters = source_dir / "chapters.json"
+    if not src_books.exists() or not src_chapters.exists():
+        raise FileNotFoundError(
+            f"Expected books.json and chapters.json in {source_dir}, "
+            f"found books.json={src_books.exists()} chapters.json={src_chapters.exists()}"
+        )
+
+    dest_books = dest_dir / "books.json"
+    dest_chapters = dest_dir / "chapters.json"
+    shutil.copy2(src_books, dest_books)
+    shutil.copy2(src_chapters, dest_chapters)
+
+    return dest_books, dest_chapters
 
 
 # --------------------------------------------------------------------------
 # CLI
 # --------------------------------------------------------------------------
 
-def parse_chapter_range(book: str, chapters: str):
-    """'1-5' or '1,3,7' or '1' -> ['GEN.1', 'GEN.2', ...]"""
-    usfms = []
-    for piece in chapters.split(","):
-        piece = piece.strip()
-        if "-" in piece:
-            start, end = piece.split("-")
-            for n in range(int(start), int(end) + 1):
-                usfms.append(f"{book}.{n}")
-        else:
-            usfms.append(f"{book}.{piece}")
-    return usfms
-
-
 def main():
-    parser = argparse.ArgumentParser(description="Scrape Bible.com chapter(s) into JSON files.")
-    parser.add_argument("--bible-id", type=int, required=True, help="Bible version ID, e.g. 2138")
-    parser.add_argument("--name", required=True,
+    parser = argparse.ArgumentParser(
+        description="Scrape every chapter of a Bible.com version into JSON files, "
+                    "localizing book names/references as it goes."
+    )
+    parser.add_argument("bible_id", type=int, help="Bible version ID, e.g. 2138")
+    parser.add_argument("name",
                          help="Version short name, e.g. taita. Used lower-case for the "
                               "output folder and upper-case in the URL.")
-
-    group = parser.add_mutually_exclusive_group(required=True)
-    group.add_argument("--usfm", help="Single chapter usfm, e.g. GEN.1")
-    group.add_argument("--book", help="Book code to use with --chapters, e.g. GEN")
-
-    parser.add_argument("--chapters", help="Chapter number/range/list, e.g. '1-50' or '1,2,5' "
-                                            "(required if --book is used)")
+    parser.add_argument("--source", default=DEFAULT_SOURCE_NAME,
+                         help=f"Folder to copy books.json/chapters.json from as the starting "
+                              f"template (default: '{DEFAULT_SOURCE_NAME}')")
     parser.add_argument("--copyright", default=DEFAULT_COPYRIGHT,
-                         help=f"Copyright string to embed in the JSON (default: '{DEFAULT_COPYRIGHT}')")
+                         help=f"Copyright string to embed in each chapter JSON "
+                              f"(default: '{DEFAULT_COPYRIGHT}')")
     parser.add_argument("--sleep", type=float, default=1.0,
-                         help="Seconds to sleep between requests when scraping multiple chapters")
+                         help="Seconds to sleep between requests")
     args = parser.parse_args()
 
-    if args.book and not args.chapters:
-        parser.error("--chapters is required when using --book")
+    dest_dir = SCRIPT_ROOT / args.name.lower()
+    source_dir = SCRIPT_ROOT / args.source.lower()
+    verses_dir = dest_dir / "verses"
 
-    # <name>/verses/ folder, anchored to SCRIPT_ROOT (the project root, one level
-    # above this script's own folder) rather than the current working directory,
-    # so behavior is stable no matter where/how this script is invoked.
-    verses_dir = SCRIPT_ROOT / args.name.lower() / "verses"
+    books_path, chapters_path = copy_template_files(source_dir, dest_dir)
+    print(f"Copied templates from {source_dir} to {dest_dir}")
 
-    usfms = [args.usfm] if args.usfm else parse_chapter_range(args.book, args.chapters)
+    books = load_json(books_path)
+    # chapters.json is a dict keyed by bookId, e.g. {"GEN": [ {...}, {...} ], "EXO": [...]}
+    chapters_by_book = load_json(chapters_path)
 
-    for i, usfm in enumerate(usfms):
+    books_by_id = {b["id"]: b for b in books}
+
+    # Flatten into a single ordered list of (book_id, chapter_entry) so we can
+    # walk them in document order while still updating chapters_by_book in place.
+    flat_entries = [
+        (book_id, entry)
+        for book_id, entries in chapters_by_book.items()
+        for entry in entries
+    ]
+
+    book_name_cache = {}  # bookId -> localized name, e.g. {"GEN": "Kuzoya"}
+    total = len(flat_entries)
+
+    for i, (book_id, entry) in enumerate(flat_entries):
+        number = entry["number"]
+        usfm = f"{book_id}.{number}"
+
         try:
-            result = build_chapter_json(args.bible_id, usfm, args.name, args.copyright)
+            result, local_name, is_newly_resolved = build_chapter_json(
+                args.bible_id, usfm, args.name, args.copyright, book_name_cache
+            )
         except Exception as exc:
             print(f"FAILED {usfm}: {exc}")
             continue
 
-        # <name>/verses/<BOOK_ID>/<chapter_number>.json, e.g. taita/verses/GEN/1.json
-        book_dir = verses_dir / result["bookId"]
+        if is_newly_resolved:
+            print(f"Resolved book name for {book_id}: '{local_name}'")
+
+            book_entry = books_by_id.get(book_id)
+            if book_entry:
+                book_entry["name"] = local_name
+                book_entry["nameLong"] = local_name
+                book_entry["abbreviation"] = local_name[:3]
+
+            for ch in chapters_by_book.get(book_id, []):
+                ch["reference"] = f"{local_name} {ch['number']}"
+
+            # Persist immediately so a partial/interrupted run still leaves
+            # books.json and chapters.json in a consistent, up-to-date state.
+            save_json(books_path, books)
+            save_json(chapters_path, chapters_by_book)
+
+        book_dir = verses_dir / book_id
         book_dir.mkdir(parents=True, exist_ok=True)
-
         out_path = book_dir / f"{result['number']}.json"
-        with open(out_path, "w", encoding="utf-8") as f:
-            json.dump(result, f, ensure_ascii=False, indent=2)
-        print(f"Saved {out_path}")
+        save_json(out_path, result)
+        print(f"[{i + 1}/{total}] Saved {out_path}")
 
-        if i < len(usfms) - 1:
+        if i < total - 1:
             time.sleep(args.sleep)
 
 

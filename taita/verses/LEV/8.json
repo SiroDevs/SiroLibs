@@ -1,22 +1,22 @@
 {
-  "id": "GEN.1",
-  "number": "1",
-  "bookId": "GEN",
-  "reference": "Kuzoya 1",
+  "id": "LEV.8",
+  "number": "8",
+  "bookId": "LEV",
+  "reference": "Walawi 8",
   "copyright": "PUBLIC DOMAIN",
-  "verseCount": 31,
+  "verseCount": 36,
   "content": [
     {
       "name": "chapter",
       "type": "tag",
       "attrs": {
-        "number": "1",
+        "number": "8",
         "style": "c",
-        "sid": "GEN 1"
+        "sid": "LEV 8"
       },
       "items": [
         {
-          "text": "1",
+          "text": "8",
           "type": "text"
         }
       ]
@@ -29,7 +29,7 @@
       },
       "items": [
         {
-          "text": "Kuumbwa kwa wurumwengu",
+          "text": "Kuwikwa wakfu kwa Haruni na wana wake",
           "type": "text"
         }
       ]
@@ -47,7 +47,7 @@
           "attrs": {
             "number": "1",
             "style": "v",
-            "sid": "GEN 1:1"
+            "sid": "LEV 8:1"
           },
           "items": [
             {
@@ -57,12 +57,12 @@
           ]
         },
         {
-          "text": "Aho kuzoenyi, Mlungu oreumbieghe mlungunyi na ndoenyi. ",
+          "text": "BWANA ukamzera Musa, ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.1",
+            "verseId": "LEV.8.1",
             "verseOrgIds": [
-              "GEN.1.1"
+              "LEV.8.1"
             ]
           }
         },
@@ -72,7 +72,7 @@
           "attrs": {
             "number": "2",
             "style": "v",
-            "sid": "GEN 1:2"
+            "sid": "LEV 8:2"
           },
           "items": [
             {
@@ -82,12 +82,12 @@
           ]
         },
         {
-          "text": "Ndoenyi ndekorekoghe na fwana ingi, angu kilambo chingi. Kira cherekoghe aighu ya machi ghimilie, na Roho wa Mlungu ukakaia ukisela-sela aighu ya machi. ",
+          "text": "“Wada Haruni na wana wake, kudo marwao na mavuda ghewika wakfu, na njau efunya kizongona kwa wundu ghwa kaung'a, bauru iwi, na kikapu cha mikate isewadie chachu; ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.2",
+            "verseId": "LEV.8.2",
             "verseOrgIds": [
-              "GEN.1.2"
+              "LEV.8.2"
             ]
           }
         },
@@ -97,7 +97,7 @@
           "attrs": {
             "number": "3",
             "style": "v",
-            "sid": "GEN 1:3"
+            "sid": "LEV 8:3"
           },
           "items": [
             {
@@ -107,35 +107,36 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Mwengere ndeghukaie”, na mwengere ghukakaia.",
+          "text": "nao kukwanye izungu ja wandu wose mnyangonyi ghwa Hema ekwania.”",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.3",
+            "verseId": "LEV.8.3",
             "verseOrgIds": [
-              "GEN.1.3"
+              "LEV.8.3"
             ]
           }
-        },
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
         {
-          "name": "note",
+          "name": "verse",
           "type": "tag",
           "attrs": {
-            "style": "x",
-            "caller": "#"
+            "number": "3",
+            "style": "v",
+            "sid": "LEV 8:3"
           },
           "items": [
             {
-              "name": "ref",
-              "type": "tag",
-              "attrs": {
-                "loc": "2CO.4.6"
-              },
-              "items": [
-                {
-                  "text": "2 Wakor. 4.6",
-                  "type": "text"
-                }
-              ]
+              "text": "3",
+              "type": "text"
             }
           ]
         },
@@ -143,9 +144,9 @@
           "text": " ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.3",
+            "verseId": "LEV.8.3",
             "verseOrgIds": [
-              "GEN.1.3"
+              "LEV.8.3"
             ]
           }
         },
@@ -155,7 +156,7 @@
           "attrs": {
             "number": "4",
             "style": "v",
-            "sid": "GEN 1:4"
+            "sid": "LEV 8:4"
           },
           "items": [
             {
@@ -165,37 +166,12 @@
           ]
         },
         {
-          "text": "Mlungu ukawona angu ghwaboie; ukaghutanya mwengere na kira. ",
+          "text": "Nao Musa ukabonya sa iji koni BWANA oremlaghirieghe; na izungu jose ja wandu jikakwanyika mnyangonyi ghwa Hema ekwania.",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.4",
+            "verseId": "LEV.8.4",
             "verseOrgIds": [
-              "GEN.1.4"
-            ]
-          }
-        },
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
-            "number": "5",
-            "style": "v",
-            "sid": "GEN 1:5"
-          },
-          "items": [
-            {
-              "text": "5",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": "Mwengere ukaghuwanga, “Dime” na kira ukachiwanga “Kio”. Kukakaia nakenyi, kukakaia nakesho, ituku ja imbiri.",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.5",
-            "verseOrgIds": [
-              "GEN.1.5"
+              "LEV.8.4"
             ]
           }
         }
@@ -212,9 +188,34 @@
           "name": "verse",
           "type": "tag",
           "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "LEV 8:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.8.4",
+            "verseOrgIds": [
+              "LEV.8.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
             "number": "5",
             "style": "v",
-            "sid": "GEN 1:5"
+            "sid": "LEV 8:5"
           },
           "items": [
             {
@@ -224,12 +225,12 @@
           ]
         },
         {
-          "text": " ",
+          "text": "Musa ukajizera izungu ja wandu, “Agha malagho nichaaghibonya nigho BWANA unilaghirie.” ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.5",
+            "verseId": "LEV.8.5",
             "verseOrgIds": [
-              "GEN.1.5"
+              "LEV.8.5"
             ]
           }
         },
@@ -239,7 +240,7 @@
           "attrs": {
             "number": "6",
             "style": "v",
-            "sid": "GEN 1:6"
+            "sid": "LEV 8:6"
           },
           "items": [
             {
@@ -249,45 +250,12 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Mawingu ndeghikaie ghadi na ghadi ya machi, ghighiwaghanye mafungu awi.”",
+          "text": "Musa ukamreda Haruni na wana wake, ukawioghosha kwa machi. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.6",
+            "verseId": "LEV.8.6",
             "verseOrgIds": [
-              "GEN.1.6"
-            ]
-          }
-        },
-        {
-          "name": "note",
-          "type": "tag",
-          "attrs": {
-            "style": "x",
-            "caller": "#"
-          },
-          "items": [
-            {
-              "name": "ref",
-              "type": "tag",
-              "attrs": {
-                "loc": "2PE.3.5"
-              },
-              "items": [
-                {
-                  "text": "2 Pet. 3.5",
-                  "type": "text"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.6",
-            "verseOrgIds": [
-              "GEN.1.6"
+              "LEV.8.6"
             ]
           }
         },
@@ -297,7 +265,7 @@
           "attrs": {
             "number": "7",
             "style": "v",
-            "sid": "GEN 1:7"
+            "sid": "LEV 8:7"
           },
           "items": [
             {
@@ -307,12 +275,12 @@
           ]
         },
         {
-          "text": "Mlungu ukabonya mawingunyi, nao ukaghitanya agho machi gherekoghe mawingunyi nandonyi na agho gherekoghe mawingunyi naighu. Nao ikakaia wokoni. ",
+          "text": "Ukamngira ijoho, ukamfunga mkowa, ukamngira nguwo na naivera na kumfunga mkowa ghulukilo nicha kwa wuya. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.7",
+            "verseId": "LEV.8.7",
             "verseOrgIds": [
-              "GEN.1.7"
+              "LEV.8.7"
             ]
           }
         },
@@ -322,7 +290,7 @@
           "attrs": {
             "number": "8",
             "style": "v",
-            "sid": "GEN 1:8"
+            "sid": "LEV 8:8"
           },
           "items": [
             {
@@ -332,46 +300,44 @@
           ]
         },
         {
-          "text": "Nao Mlungu ukakuwanga aho mawingunyi, “Mlungunyi.” Kukakaia nakenyi, kukaia nakesho, ituku ja kawi.",
+          "text": "Ukamngira kisibau cha laghenyi, na kungira Urimu na Thumimu",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.8",
+            "verseId": "LEV.8.8",
             "verseOrgIds": [
-              "GEN.1.8"
+              "LEV.8.8"
             ]
           }
-        }
-      ]
-    },
-    {
-      "name": "para",
-      "type": "tag",
-      "attrs": {
-        "style": "p"
-      },
-      "items": [
+        },
         {
-          "name": "verse",
+          "name": "note",
           "type": "tag",
           "attrs": {
-            "number": "8",
-            "style": "v",
-            "sid": "GEN 1:8"
+            "style": "f",
+            "caller": "#"
           },
           "items": [
             {
-              "text": "8",
+              "text": "8.8",
+              "type": "text"
+            },
+            {
+              "text": "Urimu na Thumimu:",
+              "type": "text"
+            },
+            {
+              "text": "ni vilambo veretumilwagha ni wakohani kulola lukundo lwa Mlungu.",
               "type": "text"
             }
           ]
         },
         {
-          "text": " ",
+          "text": " andenyi yaro. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.8",
+            "verseId": "LEV.8.8",
             "verseOrgIds": [
-              "GEN.1.8"
+              "LEV.8.8"
             ]
           }
         },
@@ -381,7 +347,7 @@
           "attrs": {
             "number": "9",
             "style": "v",
-            "sid": "GEN 1:9"
+            "sid": "LEV 8:9"
           },
           "items": [
             {
@@ -391,12 +357,46 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Machi ghiko mlungunyi nandonyi ndeghitumbanyike chiaimweri, na ndoe iomie iwoneke.” Nao ikakaia wokoni. ",
+          "text": "Ukamngira kiremba chongonyi kwake. Na sa iji orenekeloghe momu ni BWANA, ukawikiria chija kibau cha dhahabu naimbiri ya icho kiremba, chiwonyere fwana ya kirumbu cha wueli.",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.9",
+            "verseId": "LEV.8.9",
             "verseOrgIds": [
-              "GEN.1.9"
+              "LEV.8.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "LEV 8:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.8.9",
+            "verseOrgIds": [
+              "LEV.8.9"
             ]
           }
         },
@@ -406,7 +406,7 @@
           "attrs": {
             "number": "10",
             "style": "v",
-            "sid": "GEN 1:10"
+            "sid": "LEV 8:10"
           },
           "items": [
             {
@@ -416,12 +416,12 @@
           ]
         },
         {
-          "text": "Mlungu ukawanga andu kuomie “Ndoenyi,” na agho machi gheretumbanyikieghe ukaghiwanga, “Bahari.” Mlungu ukawona angu vaboie. ",
+          "text": "Niko Musa ukawada mavuda ghewika wakfu, ukashinga Andu kwa BWANA Kokaia, na vose viko andenyi yaro; ukaviwika wakfu. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.10",
+            "verseId": "LEV.8.10",
             "verseOrgIds": [
-              "GEN.1.10"
+              "LEV.8.10"
             ]
           }
         },
@@ -431,7 +431,7 @@
           "attrs": {
             "number": "11",
             "style": "v",
-            "sid": "GEN 1:11"
+            "sid": "LEV 8:11"
           },
           "items": [
             {
@@ -441,12 +441,12 @@
           ]
         },
         {
-          "text": "Niko Mlungu ukaghamba, “Ndoe ndeibuse midi, miwalwa ifunyagha mbeu, na midi ya matunda ghiko na mbeu, kula mudi ghwa mbari yaro.” Nao ikakaia wokoni. ",
+          "text": "Ukamichira mavuda ghamu madhabahunyi mando mfungade, ukaishinga madhabahu mavuda, na vilambo varo wori; na wokoni beseni na andu kwaro koiwikiria, ukaviwika wakfu kwa BWANA. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.11",
+            "verseId": "LEV.8.11",
             "verseOrgIds": [
-              "GEN.1.11"
+              "LEV.8.11"
             ]
           }
         },
@@ -456,7 +456,7 @@
           "attrs": {
             "number": "12",
             "style": "v",
-            "sid": "GEN 1:12"
+            "sid": "LEV 8:12"
           },
           "items": [
             {
@@ -466,12 +466,12 @@
           ]
         },
         {
-          "text": "Ndoe ikabusa midi, miwalwa ifunyagha mbeu kwa vichuku varo, na midi ivagha matunda ghiko na mbeu raro andenyi, kula ghumu kwa mbari yaro. Mlungu ukawona angu vaboie na ndighi. ",
+          "text": "Ukamdunga Haruni mavuda chongonyi na kummbika wakfu. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.12",
+            "verseId": "LEV.8.12",
             "verseOrgIds": [
-              "GEN.1.12"
+              "LEV.8.12"
             ]
           }
         },
@@ -481,7 +481,7 @@
           "attrs": {
             "number": "13",
             "style": "v",
-            "sid": "GEN 1:13"
+            "sid": "LEV 8:13"
           },
           "items": [
             {
@@ -491,12 +491,12 @@
           ]
         },
         {
-          "text": "Kukakaia nakenyi, kukakaia nakesho, ituku ja kadadu.",
+          "text": "Sena ukawireda wana wa Haruni imbiri, ukawirusha majoho na kuwifunga mikowa na kuwingira kofia sa iji koni BWANA oremnekieghe momu.",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.13",
+            "verseId": "LEV.8.13",
             "verseOrgIds": [
-              "GEN.1.13"
+              "LEV.8.13"
             ]
           }
         }
@@ -515,7 +515,7 @@
           "attrs": {
             "number": "13",
             "style": "v",
-            "sid": "GEN 1:13"
+            "sid": "LEV 8:13"
           },
           "items": [
             {
@@ -528,9 +528,9 @@
           "text": " ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.13",
+            "verseId": "LEV.8.13",
             "verseOrgIds": [
-              "GEN.1.13"
+              "LEV.8.13"
             ]
           }
         },
@@ -540,7 +540,7 @@
           "attrs": {
             "number": "14",
             "style": "v",
-            "sid": "GEN 1:14"
+            "sid": "LEV 8:14"
           },
           "items": [
             {
@@ -550,12 +550,12 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Miengere ndeikaie aighu mawingunyi, ipate kutanya kio na dime, na kuwonyera alama, vimu, matuku, na miaka; ",
+          "text": "Niko Musa ukareda njau ikaie kizongona kwa wundu ghwa kaung'a, na Haruni na wana wake wikawikiria mikonu yawo aighu ya chongo cha ija njau ya kizongona kwa wundu ghwa kaung'a. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.14",
+            "verseId": "LEV.8.14",
             "verseOrgIds": [
-              "GEN.1.14"
+              "LEV.8.14"
             ]
           }
         },
@@ -565,7 +565,7 @@
           "attrs": {
             "number": "15",
             "style": "v",
-            "sid": "GEN 1:15"
+            "sid": "LEV 8:15"
           },
           "items": [
             {
@@ -575,12 +575,12 @@
           ]
         },
         {
-          "text": "nayo ikaie aighu mawingunyi, ilangalishireghe ndoenyi.” Nao ikakaia wokoni. ",
+          "text": "Nao Musa ukaibwagha, ukawada bagha na chala chake ukarishinga rija mbembe inya ra madhabahu na kuielesha; ukadia bagha nandonyi ya madhabahu na kuiwika wakfu ipate kukaia ereda mapatano. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.15",
+            "verseId": "LEV.8.15",
             "verseOrgIds": [
-              "GEN.1.15"
+              "LEV.8.15"
             ]
           }
         },
@@ -590,7 +590,7 @@
           "attrs": {
             "number": "16",
             "style": "v",
-            "sid": "GEN 1:16"
+            "sid": "LEV 8:16"
           },
           "items": [
             {
@@ -600,12 +600,12 @@
           ]
         },
         {
-          "text": "Nao Mlungu ukabonya miengere mibaa iwi, ugho mwengere m'baa ghuibonyere dime nguma, na ugho mtini ghubonyere kio nguma, ukabonya na nyerinyeri wokoni. ",
+          "text": "Ukawada mavuda ghose gha vifu, na kipande chiboie cha idima, figho iwi na mavuda gharo, ukavikora aighu ya madhabahu. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.16",
+            "verseId": "LEV.8.16",
             "verseOrgIds": [
-              "GEN.1.16"
+              "LEV.8.16"
             ]
           }
         },
@@ -615,7 +615,7 @@
           "attrs": {
             "number": "17",
             "style": "v",
-            "sid": "GEN 1:17"
+            "sid": "LEV 8:17"
           },
           "items": [
             {
@@ -625,12 +625,46 @@
           ]
         },
         {
-          "text": "Mlungu ukaiwika iyo miengere aighu mawingunyi gha mlungunyi, ipate kuilangalishira ndoenyi, ",
+          "text": "Ela nyama ya njau na mrongo ghwaro na vifu varo, ukavikora vose shighadi ya kambi, sa iji koni BWANA oremlaghirieghe.",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.17",
+            "verseId": "LEV.8.17",
             "verseOrgIds": [
-              "GEN.1.17"
+              "LEV.8.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "LEV 8:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.8.17",
+            "verseOrgIds": [
+              "LEV.8.17"
             ]
           }
         },
@@ -640,7 +674,7 @@
           "attrs": {
             "number": "18",
             "style": "v",
-            "sid": "GEN 1:18"
+            "sid": "LEV 8:18"
           },
           "items": [
             {
@@ -650,12 +684,12 @@
           ]
         },
         {
-          "text": "ibonye nguma na dime hata na kio wori, nayo itanye mwengere na kira. Nao Mlungu ukawona angu vaboie. ",
+          "text": "Niko ukareda bauru kwa wundu ghwa kizongona chekora, Haruni na wana wake wikawikiria mikonu yawo aighu ya chongo cha bauru. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.18",
+            "verseId": "LEV.8.18",
             "verseOrgIds": [
-              "GEN.1.18"
+              "LEV.8.18"
             ]
           }
         },
@@ -665,7 +699,7 @@
           "attrs": {
             "number": "19",
             "style": "v",
-            "sid": "GEN 1:19"
+            "sid": "LEV 8:19"
           },
           "items": [
             {
@@ -675,46 +709,12 @@
           ]
         },
         {
-          "text": "Kukakaia nakenyi, kukaia nakesho, ituku ja kana.",
+          "text": "Musa ukaibwagha, na kumichira bagha yake aighu ya iro mbembe inya ra madhabahu. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.19",
+            "verseId": "LEV.8.19",
             "verseOrgIds": [
-              "GEN.1.19"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "name": "para",
-      "type": "tag",
-      "attrs": {
-        "style": "p"
-      },
-      "items": [
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
-            "number": "19",
-            "style": "v",
-            "sid": "GEN 1:19"
-          },
-          "items": [
-            {
-              "text": "19",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.19",
-            "verseOrgIds": [
-              "GEN.1.19"
+              "LEV.8.19"
             ]
           }
         },
@@ -724,7 +724,7 @@
           "attrs": {
             "number": "20",
             "style": "v",
-            "sid": "GEN 1:20"
+            "sid": "LEV 8:20"
           },
           "items": [
             {
@@ -734,12 +734,12 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Machi ndeghichuo nyamandu riko moyo kwa wungi, na nyonyi nderiburuke aighu ya ndoenyi, mbeonyi.” ",
+          "text": "Hata iji iyo bauru yadumbulwa vipade vipande, Musa ukakora chongo, na ivo vipande, na mavuda. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.20",
+            "verseId": "LEV.8.20",
             "verseOrgIds": [
-              "GEN.1.20"
+              "LEV.8.20"
             ]
           }
         },
@@ -749,7 +749,7 @@
           "attrs": {
             "number": "21",
             "style": "v",
-            "sid": "GEN 1:21"
+            "sid": "LEV 8:21"
           },
           "items": [
             {
@@ -759,12 +759,46 @@
           ]
         },
         {
-          "text": "Mlungu ukaumba nyamandu mbaa reobosha ra machinyi, na ivo vose viko moyo vighendagha andenyi machinyi kwa mbari raro, na nyonyi ra mbari rose. Mlungu ukawona angu vaboie. ",
+          "text": "Hata nyuma ya kuoghosha vindo vose va ndenyi na maghu kwa machi, Musa ukakora bauru yose aighu ya madhabahu, ikaie kizongona chekora, irumba jinukie nicha ja kizongona chekora chifunyiro kwa BWANA, sa iji koni BWANA oremlaghirieghe.",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.21",
+            "verseId": "LEV.8.21",
             "verseOrgIds": [
-              "GEN.1.21"
+              "LEV.8.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "LEV 8:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.8.21",
+            "verseOrgIds": [
+              "LEV.8.21"
             ]
           }
         },
@@ -774,7 +808,7 @@
           "attrs": {
             "number": "22",
             "style": "v",
-            "sid": "GEN 1:22"
+            "sid": "LEV 8:22"
           },
           "items": [
             {
@@ -784,12 +818,12 @@
           ]
         },
         {
-          "text": "Nao ukavirasimia ukaghamba, “Venyi mchurikie mchuo baharinyi, na nyonyi nderichurikie ndoenyi.” ",
+          "text": "Niko Musa ukaireda bauru ya kawi, iyo ewika wakohani wakfu; na Haruni na wana wake wikawikiria mikonu yawo aighu ya chongo cha iyo bauru. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.22",
+            "verseId": "LEV.8.22",
             "verseOrgIds": [
-              "GEN.1.22"
+              "LEV.8.22"
             ]
           }
         },
@@ -799,7 +833,7 @@
           "attrs": {
             "number": "23",
             "style": "v",
-            "sid": "GEN 1:23"
+            "sid": "LEV 8:23"
           },
           "items": [
             {
@@ -809,46 +843,12 @@
           ]
         },
         {
-          "text": "Kukakaia nakenyi, kukaia nakesho, ituku ja kasanu.",
+          "text": "Musa ukaibwagha, ukawada bagha yake, na kushinga m'bonya ya kudu kwa kiwomi kwa Haruni, na chala chake cha ighosi cha mkonu ghwake ghwa kiwomi, na ino jake ja ighosi ja kughu kwake kwa kiwomi. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.23",
+            "verseId": "LEV.8.23",
             "verseOrgIds": [
-              "GEN.1.23"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "name": "para",
-      "type": "tag",
-      "attrs": {
-        "style": "p"
-      },
-      "items": [
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
-            "number": "23",
-            "style": "v",
-            "sid": "GEN 1:23"
-          },
-          "items": [
-            {
-              "text": "23",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.23",
-            "verseOrgIds": [
-              "GEN.1.23"
+              "LEV.8.23"
             ]
           }
         },
@@ -858,7 +858,7 @@
           "attrs": {
             "number": "24",
             "style": "v",
-            "sid": "GEN 1:24"
+            "sid": "LEV 8:24"
           },
           "items": [
             {
@@ -868,12 +868,12 @@
           ]
         },
         {
-          "text": "Mlungu ukaghamba, “Ndoe ndeifunye nyamandu riko moyo kwa mbari raro, mfugho rose na shimandu riavuagha, na nyamandu ra mbari rose ra isakenyi.” Nao ikakaia wokoni. ",
+          "text": "Na wana wa Haruni wikaredwa, na Musa ukawada bagha ukawishinga m'bonya ra madu ghawo gha kiwomi, na vala vawo va maghosi va mikonu ya kiwomi na mano ghawo gha maghosi gha maghu gha kiwomi. Musa ukadunga ija bagha isigharikie chia rose ra madhabahu. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.24",
+            "verseId": "LEV.8.24",
             "verseOrgIds": [
-              "GEN.1.24"
+              "LEV.8.24"
             ]
           }
         },
@@ -883,7 +883,7 @@
           "attrs": {
             "number": "25",
             "style": "v",
-            "sid": "GEN 1:25"
+            "sid": "LEV 8:25"
           },
           "items": [
             {
@@ -893,12 +893,112 @@
           ]
         },
         {
-          "text": "Nao Mlungu ukabonya nyamandu ra mbari rose ra isakenyi, na mfugho kwa mbari raro, na kula shimandu iavuagha andoenyi kwa mbari raro. Mlungu ukawona vose kukaia vaboie.",
+          "text": "Niko ukawada mavuda, na munda na ilala ja mavuda ghose gha vifunyi, na kipande chiboie cha idima, figho iwi na mavuda gharo na bara ya kughu kwa kiwomi. ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.25",
+            "verseId": "LEV.8.25",
             "verseOrgIds": [
-              "GEN.1.25"
+              "LEV.8.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "LEV 8:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ukawusa mkate ghusewadie chachu ghumweri kufuma kikapunyi, ghorefunyiroghe kwa BWANA, na mkate ghumweri ghubonyero na mavuda, na skozi imweri, ukaviwikiria aighu ya mavuda na aighu ya nyama ya bara ya mkonu ghwa kiwomi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.8.26",
+            "verseOrgIds": [
+              "LEV.8.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "LEV 8:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa ukaviwikiria vindo ivi vose mikonunyi kwa Haruni na mikonunyi kwa wana wake, ukavisughusa vikaie kizongona chesughuswa chifunyiro kwa BWANA. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.8.27",
+            "verseOrgIds": [
+              "LEV.8.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "LEV 8:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Niko ukaviwusa sena kufuma mikonunyi kwawo, ukavikora aighu ya madhabahu chia imweri na kizongona chekora, vikaie mafunyo kwa wundu ghwa kuwika wakfu, irumba icha ja ifunyo ja kizongona chekora kwa BWANA. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.8.28",
+            "verseOrgIds": [
+              "LEV.8.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "LEV 8:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao Musa ukawada kidari, ukachisughusa chikaie kizongona chesughuswa chifunyiro kwa BWANA. Ni ifungu ja Musa ja bauru ewika wakfu; sa iji koni BWANA oremlaghirieghe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.8.29",
+            "verseOrgIds": [
+              "LEV.8.29"
             ]
           }
         }
@@ -915,211 +1015,9 @@
           "name": "verse",
           "type": "tag",
           "attrs": {
-            "number": "25",
-            "style": "v",
-            "sid": "GEN 1:25"
-          },
-          "items": [
-            {
-              "text": "25",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.25",
-            "verseOrgIds": [
-              "GEN.1.25"
-            ]
-          }
-        },
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
-            "number": "26",
-            "style": "v",
-            "sid": "GEN 1:26"
-          },
-          "items": [
-            {
-              "text": "26",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": "Niko Mlungu ukaghamba, “Ndedim'bonye mdamu kwa fwana yedu cheni, ufwanane na isi, wipate kukaia na nguma aighu ya samaki ra baharinyi na aighu ya nyonyi ra mbeonyi; aighu ya mfugho rose, na aighu ya ndoenyi kose putu, na kula shimandu iavuagha andoenyi.”",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.26",
-            "verseOrgIds": [
-              "GEN.1.26"
-            ]
-          }
-        },
-        {
-          "name": "note",
-          "type": "tag",
-          "attrs": {
-            "style": "x",
-            "caller": "#"
-          },
-          "items": [
-            {
-              "name": "ref",
-              "type": "tag",
-              "attrs": {
-                "loc": "1CO.11.7"
-              },
-              "items": [
-                {
-                  "text": "1 Wakor. 11.7",
-                  "type": "text"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.26",
-            "verseOrgIds": [
-              "GEN.1.26"
-            ]
-          }
-        },
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
-            "number": "27",
-            "style": "v",
-            "sid": "GEN 1:27"
-          },
-          "items": [
-            {
-              "text": "27",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": "Nao Mlungu ukaumba mdamu kwa fwana yake cheni, kwa fwana ya Mlungu ukawiumba mundu wa womi na wa waka.",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.27",
-            "verseOrgIds": [
-              "GEN.1.27"
-            ]
-          }
-        },
-        {
-          "name": "note",
-          "type": "tag",
-          "attrs": {
-            "style": "x",
-            "caller": "#"
-          },
-          "items": [
-            {
-              "name": "ref",
-              "type": "tag",
-              "attrs": {
-                "loc": "MAT.19.4"
-              },
-              "items": [
-                {
-                  "text": "Mat. 19.4",
-                  "type": "text"
-                }
-              ]
-            },
-            {
-              "name": "ref",
-              "type": "tag",
-              "attrs": {
-                "loc": "MRK.10.6"
-              },
-              "items": [
-                {
-                  "text": "Mk. 10.6",
-                  "type": "text"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "note",
-          "type": "tag",
-          "attrs": {
-            "style": "x",
-            "caller": "#"
-          },
-          "items": [
-            {
-              "name": "ref",
-              "type": "tag",
-              "attrs": {
-                "loc": "GEN.5.1+GEN.5.2"
-              },
-              "items": [
-                {
-                  "text": "Kuz. 5.1-2",
-                  "type": "text"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "text": " ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.27",
-            "verseOrgIds": [
-              "GEN.1.27"
-            ]
-          }
-        },
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
-            "number": "28",
-            "style": "v",
-            "sid": "GEN 1:28"
-          },
-          "items": [
-            {
-              "text": "28",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "text": "Mlungu ukawirasimia ukaghamba, “Venyi mchurikie, mchure ndoenyi kose, nayo muibonyere nguma, mkaie na nguma aighu ya samaki ra baharinyi, na nyonyi ra mbeonyi, na kula nyamandu iko ndoenyi kose.” ",
-          "type": "text",
-          "attrs": {
-            "verseId": "GEN.1.28",
-            "verseOrgIds": [
-              "GEN.1.28"
-            ]
-          }
-        },
-        {
-          "name": "verse",
-          "type": "tag",
-          "attrs": {
             "number": "29",
             "style": "v",
-            "sid": "GEN 1:29"
+            "sid": "LEV 8:29"
           },
           "items": [
             {
@@ -1129,12 +1027,12 @@
           ]
         },
         {
-          "text": "Nao Mlungu ukaghamba, “Olenyi namneka midi yose ivagha mbeu iko ndoenyi, na kula mudi ghuko na mbeu andenyi ya matunda gharo, vikaie vindo venyu. ",
+          "text": " ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.29",
+            "verseId": "LEV.8.29",
             "verseOrgIds": [
-              "GEN.1.29"
+              "LEV.8.29"
             ]
           }
         },
@@ -1144,7 +1042,7 @@
           "attrs": {
             "number": "30",
             "style": "v",
-            "sid": "GEN 1:30"
+            "sid": "LEV 8:30"
           },
           "items": [
             {
@@ -1154,12 +1052,46 @@
           ]
         },
         {
-          "text": "Na nyamandu rose riko ndoenyi, nyonyi ra mbeonyi na kula shimandu iavuagha andoenyi, kula kilambo chiko na miruke ya irangi, navineka nyasi na malemba mawishi kukaia vindo.” Nao ikakaia wokoni. ",
+          "text": "Niko Musa ukawada mavuda ghamu na bagha imu iyo erekoghe madhabahunyi, ukammichira Haruni na wana wake, na nguwo rawo; na kwa chia iyo, ukawiwika wakfu chiaimweri na nguwo rawo.",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.30",
+            "verseId": "LEV.8.30",
             "verseOrgIds": [
-              "GEN.1.30"
+              "LEV.8.30"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "LEV 8:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.8.30",
+            "verseOrgIds": [
+              "LEV.8.30"
             ]
           }
         },
@@ -1169,7 +1101,7 @@
           "attrs": {
             "number": "31",
             "style": "v",
-            "sid": "GEN 1:31"
+            "sid": "LEV 8:31"
           },
           "items": [
             {
@@ -1179,12 +1111,137 @@
           ]
         },
         {
-          "text": "Mlungu ukazighana kula kilambo uchibonyere, nao ola ukawona vose vaboie na ndighi. Kukakaia nakenyi, kukakaia nakesho, ituku ja karandadu.",
+          "text": "Musa ukamzera Haruni na wana wake, “Dekenyi iro nyama aho mnyangonyi ghwa Hema ekwania, murije chiaimweri na ugho mkate ghuko kikapunyi ghwa mafunyo kwa wundu ghwa kuwika wakfu, sa iji koni neremnekieghe momu ngighamba, ‘Haruni na wana wake wichakaia wikija ivo vindo.’ ",
           "type": "text",
           "attrs": {
-            "verseId": "GEN.1.31",
+            "verseId": "LEV.8.31",
             "verseOrgIds": [
-              "GEN.1.31"
+              "LEV.8.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "LEV 8:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyama na mkate vikasigharika, muvikore na modo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.8.32",
+            "verseOrgIds": [
+              "LEV.8.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "LEV 8:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nenyo ndemchaafuma aho mnyangonyi ghwa Hema ekwania kwa matuku mfungade, hata matuku ghenyu gha kuwikwa wakfu ghakatia, kwa kukaia kuwikwa wakfu konyu kuchadwa matuku mfungade. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.8.33",
+            "verseOrgIds": [
+              "LEV.8.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "LEV 8:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "BWANA odefunya momu dibonye seji dabonya idime kwa wundu ghwa kuinja kaung'a renyu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.8.34",
+            "verseOrgIds": [
+              "LEV.8.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "LEV 8:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mchakaia aho mnyangonyi ghwa Hema ekwania kwa matuku mfungade kio na dime, mkibonya agho ghilaghirilo ni BWANA, eri msechefwa, angu huwo niko nerenekeloghe momu ni BWANA.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.8.35",
+            "verseOrgIds": [
+              "LEV.8.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "LEV 8:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Haruni na wana wake wikabonya kula ilagho ijo BWANA oremlaghirieghe Musa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.8.36",
+            "verseOrgIds": [
+              "LEV.8.36"
             ]
           }
         }
@@ -1192,13 +1249,13 @@
     }
   ],
   "next": {
-    "id": "GEN.2",
-    "number": "2",
-    "bookId": "GEN"
+    "id": "LEV.9",
+    "number": "9",
+    "bookId": "LEV"
   },
   "previous": {
-    "id": "GEN.intro",
-    "number": "intro",
-    "bookId": "GEN"
+    "id": "LEV.7",
+    "number": "7",
+    "bookId": "LEV"
   }
 }
