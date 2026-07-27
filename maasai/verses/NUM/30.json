@@ -1,0 +1,527 @@
+{
+  "id": "NUM.30",
+  "number": "30",
+  "bookId": "NUM",
+  "reference": "Enki 30",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 16,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "30",
+        "style": "c",
+        "sid": "NUM 30"
+      },
+      "items": [
+        {
+          "text": "30",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Nkitanapat naaipirta enkinosata o lmumai",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NUM 30:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nejoki Musa ilukuny oo loshon loo ltung'ana loo Siraeli, “Ena ninye eitanapishe Olaitoriani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.1",
+            "verseOrgIds": [
+              "NUM.30.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 30:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.23.21+DEU.23.22+DEU.23.23"
+              },
+              "items": [
+                {
+                  "text": "Enkig 23.21-23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.5.33"
+              },
+              "items": [
+                {
+                  "text": "Mat 5.33",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Te neinos oltung'ani olmumai te nkaraki Olaitoriani, aashu te neinos olmumai pee een kewan te mbae natejo, nchoo ninye eaku olemeitupuk olomoni lenye; nchoo ninye eas te risioroto e ina pooki naimua enkutuk enye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.2",
+            "verseOrgIds": [
+              "NUM.30.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NUM 30:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aashu te neinos enkitok olmumai te nkaraki Olaitoriani, neen kewan enye te ina bae natejo, ina kata eton etii enkaji e papaai lenye, te kitisho enye, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.3",
+            "verseOrgIds": [
+              "NUM.30.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 30:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nening menye ilo mumai lenye, o ina natejo ninye, nateenie ninye kewan, nemejoki ninye ae, ore ilo mumai lenye pooki neunoyu. Ore pooki natejo ninye aen kewan neunoyu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.4",
+            "verseOrgIds": [
+              "NUM.30.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NUM 30:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kake te neany menye enyorraa ilo mumai ina olong apa pee ening, nemeitoki atii olmumai te ninye, nemetii eenata e kewan nauno, naa kepalaki Olaitoriani ninye te nkaraki naa menye otomitikio ninye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.5",
+            "verseOrgIds": [
+              "NUM.30.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NUM 30:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naa te neyama olmoruo, ina kata eton etii eenata eilo mumai lenye, aashu nena kirorot e nkutuk enye naateenie ninye kewan, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.6",
+            "verseOrgIds": [
+              "NUM.30.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NUM 30:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nening olmoruo lenye ina, neitu ejoki ae ina kata pee ening, ore naa ilo mumai lenye naa keuno, ore nena baa enyena naateenie kewan naa keunoyu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.7",
+            "verseOrgIds": [
+              "NUM.30.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NUM 30:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kake ore te ina olong apa natoning'o olmoruo lenye, neany ninye enyorraa, neitaa naa parmetii ilo mumai lenye apa oinosa, o nena kirorot e nkutuk enye, apa naa ninche eteenie kewan. Naa kepalaki Olaitoriani ninye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.8",
+            "verseOrgIds": [
+              "NUM.30.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NUM 30:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kake ore pooki mumai le nkoliai, aashu le nkitok natung'uayie olmoruo lenye, ore ake ninye entoki nateenie kewan, naa keitalakuni te ninye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.9",
+            "verseOrgIds": [
+              "NUM.30.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NUM 30:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naa te neinos ninye olmumai ti atua enkaji olpayian lenye e, aashu een kewan enye to lmumai, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.10",
+            "verseOrgIds": [
+              "NUM.30.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NUM 30:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nening olpayian lenye ina, neitu ejoki ninye ae, neitu erishie ninye; ore ilo mumai lenye pooki naa keunoyu, ore enkiroroto ake pooki nateenie ninye kewan naa keunoyu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.11",
+            "verseOrgIds": [
+              "NUM.30.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NUM 30:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kake te neitaa olmoruo lenye parmetii neitaa pesho ina olong apa pee ening, neaku naa, ore embae pooki naimu enkutuk enye naipirta olmumai lenye aashu naipirta ina enata e kewan nemelo aunoyu; eitaa olmoruo lenye pesho, naa kepalaki Olaitoriani ninye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.12",
+            "verseOrgIds": [
+              "NUM.30.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NUM 30:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ore olmumai pooki, o enata olmumai nainosie oltung'ani kewan osina, keidim olmoruo lenye atuuno, aashu eidim aitaa parmetii. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.13",
+            "verseOrgIds": [
+              "NUM.30.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NUM 30:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kake te nemejoki olmoruo lenye ae te nkolong ake ninye, neitubulaa naa ilo mumai le nkitok enye, o nena pooki naatejo ninye aenie kewan, nena naatii shumata ninye; eitubula ninye ninche enkaraki neitu ejoki ae ina olong apa naning nena baa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.14",
+            "verseOrgIds": [
+              "NUM.30.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NUM 30:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kake te neitaa nena baa pesho neitaa parmetii eidipa ninye atoning'o, nenap naa ninye eng'oki e nkitok enye.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.15",
+            "verseOrgIds": [
+              "NUM.30.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NUM 30:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.15",
+            "verseOrgIds": [
+              "NUM.30.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NUM 30:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuna ninche nkitanapat naaitanapa Olaitoriani Musa, naaipirta olee o enkitok enye, olpayian o entito enye, te lelero enye, eton etii enkaji e papaai lenye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.16",
+            "verseOrgIds": [
+              "NUM.30.16"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NUM.31",
+    "number": "31",
+    "bookId": "NUM"
+  },
+  "previous": {
+    "id": "NUM.29",
+    "number": "29",
+    "bookId": "NUM"
+  }
+}
