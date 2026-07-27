@@ -1,0 +1,48 @@
+{
+  "id": "PSA.23",
+  "number": "23",
+  "bookId": "PSA",
+  "reference": "Olke 23",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "23",
+        "style": "c",
+        "sid": "PSA 23"
+      },
+      "items": [
+        {
+          "text": "23",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Olaitoriani ninye Olchekut lang",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.24",
+    "number": "24",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.22",
+    "number": "22",
+    "bookId": "PSA"
+  }
+}

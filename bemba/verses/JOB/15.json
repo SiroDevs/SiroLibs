@@ -1,0 +1,82 @@
+{
+  "id": "JOB.15",
+  "number": "15",
+  "bookId": "JOB",
+  "reference": "Yobo 15",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "15",
+        "style": "c",
+        "sid": "JOB 15"
+      },
+      "items": [
+        {
+          "text": "15",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ukulanshanya kwabubili",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 15:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Elyo Elifasi umwina Temani ayaswike ati,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.15.1",
+            "verseOrgIds": [
+              "JOB.15.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.16",
+    "number": "16",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.14",
+    "number": "14",
+    "bookId": "JOB"
+  }
+}

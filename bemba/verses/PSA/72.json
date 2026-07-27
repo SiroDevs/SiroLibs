@@ -1,0 +1,160 @@
+{
+  "id": "PSA.72",
+  "number": "72",
+  "bookId": "PSA",
+  "reference": "Amalumbo 72",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "72",
+        "style": "c",
+        "sid": "PSA 72"
+      },
+      "items": [
+        {
+          "text": "72",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "PSA 72:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ameni",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.72.19",
+            "verseOrgIds": [
+              "PSA.72.19"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "72:19",
+              "type": "text"
+            },
+            {
+              "text": "Ameni:",
+              "type": "text"
+            },
+            {
+              "text": "Lishiwi lya Cihibulu. Calola mukutila, “Cine cine nifyo fine”.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " kabili ameni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.72.19",
+            "verseOrgIds": [
+              "PSA.72.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "PSA 72:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.72.19",
+            "verseOrgIds": [
+              "PSA.72.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "PSA 72:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pano epapwila amapepo yakwa Davidi mwana Yese.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.72.20",
+            "verseOrgIds": [
+              "PSA.72.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.73",
+    "number": "73",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.71",
+    "number": "71",
+    "bookId": "PSA"
+  }
+}

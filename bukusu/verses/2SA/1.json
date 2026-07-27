@@ -1,0 +1,783 @@
+{
+  "id": "2SA.1",
+  "number": "1",
+  "bookId": "2SA",
+  "reference": "2 Sam. 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 18,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "2SA 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Daudi amanya khufwa khwa Saulo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "2SA 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Enyuma we lifwa lia Saulo, Daudi aaba akoboole khukhwama khukhwirana ne Baamaleki, mala amenya mu Sikilaki khu ndaalo chibili. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.1",
+            "verseOrgIds": [
+              "2SA.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "2SA 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Endaalo eloondakho omundu echa khukhwama mu kambi ya Saulo. Aba atabulaake chingubo chewe ne khukhwichukhakho liloba khumurwe. Acha niio Daudi aba mala enama ebweeni wewe mu khweboombia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.2",
+            "verseOrgIds": [
+              "2SA.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "2SA 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.2",
+            "verseOrgIds": [
+              "2SA.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "2SA 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi amureeba ali, “Ewe wama waena?” Naye amukobosia ali, “Nelukhe khukhwama mu kambi eye Baisiraeli.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.3",
+            "verseOrgIds": [
+              "2SA.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "2SA 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi aloma ali, “Mboolele! Siina sisiekholeekhe?” Akobosia ali, “Banamae befwe beluukhe liie, ne babaandu befwe bakali bafwiile. Saulo no mwana wewe Yonasani bosi bafwiile.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.4",
+            "verseOrgIds": [
+              "2SA.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "2SA 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi amureeba ali, “Omanyile orie oli Saulo no mwana wewe Yonasani bafwiile?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.5",
+            "verseOrgIds": [
+              "2SA.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "2SA 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.31.1+1SA.31.2+1SA.31.3+1SA.31.4+1SA.31.5+1SA.31.6"
+              },
+              "items": [
+                {
+                  "text": "1 Sam. 31.1-6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.10.1+1CH.10.2+1CH.10.3+1CH.10.4+1CH.10.5+1CH.10.6"
+              },
+              "items": [
+                {
+                  "text": "1 Ke Ch. 10.1-6",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Omusoleeli oyo amukobosia ali, “Lianyoolekhana busa ndi khu sikulu sia Kiliboa, mala nabona Saulo eunile khwifumo liewe. Ne kamakaari ne babaandu be chifarasi che liie baba bamwimbie. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.6",
+            "verseOrgIds": [
+              "2SA.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "2SA 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nio ekhebukha, ambona mala anaanga. Ne nga nafukiilila, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.7",
+            "verseOrgIds": [
+              "2SA.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "2SA 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andeeba ali, ‘Ewe naanu?’, Mala namukobosia ndi ese Omuamaleki. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.8",
+            "verseOrgIds": [
+              "2SA.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "2SA 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nio aloma ali, ‘Yiicha siimbi mala unjire! Naumiie lukali, ne ndi siimbi khufwa.’ ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.9",
+            "verseOrgIds": [
+              "2SA.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "2SA 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Khwako nacha niio ali mala namwiira. Sikila namanya ndi nga nakwiile ario alafwa siise siosi siosi. Nio namufuula ekuutwa khu murwe kwewe ne lichaabe khu mukhono kwewe mala nabireerire ebweeni wowo omwami.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.10",
+            "verseOrgIds": [
+              "2SA.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "2SA 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.10",
+            "verseOrgIds": [
+              "2SA.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "2SA 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi etabulaka chingubo, alala ne babaandu bewe boosi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.11",
+            "verseOrgIds": [
+              "2SA.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "2SA 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basooma ne khukhweyimana khulia khukhwola ekolooba. Bakhola bario sikila Saulo, ne Yonasani ne babaandu ba Wele Omunyali Owa Bioosi ne be nju eya Isiraeli baba bererwe mwiie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.12",
+            "verseOrgIds": [
+              "2SA.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "2SA 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.12",
+            "verseOrgIds": [
+              "2SA.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "2SA 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi areeba omusoleeli omurereere elomo ali, “Ewe wama waena?” Amukobosia ali, “Ese Omuamaleki, ne menyile mu sibala siowo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.13",
+            "verseOrgIds": [
+              "2SA.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "2SA 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.13",
+            "verseOrgIds": [
+              "2SA.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "2SA 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi amureeba ali, “Siina sikila nokharia omurobore owa Wele Omunyali Owa Bioosi tawe?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.14",
+            "verseOrgIds": [
+              "2SA.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "2SA 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.14",
+            "verseOrgIds": [
+              "2SA.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "2SA 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ne Daudi alanga mulala khu basoleeli bewe mala amukobosia ali, “Mwire!” Omusoleeli oyo apa Omuamaleki mala amwiira. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.15",
+            "verseOrgIds": [
+              "2SA.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "2SA 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi aboolela Omuamaleki ali, “Wamwene werereere kano. Wekhalakila kumusaango wamwene nga ne wafukiilila oli werire oyo niye Wele Omunyali Owa Bioosi aarobora khuba omwami.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.16",
+            "verseOrgIds": [
+              "2SA.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Daudi asooma khulila Saulo ne Yonasani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "2SA 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.16",
+            "verseOrgIds": [
+              "2SA.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "2SA 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi emba bililo bino khu Saulo ne omwana wewe Yonasani, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.17",
+            "verseOrgIds": [
+              "2SA.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "2SA 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.10.13"
+              },
+              "items": [
+                {
+                  "text": "Yosh. 10.13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " aaloma ali, lulwimbo luno lukhoya lwekesibwe khu baandu ba Yuda. Lwaandikwa mu sitabu sia Yasiari.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.18",
+            "verseOrgIds": [
+              "2SA.1.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2SA.2",
+    "number": "2",
+    "bookId": "2SA"
+  },
+  "previous": {
+    "id": "2SA.intro",
+    "number": "intro",
+    "bookId": "2SA"
+  }
+}

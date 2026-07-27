@@ -1,0 +1,48 @@
+{
+  "id": "PSA.101",
+  "number": "101",
+  "bookId": "PSA",
+  "reference": "Ngieosio 101",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "101",
+        "style": "c",
+        "sid": "PSA 101"
+      },
+      "items": [
+        {
+          "text": "101",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Erikitene a ekapolon",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.102",
+    "number": "102",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.100",
+    "number": "100",
+    "bookId": "PSA"
+  }
+}

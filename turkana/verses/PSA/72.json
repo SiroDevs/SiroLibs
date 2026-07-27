@@ -1,0 +1,107 @@
+{
+  "id": "PSA.72",
+  "number": "72",
+  "bookId": "PSA",
+  "reference": "Ngieosio 72",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "72",
+        "style": "c",
+        "sid": "PSA 72"
+      },
+      "items": [
+        {
+          "text": "72",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Akilipakin ekapolon",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "PSA 72:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.72.19",
+            "verseOrgIds": [
+              "PSA.72.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "PSA 72:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni erai esal a ngakilipasinei a Daudi alo arai lokookeng a Yese ngesi nege.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.72.20",
+            "verseOrgIds": [
+              "PSA.72.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.73",
+    "number": "73",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.71",
+    "number": "71",
+    "bookId": "PSA"
+  }
+}
