@@ -1,31 +1,3 @@
-#!/usr/bin/env python3
-"""
-Scrape every chapter of a Bible.com version into JSON files, one per chapter,
-localizing book names/references from the scraped pages as it goes.
-
-Example:
-    python3 scripts/bible.com.py 2138 taita
-
-This will:
-  1. Copy swahili/books.json and swahili/chapters.json (the starting template)
-     into taita/books.json and taita/chapters.json.
-  2. Walk every entry in taita/chapters.json. For each one, build the chapter's
-     URL (e.g. https://www.bible.com/bible/2138/GEN.1.TAITA), fetch the page,
-     and parse the __NEXT_DATA__ blob into a content tree.
-  3. The first time a given book is encountered, read the page's <h1> chapter
-     heading (e.g. "KUZOYA 1"), strip the chapter number off it to recover the
-     localized book name ("Kuzoya"), and use it to update:
-       - taita/books.json:    name / nameLong / abbreviation for that book
-       - taita/chapters.json: reference for every chapter of that book
-     All later chapters of the same book reuse this cached name.
-  4. Save each chapter's content to taita/verses/<BOOK_ID>/<chapter_number>.json,
-     e.g. taita/verses/GEN/1.json, with "reference" set to the localized name.
-
-All paths are relative to SCRIPT_ROOT (the project root, one level above
-wherever this script file lives), not the current working directory, so
-behavior is the same no matter where/how this script is invoked.
-"""
-
 import argparse
 import json
 import re
@@ -38,15 +10,6 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 
 DEFAULT_COPYRIGHT = "PUBLIC DOMAIN"
 
-# Root directory that version folders (e.g. "taita/") get created under.
-# This script is expected to live in a subfolder (e.g. "scripts/bible.com.py"),
-# so we go one level up from the script's own folder to land at the project
-# root, sibling to "scripts/". This is anchored to the file's location on
-# disk (not the current working directory), so it behaves the same no
-# matter what directory you're standing in when you run it.
-#
-# If you instead keep this script directly at the project root (no
-# "scripts/" subfolder), change this to: Path(__file__).resolve().parent
 SCRIPT_ROOT = Path(__file__).resolve().parent.parent
 
 HEADERS = {
@@ -56,14 +19,7 @@ HEADERS = {
     )
 }
 
-# Source language whose books.json / chapters.json are copied as the starting
-# template for a new version folder (see main()). Override with --source.
 DEFAULT_SOURCE_NAME = "swahili"
-
-
-# --------------------------------------------------------------------------
-# Networking
-# --------------------------------------------------------------------------
 
 def build_url(bible_id: int, usfm: str, name: str) -> str:
     return f"https://www.bible.com/bible/{bible_id}/{usfm}.{name.upper()}"
@@ -92,11 +48,6 @@ def fetch_page(bible_id: int, usfm: str, name: str):
     heading_text = h1.get_text(strip=True) if h1 else ""
 
     return next_data, heading_text
-
-
-# --------------------------------------------------------------------------
-# HTML -> content-tree parsing
-# --------------------------------------------------------------------------
 
 def has_class(tag: Tag, cls: str) -> bool:
     return cls in (tag.get("class") or [])
@@ -268,11 +219,6 @@ def count_verses(content: list) -> int:
                 verse_numbers.add(item["attrs"]["number"])
     return len(verse_numbers)
 
-
-# --------------------------------------------------------------------------
-# next / previous references
-# --------------------------------------------------------------------------
-
 def normalize_ref(usfm_token: str) -> dict:
     """Turn a raw usfm token like 'GEN.2' or 'GEN.INTRO1' into {id, number, bookId}."""
     parts = usfm_token.split(".")
@@ -280,11 +226,6 @@ def normalize_ref(usfm_token: str) -> dict:
     raw_number = parts[1] if len(parts) > 1 else ""
     number = "intro" if raw_number.upper().startswith("INTRO") else raw_number
     return {"id": f"{book_id}.{number}", "number": number, "bookId": book_id}
-
-
-# --------------------------------------------------------------------------
-# Localized book name (from the page's <h1>, e.g. "KUZOYA 1" -> "Kuzoya")
-# --------------------------------------------------------------------------
 
 def extract_book_name_from_heading(heading_text: str, chapter_number: str) -> str:
     """'KUZOYA 1' + chapter_number='1' -> 'Kuzoya'.
@@ -302,14 +243,11 @@ def extract_book_name_from_heading(heading_text: str, chapter_number: str) -> st
 
     return stripped.strip().title()
 
-
-# --------------------------------------------------------------------------
-# Top-level chapter build
-# --------------------------------------------------------------------------
-
 def build_chapter_json(bible_id: int, usfm: str, name: str, copyright_text: str,
                         book_name_cache: dict) -> tuple:
-    """Fetch + parse a single chapter.
+    """Fetch + parse a single chapter. No retries: a failed fetch raises,
+    and the caller decides what to do (see process_book, which logs it and
+    moves on to the next chapter).
 
     book_name_cache maps bookId -> localized book name (e.g. {"GEN": "Kuzoya"}).
     It's read/written in place: the first time a given bookId is seen, the
@@ -349,11 +287,6 @@ def build_chapter_json(bible_id: int, usfm: str, name: str, copyright_text: str,
 
     return result, local_book_name, is_newly_resolved
 
-
-# --------------------------------------------------------------------------
-# books.json / chapters.json helpers
-# --------------------------------------------------------------------------
-
 def load_json(path: Path):
     with open(path, encoding="utf-8") as f:
         return json.load(f)
@@ -365,11 +298,24 @@ def save_json(path: Path, data) -> None:
 
 
 def copy_template_files(source_dir: Path, dest_dir: Path) -> tuple:
-    """Copy books.json and chapters.json from source_dir into dest_dir.
+    """Copy books.json and chapters.json from source_dir into dest_dir,
+    unless they're already there.
+
+    This makes reruns safe to resume: if a previous run already created
+    dest_dir/books.json and dest_dir/chapters.json (with book names/references
+    already localized so far), we leave them alone instead of overwriting
+    them with the pristine template again.
 
     Returns (books_path, chapters_path) inside dest_dir.
     """
     dest_dir.mkdir(parents=True, exist_ok=True)
+
+    dest_books = dest_dir / "books.json"
+    dest_chapters = dest_dir / "chapters.json"
+
+    if dest_books.exists() and dest_chapters.exists():
+        print(f"Found existing {dest_books} and {dest_chapters}; resuming with them as-is")
+        return dest_books, dest_chapters
 
     src_books = source_dir / "books.json"
     src_chapters = source_dir / "chapters.json"
@@ -379,17 +325,99 @@ def copy_template_files(source_dir: Path, dest_dir: Path) -> tuple:
             f"found books.json={src_books.exists()} chapters.json={src_chapters.exists()}"
         )
 
-    dest_books = dest_dir / "books.json"
-    dest_chapters = dest_dir / "chapters.json"
     shutil.copy2(src_books, dest_books)
     shutil.copy2(src_chapters, dest_chapters)
+    print(f"Copied templates from {source_dir} to {dest_dir}")
 
     return dest_books, dest_chapters
 
+def local_name_from_existing_file(out_path: Path, chapter_number: str) -> str:
+    """Recover the localized book name from an already-saved chapter JSON's
+    "reference" field, e.g. reference "Kuzoya 1" + number "1" -> "Kuzoya".
+    Used when resuming a run and a chapter file already exists, so we don't
+    need to re-fetch it just to learn the book name.
+    """
+    existing = load_json(out_path)
+    reference = existing.get("reference", "")
+    suffix = f" {chapter_number}"
+    if reference.endswith(suffix):
+        return reference[: -len(suffix)]
+    return reference
 
-# --------------------------------------------------------------------------
-# CLI
-# --------------------------------------------------------------------------
+
+def process_book(book_id: str, entries: list, args, books_by_id: dict,
+                  chapters_by_book: dict, book_name_cache: dict,
+                  books_path: Path, chapters_path: Path, verses_dir: Path,
+                  done_so_far: int, total: int) -> int:
+    """Fetch and save every chapter of a single book, in order.
+
+    No retries: if a fetch fails, it's logged and skipped, and we move on to
+    the next chapter after a short pause. If a chapter's JSON file already
+    exists on disk (e.g. from a previous run of this same command), it's
+    skipped entirely -- no request is made for it, and books.json /
+    chapters.json are left untouched for that chapter, since they were
+    already updated the first time it was fetched.
+
+    Returns the updated overall "done" count.
+    """
+    log_prefix = f"[{book_id}] "
+    book_total = len(entries)
+    book_dir = verses_dir / book_id
+    book_dir.mkdir(parents=True, exist_ok=True)
+
+    for idx, entry in enumerate(entries):
+        number = entry["number"]
+        usfm = f"{book_id}.{number}"
+        out_path = book_dir / f"{number}.json"
+
+        if out_path.exists():
+            if book_id not in book_name_cache:
+                book_name_cache[book_id] = local_name_from_existing_file(out_path, number)
+            done_so_far += 1
+            print(f"{log_prefix}[{idx + 1}/{book_total}] "
+                  f"(overall {done_so_far}/{total}) Already have {out_path}, skipping")
+            continue
+
+        try:
+            result, local_name, is_newly_resolved = build_chapter_json(
+                args.bible_id, usfm, args.name, args.copyright, book_name_cache,
+            )
+        except Exception as exc:
+            print(f"{log_prefix}FAILED {usfm}: {exc}; moving on")
+            time.sleep(args.sleep)
+            continue
+
+        if is_newly_resolved:
+            print(f"{log_prefix}Resolved book name: '{local_name}'")
+
+            book_entry = books_by_id.get(book_id)
+            if book_entry:
+                book_entry["name"] = local_name
+                book_entry["nameLong"] = local_name
+                book_entry["abbreviation"] = local_name[:3]
+
+            for ch in chapters_by_book.get(book_id, []):
+                ch["reference"] = f"{local_name} {ch['number']}"
+
+            # Persist immediately so a partial/interrupted run still leaves
+            # books.json and chapters.json in a consistent, up-to-date state.
+            save_json(books_path, books_by_id_to_list(books_by_id))
+            save_json(chapters_path, chapters_by_book)
+
+        save_json(out_path, result)
+
+        done_so_far += 1
+        print(f"{log_prefix}[{idx + 1}/{book_total}] "
+              f"(overall {done_so_far}/{total}) Saved {out_path}")
+
+        time.sleep(args.sleep)
+
+    return done_so_far
+
+
+def books_by_id_to_list(books_by_id: dict) -> list:
+    """Rebuild the original books.json list (order preserved) from the id-keyed dict."""
+    return list(books_by_id.values())
 
 def main():
     parser = argparse.ArgumentParser(
@@ -406,8 +434,8 @@ def main():
     parser.add_argument("--copyright", default=DEFAULT_COPYRIGHT,
                          help=f"Copyright string to embed in each chapter JSON "
                               f"(default: '{DEFAULT_COPYRIGHT}')")
-    parser.add_argument("--sleep", type=float, default=1.0,
-                         help="Seconds to sleep between requests")
+    parser.add_argument("--sleep", type=float, default=3.0,
+                         help="Seconds to sleep between requests (default: 3.0)")
     args = parser.parse_args()
 
     dest_dir = SCRIPT_ROOT / args.name.lower()
@@ -415,7 +443,6 @@ def main():
     verses_dir = dest_dir / "verses"
 
     books_path, chapters_path = copy_template_files(source_dir, dest_dir)
-    print(f"Copied templates from {source_dir} to {dest_dir}")
 
     books = load_json(books_path)
     # chapters.json is a dict keyed by bookId, e.g. {"GEN": [ {...}, {...} ], "EXO": [...]}
@@ -423,54 +450,21 @@ def main():
 
     books_by_id = {b["id"]: b for b in books}
 
-    # Flatten into a single ordered list of (book_id, chapter_entry) so we can
-    # walk them in document order while still updating chapters_by_book in place.
-    flat_entries = [
-        (book_id, entry)
-        for book_id, entries in chapters_by_book.items()
-        for entry in entries
-    ]
-
     book_name_cache = {}  # bookId -> localized name, e.g. {"GEN": "Kuzoya"}
-    total = len(flat_entries)
+    total = sum(len(entries) for entries in chapters_by_book.values())
 
-    for i, (book_id, entry) in enumerate(flat_entries):
-        number = entry["number"]
-        usfm = f"{book_id}.{number}"
+    book_ids = list(chapters_by_book.keys())
+    print(f"Processing {len(book_ids)} books ({total} chapters total), one book at a time. "
+          f"Chapters with an existing verses/<BOOK>/<n>.json are skipped, so re-running "
+          f"this same command resumes where it left off.")
 
-        try:
-            result, local_name, is_newly_resolved = build_chapter_json(
-                args.bible_id, usfm, args.name, args.copyright, book_name_cache
-            )
-        except Exception as exc:
-            print(f"FAILED {usfm}: {exc}")
-            continue
-
-        if is_newly_resolved:
-            print(f"Resolved book name for {book_id}: '{local_name}'")
-
-            book_entry = books_by_id.get(book_id)
-            if book_entry:
-                book_entry["name"] = local_name
-                book_entry["nameLong"] = local_name
-                book_entry["abbreviation"] = local_name[:3]
-
-            for ch in chapters_by_book.get(book_id, []):
-                ch["reference"] = f"{local_name} {ch['number']}"
-
-            # Persist immediately so a partial/interrupted run still leaves
-            # books.json and chapters.json in a consistent, up-to-date state.
-            save_json(books_path, books)
-            save_json(chapters_path, chapters_by_book)
-
-        book_dir = verses_dir / book_id
-        book_dir.mkdir(parents=True, exist_ok=True)
-        out_path = book_dir / f"{result['number']}.json"
-        save_json(out_path, result)
-        print(f"[{i + 1}/{total}] Saved {out_path}")
-
-        if i < total - 1:
-            time.sleep(args.sleep)
+    done = 0
+    for book_id in book_ids:
+        done = process_book(
+            book_id, chapters_by_book[book_id], args,
+            books_by_id, chapters_by_book, book_name_cache,
+            books_path, chapters_path, verses_dir, done, total,
+        )
 
 
 if __name__ == "__main__":

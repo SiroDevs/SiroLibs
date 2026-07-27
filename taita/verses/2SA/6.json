@@ -1,0 +1,914 @@
+{
+  "id": "2SA.6",
+  "number": "6",
+  "bookId": "2SA",
+  "reference": "2 Samueli 6",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 23,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "2SA 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Sanduku ya Ilaghano kuredwa Jerusalemu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "2SA 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao Daudi ukawikwanya sena wandu wisaghulo wose wandu elfu mirongo idadu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.1",
+            "verseOrgIds": [
+              "2SA.6.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "2SA 6:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ukajokanya na wandu wose werekwanyeghe nao kufuma Baal-Juda; wipate kuireda Sanduku ya Ilaghano ja BWANA, iyo iwangilo kwa irina ja BWANA wa majeshi, uo ukaiagha kidombo kifumbinyi cha nguma aighu ya makerubi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.2",
+            "verseOrgIds": [
+              "2SA.6.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.25.22"
+              },
+              "items": [
+                {
+                  "text": "Kuf. 25.22",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.2",
+            "verseOrgIds": [
+              "2SA.6.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "2SA 6:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wikaifunya nyumbenyi ya Abinadabu erekoghe mghondinyi, wikaiwikiria aighu ya igare iwishi; na wana wa Abinadabu, awo Uza na Ahio, werekoghe wikijighendesha ijo igare iwishi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.3",
+            "verseOrgIds": [
+              "2SA.6.3"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.7.1+1SA.7.2"
+              },
+              "items": [
+                {
+                  "text": "1 Sam. 7.1-2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.3",
+            "verseOrgIds": [
+              "2SA.6.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "2SA 6:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "jiko na Sanduku ya Ilaghano ja BWANA. Ahio ukakaia naimbiri ya ijo igare. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.4",
+            "verseOrgIds": [
+              "2SA.6.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "2SA 6:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi chiaimweri na wandu wa Israeli wikakaia wikivina na kubora kwa ndighi rawo rose, wipate kumneka BWANA wubaa kwa vinubi vinyanda, matari, kayamba na matoazi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.5",
+            "verseOrgIds": [
+              "2SA.6.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "2SA 6:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.5",
+            "verseOrgIds": [
+              "2SA.6.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "2SA 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hata iji wavika wazenyi echania viro ya Nakoni, ng'ombe rikakuwa; na Uza ukaghorua mkonu ghwake na kuadada Sanduku ya Ilaghano ja BWANA. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.6",
+            "verseOrgIds": [
+              "2SA.6.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "2SA 6:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "BWANA ukajokwa ni machu aighu ya Uza; na Mlungu ukamkaba angu oreidadireghe Sanduku ya Ilaghano ja BWANA, nao ukafwa ahoeni mbai na mbai ya Sanduku ya Mlungu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.7",
+            "verseOrgIds": [
+              "2SA.6.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "2SA 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi ukawawa ni ngolo angu BWANA orejokeloghe ni machu aighu ya Uza. Andu aho kukawangwa Perez-uza hata linu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.8",
+            "verseOrgIds": [
+              "2SA.6.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "2SA 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.8",
+            "verseOrgIds": [
+              "2SA.6.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "2SA 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi ukamuobua BWANA ituku ijo ukighamba, “Sanduku ya llaghano ja BWANA inichea wada?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.9",
+            "verseOrgIds": [
+              "2SA.6.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "2SA 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa huwo Daudi nderekundieghe kuireda mzinyi kwake, ela ukaipilisha na kuingira nyumbenyi kwa Obed-edomu, Mgiti. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.10",
+            "verseOrgIds": [
+              "2SA.6.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "2SA 6:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sanduku ya BWANA ikakaia nyumbenyi kwa uja Obed-edomu, Mgiti meri idadu; na BWANA ukamrasimia Obed-edomu, Mgiti na vose orekoghe navo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.11",
+            "verseOrgIds": [
+              "2SA.6.11"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.26.4+1CH.26.5"
+              },
+              "items": [
+                {
+                  "text": "1 Mal. 26.4-5",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "2SA 6:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.11",
+            "verseOrgIds": [
+              "2SA.6.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "2SA 6:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao Mzuri Daudi ukaghorelwa kukaia BWANA wamrasimie Obed-edomu chiaimweri na vilambo vose uko navo, angu Sanduku ya BWANA erekoghe kwake. Kwa huwo Daudi ukasea ukaionda Sanduku ya BWANA kufuma nyumbenyi kwa Obed-edomu, ukaireda mzinyi kwake ukizuma. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.12",
+            "verseOrgIds": [
+              "2SA.6.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "2SA 6:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Awo wandu wereidukagha Sanduku ya llaghano ja BWANA, wimeria kughenda milambo irandadu, Daudi ukabwagha kizongona cha njau na ngache ibandie. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.13",
+            "verseOrgIds": [
+              "2SA.6.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "2SA 6:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi orekoghe warwa naivera ya kitani ndicha; ukamvinia BWANA kwa ndighi rake rose. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.14",
+            "verseOrgIds": [
+              "2SA.6.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "2SA 6:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Niko huwo Daudi na wandu wose wa Israeli wikaireda Sanduku ya BWANA wikizuma na kukaba tarumbeta.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.15",
+            "verseOrgIds": [
+              "2SA.6.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "2SA 6:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.15",
+            "verseOrgIds": [
+              "2SA.6.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "2SA 6:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hata iji Sanduku ya llaghano ya BWANA erekoghe ikingirwa mzinyi ghwa Daudi, Mikali mwai wa Sauli ukazighana idirishenyi, ukammbona Mzuri Daudi ukirama na kuvina imbiri ya BWANA, ukammenya ngolonyi kwake. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.16",
+            "verseOrgIds": [
+              "2SA.6.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "2SA 6:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wikaireda Sanduku ya BWANA na kuingira hemenyi iyo Daudi oreidungieghe kwa wundu ghwaro, wikaiwika andu kwaro. Daudi ukamfunyira BWANA vizongona vekora na vizongona va mapatano. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.17",
+            "verseOrgIds": [
+              "2SA.6.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "2SA 6:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao iji Daudi wameria kufunya vizongona vekora na va mapatano, ukawirasimia wandu kwa irina ja BWANA wa majeshi; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.18",
+            "verseOrgIds": [
+              "2SA.6.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "2SA 6:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ukawiwaghia wandu wose wa ijo izungu ja Israeli, wa womi na wa waka, mkate na nyama, na keki ya zabibu. Niko kula mundu ukaghenda nyumbenyi kwake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.19",
+            "verseOrgIds": [
+              "2SA.6.19"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.16.43"
+              },
+              "items": [
+                {
+                  "text": "1 Mal. 16.43",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "2SA 6:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.19",
+            "verseOrgIds": [
+              "2SA.6.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "2SA 6:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao Daudi ukaghenda kuroghuana na wandu wa nyumbenyi kwake. Na Mikali mwai wa Sauli ukacha kummara ukaghamba, “Ni ishimaki mzuri wa Israeli wakuneka idime, hata ukakufunukuagha moni imbiri ya wai wa kazi wa wabaa wake, seji mundu wa kisha ukufunukuagha usene waya!” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.20",
+            "verseOrgIds": [
+              "2SA.6.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "2SA 6:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi ukamzera Mikali, “Nedeeka ngivina imbiri ya BWANA, uo orenisaghueghe wulalo ghwa ndeyo na wandu wa nyumba yake yose, nipate kukaia kilongozi cha wandu wake Israeli; nani nichachuria kuzuma imbiri ya BWANA. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.21",
+            "verseOrgIds": [
+              "2SA.6.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "2SA 6:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ini nichakusera ini moni, sena nichachuria kukuwika wa ndonyi, ela kwa awo wadumiki wa waka kwaghora, nichanekwa ishima.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.22",
+            "verseOrgIds": [
+              "2SA.6.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "2SA 6:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao Mikali mwai wa Sauli ukakaia usepatire wana hata kufwa kwake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.6.23",
+            "verseOrgIds": [
+              "2SA.6.23"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2SA.7",
+    "number": "7",
+    "bookId": "2SA"
+  },
+  "previous": {
+    "id": "2SA.5",
+    "number": "5",
+    "bookId": "2SA"
+  }
+}

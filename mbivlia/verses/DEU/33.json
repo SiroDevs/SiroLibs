@@ -1,0 +1,131 @@
+{
+  "id": "DEU.33",
+  "number": "33",
+  "bookId": "DEU",
+  "reference": "Kũtũngĩlĩlwa Kwa Mĩao 33",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "33",
+        "style": "c",
+        "sid": "DEU 33"
+      },
+      "items": [
+        {
+          "text": "33",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DEU 33:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na ũũ nĩw’o ũathimo, ũla Mose mũndũ wa Ngai wamaathimie ana ma Isilaeli naw’o atanakw’a. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.1",
+            "verseOrgIds": [
+              "DEU.33.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.14.6"
+              },
+              "items": [
+                {
+                  "text": "Yos 14.6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.1",
+            "verseOrgIds": [
+              "DEU.33.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DEU 33:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake asya,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.2",
+            "verseOrgIds": [
+              "DEU.33.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DEU.34",
+    "number": "34",
+    "bookId": "DEU"
+  },
+  "previous": {
+    "id": "DEU.32",
+    "number": "32",
+    "bookId": "DEU"
+  }
+}

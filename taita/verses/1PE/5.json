@@ -1,0 +1,799 @@
+{
+  "id": "1PE.5",
+  "number": "5",
+  "bookId": "1PE",
+  "reference": "1 Petro 5",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "1PE 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Chagha cha Mlungu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1PE 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa wundu ugho, nawivoya waghosi wiko aghadi konyu, ini moni niko mghosi sa awo weni, na mshahidi wa matiriro gha Kristo, na mngara wa ghuja wubaa ghuchaafunukulwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.1",
+            "verseOrgIds": [
+              "1PE.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1PE 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lishenyi chagha cha Mlungu chiko aisi ya wuzighaniri ghonyu. Si kwa kufungishwa ndighi anduangi, ela kwa kukunda; si kwa kulola fwaida isefwane, ela kwa ngolo ielie;",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.2",
+            "verseOrgIds": [
+              "1PE.5.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.21.15+JHN.21.16+JHN.21.17"
+              },
+              "items": [
+                {
+                  "text": "Joh. 21.15-17",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.2",
+            "verseOrgIds": [
+              "1PE.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1PE 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "si sa wandu m'bonyagha nguma aighu ya awo wiko aisi yenyu, ela mkaie fwana kwa chagha. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.3",
+            "verseOrgIds": [
+              "1PE.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1PE 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na iji Mlisha M'baa wa ng'ondi wawoneka, mchapata kirumbu cha wubaa chisesiagha anduangi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.4",
+            "verseOrgIds": [
+              "1PE.5.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1PE 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.4",
+            "verseOrgIds": [
+              "1PE.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1PE 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wokoni na inyo muko watini mkuwike aisi ya waghosi. Inyo mmbose mkaie na wumboa kula mundu na mmbao; angu, “Mlungu wawitangala wang'eti, ela wawineka mvono awo wiko na wumboa.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.5",
+            "verseOrgIds": [
+              "1PE.5.5"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.3.34"
+              },
+              "items": [
+                {
+                  "text": "Mak. 3.34",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.5",
+            "verseOrgIds": [
+              "1PE.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1PE 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa huwo mkusere aisi ya mkonu ghwa Mlungu ghuko na kudima, eri upate kumjosa kwa ngelo yaro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.6",
+            "verseOrgIds": [
+              "1PE.5.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.23.12"
+              },
+              "items": [
+                {
+                  "text": "Mat. 23.12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.14.11"
+              },
+              "items": [
+                {
+                  "text": "Lk. 14.11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.18.14"
+              },
+              "items": [
+                {
+                  "text": "18.14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.6",
+            "verseOrgIds": [
+              "1PE.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1PE 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mumkumbie uo wasi ghonyu ghose, angu wawuyamtala inyo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.7",
+            "verseOrgIds": [
+              "1PE.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1PE 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaienyi na akili mchereshe. M'maiza onyu, uo Ibilisi, waawuyamara-mara sa shimba irurumagha ikimlola mndungi ipate kumja. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.8",
+            "verseOrgIds": [
+              "1PE.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1PE 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mangenyi andenyi ya irumirio jenyu, mumtangale, mkimanya angu matiriro muko nagho, nigho gheni ghawuyakaia kwa wanyinyu wiko wurumwengunyi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.9",
+            "verseOrgIds": [
+              "1PE.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1PE 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nenyo, nyuma ya kutirirwa kwa ngelo ndini, uo Mlungu wa mvono ghose, ummbangie kwa wubaa ghwake ghwa kala na kala andenyi ya Kristo, uchamkatisha moni, na kummangisha, na kumneka ndighi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.10",
+            "verseOrgIds": [
+              "1PE.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1PE 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwake uo, ndekukaie kuja kubonya nguma kwa kala na kala. Amen.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.11",
+            "verseOrgIds": [
+              "1PE.5.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Voro ra kutua",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1PE 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.11",
+            "verseOrgIds": [
+              "1PE.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1PE 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Namwandikia kwa wuvui, ngiteselwa ni Silvano, uo nimtalagha kukaia mwanidu mloli; ngimshashira na kummanyisha angu ughu nigho mvono ghwa loli ghwa Mlungu: mangenyi gi andenyi yaro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.12",
+            "verseOrgIds": [
+              "1PE.5.12"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.15.22"
+              },
+              "items": [
+                {
+                  "text": "Mab. 15.22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.15.40"
+              },
+              "items": [
+                {
+                  "text": "40",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.12",
+            "verseOrgIds": [
+              "1PE.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1PE 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ijo ikanisa jiko Babuloni, jeresaghuloghe sa inyo, jamroghua; na mwanwapo Marko huwo koni wamroghua.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.13",
+            "verseOrgIds": [
+              "1PE.5.13"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.12.12"
+              },
+              "items": [
+                {
+                  "text": "Mab. 12.12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.12.25"
+              },
+              "items": [
+                {
+                  "text": "25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.13.13"
+              },
+              "items": [
+                {
+                  "text": "13.13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.15.37+ACT.15.38+ACT.15.39"
+              },
+              "items": [
+                {
+                  "text": "15.37-39",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.4.10"
+              },
+              "items": [
+                {
+                  "text": "Wakol. 4.10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PHM.1.24"
+              },
+              "items": [
+                {
+                  "text": "File. 24",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.13",
+            "verseOrgIds": [
+              "1PE.5.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1PE 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Roghuanenyi mmbeni na mmbeni kwa msusugho ghwa lukundo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.14",
+            "verseOrgIds": [
+              "1PE.5.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1PE 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sere ndeikaie konyu mmbose muko andenyi ya Kristo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.14",
+            "verseOrgIds": [
+              "1PE.5.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2PE.intro",
+    "number": "intro",
+    "bookId": "2PE"
+  },
+  "previous": {
+    "id": "1PE.4",
+    "number": "4",
+    "bookId": "1PE"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "ISA.5",
+  "number": "5",
+  "bookId": "ISA",
+  "reference": "Isaya 5",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "ISA 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Lumbo lwa mbuwa ya mizabibu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sikirienyi nim'borie mkundwa wapo lumbo lwa lukundo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.5.1",
+            "verseOrgIds": [
+              "ISA.5.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Agho mawiwi wandu wighibonyagha.",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.6",
+    "number": "6",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.4",
+    "number": "4",
+    "bookId": "ISA"
+  }
+}
