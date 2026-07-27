@@ -1,0 +1,160 @@
+{
+  "id": "SNG.7",
+  "number": "7",
+  "bookId": "SNG",
+  "reference": "Lyīmbo Lya Ng'Wa Solomoni 7",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "7",
+        "style": "c",
+        "sid": "SNG 7"
+      },
+      "items": [
+        {
+          "text": "7",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "SNG 7:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bebe nshīke wa ban'ikūlū,",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.1",
+            "verseOrgIds": [
+              "SNG.7.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "SNG 7:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.12",
+            "verseOrgIds": [
+              "SNG.7.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "SNG 7:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ī haha ī dūdai",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.13",
+            "verseOrgIds": [
+              "SNG.7.13"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "7:13",
+              "type": "text"
+            },
+            {
+              "text": "Dūdai:",
+              "type": "text"
+            },
+            {
+              "text": "Mitī milebe īyo miji yaho īkalyiagwa na banhū ba sī jimò, mu kūsanya gīkī a bagosha īkabongejaga nguzu ja nyagosha.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " jasambaagije",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.13",
+            "verseOrgIds": [
+              "SNG.7.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "SNG.8",
+    "number": "8",
+    "bookId": "SNG"
+  },
+  "previous": {
+    "id": "SNG.6",
+    "number": "6",
+    "bookId": "SNG"
+  }
+}

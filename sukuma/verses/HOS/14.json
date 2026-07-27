@@ -1,0 +1,82 @@
+{
+  "id": "HOS.14",
+  "number": "14",
+  "bookId": "HOS",
+  "reference": "Hosea 14",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "14",
+        "style": "c",
+        "sid": "HOS 14"
+      },
+      "items": [
+        {
+          "text": "14",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mbango kūlwa kūngalūkīla Mulungu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 14:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee Isilaeli, shokaga kūlī",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.14.1",
+            "verseOrgIds": [
+              "HOS.14.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOL.intro",
+    "number": "intro",
+    "bookId": "JOL"
+  },
+  "previous": {
+    "id": "HOS.13",
+    "number": "13",
+    "bookId": "HOS"
+  }
+}

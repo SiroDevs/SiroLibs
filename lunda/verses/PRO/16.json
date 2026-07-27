@@ -1,0 +1,69 @@
+{
+  "id": "PRO.16",
+  "number": "16",
+  "bookId": "PRO",
+  "reference": "Liproverbia 16",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "16",
+        "style": "c",
+        "sid": "PRO 16"
+      },
+      "items": [
+        {
+          "text": "16",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 16:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kudiloŋesha loŋesha mumuchima chamuntu; ilaŋa kwakula kwaltulaŋa idimi chafuma kudi Yehova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.16.1",
+            "verseOrgIds": [
+              "PRO.16.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.17",
+    "number": "17",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.15",
+    "number": "15",
+    "bookId": "PRO"
+  }
+}

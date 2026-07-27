@@ -1,0 +1,69 @@
+{
+  "id": "HOS.2",
+  "number": "2",
+  "bookId": "HOS",
+  "reference": "Hoshea 2",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "HOS 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ambilai bana benu ba balume ne, Nudi bantu banyi; ambilai bana benu ba bakashi ne, Nuakuheta luse.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.2.1",
+            "verseOrgIds": [
+              "HOS.2.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.3",
+    "number": "3",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.1",
+    "number": "1",
+    "bookId": "HOS"
+  }
+}

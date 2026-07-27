@@ -1,0 +1,173 @@
+{
+  "id": "ISA.46",
+  "number": "46",
+  "bookId": "ISA",
+  "reference": "Isaya 46",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "46",
+        "style": "c",
+        "sid": "ISA 46"
+      },
+      "items": [
+        {
+          "text": "46",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Bamulungu ba Babuloni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 46:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ū Beli wagwile, ū Nebo winamile;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.46.1",
+            "verseOrgIds": [
+              "ISA.46.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 46:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.46.10",
+            "verseOrgIds": [
+              "ISA.46.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 46:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nakwitana mbeeshi",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.46.11",
+            "verseOrgIds": [
+              "ISA.46.11"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "46:11",
+              "type": "text"
+            },
+            {
+              "text": "Mbeeshi:",
+              "type": "text"
+            },
+            {
+              "text": "Nūūlū, noni īyo īkalyaga nyama.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " kūfuma kīya;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.46.11",
+            "verseOrgIds": [
+              "ISA.46.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.47",
+    "number": "47",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.45",
+    "number": "45",
+    "bookId": "ISA"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "PRO.24",
+  "number": "24",
+  "bookId": "PRO",
+  "reference": "Liproverbia 24",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "24",
+        "style": "c",
+        "sid": "PRO 24"
+      },
+      "items": [
+        {
+          "text": "24",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 24:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bayi wutiyila antu atama ichimaku, bayi wufwila kushakama nawuku;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.24.1",
+            "verseOrgIds": [
+              "PRO.24.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.25",
+    "number": "25",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.23",
+    "number": "23",
+    "bookId": "PRO"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "SNG.1",
+  "number": "1",
+  "bookId": "SNG",
+  "reference": "Musambu Wa Solomo 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "SNG 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "SNG 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musambu wa mu misambu, udi wa Solomo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.1.1",
+            "verseOrgIds": [
+              "SNG.1.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "SNG.2",
+    "number": "2",
+    "bookId": "SNG"
+  },
+  "previous": {
+    "id": "ECC.12",
+    "number": "12",
+    "bookId": "ECC"
+  }
+}

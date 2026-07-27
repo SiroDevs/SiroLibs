@@ -1,0 +1,35 @@
+{
+  "id": "SNG.1",
+  "number": "1",
+  "bookId": "SNG",
+  "reference": "Pina Ya Lipina 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "SNG 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "SNG.2",
+    "number": "2",
+    "bookId": "SNG"
+  },
+  "previous": {
+    "id": "ECC.12",
+    "number": "12",
+    "bookId": "ECC"
+  }
+}

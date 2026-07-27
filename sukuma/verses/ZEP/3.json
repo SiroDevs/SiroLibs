@@ -1,0 +1,82 @@
+{
+  "id": "ZEP.3",
+  "number": "3",
+  "bookId": "ZEP",
+  "reference": "Zefania 3",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "ZEP 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yelusalemu mu shikū ja kū būtongi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEP 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gūlī mu kwihīga ū nzengo",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.3.1",
+            "verseOrgIds": [
+              "ZEP.3.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAG.intro",
+    "number": "intro",
+    "bookId": "HAG"
+  },
+  "previous": {
+    "id": "ZEP.2",
+    "number": "2",
+    "bookId": "ZEP"
+  }
+}

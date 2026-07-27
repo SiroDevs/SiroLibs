@@ -1,0 +1,69 @@
+{
+  "id": "HOS.7",
+  "number": "7",
+  "bookId": "HOS",
+  "reference": "Hosea 7",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "7",
+        "style": "c",
+        "sid": "HOS 7"
+      },
+      "items": [
+        {
+          "text": "7",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 7:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ūlū nihamba kūmpīja ū Isilaeli,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.7.1",
+            "verseOrgIds": [
+              "HOS.7.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.8",
+    "number": "8",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.6",
+    "number": "6",
+    "bookId": "HOS"
+  }
+}

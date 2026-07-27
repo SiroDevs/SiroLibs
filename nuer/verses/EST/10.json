@@ -1,0 +1,132 @@
+{
+  "id": "EST.10",
+  "number": "10",
+  "bookId": "EST",
+  "reference": "Ɛth 10",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "EST 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Jak kɛnɛ Mɔr-da-kay kä di̱t",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kä cu Kuäär ni Ä-ɣɛ̈c-we-roc wi̱i̱kɛ diaal kuɔ̱k tho̱lbo̱k amäni wi̱i̱ tin te jɔk yiëër. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.1",
+            "verseOrgIds": [
+              "EST.10.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kä cua lät Ä-ɣɛ̈c-we-roc diaal kɛ buɔ̱mdɛ kɛnɛ wuɔ̱tdɛ amäni ciaŋ luthä mëë di̱i̱t ëë ci kuäär ɛ ka̱m Mɔr-da-kay gɔ̱a̱r rɛy buɔk cäätni kua̱ri Ma-day kɛnɛ Pa-rath. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.2",
+            "verseOrgIds": [
+              "EST.10.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 10:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kä Mɔr-da-kay ɛ jɛn ram mëë thieek ni jɛn kɛ Kuäär ni Ä-ɣɛ̈c-we-roc, kä cuɛ la ram mi bum ɛlɔ̱ŋ kä ji̱ Juudh. Kä cua jɛ ŋa̱c kɛ kui̱ lätnikɛ ti ŋuan kä gɔw ɛ dämani, kä cɛ la̱t ni lät ti gɔw kɛ kui̱ nɛɛnikɛ, kä cɛ lat ni mal kɛ kui̱ nɛɛnikɛ diaal.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.3",
+            "verseOrgIds": [
+              "EST.10.3"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.intro",
+    "number": "intro",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "EST.9",
+    "number": "9",
+    "bookId": "EST"
+  }
+}

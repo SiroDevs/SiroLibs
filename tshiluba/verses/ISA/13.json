@@ -1,0 +1,121 @@
+{
+  "id": "ISA.13",
+  "number": "13",
+  "bookId": "ISA",
+  "reference": "Yeshaya 13",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "13",
+        "style": "c",
+        "sid": "ISA 13"
+      },
+      "items": [
+        {
+          "text": "13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 13:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Dî dia tshijila",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.13.1",
+            "verseOrgIds": [
+              "ISA.13.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "13.1:",
+              "type": "text"
+            },
+            {
+              "text": "Dî edi mu Buena Ebelu didi",
+              "type": "text"
+            },
+            {
+              "text": "massa",
+              "type": "text"
+            },
+            {
+              "text": ", kuandamuna ne,",
+              "type": "text"
+            },
+            {
+              "text": "Bujitu",
+              "type": "text"
+            },
+            {
+              "text": ", anyi ne,",
+              "type": "text"
+            },
+            {
+              "text": "Dî dia tshijila",
+              "type": "text"
+            },
+            {
+              "text": ". Tangila 14.28; 15.1; 17.1; 19.1 ne miaba mikuabo.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " bualu bua Babulona diakunvuabo kudi Yeshaya, muana wa Amoza.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.13.1",
+            "verseOrgIds": [
+              "ISA.13.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.14",
+    "number": "14",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.12",
+    "number": "12",
+    "bookId": "ISA"
+  }
+}

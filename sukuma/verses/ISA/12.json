@@ -1,0 +1,82 @@
+{
+  "id": "ISA.12",
+  "number": "12",
+  "bookId": "ISA",
+  "reference": "Isaya 12",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "ISA 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mīmbo ga kūgongoola",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ū mu lūshikū lwenūlo ūkūhaya gīkī,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.12.1",
+            "verseOrgIds": [
+              "ISA.12.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.13",
+    "number": "13",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.11",
+    "number": "11",
+    "bookId": "ISA"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "JER.50",
+  "number": "50",
+  "bookId": "JER",
+  "reference": "Yelemia 50",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "50",
+        "style": "c",
+        "sid": "JER 50"
+      },
+      "items": [
+        {
+          "text": "50",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mhayo kūlwa Babuloni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 50:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ū mhayo ūyū akagūhaya ū SEEBA mu nzīla ya ng'hangi Yelemia kūlwa nguno ya Babuloni, kūlwa sī ya Bakalidayo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.50.1",
+            "verseOrgIds": [
+              "JER.50.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.51",
+    "number": "51",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.49",
+    "number": "49",
+    "bookId": "JER"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "ISA.53",
+  "number": "53",
+  "bookId": "ISA",
+  "reference": "Isaya 53",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "53",
+        "style": "c",
+        "sid": "ISA 53"
+      },
+      "items": [
+        {
+          "text": "53",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 53:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nani akwīzunyaga īyo tūkwīhayaga?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.53.1",
+            "verseOrgIds": [
+              "ISA.53.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.54",
+    "number": "54",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.52",
+    "number": "52",
+    "bookId": "ISA"
+  }
+}

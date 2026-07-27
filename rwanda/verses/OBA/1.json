@@ -1,0 +1,935 @@
+{
+  "id": "OBA.1",
+  "number": "1",
+  "bookId": "OBA",
+  "reference": "Obadiya 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 21,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "OBA 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Imana izahana Edomu ibahoye kurenganya Isirayeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "OBA 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.1",
+            "verseOrgIds": [
+              "OBA.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.34.5+ISA.34.6+ISA.34.7+ISA.34.8+ISA.34.9+ISA.34.10+ISA.34.11+ISA.34.12+ISA.34.13+ISA.34.14+ISA.34.15+ISA.34.16+ISA.34.17"
+              },
+              "items": [
+                {
+                  "text": "Yes 34.5-17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.63.1+ISA.63.2+ISA.63.3+ISA.63.4+ISA.63.5+ISA.63.6"
+              },
+              "items": [
+                {
+                  "text": "63.1-6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.49.7+JER.49.8+JER.49.9+JER.49.10+JER.49.11+JER.49.12+JER.49.13+JER.49.14+JER.49.15+JER.49.16+JER.49.17+JER.49.18+JER.49.19+JER.49.20+JER.49.21+JER.49.22"
+              },
+              "items": [
+                {
+                  "text": "Yer 49.7-22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.25.12+EZK.25.13+EZK.25.14"
+              },
+              "items": [
+                {
+                  "text": "Ezek 25.12-14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.35.1+EZK.35.2+EZK.35.3+EZK.35.4+EZK.35.5+EZK.35.6+EZK.35.7+EZK.35.8+EZK.35.9+EZK.35.10+EZK.35.11+EZK.35.12+EZK.35.13+EZK.35.14+EZK.35.15"
+              },
+              "items": [
+                {
+                  "text": "35.1-15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.11+AMO.1.12"
+              },
+              "items": [
+                {
+                  "text": "Amosi 1.11-12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAL.1.2+MAL.1.3+MAL.1.4+MAL.1.5"
+              },
+              "items": [
+                {
+                  "text": "Mal 1.2-5",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Ibyo Obadiya yeretswe. Ibi ni byo Uwiteka Imana ivuga kuri Edomu:",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.1",
+            "verseOrgIds": [
+              "OBA.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "OBA 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Twumvise ubutumwa buvuye ku Uwiteka, kandi intumwa yatumwe mu mahanga ati “Nimuhaguruke kandi natwe duhaguruke dutere ubwo bwoko. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.1",
+            "verseOrgIds": [
+              "OBA.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "OBA 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Dore mu yandi mahanga nakugize ishyanga rito, urahinyurwa cyane. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.2",
+            "verseOrgIds": [
+              "OBA.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "OBA 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ubwibone bw'umutima wawe bwaragushutse, weho utuye mu bisate by'urutare, ukaba mu buturo bwo hejuru cyane ukibwira mu mutima wawe uti ‘Ni nde wamanura akangeza hasi?’ ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.3",
+            "verseOrgIds": [
+              "OBA.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "OBA 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naho watumbagira hejuru nk'igisiga, icyari cyawe ukacyarika hagati y'inyenyeri, aho na ho nzahakumanura ugwe hasi. Ni ko Uwiteka avuga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.4",
+            "verseOrgIds": [
+              "OBA.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "OBA 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.4",
+            "verseOrgIds": [
+              "OBA.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "OBA 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Abajura iyo baguteye cyangwa abambuzi baguteraniyeho mu ijoro (ukaba waraciwe), aho ntibakwiba kugeza ubwo bīhaza? Abasaruzi b'imizabibu baje iwawe, ntibagira imizabibu basiga yahumbwa? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.5",
+            "verseOrgIds": [
+              "OBA.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "OBA 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yemwe, Esawu ko yasatswe! Ubutunzi bwe bwari buhishe, ko bwahishuwe! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.6",
+            "verseOrgIds": [
+              "OBA.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "OBA 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abafatanyaga nawe bose barakwirukanye bakugeza ku rubibi, abuzuraga nawe baragushutse none barakunesheje, abo wagaburiraga baguteze umutego, ariko ntiwabimenya.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.7",
+            "verseOrgIds": [
+              "OBA.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "OBA 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.7",
+            "verseOrgIds": [
+              "OBA.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "OBA 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uwiteka arabaza ati “Mbese uwo munsi sinzarimbura abanyabwenge bo muri Edomu, ngatuma kumenya gushira ku musozi wa Esawu? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.8",
+            "verseOrgIds": [
+              "OBA.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "OBA 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Temani we, intwari zawe zizahagarika umutima, bitume umuntu wese wo ku musozi wa Esawu yicwa n'icyorezo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.9",
+            "verseOrgIds": [
+              "OBA.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "OBA 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.9",
+            "verseOrgIds": [
+              "OBA.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "OBA 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Urugomo wagiriye mwene so Yakobo ni rwo ruzagutera gukorwa n'isoni cyane, kandi kurimbuka kwawe kuzaba ukw'iteka ryose. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.10",
+            "verseOrgIds": [
+              "OBA.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "OBA 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wa munsi wihagarariraga urebēra gusa, igihe abanzi bajyanaga ubutunzi bwe, abanyamahanga bakinjira mu marembo ye bagafindira i Yerusalemu, wari umeze nk'uwo muri bo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.11",
+            "verseOrgIds": [
+              "OBA.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "OBA 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ariko ntukarebēre ku munsi wa mwene so, umunsi yabonyemo amakuba, kandi ntukishime ku Bayuda ku munsi barimbutsemo, kandi ntukababwirane ubwibone ku munsi bagizemo amakuba. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.12",
+            "verseOrgIds": [
+              "OBA.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "OBA 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ntukajye mu irembo ry'ubwoko bwanjye ku munsi w'ibyago byabo. Ni ukuri ntukarebēre amakuba yabo ku munsi w'ibyago byabo, kandi ntugasahure ubutunzi bwabo ku munsi w'ibyago byabo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.13",
+            "verseOrgIds": [
+              "OBA.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "OBA 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ntugahagarare mu mahuriro y'inzira kuhicira impunzi ze, kandi ntugatange abe bacitse ku icumu ku munsi w'amakuba yabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.14",
+            "verseOrgIds": [
+              "OBA.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "OBA 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.14",
+            "verseOrgIds": [
+              "OBA.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "OBA 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Kuko umunsi w'Uwiteka uri hafi uziye amahanga yose, uko wagenje ni ko uzagenzwa, ibyo wagize bizagusubira ku mutwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.15",
+            "verseOrgIds": [
+              "OBA.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "OBA 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uko mwanywereye ku musozi wanjye wera, ni ko abanyamahanga bose bazajya banywa iteka. Ni ukuri bazanywa bagotomere, kandi bazamera nk'abatigeze kubaho.",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.16",
+            "verseOrgIds": [
+              "OBA.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "OBA 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.16",
+            "verseOrgIds": [
+              "OBA.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "OBA 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ariko ku musozi wa Siyoni hazaba abarokotse kandi hazaba ahera, ab'inzu ya Yakobo bazasubirana ibyabo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.17",
+            "verseOrgIds": [
+              "OBA.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "OBA 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi ab'inzu ya Yakobo bazaba umuriro, n'ab'inzu ya Yosefu babe ikirimi cyawo, n'ab'inzu ya Esawu bazaba nk'umurama, bazabatwika bakongoke, ndetse ab'iyo nzu nta wuzasigara, kuko byavuzwe n'Uwiteka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.18",
+            "verseOrgIds": [
+              "OBA.1.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "OBA 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.18",
+            "verseOrgIds": [
+              "OBA.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "OBA 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Kandi ab'ikusi bazigarurira umusozi wa Esawu, n'abatuye mu gisiza bahindūre igihugu cy'Abafilisitiya. Bazigarurira igihugu cya Efurayimu n'igihugu cy'i Samariya, n'Ababenyamini bazahindūra i Galeyadi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.19",
+            "verseOrgIds": [
+              "OBA.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "OBA 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi abo muri izo ngabo z'Abisirayeli bagiye mu Banyakanāni ari imfate, bazigarurira igihugu kugeza i Sarefati, n'ab'i Yerusalemu bajyanywe ari imbohe bakaba i Sefaradi, bazigarurira imidugudu y'ikusi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.20",
+            "verseOrgIds": [
+              "OBA.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "OBA 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi abarokozi bazazamuka bajye ku musozi wa Siyoni gucira urubanza umusozi wa Esawu kandi ubwami buzaba ubw'Uwiteka.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.21",
+            "verseOrgIds": [
+              "OBA.1.21"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JON.1",
+    "number": "1",
+    "bookId": "JON"
+  },
+  "previous": {
+    "id": "AMO.9",
+    "number": "9",
+    "bookId": "AMO"
+  }
+}

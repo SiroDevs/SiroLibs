@@ -1,0 +1,69 @@
+{
+  "id": "AMO.1",
+  "number": "1",
+  "bookId": "AMO",
+  "reference": "Amosa 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "AMO 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Au mmei a Amosa, wakadi munkatshi mua balami ba mikoko ba ku Tekoa, akunvueye bualu bua Bena Isalele, mu matuku a Uziya, mukelenge wa Yuda, ne mu matuku a Yalobama, muana wa Yoasha, mukelenge wa Isalele, bidimu bibidi ku mpala kua kutaka kua buloba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.1",
+            "verseOrgIds": [
+              "AMO.1.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.2",
+    "number": "2",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "JOL.3",
+    "number": "3",
+    "bookId": "JOL"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "JER.6",
+  "number": "6",
+  "bookId": "JER",
+  "reference": "Yelemia 6",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "JER 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yelusalemu kūgobanīlwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bīng'we lūganda",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.6.1",
+            "verseOrgIds": [
+              "JER.6.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "6:1",
+              "type": "text"
+            },
+            {
+              "text": "Lūganda:",
+              "type": "text"
+            },
+            {
+              "text": "Nūūlū, baana ba.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " lwa ng'wa Benjamini,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.6.1",
+            "verseOrgIds": [
+              "JER.6.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.7",
+    "number": "7",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.5",
+    "number": "5",
+    "bookId": "JER"
+  }
+}

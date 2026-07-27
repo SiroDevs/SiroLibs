@@ -1,0 +1,82 @@
+{
+  "id": "ZEC.10",
+  "number": "10",
+  "bookId": "ZEC",
+  "reference": "Zakalia 10",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "ZEC 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "SEEBA kūbisagīja banhū bakwe",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEC 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ū SEEBA nombagi ī mbula ū mu",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.1",
+            "verseOrgIds": [
+              "ZEC.10.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEC.11",
+    "number": "11",
+    "bookId": "ZEC"
+  },
+  "previous": {
+    "id": "ZEC.9",
+    "number": "9",
+    "bookId": "ZEC"
+  }
+}

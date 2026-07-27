@@ -1,0 +1,82 @@
+{
+  "id": "ISA.60",
+  "number": "60",
+  "bookId": "ISA",
+  "reference": "Isaya 60",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "60",
+        "style": "c",
+        "sid": "ISA 60"
+      },
+      "items": [
+        {
+          "text": "60",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ikūjo lya Sayuni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 60:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Būūkaga, wandye kwaaka,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.1",
+            "verseOrgIds": [
+              "ISA.60.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.61",
+    "number": "61",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.59",
+    "number": "59",
+    "bookId": "ISA"
+  }
+}

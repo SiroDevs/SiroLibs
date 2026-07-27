@@ -1,0 +1,94 @@
+{
+  "id": "PSA.20",
+  "number": "20",
+  "bookId": "PSA",
+  "reference": "Amahubo 20",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "20",
+        "style": "c",
+        "sid": "PSA 20"
+      },
+      "items": [
+        {
+          "text": "20",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 20:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.20.8",
+            "verseOrgIds": [
+              "PSA.20.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 20:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sindisa, Jehova! INkosi mayisiphendule ngosuku lokukhala kwethu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.20.9",
+            "verseOrgIds": [
+              "PSA.20.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.21",
+    "number": "21",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.19",
+    "number": "19",
+    "bookId": "PSA"
+  }
+}
