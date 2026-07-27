@@ -1,0 +1,144 @@
+{
+  "id": "ECC.10",
+  "number": "10",
+  "bookId": "ECC",
+  "reference": "Kafundisha 10",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "ECC 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ECC 10:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.10.4",
+            "verseOrgIds": [
+              "ECC.10.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ECC 10:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Paliba ububifi ubo namona pano isonde, ubo bakateeka bacita. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.10.5",
+            "verseOrgIds": [
+              "ECC.10.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ECC 10:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ifipumbu fya bantu filapeelwa imilimo iyingi iyacindama, lelo abakankala bena babapeelafye imilimo iyasaluka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.10.6",
+            "verseOrgIds": [
+              "ECC.10.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ECC 10:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ine naliimwena uko abasha baleendela pali bakabalwe, ninshi abana ba mfumu bena baleendafye panshi kwati basha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.10.7",
+            "verseOrgIds": [
+              "ECC.10.7"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.11",
+    "number": "11",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "ECC.9",
+    "number": "9",
+    "bookId": "ECC"
+  }
+}

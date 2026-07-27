@@ -1,0 +1,793 @@
+{
+  "id": "NUM.8",
+  "number": "8",
+  "bookId": "NUM",
+  "reference": "Aimario 8",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "8",
+        "style": "c",
+        "sid": "NUM 8"
+      },
+      "items": [
+        {
+          "text": "8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NUM 8:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.8.1",
+            "verseOrgIds": [
+              "NUM.8.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.25.31+EXO.25.32+EXO.25.33+EXO.25.34+EXO.25.35+EXO.25.36+EXO.25.37+EXO.25.38+EXO.25.39+EXO.25.40"
+              },
+              "items": [
+                {
+                  "text": "Any 25:31-40",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.37.17+EXO.37.18+EXO.37.19+EXO.37.20+EXO.37.21+EXO.37.22+EXO.37.23+EXO.37.24"
+              },
+              "items": [
+                {
+                  "text": "37:17-24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Kotema EJAKAIT Musa atiar, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.8.1",
+            "verseOrgIds": [
+              "NUM.8.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 8:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.40.25"
+              },
+              "items": [
+                {
+                  "text": "Any 40:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.24.1"
+              },
+              "items": [
+                {
+                  "text": "Leb 24:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.24.2"
+              },
+              "items": [
+                {
+                  "text": "2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.119.105"
+              },
+              "items": [
+                {
+                  "text": "Sab 119:105",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.8.20"
+              },
+              "items": [
+                {
+                  "text": "Isa 8:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.5.14"
+              },
+              "items": [
+                {
+                  "text": "Mat 5:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.9"
+              },
+              "items": [
+                {
+                  "text": "Yok 1:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.8.12"
+              },
+              "items": [
+                {
+                  "text": "8:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " “Kolimok Aaron ebe, Naisipokinia ijo atalai, atalai akanykaarei kes ecaete koinaren kepir loka atala.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.8.2",
+            "verseOrgIds": [
+              "NUM.8.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NUM 8:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kiswama Aaron kwaŋin; kosipok atalai nen tetere ecaete koinaren kepir loka atala, kwape kicorakinia EJAKAIT Musa, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.8.3",
+            "verseOrgIds": [
+              "NUM.8.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 8:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.25.31"
+              },
+              "items": [
+                {
+                  "text": "Any 25:31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Eswamatai epir loka atala kwanata, esabu loerukuk; kwapuke kiton aturoke da korau aswam naerukuk: kwape ajaar aput naabu EJAKAIT kitodikinite Musa, kwaŋin kiswamau ŋesi epir loka atala.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.8.4",
+            "verseOrgIds": [
+              "NUM.8.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "NUM 8:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.8.19",
+            "verseOrgIds": [
+              "NUM.8.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "NUM 8:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Apotu Musa ka Aaron ka ekodet kere loka idwe luka Isirael kiswamakis Ilebin kwaŋin: kwape ajaatar kere nueeorakinit EJAKAIT Musa kanuka Ilebin, apotu idwe luka Isirael kiswamakis kes kwaŋin, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.8.20",
+            "verseOrgIds": [
+              "NUM.8.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "NUM 8:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.15.16"
+              },
+              "items": [
+                {
+                  "text": "Rom 15:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Kitesegaros Ilebin karonisikee, kilota da ikeeenapen; koinak Aaron kes araut ainakinet naijaŋio kakonyen nuka EJAKAIT: ido kolue Aaron kes aitalaun kes. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.8.21",
+            "verseOrgIds": [
+              "NUM.8.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "NUM 8:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.30.15"
+              },
+              "items": [
+                {
+                  "text": "2 Siit 30:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.31.2"
+              },
+              "items": [
+                {
+                  "text": "31:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Akaulo kanun kolomasi Ilebin toma aswam naka aiiaanakin naka ewema loka airiamunun kakonyen nuka Aaron, kakonyen da nuka odweke: kwape ecorakinitor EJAKAIT Musa nuka Ilebin, kiswamakis kes kwaŋin.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.8.22",
+            "verseOrgIds": [
+              "NUM.8.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "NUM 8:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.8.22",
+            "verseOrgIds": [
+              "NUM.8.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "NUM 8:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kotema EJAKAIT Musa atiar, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.8.23",
+            "verseOrgIds": [
+              "NUM.8.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "NUM 8:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.4.3"
+              },
+              "items": [
+                {
+                  "text": "Mar 4:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.23.3"
+              },
+              "items": [
+                {
+                  "text": "1 Siit 23:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.24.27"
+              },
+              "items": [
+                {
+                  "text": "24:27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " “Nu kes akiro nuka Ilebin: ageun kaluka ikar akaisaarei ka lukany ka luedeparito, kes elomarete akapakin aijaanakin kaswam naka ewema loka airiamunun: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.8.24",
+            "verseOrgIds": [
+              "NUM.8.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "NUM 8:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ido kedolo ikar lukapoloukee akaisakany itasaŋete akapakina aswam, mam bobo ijaanakinete: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.8.25",
+            "verseOrgIds": [
+              "NUM.8.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "NUM 8:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.1.53"
+              },
+              "items": [
+                {
+                  "text": "Mar 1:53",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.23.28+1CH.23.29+1CH.23.30+1CH.23.31+1CH.23.32"
+              },
+              "items": [
+                {
+                  "text": "1 Siit 23:28-32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.26.20+1CH.26.21+1CH.26.22+1CH.26.23+1CH.26.24+1CH.26.25+1CH.26.26+1CH.26.27+1CH.26.28+1CH.26.29"
+              },
+              "items": [
+                {
+                  "text": "26:20-29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.44.8"
+              },
+              "items": [
+                {
+                  "text": "Esk 44:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.44.11"
+              },
+              "items": [
+                {
+                  "text": "11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Konye inarakinetc iinaeanakee kotoma owema loka airiamunun, aidar nuititinitai, konye mam ijaanakinete. Iswamakini ijo Ilebin kwaŋin kanuka nuititinitai.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.8.26",
+            "verseOrgIds": [
+              "NUM.8.26"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NUM.9",
+    "number": "9",
+    "bookId": "NUM"
+  },
+  "previous": {
+    "id": "NUM.7",
+    "number": "7",
+    "bookId": "NUM"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "id": "JDG.5",
+  "number": "5",
+  "bookId": "JDG",
+  "reference": "Abaramuzi 5",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "JDG 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JDG 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eryo izooba Debora na Baraki mwene Abinoamu baayeshongora bati:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.5.1",
+            "verseOrgIds": [
+              "JDG.5.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "JDG 5:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Okuruga aho ensi yaahuumura okumara emyaka makumi ana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.5.31",
+            "verseOrgIds": [
+              "JDG.5.31"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.48.4"
+              },
+              "items": [
+                {
+                  "text": "Zab 48:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.48.5"
+              },
+              "items": [
+                {
+                  "text": "5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.6.10"
+              },
+              "items": [
+                {
+                  "text": "Kush 6:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.13.43"
+              },
+              "items": [
+                {
+                  "text": "Mat 13:43",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.19.5"
+              },
+              "items": [
+                {
+                  "text": "Zab 19:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JDG.6",
+    "number": "6",
+    "bookId": "JDG"
+  },
+  "previous": {
+    "id": "JDG.4",
+    "number": "4",
+    "bookId": "JDG"
+  }
+}

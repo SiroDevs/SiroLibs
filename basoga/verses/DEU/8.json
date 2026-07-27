@@ -1,0 +1,850 @@
+{
+  "id": "DEU.8",
+  "number": "8",
+  "bookId": "DEU",
+  "reference": "Amateeka Agokubiri 8",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 20,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "8",
+        "style": "c",
+        "sid": "DEU 8"
+      },
+      "items": [
+        {
+          "text": "8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DEU 8:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa yaakoba Abaisiraeli ati: “Mutenga inho omwoyo ku biragiro byonabyona bye mbaghaire olwaleero, mubituukirizenga bukalamu. Olwo musobole okwala, mutwale ensi Musengwa Katonda ye yasuubiza okugha badhaadha baimwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.1",
+            "verseOrgIds": [
+              "DEU.8.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DEU 8:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Era muteerabiranga nga Musengwa Katonda waimwe bweyabakulemberamu mu lugendo lwonalwona, emyaka gino amakumi ana mu irungu, ng'agendereramu okubafuula abawulize. Era yaabaleba, asobole okumanha ekiri mu myoyo gyaimwe, abone oba nga munaakuumanga ebiragiro bye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.2",
+            "verseOrgIds": [
+              "DEU.8.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "DEU 8:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yaabaleka endhala yaabaluma, aye yaamala yaabagha mannu mwalya, emere ye mwali nga timulyangaku waire badhaadha baimwe. Ekyo yakikola okubeegeresa nti omuntu taba mulamu na mere yonka, aye aba mulamu lwa buli kibono Musengwa Katonda mwene ky'ayogera. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.3",
+            "verseOrgIds": [
+              "DEU.8.3"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.16.15"
+              },
+              "items": [
+                {
+                  "text": "Kuv 16:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.16.31"
+              },
+              "items": [
+                {
+                  "text": "31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.16.35"
+              },
+              "items": [
+                {
+                  "text": "35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.11.6"
+              },
+              "items": [
+                {
+                  "text": "Kub 11:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.11.7"
+              },
+              "items": [
+                {
+                  "text": "7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.11.9"
+              },
+              "items": [
+                {
+                  "text": "9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.8.16"
+              },
+              "items": [
+                {
+                  "text": "Ma 8:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.78.24"
+              },
+              "items": [
+                {
+                  "text": "Zab 78:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.4.4"
+              },
+              "items": [
+                {
+                  "text": "Mat 4:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.4.4"
+              },
+              "items": [
+                {
+                  "text": "Luk 4:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.6.31"
+              },
+              "items": [
+                {
+                  "text": "Yoa 6:31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.6.49"
+              },
+              "items": [
+                {
+                  "text": "49",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.6.58"
+              },
+              "items": [
+                {
+                  "text": "58",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.9.4"
+              },
+              "items": [
+                {
+                  "text": "Heb 9:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.2.17"
+              },
+              "items": [
+                {
+                  "text": "Kwol 2:17",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.3",
+            "verseOrgIds": [
+              "DEU.8.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DEU 8:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Emyaka egyo amakumi ana, ebivaalo byaimwe tibyakairighaku n'ebigere tibyabazimbaku. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.4",
+            "verseOrgIds": [
+              "DEU.8.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "DEU 8:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kale ni mukimanhenga muti, ng'omuntu bw'akangaivula omwana we, ni Musengwa Katonda waimwe atyo bw'abakangaivula imwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.5",
+            "verseOrgIds": [
+              "DEU.8.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DEU 8:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mukuumenga ebiragiro bye, mujiirenga ku ebyo by'abakoba, era mumutyenga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.6",
+            "verseOrgIds": [
+              "DEU.8.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "DEU 8:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musengwa Katonda waimwe, ali kubatwala mu nsi engimu, erimu emiiga n'ensulo edh'amaadhi agakuuluulira mu biiko ni mu nsozi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.7",
+            "verseOrgIds": [
+              "DEU.8.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DEU 8:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ensi eyo ebaza engaano, ni sayiri, n'emizabbibu, n'emitiini, n'emikomamawanga, n'emyoliva, era erimu omudheenene ogw'endhuki. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.8",
+            "verseOrgIds": [
+              "DEU.8.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "DEU 8:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mu nsi eyo mwidha kulyanga emere nga tewaagho, era timuubenga na kye mudhulirira. Embaale edh'omu nsi eyo dhirimu ekyuma ekigumu einho, n'ensozi dhaamu musobola okusimamu ekyuma eky'ekikomo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.9",
+            "verseOrgIds": [
+              "DEU.8.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DEU 8:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwidha kulyanga mwigute, era musiimenga Musengwa Katonda waimwe olw'ensi engimu y'ali kubagha.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.10",
+            "verseOrgIds": [
+              "DEU.8.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DEU 8:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.10",
+            "verseOrgIds": [
+              "DEU.8.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "DEU 8:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa yaayongera okukoba Abaisiraeli ati: “Mwekuumenga mulobenga kwerabira Musengwa Katonda waimwe, nga muloba okukuuma amateeka ge, n'ebiragiro bye, n'okulamba kwe, bye ndi kubagha olwaleero. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.11",
+            "verseOrgIds": [
+              "DEU.8.11"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.13.5+HOS.13.6"
+              },
+              "items": [
+                {
+                  "text": "Hos 13:5-6",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.11",
+            "verseOrgIds": [
+              "DEU.8.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DEU 8:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mulifuna emere ebamala, mwazimba amayumba amalungi era mwagasulamu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.12",
+            "verseOrgIds": [
+              "DEU.8.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "DEU 8:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Era muligheza engo edh'ente, n'embuzi, n'entaama. Ni feeza, ni zaabu waimwe alyeyongera obungi, ghalala n'ebintu byaimwe ebindi byonabyona. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.13",
+            "verseOrgIds": [
+              "DEU.8.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "DEU 8:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye ebyo byonabyona nga bimaze okubaagho, mutagezangaku naire kwekuluntaza, ni mwerabira Musengwa Katonda waimwe eyabatoola e Misiri ye mwakolanga obwiru. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.14",
+            "verseOrgIds": [
+              "DEU.8.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "DEU 8:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yababisa mu irungu einene era eritiisa, omwali emisota n'ebiyiri eby'obusagwa. Mu irungu omwo omuzira maadhi, yaabafunira amaadhi okuva mu lubaale olubbalangufu.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.15",
+            "verseOrgIds": [
+              "DEU.8.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "DEU 8:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yabagha mannu mwalya mu irungu, emere badhaadha baimwe ye baali nga tibalyangaku. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.16",
+            "verseOrgIds": [
+              "DEU.8.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "DEU 8:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kale ni mulobenga kukoba mule muti, “Amagezi gaife n'amaani gaife n'ebitufuniisa obukombe.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.17",
+            "verseOrgIds": [
+              "DEU.8.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "DEU 8:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Mwidhukirenga muti Musengwa Katonda waimwe, n'abagha amagezi okukombaghala, ng'atuukiriza endagaano ye yakola ni badhaadha baimwe ni ye buli eno. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.18",
+            "verseOrgIds": [
+              "DEU.8.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "DEU 8:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bwe mulyerabira Musengwa Katonda, ni mujiira ku bakatonda era ni mubasinza, mbalabula olwaleero nti timuliroba kuzikirira. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.19",
+            "verseOrgIds": [
+              "DEU.8.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "DEU 8:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bwe muliroba okuwulira Musengwa Katonda waimwe, mulizikirira ng'oti n'amaghanga ago Musengwa Katonda g'aja okuzikiriza nga muli kumpi okugatuukaku.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.8.20",
+            "verseOrgIds": [
+              "DEU.8.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DEU.9",
+    "number": "9",
+    "bookId": "DEU"
+  },
+  "previous": {
+    "id": "DEU.7",
+    "number": "7",
+    "bookId": "DEU"
+  }
+}
