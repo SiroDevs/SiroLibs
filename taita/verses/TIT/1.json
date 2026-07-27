@@ -1,0 +1,641 @@
+{
+  "id": "TIT.1",
+  "number": "1",
+  "bookId": "TIT",
+  "reference": "Tito 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 16,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "TIT 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "TIT 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ini Paulo, mdumiki wa Mlungu na mdumi wa Jesu Kristo, kwa wundu ghwa kujimangisha ijo irumirio ja wasaghulwa wa Mlungu, na kumanya kwawo kwa iyo loli, kuko karakara na kuobua kwa Mlungu, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.1",
+            "verseOrgIds": [
+              "TIT.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "TIT 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kwa isuwirio ja irangi ja kala na kala, ijo jerelaghiriloghe ni Mlungu kokala, nao ndeghoragha tee jingi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.2",
+            "verseOrgIds": [
+              "TIT.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "TIT 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na iji isuwirio, orejiwonyereghe worinyi kwa ngelo yaro, kwa ilagho jake, kwa chia ya kuchila uko kuwikilo mikonunyi kwapo kwa amri ya Mlungu Mkiri odu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.3",
+            "verseOrgIds": [
+              "TIT.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "TIT 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.3",
+            "verseOrgIds": [
+              "TIT.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "TIT 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nakuandikia oho Tito, mwana wapo tiki wa irumirio diko najo diwose. Mvono ndeghukaie kwako, na sere ifumagha kwa Mlungu Aba na Kristo Jesu Mkiri odu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.4",
+            "verseOrgIds": [
+              "TIT.1.4"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CO.8.23"
+              },
+              "items": [
+                {
+                  "text": "2 Wakor. 8.23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GAL.2.3"
+              },
+              "items": [
+                {
+                  "text": "Wagal. 2.3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2TI.4.10"
+              },
+              "items": [
+                {
+                  "text": "2 Tim. 4.10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kazi ya Tito aja Krete",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "TIT 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.4",
+            "verseOrgIds": [
+              "TIT.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "TIT 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nerekusighieghe Krete eri kupate kuriboisa iro maza riserekoghe nicha, na kuwisaghua waghosi wa Ikanisa andenyi ya kula muzi seji nerekuzerieghe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.5",
+            "verseOrgIds": [
+              "TIT.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "TIT 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mghosi ukaie mundu usewadie ikosa jingi, mndwawomi wa muka umweri, uko na wana wirumiriagha, wiseghorwagha kwa maza rizamie kwa kulegha kusikira.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.6",
+            "verseOrgIds": [
+              "TIT.1.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.3.2+1TI.3.3+1TI.3.4+1TI.3.5+1TI.3.6+1TI.3.7"
+              },
+              "items": [
+                {
+                  "text": "1 Tim. 3.2-7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.6",
+            "verseOrgIds": [
+              "TIT.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "TIT 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Angu mzighaniri wa ikanisa sa mdumiki wa Mlungu, suti ukaie mundu usewadie ikosa jingi; usekaie ukukasire, angu ojokwa ni machu shwa-shwa, angu mmbongeri, angu mundu otumia ndighi, angu iriso ja fwaida isefwanagha. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.7",
+            "verseOrgIds": [
+              "TIT.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "TIT 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ela ukaie mundu okaribisha wandu, ukundagha kubonya nicha, ukubonyeragha nguma moni, mundu wa hachi, uelie, ukumaziriagha moni. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.8",
+            "verseOrgIds": [
+              "TIT.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "TIT 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Suti ukaie mundu ujiwadiagha nicha ijo ilagho ja loli jirumirikie, seji koni ufundishiro; eri udime kufundisha mafundisho gha loli, na wokoni udime kuwisima kwa kuwiwonyera makosa awo wijitangalagha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.9",
+            "verseOrgIds": [
+              "TIT.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "TIT 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.9",
+            "verseOrgIds": [
+              "TIT.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "TIT 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Angu weko wandu wengi wileghagha, wiko na madedo maduu, nawo ni wandu wa mikalo; kuchumba ni awo wa kushamishwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.10",
+            "verseOrgIds": [
+              "TIT.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "TIT 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Suti winyamiro, kwa kukaia waawuyasumbua wandu wose kula kinyumba kwa kufundisha iro maza risewifwane kufundisha; na agho waawuyabonya kwa wundu ghwa kupata fwaida isefwanagha. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.11",
+            "verseOrgIds": [
+              "TIT.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "TIT 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mndumu wa mzawo, mlodi wawo weni, oreghambieghe, “Wakrete toe ni watee, nyamandu ra kisha, waghadi wilafukie.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.12",
+            "verseOrgIds": [
+              "TIT.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "TIT 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wushuhuda ughu ni ghwa loli. Kwa huwo, kuwikemie kwa kubia, eri wipate kukaia waloli kwa irumirio, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.13",
+            "verseOrgIds": [
+              "TIT.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "TIT 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "wulalo ghosikiria chughano ra Kiyahudi, na malaghiro gha wandu awo wiileghagha ija loli. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.14",
+            "verseOrgIds": [
+              "TIT.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "TIT 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Vindo vose vaelie kwa uo uelie, ela ndekuwadie kindo chingi chielie kwa mundu mmbiwi userumiriagha; kwa kukaia akili na nia rawo reenoneka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.15",
+            "verseOrgIds": [
+              "TIT.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "TIT 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Waghamba wei wamwichi Mlungu, ela waawuyamkana kwa mabonyo ghawo; ni wandu wizamie, wileghagha, wisefwanagha kwa kazi ingi ndicha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.16",
+            "verseOrgIds": [
+              "TIT.1.16"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "TIT.2",
+    "number": "2",
+    "bookId": "TIT"
+  },
+  "previous": {
+    "id": "TIT.intro",
+    "number": "intro",
+    "bookId": "TIT"
+  }
+}

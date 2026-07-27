@@ -1,0 +1,69 @@
+{
+  "id": "JOB.3",
+  "number": "3",
+  "bookId": "JOB",
+  "reference": "Yovu 3",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "JOB 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ĩtina wa ũu Yovu aathamya kanyw’a wake, na aumanĩa mũthenya wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.3.1",
+            "verseOrgIds": [
+              "JOB.3.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.4",
+    "number": "4",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.2",
+    "number": "2",
+    "bookId": "JOB"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "JOB.12",
+  "number": "12",
+  "bookId": "JOB",
+  "reference": "Job 12",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "JOB 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ng’alalet no bo somok ne bo Job",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.13",
+    "number": "13",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.11",
+    "number": "11",
+    "bookId": "JOB"
+  }
+}

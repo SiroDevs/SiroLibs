@@ -14,11 +14,26 @@ DEFAULT_SOURCE_NAME = "swahili"
 SCRIPT_ROOT = Path(__file__).resolve().parent.parent
 
 HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-    )
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
 }
+
+SESSION = requests.Session()
+SESSION.headers.update(HEADERS)
+_SESSION_WARMED = False
+
+
+def warm_up_session():
+    global _SESSION_WARMED
+    if _SESSION_WARMED:
+        return
+    try:
+        SESSION.get("https://www.bible.com/", timeout=30)
+    except Exception:
+        pass
+    _SESSION_WARMED = True
 
 
 def build_url(bible_id: int, usfm: str, name: str) -> str:
@@ -26,8 +41,9 @@ def build_url(bible_id: int, usfm: str, name: str) -> str:
 
 
 def fetch_page(bible_id: int, usfm: str, name: str, debug_dir: Path = None):
+    warm_up_session()
     url = build_url(bible_id, usfm, name)
-    resp = requests.get(url, headers=HEADERS, timeout=30)
+    resp = SESSION.get(url, timeout=30)
     resp.raise_for_status()
 
     soup = BeautifulSoup(resp.text, "html.parser")
@@ -329,8 +345,6 @@ def process_book(book_id: str, entries: list, args, books_by_id: dict,
             if book_id not in book_name_cache:
                 book_name_cache[book_id] = local_name_from_existing_file(out_path, number)
             done_so_far += 1
-            print(f"{log_prefix}[{idx + 1}/{book_total}] "
-                  f"(overall {done_so_far}/{total}) Already have {out_path}, skipping")
             continue
 
         try:
@@ -338,10 +352,19 @@ def process_book(book_id: str, entries: list, args, books_by_id: dict,
                 args.bible_id, usfm, args.name, args.copyright, book_name_cache,
                 debug_dir=debug_dir,
             )
-        except Exception as exc:
-            print(f"{log_prefix}FAILED {usfm}: {exc}; moving on")
-            time.sleep(args.sleep)
-            continue
+        except Exception as first_exc:
+            print(f"{log_prefix}FAILED {usfm}: {first_exc}; retrying once in "
+                  f"{args.retry_sleep:.0f}s")
+            time.sleep(args.retry_sleep)
+            try:
+                result, local_name, is_newly_resolved = build_chapter_json(
+                    args.bible_id, usfm, args.name, args.copyright, book_name_cache,
+                    debug_dir=debug_dir,
+                )
+            except Exception as second_exc:
+                print(f"{log_prefix}FAILED {usfm} again: {second_exc}; moving on")
+                time.sleep(args.sleep)
+                continue
 
         if is_newly_resolved:
             print(f"{log_prefix}Resolved book name: '{local_name}'")
@@ -391,6 +414,9 @@ def main():
                               f"(default: '{DEFAULT_COPYRIGHT}')")
     parser.add_argument("--sleep", type=float, default=3.0,
                          help="Seconds to sleep between requests (default: 3.0)")
+    parser.add_argument("--retry-sleep", type=float, default=5.0,
+                         help="Seconds to wait before the one retry of a failed "
+                              "fetch (default: 5.0)")
     args = parser.parse_args()
 
     folder_name = args.folder or args.name
