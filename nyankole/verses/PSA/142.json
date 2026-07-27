@@ -1,0 +1,69 @@
+{
+  "id": "PSA.142",
+  "number": "142",
+  "bookId": "PSA",
+  "reference": "Zaaburi 142",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "142",
+        "style": "c",
+        "sid": "PSA 142"
+      },
+      "items": [
+        {
+          "text": "142",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 142:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Onkize abarikumpiiga; ahakuba nibankiza amaani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.6",
+            "verseOrgIds": [
+              "PSA.142.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.143",
+    "number": "143",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.141",
+    "number": "141",
+    "bookId": "PSA"
+  }
+}

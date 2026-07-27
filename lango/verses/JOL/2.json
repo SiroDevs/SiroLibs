@@ -1,0 +1,229 @@
+{
+  "id": "JOL.2",
+  "number": "2",
+  "bookId": "JOL",
+  "reference": "Joel 2",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "JOL 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "JOL 2:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.29",
+            "verseOrgIds": [
+              "JOL.2.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "JOL 2:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Abino nyuto tano i polo kede i lobo, remo kede mac kede ekuna aduny bala yito. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.30",
+            "verseOrgIds": [
+              "JOL.2.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "JOL 2:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.24.29"
+              },
+              "items": [
+                {
+                  "text": "Mat. 24.29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.13.24+MRK.13.25"
+              },
+              "items": [
+                {
+                  "text": "Mar. 13.24-25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.21.25"
+              },
+              "items": [
+                {
+                  "text": "Luk. 21.25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.6.12+REV.6.13"
+              },
+              "items": [
+                {
+                  "text": "Nyut 6.12-13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ceŋ bino cido acol icuc, dwe bino lokere doko remo, a mom ru nino a Rwot otuno, nino a Rwot dwoŋ dok daŋ iyiliyili meicel. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.31",
+            "verseOrgIds": [
+              "JOL.2.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "JOL 2:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.10.13"
+              },
+              "items": [
+                {
+                  "text": "Rom. 10.13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Icennere jo ducu ame bino lwoŋo nyin Rwot, obino larre; pien i wi kidi me Ci on kede i Jerucalem, jo obwot bino bedo kuno, acalo Rwot okobo, dok i akina jo odoŋ, bino bedo iye jo a Rwot olwoŋo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.32",
+            "verseOrgIds": [
+              "JOL.2.32"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOL.3",
+    "number": "3",
+    "bookId": "JOL"
+  },
+  "previous": {
+    "id": "JOL.1",
+    "number": "1",
+    "bookId": "JOL"
+  }
+}

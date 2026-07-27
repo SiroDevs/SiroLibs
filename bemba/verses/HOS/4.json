@@ -1,0 +1,128 @@
+{
+  "id": "HOS.4",
+  "number": "4",
+  "bookId": "HOS",
+  "reference": "Hosea 4",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "HOS 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kutikeni kwishiwi lyakwa Yawe imwe mwe bena Israeli, pantu Lesa ali pakumupeela umulandu imwe bonse mwe bekala mu calo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.4.1",
+            "verseOrgIds": [
+              "HOS.4.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HOS 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.4.3",
+            "verseOrgIds": [
+              "HOS.4.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HOS 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yawe aletila ati,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.4.4",
+            "verseOrgIds": [
+              "HOS.4.4"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.5",
+    "number": "5",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.3",
+    "number": "3",
+    "bookId": "HOS"
+  }
+}

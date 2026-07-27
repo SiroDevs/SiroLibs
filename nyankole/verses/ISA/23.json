@@ -1,0 +1,236 @@
+{
+  "id": "ISA.23",
+  "number": "23",
+  "bookId": "ISA",
+  "reference": "Isaaya 23",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "23",
+        "style": "c",
+        "sid": "ISA 23"
+      },
+      "items": [
+        {
+          "text": "23",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 23:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.12",
+            "verseOrgIds": [
+              "ISA.23.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 23:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mureebe ensi y'Abakaludaaya! Tekiri ihanga. Abaasiria bakagihindura ey'enyamaishwa z'omu ihamba. Bakagota Tuuro, baagyombekaho eminaara, baasheenya zaanyaruju zaayo, baagigira amatongo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.13",
+            "verseOrgIds": [
+              "ISA.23.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ISA 23:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.16",
+            "verseOrgIds": [
+              "ISA.23.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ISA 23:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.17",
+            "verseOrgIds": [
+              "ISA.23.17"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.17.1"
+              },
+              "items": [
+                {
+                  "text": "Kush 17:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.17.2"
+              },
+              "items": [
+                {
+                  "text": "2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Bwanyima y'egyo myaka makumi mushanju MUKAMA aryataayaayira Tuuro, eryagaruka aha bushuubuzi bwayo, eshambane n'amahanga g'abagabe b'omu nsi zoona. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.17",
+            "verseOrgIds": [
+              "ISA.23.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ISA 23:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obutungi n'obushuubuzi bwayo buryayerezibwa MUKAMA; tiburibiikwa, tiburiteebwa hangahari nk'obw'engumya, kureka buryaheebwa abatuura omu maisho ga MUKAMA, ngu babone kurya n'okuhaaga, kandi babone ebijwaro ebirikuterera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.18",
+            "verseOrgIds": [
+              "ISA.23.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.24",
+    "number": "24",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.22",
+    "number": "22",
+    "bookId": "ISA"
+  }
+}

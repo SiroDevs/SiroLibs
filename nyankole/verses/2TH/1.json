@@ -1,0 +1,695 @@
+{
+  "id": "2TH.1",
+  "number": "1",
+  "bookId": "2TH",
+  "reference": "2 Abatesalonika 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "2TH 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "2TH 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Paulo na Siluwaano na Timoseo twabahandiikira imwe ab'ekanisa y'Abatesalonika abari omuri Ruhanga Isheboona na Mukama waitu Yesu Kristo; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2TH.1.1",
+            "verseOrgIds": [
+              "2TH.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "2TH 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nitubendeza embabazi n'obusingye ebirikuruga ahari Ruhanga Tataitwe na Mukama waitu Yesu Kristo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2TH.1.2",
+            "verseOrgIds": [
+              "2TH.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "2TH 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2TH.1.2",
+            "verseOrgIds": [
+              "2TH.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "2TH 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2TH.1.3",
+            "verseOrgIds": [
+              "2TH.1.3"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TH.1.2"
+              },
+              "items": [
+                {
+                  "text": "1 Tes 1:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TH.1.3"
+              },
+              "items": [
+                {
+                  "text": "3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Kitushemereire kusiima Ruhanga obutoosha, ahabwanyu, B'eishe-emwe, nk'oku kishemereire, ahabw'okuba okwikiriza kwanyu nikweyongyera munonga, kandi n'okukunda kwa buri omwe omuriimwe oku murikukundana ni kwingi buzima. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2TH.1.3",
+            "verseOrgIds": [
+              "2TH.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "2TH 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.1.9"
+              },
+              "items": [
+                {
+                  "text": "Kush 1:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " N'ahabw'ekyo naitwe nitwehimbisa ahabwanyu omu makanisa ga Ruhanga, nitusiima okugumisiriza kwanyu n'okwikiriza kwanyu omu kuhiigwa n'omu kubonabona ebi mwemeire; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2TH.1.4",
+            "verseOrgIds": [
+              "2TH.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "2TH 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TH.2.12"
+              },
+              "items": [
+                {
+                  "text": "1 Tes 2:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " (ebyo nibyoreka ku Ruhanga acwa emanja z'oburyo,) ngu mubone kuteekateekwa kuba abashemereire obukama bwa Ruhanga, obu murikubonabonera; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2TH.1.5",
+            "verseOrgIds": [
+              "2TH.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "2TH 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.18.6"
+              },
+              "items": [
+                {
+                  "text": "Kush 18:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.18.7"
+              },
+              "items": [
+                {
+                  "text": "7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ahabw'okuba Ruhanga naateekateeka ngu kihikire okwihura obusaasi abarikubasaasa, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2TH.1.6",
+            "verseOrgIds": [
+              "2TH.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "2TH 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.25.31"
+              },
+              "items": [
+                {
+                  "text": "Mat 25:31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " n'okuha imwe abarikushaasha okuhuumura naitwe, Mukama waitu Yesu ku arishuuruurwa naaruga omu iguru na baamaraika be ab'amaani, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2TH.1.7",
+            "verseOrgIds": [
+              "2TH.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "2TH 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.2.8"
+              },
+              "items": [
+                {
+                  "text": "Rom 2:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.66.15"
+              },
+              "items": [
+                {
+                  "text": "Isa 66:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ari omu muriro ogurikwaka, okuhoora enzigu abatarikumanya Ruhanga n'abarikwanga kworobera engiri ya Mukama waitu Yesu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2TH.1.8",
+            "verseOrgIds": [
+              "2TH.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "2TH 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.2.10"
+              },
+              "items": [
+                {
+                  "text": "Isa 2:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Abo baryaheebwa ekifubiro eky'okuhwerekyerera okw'ebiro n'ebiro, babingwe omu maisho ga Mukama n'omu kitiinisa ky'obushoboorozi bwe, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2TH.1.9",
+            "verseOrgIds": [
+              "2TH.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "2TH 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.3.4"
+              },
+              "items": [
+                {
+                  "text": "Kol 3:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.89.7"
+              },
+              "items": [
+                {
+                  "text": "Zab 89:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ku ariija aha izooba eryo kuhimbisibwa omu barikwera be, n'okutangaarirwa ahabw'abaamwikiriize boona, ahakuba obujurizi bwaitu obu twabahaire bukaikirizibwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2TH.1.10",
+            "verseOrgIds": [
+              "2TH.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "2TH 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nikyo tubashabirira obutoosha, ngu Ruhanga waitu abaikirize okuba abashemereire okweta kwe, kandi ahikiirize n'amaani ge ebirungi byona ebi murikwetenga n'emirimo y'okwikiriza, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2TH.1.11",
+            "verseOrgIds": [
+              "2TH.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "2TH 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.66.5"
+              },
+              "items": [
+                {
+                  "text": "Isa 66:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " eiziina rya Mukama waitu Yesu ribone kuhimbisibwa omuriimwe, naimwe omuriwe, nk'embabazi za Ruhanga waitu na Mukama waitu Yesu Kristo oku ziri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2TH.1.12",
+            "verseOrgIds": [
+              "2TH.1.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2TH.2",
+    "number": "2",
+    "bookId": "2TH"
+  },
+  "previous": {
+    "id": "1TH.5",
+    "number": "5",
+    "bookId": "1TH"
+  }
+}

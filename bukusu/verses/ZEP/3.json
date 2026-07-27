@@ -1,0 +1,120 @@
+{
+  "id": "ZEP.3",
+  "number": "3",
+  "bookId": "ZEP",
+  "reference": "Sef. 3",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "ZEP 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Bubwoni bwa Yerusalemu ne busikuli bwalwo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kumwenya kwe khoyo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ZEP 3:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.3.19",
+            "verseOrgIds": [
+              "ZEP.3.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ZEP 3:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wele Omunyali Owa Bioosi aloma ali,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.3.20",
+            "verseOrgIds": [
+              "ZEP.3.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAG.intro",
+    "number": "intro",
+    "bookId": "HAG"
+  },
+  "previous": {
+    "id": "ZEP.2",
+    "number": "2",
+    "bookId": "ZEP"
+  }
+}

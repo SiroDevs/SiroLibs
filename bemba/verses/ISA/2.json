@@ -1,0 +1,69 @@
+{
+  "id": "ISA.2",
+  "number": "2",
+  "bookId": "ISA",
+  "reference": "Esaya 2",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "ISA 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aya e mashiwi ayaishile kuli Esaya mwana Amosi, palwa bena Yuda na palwa bena Yerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.1",
+            "verseOrgIds": [
+              "ISA.2.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.3",
+    "number": "3",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.1",
+    "number": "1",
+    "bookId": "ISA"
+  }
+}

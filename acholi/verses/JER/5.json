@@ -1,0 +1,119 @@
+{
+  "id": "JER.5",
+  "number": "5",
+  "bookId": "JER",
+  "reference": "Jeremia 5",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "JER 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JER 5:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.5.17",
+            "verseOrgIds": [
+              "JER.5.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JER 5:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rwot owacci “Ento kadi wa I kare meno pe abityekowu woko liweŋ. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.5.18",
+            "verseOrgIds": [
+              "JER.5.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JER 5:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ka ce lutuwu gibiwacci, ‘Piŋo Rwot Lubaŋawa otimo gin magi i komwa?’ in ibiwaco botgi ni, ‘Kit macalo wubwota woko kun wubedo ka tiyo bot lubaŋa pa lurok i lobowu, kit meno wubitiyo bene bot lurok i lobo ma pe mewu.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.5.19",
+            "verseOrgIds": [
+              "JER.5.19"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.6",
+    "number": "6",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.4",
+    "number": "4",
+    "bookId": "JER"
+  }
+}

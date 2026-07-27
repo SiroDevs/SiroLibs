@@ -1,0 +1,35 @@
+{
+  "id": "PSA.123",
+  "number": "123",
+  "bookId": "PSA",
+  "reference": "Zaaburi 123",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "123",
+        "style": "c",
+        "sid": "PSA 123"
+      },
+      "items": [
+        {
+          "text": "123",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.124",
+    "number": "124",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.122",
+    "number": "122",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "PRO.31",
+  "number": "31",
+  "bookId": "PRO",
+  "reference": "Enfumu 31",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "31",
+        "style": "c",
+        "sid": "PRO 31"
+      },
+      "items": [
+        {
+          "text": "31",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 31:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.1",
+            "verseOrgIds": [
+              "PRO.31.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.30.1"
+              },
+              "items": [
+                {
+                  "text": "Enf 30:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Ebigambo bya Lemueli, omugabe wa Maasa, ebi yaayegyesiibwe nyina.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.1",
+            "verseOrgIds": [
+              "PRO.31.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.1",
+    "number": "1",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "PRO.30",
+    "number": "30",
+    "bookId": "PRO"
+  }
+}

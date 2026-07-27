@@ -1,0 +1,35 @@
+{
+  "id": "HAB.3",
+  "number": "3",
+  "bookId": "HAB",
+  "reference": "Habakkuku 3",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "HAB 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEP.intro",
+    "number": "intro",
+    "bookId": "ZEP"
+  },
+  "previous": {
+    "id": "HAB.2",
+    "number": "2",
+    "bookId": "HAB"
+  }
+}

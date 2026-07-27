@@ -1,0 +1,82 @@
+{
+  "id": "ISA.35",
+  "number": "35",
+  "bookId": "ISA",
+  "reference": "Isaya 35",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "35",
+        "style": "c",
+        "sid": "ISA 35"
+      },
+      "items": [
+        {
+          "text": "35",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 35:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngörököy wölo le wuw nko wölo le ompölyon,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.1",
+            "verseOrgIds": [
+              "ISA.35.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Otyegho pipö Asirya Yerusalem",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.36",
+    "number": "36",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.34",
+    "number": "34",
+    "bookId": "ISA"
+  }
+}

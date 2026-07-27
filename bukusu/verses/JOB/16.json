@@ -1,0 +1,69 @@
+{
+  "id": "JOB.16",
+  "number": "16",
+  "bookId": "JOB",
+  "reference": "Ayu. 16",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "16",
+        "style": "c",
+        "sid": "JOB 16"
+      },
+      "items": [
+        {
+          "text": "16",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 16:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nio Ayubu aakobosia ali,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.16.1",
+            "verseOrgIds": [
+              "JOB.16.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.17",
+    "number": "17",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.15",
+    "number": "15",
+    "bookId": "JOB"
+  }
+}

@@ -1,0 +1,835 @@
+{
+  "id": "ZEP.1",
+  "number": "1",
+  "bookId": "ZEP",
+  "reference": "Sefa 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 18,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "ZEP 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEP 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.1",
+            "verseOrgIds": [
+              "ZEP.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        2 Ilai 22.1–23.30; 2 Int 34.1–35.27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Ele rorei lo Laitoriani oewuo enetii Sefania olayioni le Kushi, olayioni le Gedalia, olayioni le Amaria, olayioni le Hesekia, too nkolongi e Yosia ilo ayioni le Amon, olaiguanani le Yuda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.1",
+            "verseOrgIds": [
+              "ZEP.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Enkolong e nkiguana o Laitoriani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEP 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.1",
+            "verseOrgIds": [
+              "ZEP.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ZEP 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Kajutu nanu tukul pooki toki aiwuang'ie ti oriong enkop,” Olaitoriani ojo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.2",
+            "verseOrgIds": [
+              "ZEP.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ZEP 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Kajutu nanu tung'ani o eng'ues; kajutu nanu aiwuang'ie ntaritik o loing'ang'e o sinkir le naiposha. Kanang'aa nanu aiturraa lelo torrok; kaishie nanu iltung'ana, aiwuang'ie ti oriong e nkop,” Olaitoriani ojo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.3",
+            "verseOrgIds": [
+              "ZEP.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ZEP 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.3",
+            "verseOrgIds": [
+              "ZEP.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ZEP 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Kaitorioo nanu enkaina ai aarare Yuda, naarare sii lelo pooki oomanya Yerusalem; naa kaishie nanu aiwuang'ie tene wueji ilo pisiai le Baal o ina arna e lelo apolosak ooserem nkitanyaanyukot; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.4",
+            "verseOrgIds": [
+              "ZEP.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ZEP 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "lelo ooirrugokino too nchumat oo nkajijik olorora le shumata; lelo ooirrugo neinosie Olaitoriani olmumai neitoki ake sii aainos olmumai te nkarna e nkai naji Milkom; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.5",
+            "verseOrgIds": [
+              "ZEP.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ZEP 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "lelo ooibelekenyate ootapala esujata o Laitoriani, lelo lemeing'oru Olaitoriani anaa eikilikuanishore ninye.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.6",
+            "verseOrgIds": [
+              "ZEP.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ZEP 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.6",
+            "verseOrgIds": [
+              "ZEP.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ZEP 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ntirring'ayu te dukuya olaitoriani Enkai! Amu etataana enkolong o Laitoriani; eitobira Olaitoriani olasar neitisinya ilomon lenyena. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.7",
+            "verseOrgIds": [
+              "ZEP.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ZEP 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naa ore te ina olong o lasar lo Laitoriani, “Kaitame nanu lelo kituaak o lelo ayiok lo laiguanani o lelo pooki ooishopote too nkilani oo loreren. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.8",
+            "verseOrgIds": [
+              "ZEP.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEP 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ore te ina olong naitame nanu lelo pooki ooseremisho anaa iltung'ana lemeyiolo Enkai lelo oopurrisho near iltung'ana metuata pee etumi aaiputa nkajijik o lkitok lenye iyarunot.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.9",
+            "verseOrgIds": [
+              "ZEP.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEP 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.9",
+            "verseOrgIds": [
+              "ZEP.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ZEP 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ore akenya te ina olong,” Olaitoriani ojo, “naa kening'i olkiyioi teina Kishomi o Sinkirri, eyietunoto e nkishirata naing'uaa Endung'oto e Are, esulunoto kitok too ldoinyo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.10",
+            "verseOrgIds": [
+              "ZEP.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ZEP 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Enteyietu enchira intae iloomanya Motar! Amu meekure eetae ilbiasharani; ore lelo pooki ooipim enkosholai nedungori aaiwuangie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.11",
+            "verseOrgIds": [
+              "ZEP.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ZEP 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.11",
+            "verseOrgIds": [
+              "ZEP.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ZEP 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ore akenya te ina olong naa kajur nanu Yerusalem too ltaai, naa kaitame nanu lelo tung'ana ooishiligate te okoto e naisho enye, oojo too ltauja lenye, ‘Meas Olaitoriani esidai nemeas entorrono.’ ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.12",
+            "verseOrgIds": [
+              "ZEP.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ZEP 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kerayae imasaa enye, neitomijooni nkajijik enye. Ore hoo neshet ninche nkajijik memany ninche; ore hoo neun ninche nkurman oo sabibu meok ninche enaisho enye.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.13",
+            "verseOrgIds": [
+              "ZEP.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ZEP 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.13",
+            "verseOrgIds": [
+              "ZEP.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ZEP 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ore ina olong kitok o Laitoriani netinyikua, etinyikua naa kesieku; kedua oltoilo le ina olong o Laitoriani, keyietu aishir oltung'ani magilani te ine. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.14",
+            "verseOrgIds": [
+              "ZEP.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ZEP 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Enkolong e ngoro napi ina olong, enkolong o sina o emion, enkolong e nkidaata o emutata, enkolong e naimin o enkimuntut",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.15",
+            "verseOrgIds": [
+              "ZEP.1.15"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1.15",
+              "type": "text"
+            },
+            {
+              "text": "enkimuntut",
+              "type": "text"
+            },
+            {
+              "text": "enkata nemeetae enchipai - enkisuuto",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ", enkolong oo nkatampo o enaimin nagut, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.15",
+            "verseOrgIds": [
+              "ZEP.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ZEP 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "enkolong e oshoto e ntarumpeta o lkiyioi lo larrabal, egilunore nena anas naasheta isunta negilunore iltaleta lo larrabal.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.16",
+            "verseOrgIds": [
+              "ZEP.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ZEP 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.16",
+            "verseOrgIds": [
+              "ZEP.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ZEP 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kayau nanu osina shumata iltung'ana, o metaa kepuo ninche anaa ilmodook, enkaraki nataasa ninche eng'oki ti alo Olaitoriani; keibukori osarge lenye anaa enterit, neikoni inkiri oo seseni lenye anaa emodioi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.17",
+            "verseOrgIds": [
+              "ZEP.1.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ZEP 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.17",
+            "verseOrgIds": [
+              "ZEP.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ZEP 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mekordu ninche enkosholai enye aashu sahabu enye te ina olong e ngoro o Laitoriani. Ore ti atua enkima e ina goro enye o lom, keinosi aamut enkop pooki; amu te nkiting'oto nara ee enkiting'oto naluamisho keiting'ie ninye asioki lelo pooki oomanya enkop.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.18",
+            "verseOrgIds": [
+              "ZEP.1.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEP.2",
+    "number": "2",
+    "bookId": "ZEP"
+  },
+  "previous": {
+    "id": "ZEP.intro",
+    "number": "intro",
+    "bookId": "ZEP"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "ISA.18",
+  "number": "18",
+  "bookId": "ISA",
+  "reference": "Icaya 18",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "18",
+        "style": "c",
+        "sid": "ISA 18"
+      },
+      "items": [
+        {
+          "text": "18",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 18:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.18.6",
+            "verseOrgIds": [
+              "ISA.18.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 18:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I kare-nono rok ame odoŋo aboco dok ame komgi pwot, bino kelo mot baŋ Rwot me mony. Gin rok ame olworo i kabedo luŋ, rok atek, ame gin oloc i lweny, rok ame kulli opoko lobogi i dyere. Gin bino kelo motginono i wi kidi me Cion, kan ame oworo iye Rwot me mony.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.18.7",
+            "verseOrgIds": [
+              "ISA.18.7"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.19",
+    "number": "19",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.17",
+    "number": "17",
+    "bookId": "ISA"
+  }
+}

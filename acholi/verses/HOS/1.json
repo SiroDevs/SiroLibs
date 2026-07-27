@@ -1,0 +1,659 @@
+{
+  "id": "HOS.1",
+  "number": "1",
+  "bookId": "HOS",
+  "reference": "Kocea 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "HOS 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.1",
+            "verseOrgIds": [
+              "HOS.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        2 Luker 14.23–15.7; 15.32–16.20; 18.1–20.21; 2 Tek 26.1–27.8; 28.1–32.33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man lok pa Rwot ma yam obino bot Kocea, wod pa Beeri i kare pa Ujia, Yocam, Akaj ki Kejekia ma gin luker me Juda, ki i kare pa Jeroboam wod pa Yoaci kabaka me Icrael.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.1",
+            "verseOrgIds": [
+              "HOS.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.1",
+            "verseOrgIds": [
+              "HOS.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "HOS 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I kare ma Rwot okwoŋo lok ki i dog Kocea, Rwot owaco bot Kocea ni, “Cit icinyom nyako ma lakwele, wek inywal kwede litino me kwele, pien lobo tye ka timo tim kwele pi kwero lubo Rwot.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.2",
+            "verseOrgIds": [
+              "HOS.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HOS 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kocea ocito onyomo Gomer nya pa Diblaim, ci Gomer ogamo ic, onywalo latin laco.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.3",
+            "verseOrgIds": [
+              "HOS.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HOS 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.3",
+            "verseOrgIds": [
+              "HOS.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HOS 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.4",
+            "verseOrgIds": [
+              "HOS.1.4"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.10.11"
+              },
+              "items": [
+                {
+                  "text": "2 Luker 10.11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rwot owaco bot Kocea ni, “Cak nyiŋe Jejreel, pien odoŋ kare manok, abiketo can i kom ot pa Yeko pi remo ma oonyo i Jejreel, dok abimiyo ker me ot pa Icrael doŋ gik woko. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.4",
+            "verseOrgIds": [
+              "HOS.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HOS 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Dok i nino meno abituro atum pa Icrael woko ki i nota me Jejreel.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.5",
+            "verseOrgIds": [
+              "HOS.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HOS 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.5",
+            "verseOrgIds": [
+              "HOS.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "HOS 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gomer doki ogamo ic, ci onywalo latin nyako, Rwot owaco bot Kocea ni, “Cak nyiŋe Lo-rukama",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.6",
+            "verseOrgIds": [
+              "HOS.1.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1.6",
+              "type": "text"
+            },
+            {
+              "text": "Lo-rukama",
+              "type": "text"
+            },
+            {
+              "text": "te lokke: Pe gitime kica nyo Akwero.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ", pien pe dok abimedde ki timo kica i kom ot pa Icrael, pe abiweko balgi kadi ki acel. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.6",
+            "verseOrgIds": [
+              "HOS.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "HOS 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ento abitimo kica ki ot pa Juda, abilarogi pi tok pa Rwot Lubaŋagi; pe abilarogi ki atum, kadi ki pala lucwan, nyo ki lweny, nyo ki aguragura, kadi ki wegi aguragura.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.7",
+            "verseOrgIds": [
+              "HOS.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "HOS 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.7",
+            "verseOrgIds": [
+              "HOS.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "HOS 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ka doŋ Gomer ogeŋo latin doto cak, ci ogamo ic, onywalo latin laco. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.8",
+            "verseOrgIds": [
+              "HOS.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "HOS 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rwot owacci, “Cak nyiŋe, Lo-ammi",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.9",
+            "verseOrgIds": [
+              "HOS.1.9"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1.9",
+              "type": "text"
+            },
+            {
+              "text": "Lo-ammi",
+              "type": "text"
+            },
+            {
+              "text": "te lokke: Pe jona nio Kalokwera.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ", pien wun pe wujona, dok an pe Lubaŋawu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.9",
+            "verseOrgIds": [
+              "HOS.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "HOS 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.9",
+            "verseOrgIds": [
+              "HOS.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "HOS 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.10",
+            "verseOrgIds": [
+              "HOS.1.10"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.9.26"
+              },
+              "items": [
+                {
+                  "text": "Rom 9.26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ento wel jo Icrael bibedo macalo kweyo me dog nam, ma pe pimme, ma pe kwanne bene; dok i kabedo ka ma ceŋ giwaco botgi ni, “Wun pe wujona” gibiwaco botgi ni, “Wun litino pa Lubaŋa makwo.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.10",
+            "verseOrgIds": [
+              "HOS.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "HOS 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jo Juda ki jo Icrael gibicokke kacel, ci gibiketo ŋat acel ma bi telo wigi; ci gibia woko ki i lobo meno, pien nino pa Jejreel bibedo dit twatwal.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.11",
+            "verseOrgIds": [
+              "HOS.1.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.2",
+    "number": "2",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "DAN.12",
+    "number": "12",
+    "bookId": "DAN"
+  }
+}

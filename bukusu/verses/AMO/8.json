@@ -1,0 +1,154 @@
+{
+  "id": "AMO.8",
+  "number": "8",
+  "bookId": "AMO",
+  "reference": "Amo. 8",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "8",
+        "style": "c",
+        "sid": "AMO 8"
+      },
+      "items": [
+        {
+          "text": "8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Sikono sie kamatuunda sibonekha mu malola",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 8:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naba ne kamalola kakaandi khukhwama khu Mwami WELE, anjekesia sikono sisichuule kamatuunda ke mu siimiyu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.1",
+            "verseOrgIds": [
+              "AMO.8.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "AMO 8:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wele Omunyali Owa Bioosi areeba ali, “Amosi, olikho obona siina?” Nakobosia ndi, “Naboone sikono sie kamatuunda ke mu siimiyu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.2",
+            "verseOrgIds": [
+              "AMO.8.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "AMO 8:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nio Wele Omunyali Owa Bioosi amboolela ali,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.2",
+            "verseOrgIds": [
+              "AMO.8.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Libuna lia Isiraeli",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.9",
+    "number": "9",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.7",
+    "number": "7",
+    "bookId": "AMO"
+  }
+}

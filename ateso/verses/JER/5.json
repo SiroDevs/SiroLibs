@@ -1,0 +1,185 @@
+{
+  "id": "JER.5",
+  "number": "5",
+  "bookId": "JER",
+  "reference": "Yeremia 5",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "JER 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JER 5:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.5.17",
+            "verseOrgIds": [
+              "JER.5.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JER 5:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Konye ebala EJAKAIT ebe, karaida kapaarasia kanun, mam ketananete cut. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.5.18",
+            "verseOrgIds": [
+              "JER.5.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JER 5:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.29.24"
+              },
+              "items": [
+                {
+                  "text": "Ikis 29:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.28.48"
+              },
+              "items": [
+                {
+                  "text": "28:48",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1KI.9.8"
+              },
+              "items": [
+                {
+                  "text": "1 Ika 9:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.13.22"
+              },
+              "items": [
+                {
+                  "text": "Yer 13:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Kosodi kanen, naineriata atiar, ‘Kanukinyo kiswamakinia EJAKAIT Ewokodeke akiro ŋun kere?’ Kosodi Koboŋok kes ebe, ‘Kwape kinyeiniata yesi eoŋ, kijaanakis idekesio lumo kakwapukus, ijaanakinete kwape kwaŋin imo kakwap namere nakus.’’’",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.5.19",
+            "verseOrgIds": [
+              "JER.5.19"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.6",
+    "number": "6",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.4",
+    "number": "4",
+    "bookId": "JER"
+  }
+}

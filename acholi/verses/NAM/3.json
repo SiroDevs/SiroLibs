@@ -1,0 +1,69 @@
+{
+  "id": "NAM.3",
+  "number": "3",
+  "bookId": "NAM",
+  "reference": "Nakum 3",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "NAM 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "NAM 3:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rac ma itimo dikdik-ki peya opoto i kom aŋa?",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.3.19",
+            "verseOrgIds": [
+              "NAM.3.19"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAB.1",
+    "number": "1",
+    "bookId": "HAB"
+  },
+  "previous": {
+    "id": "NAM.2",
+    "number": "2",
+    "bookId": "NAM"
+  }
+}
