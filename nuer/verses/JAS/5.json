@@ -1,0 +1,765 @@
+{
+  "id": "JAS.5",
+  "number": "5",
+  "bookId": "JAS",
+  "reference": "Jem 5",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 20,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "JAS 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Luek kɛ kui̱ raam mi riäŋ riäŋ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JAS 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bia täämɛ, yɛn nɛy tin ria̱ŋ ria̱a̱ŋ, rötdɛ kä wiee ɛ kɛ kui̱ rikni tin bä kä yɛ. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.1",
+            "verseOrgIds": [
+              "JAS.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JAS 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ci ria̱ŋdun nuɔɔr, kä ca bieynikun cam ɛ diɛɛr. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.2",
+            "verseOrgIds": [
+              "JAS.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JAS 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ci da̱a̱pdun kɛnɛ ciɛkdun in bo̱r kɛɛth, kä bi kɛ̈thdiɛn ɛmɔ a nyuuth kɛ kui̱dun, kä bɛ pua̱nykun cam ce̱tkɛ mi ca waŋ kɛ mac. Cia ria̱ŋdun dol kɛ kui̱ ni̱ni gutdä. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.3",
+            "verseOrgIds": [
+              "JAS.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JAS 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "5:4",
+              "type": "text"
+            },
+            {
+              "text": "Mɛ̈l 3:5, Liib 19:13.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nɛ̈nɛ jɛ, kök la̱a̱tni tëë ci lät rɛy ka̱a̱knikun /ken yɛnkɛ ka̱mkɛ wieekɛ, kä wiee la̱a̱tni tɔ̱tɔ̱ ca liŋ ɛ Kuäär in la Ruey Ɣɔaa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.4",
+            "verseOrgIds": [
+              "JAS.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JAS 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Cia cieŋ wi̱i̱ muɔ̱ɔ̱n kɛ ti̱el kɛnɛ tɛ̈th lɔaac mi di̱i̱t. Cia rɔ̱ cuay kɛ cäŋ ŋutdä. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.5",
+            "verseOrgIds": [
+              "JAS.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JAS 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Cia gua̱n cuŋni kuɛ̈th li̱th, kä ci yɛn ɛ näk, kä /kenɛ yɛ thak jɔk.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.6",
+            "verseOrgIds": [
+              "JAS.5.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Li̱ep bitdä kɛnɛ pal",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JAS 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.6",
+            "verseOrgIds": [
+              "JAS.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JAS 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kɛ kui̱ ɛmɔ, dämaari, li̱epɛ kɛ biɛt amäni cäŋ in bi ben kɛ Kuäär ni Yecu. Nɛ̈nɛ jɛ, liip pi̱i̱th kakä ciɛk bɛɛl tin cɛ pith muun, bɛ kɛ lip bitdä, amäni mi ci nhiaal in jio̱l kɛnɛ nhiaal in jɔak dɛ̈m. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.7",
+            "verseOrgIds": [
+              "JAS.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JAS 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amäni yɛn bä, li̱epɛ bitdä, buɔ̱mɛ lo̱ckun, kɛ ɣöö ci ben Kua̱r ni Yecu thia̱k. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.8",
+            "verseOrgIds": [
+              "JAS.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JAS 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "/Cuarɛ rɔ̱ gɔny kamnikun dämaari kɛ ɣöö /ca yɛ bi luk. Nɛ̈nɛ jɛ, te Kuäär luɔ̱k cuŋä thok thiek. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.9",
+            "verseOrgIds": [
+              "JAS.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JAS 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Carɛ göök Kuɔth tëë wal dämaari tëë ci ruac kɛ ciöt Kua̱r ni Kuoth ala nyuuth kɛ ruɔ̱t kä ti bɛ̈c bɛ̈ɛ̈c kɛnɛ li̱ep bitdä. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.10",
+            "verseOrgIds": [
+              "JAS.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JAS 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ɛ puc cɔɔl kɔn kɛ i̱ ti ca poth kɛn nɛy tin tekɛ dhi̱eel. Cia dhi̱eel I-yob liŋ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.11",
+            "verseOrgIds": [
+              "JAS.5.11"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "5:11",
+              "type": "text"
+            },
+            {
+              "text": "Diit 103:8.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " kä cia ca̱p Kua̱r ni Kuoth nɛn, ɛn ɣöö Kuäär gɔaaɛ kä kɔ̱c lɔcdɛ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.11",
+            "verseOrgIds": [
+              "JAS.5.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JAS 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.11",
+            "verseOrgIds": [
+              "JAS.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JAS 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kä min te wi̱i̱ kä ti̱ti̱ diaal, dämaari, /cuarɛ rɔ̱ yac kɛ nhial, kiɛ wi̱c muɔ̱ɔ̱n kiɛ kɛ mi dɔ̱diɛn. Kä duundɛ ɣöö ɛ “Ɣɔ̱ɔ̱ndun” la “Ɣɔ̱ɔ̱n”, kä a “Ëëydun” la “Ëëy”, kɛ ɣöö dɔ̱ŋ /ca yɛ dee kuɛth kɛ luk.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.12",
+            "verseOrgIds": [
+              "JAS.5.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Pal ŋäthä",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JAS 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.12",
+            "verseOrgIds": [
+              "JAS.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JAS 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tëëkɛ ram kɛl kä yɛ mi tekɛ riɛk? A jɛ pal. Tëëkɛ ram mi tɛth lɔcdɛ? A jɛ kɛt diit puɔnyä. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.13",
+            "verseOrgIds": [
+              "JAS.5.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JAS 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tëëkɛ raan rɛydun mi cɛ moc kɛ juey? A jɛ cɔɔl ɛldɛri, kä akɛ pal kɛ kui̱dɛ, kä a jɛ yierkɛ kɛ yieer kɛ ciöt Kua̱r ni Yecu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.14",
+            "verseOrgIds": [
+              "JAS.5.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JAS 5:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bi pal ŋäthä puɔ̱ny raam in tekɛ juey jakä gɔaa, kä bi Kuäär ni Yecu jɛ jiɛc. Kä bɛ ram mi ci dueer la̱t pälikä. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.15",
+            "verseOrgIds": [
+              "JAS.5.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JAS 5:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kɛ kui̱ ɛmɔ a ramɔ lär ramɔ dueerkɛ, kä a ramɔ kɛ kui̱ raamɔ, kɛ ɣöö dee pua̱nykun gɔw. Pal gua̱n cuŋni bumɛ kä lätdɛ. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.16",
+            "verseOrgIds": [
+              "JAS.5.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JAS 5:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "E-li-yaa ɛ raan ce̱t ta̱a̱dɛ kɛ ta̱a̱dan. Cuɛ pal kɛ lɔcdɛ kɛɛliw kɛ ɣöö /ci nhiaal bi dɛ̈m, kä /ken nhiaal dɛ̈m kɛ run da̱ŋ diɔ̱k wi̱cdɛ päth da̱ŋ bäkɛl. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.17",
+            "verseOrgIds": [
+              "JAS.5.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JAS 5:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kä cuɛ rɔ nyɔk kɛ pal, kä cu pua̱r rɔ lɛp cuɛ dɛ̈m, kä cu mun dɛykɛ kuir.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.18",
+            "verseOrgIds": [
+              "JAS.5.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JAS 5:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.18",
+            "verseOrgIds": [
+              "JAS.5.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JAS 5:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Dämaari, mi tëëkɛ ram kɛl kä yɛ mi ci rɔ ciac raar kä thuɔ̱k, kä ca jɛ ɛ luɔ̱ɔ̱c jɔk ram kɛl, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.19",
+            "verseOrgIds": [
+              "JAS.5.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "JAS 5:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ŋa̱cɛ jɛ ɛn ɣöö ram mi ci gua̱n dui̱rä luɔ̱c jɔk bathä bɛ tiey raam in ci duer kän li̱th, kä bɛ päl dueer ti ŋuan nööŋ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.5.20",
+            "verseOrgIds": [
+              "JAS.5.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1PE.intro",
+    "number": "intro",
+    "bookId": "1PE"
+  },
+  "previous": {
+    "id": "JAS.4",
+    "number": "4",
+    "bookId": "JAS"
+  }
+}
