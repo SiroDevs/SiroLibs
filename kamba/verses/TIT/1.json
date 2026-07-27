@@ -1,0 +1,699 @@
+{
+  "id": "TIT.1",
+  "number": "1",
+  "bookId": "TIT",
+  "reference": "Tito 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "TIT 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "TIT 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Vaũlo, ngombo ya Ngai, na mũtũmwa wa Yesũ Klĩsto kwĩanana na mũĩkĩĩo wa anyuve ma Ngai, na ũmanyi wa ũla w’o ũla wĩanene na kũmũkĩa Ngai, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.1",
+            "verseOrgIds": [
+              "TIT.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "TIT 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nthĩnĩ wa wĩkwatyo wa thayũ ũtathela, ũla Ngai wathie mbee wa mavinda ma tene tene, nake ndatonya kũneena ũvũngũ; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.2",
+            "verseOrgIds": [
+              "TIT.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "TIT 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.1.9"
+              },
+              "items": [
+                {
+                  "text": "Aev 1.9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.1.10"
+              },
+              "items": [
+                {
+                  "text": "10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.1.1"
+              },
+              "items": [
+                {
+                  "text": "1 Tim 1.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.1.11"
+              },
+              "items": [
+                {
+                  "text": "11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ĩndĩ mavindanĩ make nĩwavuanisye ndeto yake nthĩnĩ wa ũtũmane, ũla nyie naĩkĩĩwe nĩthĩwe naw’o kwondũ wa mwĩao wa Ngai Mũtangĩĩi waitũ; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.3",
+            "verseOrgIds": [
+              "TIT.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "TIT 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.1.2"
+              },
+              "items": [
+                {
+                  "text": "1 Tim 1.2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "valũa ũũ wakwa ũmũvikĩe Tito, mwana wakwa wa w’o nũndũ wa mũĩkĩĩo ũmwe ũla twĩ naw’o: Mumo na mũuo kuma kwa Ngai Asa na Klĩsto Yesũ Mũtangĩĩi waitũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.4",
+            "verseOrgIds": [
+              "TIT.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "TIT 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.4",
+            "verseOrgIds": [
+              "TIT.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "TIT 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwondũ wa ũndũ ũũ nakũtiie Kilete, nĩ kana maũndũ ala matiele kwikwa ũmaseũvye, na kwia atumĩa kĩla ndũa, o tondũ nakwĩaĩe; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.5",
+            "verseOrgIds": [
+              "TIT.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "TIT 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.3.2+1TI.3.3+1TI.3.4"
+              },
+              "items": [
+                {
+                  "text": "1 Tim 3.2–4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ethĩwa mũndũ ndaweteka ũndũ ũthũku, na nĩ mũũme wa kiveti o kimwe, ũla wĩ na syana syĩtikĩlaa, itavinganĩw’a kwĩthĩwa na ngũlũ na wau wa matũ. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.6",
+            "verseOrgIds": [
+              "TIT.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "TIT 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.4.1"
+              },
+              "items": [
+                {
+                  "text": "1 Ako 4.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.5.2"
+              },
+              "items": [
+                {
+                  "text": "1 Vet 5.2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2TI.2.24"
+              },
+              "items": [
+                {
+                  "text": "2 Tim 2.24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nũndũ mũsyaĩĩsya nĩwaĩle kwĩthĩwa ataweteka ũndũ ũthũku, ta mũsũvĩi maũndũnĩ ma Ngai; na ndakethĩwe na mĩtavyo, kana kũthata mitũkĩ, ndakethiwe mũnywi wa ũki, kana mũkũni wa andũ, ndakethiwe mwendi wa kũunwa nĩ syĩndũ itamwaĩle; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.7",
+            "verseOrgIds": [
+              "TIT.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "TIT 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ĩndĩ ethĩwe mũthokya wa aeni, na mwendi wa ũseo, ũla wĩ na kĩlĩko, mũndũ mũlũngalu, mũndũ mũtheu, na mwĩting’u; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.8",
+            "verseOrgIds": [
+              "TIT.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "TIT 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "TIT.2.1"
+              },
+              "items": [
+                {
+                  "text": "Tito 2.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.1.10"
+              },
+              "items": [
+                {
+                  "text": "1 Tim 1.10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2TI.4.3"
+              },
+              "items": [
+                {
+                  "text": "2 Tim 4.3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ailũmya ndeto ĩla ya kĩthito ĩla yĩanene na ũla ũmanyĩsyo, nĩ kana atonye kũtaa ũmanyĩsyonĩ ũla wa w’o, vamwe na kũmaĩkĩĩthya akananĩi mavĩtyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.9",
+            "verseOrgIds": [
+              "TIT.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "TIT 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.9",
+            "verseOrgIds": [
+              "TIT.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "TIT 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nũndũ kwi mbaa matũ mbingĩ, aneenĩ ma ndeto sya mana na akengani, na mũno nĩ ma ala maĩkawa, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.10",
+            "verseOrgIds": [
+              "TIT.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "TIT 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2TI.3.6"
+              },
+              "items": [
+                {
+                  "text": "2 Tim 3.6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.10.12"
+              },
+              "items": [
+                {
+                  "text": "Yoa 10.12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.5.2"
+              },
+              "items": [
+                {
+                  "text": "1 Vet 5.2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "namo mũvaka makanyw’a moo mavindĩthw’e; andũ ala makulumanasya nyũmba nĩma sya andũ, makimanyĩsya maũndũ mataĩle, kwondũ wa kwenda kũunwa nĩ syĩndũ itamaĩle. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.11",
+            "verseOrgIds": [
+              "TIT.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "TIT 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũndũ ũmwe wamo, mwathanĩ woo, aisye,",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.12",
+            "verseOrgIds": [
+              "TIT.1.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "TIT.2",
+    "number": "2",
+    "bookId": "TIT"
+  },
+  "previous": {
+    "id": "2TI.4",
+    "number": "4",
+    "bookId": "2TI"
+  }
+}

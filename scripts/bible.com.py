@@ -435,9 +435,7 @@ def main():
     total = sum(len(entries) for entries in chapters_by_book.values())
 
     book_ids = list(chapters_by_book.keys())
-    print(f"Processing {len(book_ids)} books ({total} chapters total), one book at a time. "
-          f"Chapters with an existing verses/<BOOK>/<n>.json are skipped, so re-running "
-          f"this same command resumes where it left off.")
+    print(f"Processing {len(book_ids)} books ({total} chapters total), one book at a time.")
 
     done = 0
     for book_id in book_ids:
