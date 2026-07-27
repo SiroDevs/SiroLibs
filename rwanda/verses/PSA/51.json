@@ -1,0 +1,127 @@
+{
+  "id": "PSA.51",
+  "number": "51",
+  "bookId": "PSA",
+  "reference": "Zaburi 51",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "51",
+        "style": "c",
+        "sid": "PSA 51"
+      },
+      "items": [
+        {
+          "text": "51",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 51:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.51.1",
+            "verseOrgIds": [
+              "PSA.51.1"
+            ]
+          }
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.51.1",
+            "verseOrgIds": [
+              "PSA.51.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 51:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2SA.12.1+2SA.12.2+2SA.12.3+2SA.12.4+2SA.12.5+2SA.12.6+2SA.12.7+2SA.12.8+2SA.12.9+2SA.12.10+2SA.12.11+2SA.12.12+2SA.12.13+2SA.12.14+2SA.12.15"
+              },
+              "items": [
+                {
+                  "text": "2 Sam 12.1-15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.51.2",
+            "verseOrgIds": [
+              "PSA.51.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.52",
+    "number": "52",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.50",
+    "number": "50",
+    "bookId": "PSA"
+  }
+}

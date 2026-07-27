@@ -1,0 +1,3377 @@
+{
+  "id": "DEU.1",
+  "number": "1",
+  "bookId": "DEU",
+  "reference": "Deuteronomo 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 46,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "DEU 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DEU 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.1",
+            "verseOrgIds": [
+              "DEU.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.32.6"
+              },
+              "items": [
+                {
+                  "text": "My 32:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.32.20"
+              },
+              "items": [
+                {
+                  "text": "20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.32.29"
+              },
+              "items": [
+                {
+                  "text": "29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.9.1"
+              },
+              "items": [
+                {
+                  "text": "Jos 9:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.22.4"
+              },
+              "items": [
+                {
+                  "text": "22:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.22.7"
+              },
+              "items": [
+                {
+                  "text": "7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ngaaya majwi aa-Musa ngaakaambila ba-Israyeli boonse mutala lyaJordano munkanda; ku-Araba kulangene a-Sufi, akatikati ka-Parana a-Tofeli, Labani, a-Hazeroti a-Dizahabu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.1",
+            "verseOrgIds": [
+              "DEU.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DEU 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.13.26"
+              },
+              "items": [
+                {
+                  "text": "My 13:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.9.23"
+              },
+              "items": [
+                {
+                  "text": "Dt 9:23",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ndweendo lwamazuba aali ikumi abumwi kuzwa ku-Horebu kwiinda kucilundu ca-Seiri kusikila ku-Kadesi-Barinea. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.2",
+            "verseOrgIds": [
+              "DEU.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "DEU 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.33.38"
+              },
+              "items": [
+                {
+                  "text": "My 33:38",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mumwaka wamakumi one, mumwezi wakumi aumwi, mubuzuba butaanzi bwamumwezi, Musa wakaambila bana ba-Israyeli makani oonse Jehova ngaakamulailila aakutola kulimbabo, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.3",
+            "verseOrgIds": [
+              "DEU.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DEU 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.21.21+NUM.21.22+NUM.21.23+NUM.21.24+NUM.21.25+NUM.21.26+NUM.21.27+NUM.21.28+NUM.21.29+NUM.21.30+NUM.21.31+NUM.21.32+NUM.21.33+NUM.21.34+NUM.21.35"
+              },
+              "items": [
+                {
+                  "text": "My 21:21-35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NEH.9.22"
+              },
+              "items": [
+                {
+                  "text": "Neh 9:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.135.11"
+              },
+              "items": [
+                {
+                  "text": "Int 135:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.139.19"
+              },
+              "items": [
+                {
+                  "text": "139:19",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "naakamana kunyonyoona Silioni mwami waba-Amori, iwakakede ku-Hesiboni, a-Ogi mwami wa-Basana iwakakede ku-Asitaroti aku-Edrei. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.4",
+            "verseOrgIds": [
+              "DEU.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "DEU 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mutala lya-Jordano, munyika ya-Moabu, Musa mwaakatalikila kupandulula eyi milao, Wati, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.5",
+            "verseOrgIds": [
+              "DEU.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DEU 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.3.11"
+              },
+              "items": [
+                {
+                  "text": "Kul 3:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.9.1"
+              },
+              "items": [
+                {
+                  "text": "9:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.10.11"
+              },
+              "items": [
+                {
+                  "text": "My 10:11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Jehova Leza wesu wakatwaambila ku-Horebu, wakati, Mwakala ciindi cilamfu kucilundu eci; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.6",
+            "verseOrgIds": [
+              "DEU.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "DEU 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "amunyamuke, mulongele kuzilundu zyabaAmori amisyobo iibambene abo mu-Araba, kuzilundu akucisi catulundulundu aku-Negebi akunkomwe yalwizi, nyika yaba-Kanana, a-Lebanoni, kusikila kumulonga mupati, mulonga wa-Firate. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.7",
+            "verseOrgIds": [
+              "DEU.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DEU 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.12.7"
+              },
+              "items": [
+                {
+                  "text": "Matl 12:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.15.18"
+              },
+              "items": [
+                {
+                  "text": "15:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.28.13"
+              },
+              "items": [
+                {
+                  "text": "28:13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Amubone! Ndabika nyika kumeso aanu, Amunjile, mwiivube nyika eyo Jehova njaakakonkezya kulibamausowanu, ba-Abrahamu a-Izaka a-Jakobo, kuti abape njiyo, balo alunyungu lwabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.8",
+            "verseOrgIds": [
+              "DEU.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DEU 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.8",
+            "verseOrgIds": [
+              "DEU.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "DEU 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.9",
+            "verseOrgIds": [
+              "DEU.1.9"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.18.18"
+              },
+              "items": [
+                {
+                  "text": "Kul 18:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.11.14"
+              },
+              "items": [
+                {
+                  "text": "My 11:14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Kuciindi eco ndakamwaambila kuti, nsikonzyi kumulela endike. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.9",
+            "verseOrgIds": [
+              "DEU.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DEU 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.15.5"
+              },
+              "items": [
+                {
+                  "text": "Matl 15:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.22.17"
+              },
+              "items": [
+                {
+                  "text": "22:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.28.14"
+              },
+              "items": [
+                {
+                  "text": "28:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.32.13"
+              },
+              "items": [
+                {
+                  "text": "Kul 32:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.10.22"
+              },
+              "items": [
+                {
+                  "text": "Dt 10:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.28.62"
+              },
+              "items": [
+                {
+                  "text": "28:62",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.27.23"
+              },
+              "items": [
+                {
+                  "text": "1 Mak 27:23",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Jehova Leza wanu wamuvuzya, aboobo sunu muli banji loko mbuli inyenyeezi zyakujulu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.10",
+            "verseOrgIds": [
+              "DEU.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "DEU 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.22.17"
+              },
+              "items": [
+                {
+                  "text": "Matl 22:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.26.4"
+              },
+              "items": [
+                {
+                  "text": "26:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.32.13"
+              },
+              "items": [
+                {
+                  "text": "Kul 32:13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Jehova Leza wabamauso wanu amuyungizizye alimwi ziindi zili cuulu, muvule kwiinda sunu, akumupa coolwe mbubonya mbwaakasyomezya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.11",
+            "verseOrgIds": [
+              "DEU.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DEU 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1KI.3.8"
+              },
+              "items": [
+                {
+                  "text": "1 Bam 3:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CO.11.28"
+              },
+              "items": [
+                {
+                  "text": "2 Kor 11:28",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Njumune buti makataazyo aanu amukuli wankondo zyanu, mebo endike? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.12",
+            "verseOrgIds": [
+              "DEU.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "DEU 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amusale bantu basongo, bacenjede, bali amaanu, mumisyobo yanu, mbabike kuti babe basilutwe banu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.13",
+            "verseOrgIds": [
+              "DEU.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "DEU 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mpawo mwakandivwiila kuti, Cintu ncoamba cililuleme kuti tucite. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.14",
+            "verseOrgIds": [
+              "DEU.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "DEU 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aboobo ndakatambula basilutwe bamisyobo yanu, bantu basongo bacenjede, ndakababika kuti babe basilutwe banu, bapati bazyuulu, abapati bamyanda, abapati bankamu zyamakumi osanwe, bapati bamakumi, abasolozi, mumisyobo yenu yoonse. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.15",
+            "verseOrgIds": [
+              "DEU.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "DEU 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.23.2+EXO.23.3+EXO.23.4+EXO.23.5+EXO.23.6+EXO.23.7+EXO.23.8"
+              },
+              "items": [
+                {
+                  "text": "Kul 23:2-8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.7.24"
+              },
+              "items": [
+                {
+                  "text": "Joh 7:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.24.22"
+              },
+              "items": [
+                {
+                  "text": "Lev 24:22",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Lino kuciindi eco nciconya ndakalailila babetesi banu kuti, Amubeteke milandu yababunyina, akukosola kabotu makani aamuntu umwi aumwi amweenzinyina naba mweenzu uukala awe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.16",
+            "verseOrgIds": [
+              "DEU.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "DEU 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.16.7"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 16:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.24.23"
+              },
+              "items": [
+                {
+                  "text": "Tus 24:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JAS.2.1"
+              },
+              "items": [
+                {
+                  "text": "Jak 2:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.28.21"
+              },
+              "items": [
+                {
+                  "text": "Tus 28:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.29.4"
+              },
+              "items": [
+                {
+                  "text": "29:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.29.25"
+              },
+              "items": [
+                {
+                  "text": "25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.19.6"
+              },
+              "items": [
+                {
+                  "text": "2 Mak 19:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.18.22"
+              },
+              "items": [
+                {
+                  "text": "Kul 18:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.18.26"
+              },
+              "items": [
+                {
+                  "text": "26",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Tamweelede kusalaula mukubeteka kwanu; muleelede kuswiilila makani aabantu boonse buyo, nebaba bapati nebaba baniini; alimwi mutayoowi bantu, nkaambo imilimo yakubeteka njiya-Leza. Amakani aamukacila, amwaalete kulindime, nkaswiilile. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.17",
+            "verseOrgIds": [
+              "DEU.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "DEU 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alimwi ndakamulailila kuciindi eco nciconya zintu zyoonse nzemweelede kucita.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.18",
+            "verseOrgIds": [
+              "DEU.1.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "DEU 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.18",
+            "verseOrgIds": [
+              "DEU.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "DEU 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.19",
+            "verseOrgIds": [
+              "DEU.1.19"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.10.12"
+              },
+              "items": [
+                {
+                  "text": "My 10:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.8.15"
+              },
+              "items": [
+                {
+                  "text": "Dt 8:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.2.6"
+              },
+              "items": [
+                {
+                  "text": "Jer 2:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.13.26"
+              },
+              "items": [
+                {
+                  "text": "My 13:26",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Elyo twakanyamuka kuzwa ku-Horebu, twainda akati kankanda impati iiyoosya njemwakabona, kunzila yazilundu zyaba-Amori, mbubonya mbuli Jehova mbwaakatulailila, mane hunwi twakasika ku-Kadesi-Barinea. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.19",
+            "verseOrgIds": [
+              "DEU.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "DEU 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lino ndakamwaambila kuti, Mwasika kuzilundu zyaba-Amori, nyika njatupa Jehova Leza wesu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.20",
+            "verseOrgIds": [
+              "DEU.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "DEU 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.13.30"
+              },
+              "items": [
+                {
+                  "text": "My 13:30",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.14.8"
+              },
+              "items": [
+                {
+                  "text": "14:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.14.9"
+              },
+              "items": [
+                {
+                  "text": "9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.1.9"
+              },
+              "items": [
+                {
+                  "text": "Jos 1:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.27.1+PSA.27.2+PSA.27.3"
+              },
+              "items": [
+                {
+                  "text": "Int 27:1-3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.46.1"
+              },
+              "items": [
+                {
+                  "text": "46:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.46.7"
+              },
+              "items": [
+                {
+                  "text": "7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.46.11"
+              },
+              "items": [
+                {
+                  "text": "11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.41.10"
+              },
+              "items": [
+                {
+                  "text": "Is 41:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.43.1"
+              },
+              "items": [
+                {
+                  "text": "43:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.43.2"
+              },
+              "items": [
+                {
+                  "text": "2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.12.32"
+              },
+              "items": [
+                {
+                  "text": "Lk 12:32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.13.6"
+              },
+              "items": [
+                {
+                  "text": "Heb 13:6",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Amubone! Jehova Leza wanu wabika nyika kumeso aanu. Kamuya, mukaivube, mbubonya mbuli Jehova Leza wabamauso mbwaakamwaambila. Mutayoowi nekuba kukankama. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.21",
+            "verseOrgIds": [
+              "DEU.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "DEU 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mpawo mwakasika nyoonse akwaamba kuti, Atutaangune kutuma bantu, kuti batutwelele nyika akutuletela makani aanzila njitutola amakani aaminzi njetuyoojana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.22",
+            "verseOrgIds": [
+              "DEU.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "DEU 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.13.3"
+              },
+              "items": [
+                {
+                  "text": "My 13:3",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Lino ayo makani-akandibotela, nkabela ndakasala bantu bali ikumi ababili akati kanu, nkokuti muntu omwe kumusyobo umwi aumwi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.23",
+            "verseOrgIds": [
+              "DEU.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "DEU 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nkabela bakanyamuka, baya kuzilundu, basika kukalonga kaEsikolo batwela nkuko. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.24",
+            "verseOrgIds": [
+              "DEU.1.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "DEU 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Elyo bakabweza imwi micelo yanyika mumaanza aabo akwiileta kulindiswe. Nkabela bakatuletela majwi aakuti, Nimbotu nyika njatupa Jehova Leza wesu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.25",
+            "verseOrgIds": [
+              "DEU.1.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "DEU 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.25",
+            "verseOrgIds": [
+              "DEU.1.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "DEU 1:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.26",
+            "verseOrgIds": [
+              "DEU.1.26"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.9.23"
+              },
+              "items": [
+                {
+                  "text": "Dt 9:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.3.16"
+              },
+              "items": [
+                {
+                  "text": "Heb 3:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.14.1+NUM.14.2+NUM.14.3+NUM.14.4"
+              },
+              "items": [
+                {
+                  "text": "My 14:1-4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.106.24"
+              },
+              "items": [
+                {
+                  "text": "Int 106:24",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Nekubaboobo mwakakaka kwiinka, Mwakapapila malailile aa-Jehova Leza wanu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.26",
+            "verseOrgIds": [
+              "DEU.1.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "DEU 1:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.9.28"
+              },
+              "items": [
+                {
+                  "text": "Dt 9:28",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mwakali kunyontauka muzilao zyanu cakwaamba kuti, Jehova watusula: nciceeco ncaakatugwisizya munyika ya-Egepita, kuti atwaabe mumaanza aaba-Amori akutunyonyoona. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.27",
+            "verseOrgIds": [
+              "DEU.1.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "DEU 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.13.28+NUM.13.29+NUM.13.30+NUM.13.31+NUM.13.32+NUM.13.33"
+              },
+              "items": [
+                {
+                  "text": "My 13:28-33",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.9.1"
+              },
+              "items": [
+                {
+                  "text": "Dt 9:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.9.2"
+              },
+              "items": [
+                {
+                  "text": "2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ino tulaya kuli? Bakwesu bakompaamya myoyo yesu cakwaamba kuti, Bantu mbapati, alimwi mbalamfu kwiinda ndiswe. Minzi mipati, alimwi ilijisi mabaya aasika kujulu. Abalo bana ba-Anaki twababona nkuko. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.28",
+            "verseOrgIds": [
+              "DEU.1.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "DEU 1:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mpawo ndakamwaa-mbila kuti, Mutakankami, nekuba kubayoowa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.29",
+            "verseOrgIds": [
+              "DEU.1.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "DEU 1:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.14.14"
+              },
+              "items": [
+                {
+                  "text": "Kul 14:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NEH.4.20"
+              },
+              "items": [
+                {
+                  "text": "Neh 4:20",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Jehova Leza wesu ulamuzulwida, ulamulwida, mbubonya mbwaakamucitila ku-Egepita kumeso aanu, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.30",
+            "verseOrgIds": [
+              "DEU.1.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "DEU 1:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.13.18"
+              },
+              "items": [
+                {
+                  "text": "Inc 13:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.19.4"
+              },
+              "items": [
+                {
+                  "text": "Kul 19:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.32.11"
+              },
+              "items": [
+                {
+                  "text": "Dt 32:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.46.3"
+              },
+              "items": [
+                {
+                  "text": "Is 46:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.46.4"
+              },
+              "items": [
+                {
+                  "text": "4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.63.9"
+              },
+              "items": [
+                {
+                  "text": "63:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.11.3"
+              },
+              "items": [
+                {
+                  "text": "Hos 11:3",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "ambwaakacita munkanda, nkaambo mulibwene Jehova mbwaakamubbede mbubonya mbuli muntu mbwabbala mwana wakwe, munzila yoonse njimwakaleta mane mwakasika okuno. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.31",
+            "verseOrgIds": [
+              "DEU.1.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "DEU 1:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.3.19"
+              },
+              "items": [
+                {
+                  "text": "Heb 3:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.106.24"
+              },
+              "items": [
+                {
+                  "text": "Int 106:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JUD.1.5"
+              },
+              "items": [
+                {
+                  "text": "Jud 1:5",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Pele nekuba kuti ndakaamba majwi aya, mwakakaka kusyoma Jehova Leza wanu, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.32",
+            "verseOrgIds": [
+              "DEU.1.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "DEU 1:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.13.21"
+              },
+              "items": [
+                {
+                  "text": "Kul 13:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.78.14"
+              },
+              "items": [
+                {
+                  "text": "Int 78:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.10.33"
+              },
+              "items": [
+                {
+                  "text": "My 10:33",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.20.6"
+              },
+              "items": [
+                {
+                  "text": "Ezk 20:6",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "iwakali kumuzulwida munzila yoonse kuyoomuyandawida busena bwakuyaka zilao zyanu, iwakali kweenda mumulilo ciindi camasiku, kuti amutondezye inzila njimweelede kutola, amumayoba ciindi casikati.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.33",
+            "verseOrgIds": [
+              "DEU.1.33"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "DEU 1:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.33",
+            "verseOrgIds": [
+              "DEU.1.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "DEU 1:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.34",
+            "verseOrgIds": [
+              "DEU.1.34"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.3.18"
+              },
+              "items": [
+                {
+                  "text": "Heb 3:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.2.14"
+              },
+              "items": [
+                {
+                  "text": "Dt 2:14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Lino Jehova naakamvwa majwi aanu, wakakalala, wakakonkezya kuti, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.34",
+            "verseOrgIds": [
+              "DEU.1.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "DEU 1:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.14.22"
+              },
+              "items": [
+                {
+                  "text": "My 14:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.95.11"
+              },
+              "items": [
+                {
+                  "text": "Int 95:11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ncobeni takukooyooba muntu naba omwe akati kabantu bazyalani eli ibbi, uuyoobona nyika imbotu njindakakonkezya kupa bamawisi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.35",
+            "verseOrgIds": [
+              "DEU.1.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "DEU 1:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "cita Kalebe mwana wa-Jefune luzutu; walo uyooibona, nkabela njoomupa nyika eyo njaakalyataula, abana bakwe, nkaambo watobela Jehova camoyo woonse. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.36",
+            "verseOrgIds": [
+              "DEU.1.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "DEU 1:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.27.14"
+              },
+              "items": [
+                {
+                  "text": "My 27:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.3.26"
+              },
+              "items": [
+                {
+                  "text": "Dt 3:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.4.21"
+              },
+              "items": [
+                {
+                  "text": "4:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.34.4"
+              },
+              "items": [
+                {
+                  "text": "34:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.106.32"
+              },
+              "items": [
+                {
+                  "text": "Int 106:32",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ambebo, Jehova wakandikalalila nkaambo kanu. Wakati, Ayebo tokooyoonjila mulinjiyo, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.37",
+            "verseOrgIds": [
+              "DEU.1.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "DEU 1:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.24.13"
+              },
+              "items": [
+                {
+                  "text": "Kul 24:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.33.11"
+              },
+              "items": [
+                {
+                  "text": "33:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.16.22"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 16:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.31.7"
+              },
+              "items": [
+                {
+                  "text": "Dt 31:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.31.23"
+              },
+              "items": [
+                {
+                  "text": "23",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "pele Joshua mwana wa-Nuni uukubelekela nguuyoonjila; komuyumya, nkaambo ngonguwe uuyookonya ba-Israyeli nyika. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.38",
+            "verseOrgIds": [
+              "DEU.1.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "DEU 1:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.7.15"
+              },
+              "items": [
+                {
+                  "text": "Is 7:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.7.16"
+              },
+              "items": [
+                {
+                  "text": "16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.18.20"
+              },
+              "items": [
+                {
+                  "text": "Ezk 18:20",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Abana banu mbomwakaamba kuti balaba cisaalo, batanaziba kwaandaanya bubotu abubi, mbembabo bayoonjila, nkabela njoobapanyika kuti baivube. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.39",
+            "verseOrgIds": [
+              "DEU.1.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "DEU 1:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pele ciindi ecino amupiluke, muye kunkanda kunzila yaku-Lwizi Lusalala.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.40",
+            "verseOrgIds": [
+              "DEU.1.40"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "DEU 1:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.40",
+            "verseOrgIds": [
+              "DEU.1.40"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "DEU 1:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mpawo mwakandivwiila kuti: Twabisizya Jehova; tulaya kuyoolwa mbubonya mbuli Jehova Leza wesu mbwaakatulailila. Nkabela mwakasama umwi aumwi zilwisyo zyakwe akusoleka kwiinka kunyika yazilundulundu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.41",
+            "verseOrgIds": [
+              "DEU.1.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "DEU 1:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pele Jehova wakandaambila kuti, Kobaambila kuti, Mutainki kuyoolwa pe, nkaambo nsili akati kanu, kuti mutazundwi kulibasinkondonyoko. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.42",
+            "verseOrgIds": [
+              "DEU.1.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "DEU 1:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.14.44"
+              },
+              "items": [
+                {
+                  "text": "My 14:44",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.14.45"
+              },
+              "items": [
+                {
+                  "text": "45",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Elyo ndakamwaambila obo, nekubaboobo mwakakaka kuswiilila. Mwakasampaula majwi aa-Jehova, mwalisumpula, mwainka kuzihmdulundu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.43",
+            "verseOrgIds": [
+              "DEU.1.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "DEU 1:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.28.25"
+              },
+              "items": [
+                {
+                  "text": "Dt 28:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.32.30"
+              },
+              "items": [
+                {
+                  "text": "32:30",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.118.12"
+              },
+              "items": [
+                {
+                  "text": "Int 118:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.7.18"
+              },
+              "items": [
+                {
+                  "text": "Is 7:18",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mpawo ba-Amori ibakakede omo muzilundulundu bakeza kuzoomulwisya, nkabela bakamutanda mbubonya mbuzicita inzuki, akumukoma mu-Seiri mane kusikila ku-Horima. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.44",
+            "verseOrgIds": [
+              "DEU.1.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "DEU 1:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.27.9"
+              },
+              "items": [
+                {
+                  "text": "Job 27:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.66.18"
+              },
+              "items": [
+                {
+                  "text": "Int 66:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.1.24"
+              },
+              "items": [
+                {
+                  "text": "Tus 1:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.1.15"
+              },
+              "items": [
+                {
+                  "text": "Is 1:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.11.7+JER.11.8+JER.11.9+JER.11.10+JER.11.11+JER.11.12+JER.11.13+JER.11.14"
+              },
+              "items": [
+                {
+                  "text": "Jer 11:7-14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.7.11"
+              },
+              "items": [
+                {
+                  "text": "Zek 7:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.9.31"
+              },
+              "items": [
+                {
+                  "text": "Joh 9:31",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Elyo mwakapiluka akulila kubusyu bwa-Jehova, pele Jehova takwakaswiilila kulila kwanu nikuba kucenjeka matwi aakwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.45",
+            "verseOrgIds": [
+              "DEU.1.45"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "46",
+            "style": "v",
+            "sid": "DEU 1:46"
+          },
+          "items": [
+            {
+              "text": "46",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.13.25"
+              },
+              "items": [
+                {
+                  "text": "My 13:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.20.1"
+              },
+              "items": [
+                {
+                  "text": "20:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.20.22"
+              },
+              "items": [
+                {
+                  "text": "22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.11.17"
+              },
+              "items": [
+                {
+                  "text": "Bab 11:17",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Aboobo mwakalikede ku-Kadesi mazuba manji, mbubonya mbwaakabede mazuba aanu aakukala nkuko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.1.46",
+            "verseOrgIds": [
+              "DEU.1.46"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DEU.2",
+    "number": "2",
+    "bookId": "DEU"
+  },
+  "previous": {
+    "id": "NUM.36",
+    "number": "36",
+    "bookId": "NUM"
+  }
+}

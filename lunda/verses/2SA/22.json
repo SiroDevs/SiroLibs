@@ -1,0 +1,69 @@
+{
+  "id": "2SA.22",
+  "number": "22",
+  "bookId": "2SA",
+  "reference": "2 Samuele 22",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "22",
+        "style": "c",
+        "sid": "2SA 22"
+      },
+      "items": [
+        {
+          "text": "22",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "2SA 22:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Davidi hakuhosha naYehova mazu akamina kanu ifuku deliliyi Yehova namupulwishi dehi kudi ayilumbu jindi ejima, nikudi Sawulu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.22.1",
+            "verseOrgIds": [
+              "2SA.22.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2SA.23",
+    "number": "23",
+    "bookId": "2SA"
+  },
+  "previous": {
+    "id": "2SA.21",
+    "number": "21",
+    "bookId": "2SA"
+  }
+}

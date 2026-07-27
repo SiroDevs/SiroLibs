@@ -1,0 +1,69 @@
+{
+  "id": "PSA.78",
+  "number": "78",
+  "bookId": "PSA",
+  "reference": "Zaburi 78",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "78",
+        "style": "c",
+        "sid": "PSA 78"
+      },
+      "items": [
+        {
+          "text": "78",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 78:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.78.1",
+            "verseOrgIds": [
+              "PSA.78.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.79",
+    "number": "79",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.77",
+    "number": "77",
+    "bookId": "PSA"
+  }
+}

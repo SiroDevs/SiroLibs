@@ -1,0 +1,951 @@
+{
+  "id": "NUM.30",
+  "number": "30",
+  "bookId": "NUM",
+  "reference": "Myeelwe 30",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 16,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "30",
+        "style": "c",
+        "sid": "NUM 30"
+      },
+      "items": [
+        {
+          "text": "30",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NUM 30:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.1",
+            "verseOrgIds": [
+              "NUM.30.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.1.4"
+              },
+              "items": [
+                {
+                  "text": "My 1:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.1.16"
+              },
+              "items": [
+                {
+                  "text": "16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.7.2"
+              },
+              "items": [
+                {
+                  "text": "7:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.1.13"
+              },
+              "items": [
+                {
+                  "text": "Dt 1:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.1.17"
+              },
+              "items": [
+                {
+                  "text": "17",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Lino Musa wakaambila basilutwe bamisyobo yabana ba-Israyeli kuti, Ngaaya makani Jehova ngaalailila. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.1",
+            "verseOrgIds": [
+              "NUM.30.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 30:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.23.21+DEU.23.22+DEU.23.23"
+              },
+              "items": [
+                {
+                  "text": "Dt 23:21-23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.5.33"
+              },
+              "items": [
+                {
+                  "text": "Mt 5:33",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.28.20"
+              },
+              "items": [
+                {
+                  "text": "Matl 28:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.27.2"
+              },
+              "items": [
+                {
+                  "text": "Lev 27:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.11.30"
+              },
+              "items": [
+                {
+                  "text": "Bab 11:30",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.11.35"
+              },
+              "items": [
+                {
+                  "text": "35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.56.12"
+              },
+              "items": [
+                {
+                  "text": "Int 56:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.119.106"
+              },
+              "items": [
+                {
+                  "text": "119:106",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.20.25"
+              },
+              "items": [
+                {
+                  "text": "Tus 20:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ECC.5.4"
+              },
+              "items": [
+                {
+                  "text": "Muk 5:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.5.4"
+              },
+              "items": [
+                {
+                  "text": "Lev 5:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.14.9"
+              },
+              "items": [
+                {
+                  "text": "Mt 14:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.23.14"
+              },
+              "items": [
+                {
+                  "text": "Inc 23:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.22.27"
+              },
+              "items": [
+                {
+                  "text": "Job 22:27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.22.25"
+              },
+              "items": [
+                {
+                  "text": "Int 22:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.50.14"
+              },
+              "items": [
+                {
+                  "text": "50:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NAM.1.15"
+              },
+              "items": [
+                {
+                  "text": "Nah 1:15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Na muntu wasyomezya cisyo­ mezyo kuli-Jehova nanka kukonka cikonkezyo cakucita cintu, teelede kutamauka pe, uleelede kucita zyoonse nzyaakaamba. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.2",
+            "verseOrgIds": [
+              "NUM.30.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NUM 30:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nanka mwanakazi, na wasyomezya cisyomezyo kuli-Jehova cakucita cintu, naacili muniini muŋanda yawisi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.3",
+            "verseOrgIds": [
+              "NUM.30.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 30:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "alimwi wisi wamvwa cisyomezyo cakwe acintu ncalisyomezya, nkabela wisi waumuna buyo, lino cisyomezyo cakwe cinookede, azintu zyoonse nzyaalisyomezya zinookede. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.4",
+            "verseOrgIds": [
+              "NUM.30.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NUM 30:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pele na wisi wamukasya ciindi cakumvwa, cisyomezyo cakwe acintu ncalisyomezya kucita tacikooba pe; Jehova ulamulekelela nkaambo wisi wamukasya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.5",
+            "verseOrgIds": [
+              "NUM.30.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NUM 30:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alimwi na wakwatwa mwaalumi ciindi eco naacili acisyomezyo na cintu ncafwanzya kukonka, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.6",
+            "verseOrgIds": [
+              "NUM.30.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NUM 30:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "alimwi mulumaakwe wamvwa pele waumuna buyo, lino cisyomezyo cakwe acintu ncalisyomezya kucita cinookede. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.7",
+            "verseOrgIds": [
+              "NUM.30.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NUM 30:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.3.16"
+              },
+              "items": [
+                {
+                  "text": "Matl 3:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.7.4"
+              },
+              "items": [
+                {
+                  "text": "1 Kor 7:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.14.34"
+              },
+              "items": [
+                {
+                  "text": "14:34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.5.22+EPH.5.23+EPH.5.24"
+              },
+              "items": [
+                {
+                  "text": "Ef 5:22-24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.3.18"
+              },
+              "items": [
+                {
+                  "text": "Kol 3:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.3.1"
+              },
+              "items": [
+                {
+                  "text": "1 Pet 3:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.2.11"
+              },
+              "items": [
+                {
+                  "text": "1 Tim 2:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.2.12"
+              },
+              "items": [
+                {
+                  "text": "12",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Pele mulumaakwe amvwa makani, na wamukasya, lino ulalobya cisyomezyo cakwe acikonke cakwe ncaakafwanzya acintu ncalisyomezya kucita, nkabela Jehova ulamulekelela. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.8",
+            "verseOrgIds": [
+              "NUM.30.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NUM 30:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.21.7"
+              },
+              "items": [
+                {
+                  "text": "Lev 21:7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Pele mukamufu na mwanakazi muleke, kufumbwa cisyomezyo ncasyomezya nanka cintu ncalisyomezya kucita cinookede. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.9",
+            "verseOrgIds": [
+              "NUM.30.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NUM 30:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amwanakazi uuli muŋanda yamulumaakwe, na wasyomezya cisyomezyo nanka kukonka kucita cintu, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.10",
+            "verseOrgIds": [
+              "NUM.30.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NUM 30:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "alimwi mulumaakwe wamvwa, pele waumuna buyo, taambi cintu cakumukasya, lino cisyomezyo cakwe coonse azintu nzyaalisyomezya kucita zyoonse zinookede. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.11",
+            "verseOrgIds": [
+              "NUM.30.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NUM 30:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pele na mulumaakwe wazilobya mubuzuba obo nazimvwa, lino zyoonse zizwa kumilomo yakwe azyoonse nzyaalisyomezya kucita tazikooyooba pe; mulumaakwe wazilobya, aboobo Jehova ulamulekelela. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.12",
+            "verseOrgIds": [
+              "NUM.30.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NUM 30:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kufumbwa cisyomezyo akufumbwa cikonke ncaakakonka kukulipenzya, mulumaakwe ulakonzya kuciimika na kucilobya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.13",
+            "verseOrgIds": [
+              "NUM.30.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NUM 30:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pele na mulumaakwe waumuna buyo akutaamba cintu mazuba oonse, ulaimika zisyomezyo zyakwe zyoonse azintu zyoonse nzyaakalisyomezya kucita, Waziimika, nkaambo taakwe ncaakaamba mubuzuba mbwaakazimvwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.14",
+            "verseOrgIds": [
+              "NUM.30.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NUM 30:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pele na musule lyakuumuna kwakwe ulazilobya, ulalibwezela mulandu wakwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.15",
+            "verseOrgIds": [
+              "NUM.30.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NUM 30:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.15",
+            "verseOrgIds": [
+              "NUM.30.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NUM 30:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Njeeyo milumbe Jehova njaakalailila Musa, mumakani aamwaalumi amukakwe, amumakani aawisi amwana wakwe musimbi nacili muniini muŋanda yawisi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.16",
+            "verseOrgIds": [
+              "NUM.30.16"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NUM.31",
+    "number": "31",
+    "bookId": "NUM"
+  },
+  "previous": {
+    "id": "NUM.29",
+    "number": "29",
+    "bookId": "NUM"
+  }
+}

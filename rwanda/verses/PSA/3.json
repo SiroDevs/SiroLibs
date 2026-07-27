@@ -1,0 +1,121 @@
+{
+  "id": "PSA.3",
+  "number": "3",
+  "bookId": "PSA",
+  "reference": "Zaburi 3",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "PSA 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.1",
+            "verseOrgIds": [
+              "PSA.3.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        2 Sam 15.13—17.22\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.1",
+            "verseOrgIds": [
+              "PSA.3.1"
+            ]
+          }
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.1",
+            "verseOrgIds": [
+              "PSA.3.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "3.1:",
+              "type": "text"
+            },
+            {
+              "text": "muri Bibliya Yera ya mbere, uyu murongo ni umutwe wa Zaburi ya 3; bityo 3.1-8 ihwanye na 3.2-9 muri iyi Bibliya, nk'uko biri mu Ruheburayo.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.4",
+    "number": "4",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.2",
+    "number": "2",
+    "bookId": "PSA"
+  }
+}

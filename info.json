@@ -84,27 +84,6 @@
     "info": "<p>La version J.N. Darby est une traduction littérale, considérée comme une des traductions françaises les plus proches du texte original.</p> <p>Première édition de la Bible complète en 1885, rééditée en 1916, puis en 2024. La numérotation des versets de cette édition de 2024 suit celle de la Bible hébraïque.</p> <p>Texte dans le domaine public.</p> <p>Source : <a href=\"https://editeurbpc.com/\">éditeur BPC</a>, Bibles et Publications Chrétiennes (révision JND v2.0)</p>"
   },
   {
-    "name": "Reina Valera 1909",
-    "description": "Spanish Bible: Reina Valera 1909",
-    "abbreviation": "spanish",
-    "tagline": "",
-    "language": {
-      "id": "spa",
-      "name": "Spanish (Español)",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "ZZ",
-        "name": "Unspecific"
-      }
-    ],
-    "updatedAt": "2025-09-28T11:06:58.000Z",
-    "copyright": "Reina-Valera 1909 - Dominio público. Fue realizada por Sociedades Bíblicas Unidas y publicada por primera vez en 1909.",
-    "info": "<p>Reina-Valera 1909 - Dominio público.</p> <p>Fue realizada por Sociedades Bíblicas Unidas y publicada por primera vez en 1909.</p>"
-  },
-  {
     "name": "Open Luganda Contemporary Bible",
     "description": "Bayibuli Entukuvu, Endagaano Enkadde nʼEndagaano Empya ekwatiddwa ku katambi™ 2014",
     "abbreviation": "luganda",
@@ -143,6 +122,26 @@
     ],
     "copyright": "The Bible in Runyankore-Rukiga © United Bible Societies, 1964",
     "info": "https://www.bible.com/versions/1434?returnTo=GEN.1"
+  },
+  {
+    "name": "Contemporary Zulu Bible",
+    "description": "Contemporary Zulu Bible 2024",
+    "abbreviation": "zulu",
+    "tagline": "Zulu Bible",
+    "language": {
+      "id": "zul",
+      "name": "Zulu",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "SA",
+        "name": "South Africa"
+      }
+    ],
+    "copyright": "Contemporary Zulu Bible. Copyright © 2024, by City Bible Foundation ®, Used by permission of City Bible Foundation ® All rights reserved worldwide.",
+    "info": "https://www.bible.com/versions/3846?returnTo=GEN.1"
   },
   {
     "name": "Muma Maler Mar Nyasaye",
@@ -628,5 +627,126 @@
     ],
     "copyright": "© 2023 Pioneer Bible Translators. This work is licensed under the Creative Commons Attribution ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/",
     "info": "https://www.bible.com/versions/4660?returnTo=GEN.1"
+  },
+  {
+    "name": "Mukanda wa Nzambi Dihungila Dikulukulu",
+    "description": "Mukanda wa Nzambi Dihungila Dikulukulu ne Dihungila Dihia-dihia 2003",
+    "abbreviation": "tshiluba",
+    "tagline": "Tshiluba Bible",
+    "language": {
+      "id": "lub",
+      "name": "Tshiluba",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "CD",
+        "name": "DRC"
+      }
+    ],
+    "copyright": "Bible in Tshiluba © Bible Society of the Democratic Republic of Congo, 2003.",
+    "info": "https://www.bible.com/versions/2919?returnTo=GEN.1"
+  },
+  {
+    "name": "Mukanda Wanzambi",
+    "description": "Open New Lunda Translation",
+    "abbreviation": "Lunda",
+    "tagline": "Lunda Bible",
+    "language": {
+      "id": "lun",
+      "name": "Lunda",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "ZM",
+        "name": "Zambia"
+      }
+    ],
+    "copyright": "The Bible in Lunda: Ndembu (Lunda of Kalunda) © B. F. B. S. 1962.",
+    "info": "https://www.bible.com/versions/3090?returnTo=GEN.1"
+  },
+  {
+    "name": "Ibbaibele 1963",
+    "description": "Open New Tonga Translation",
+    "abbreviation": "tonga",
+    "tagline": "ChiTonga Bible",
+    "language": {
+      "id": "ton",
+      "name": "Tonga",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "ZM",
+        "name": "Zambia"
+      }
+    ],
+    "copyright": "The Bible in Tonga (Zambia) © United Bible Societies, 1963.",
+    "info": "https://www.bible.com/versions/984?returnTo=GEN.1"
+  },
+  {
+    "name": "iBhayibhili Elingcwele 1978",
+    "description": "Open New Ndebele Translation",
+    "abbreviation": "ndebele",
+    "tagline": "Ndebele Bible",
+    "language": {
+      "id": "dbl",
+      "name": "Ndebele",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "ZW",
+        "name": "Zimbabwe"
+      }
+    ],
+    "copyright": "Bible Society of Zimbabwe 1978",
+    "info": "https://www.bible.com/versions/4087?returnTo=GEN.1"
+  },
+  {
+    "name": "Ruac Kuɔth in Rɛl Rɔ",
+    "description": "Open New Nuer Translation",
+    "abbreviation": "nuer",
+    "tagline": "Nuer Bible",
+    "language": {
+      "id": "nue",
+      "name": "Nuer",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "SS",
+        "name": "South Sudan"
+      }
+    ],
+    "copyright": "Nuer Bible © Bible Society in South Sudan 1998,2012.",
+    "info": "https://www.bible.com/versions/2155?returnTo=GEN.1"
+  },
+  {
+    "name": "Reina Valera 1909",
+    "description": "Spanish Bible: Reina Valera 1909",
+    "abbreviation": "spanish",
+    "tagline": "",
+    "language": {
+      "id": "spa",
+      "name": "Spanish (Español)",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "ZZ",
+        "name": "Unspecific"
+      }
+    ],
+    "updatedAt": "2025-09-28T11:06:58.000Z",
+    "copyright": "Reina-Valera 1909 - Dominio público. Fue realizada por Sociedades Bíblicas Unidas y publicada por primera vez en 1909.",
+    "info": "<p>Reina-Valera 1909 - Dominio público.</p> <p>Fue realizada por Sociedades Bíblicas Unidas y publicada por primera vez en 1909.</p>"
   }
 ]

@@ -1,0 +1,154 @@
+{
+  "id": "JOB.15",
+  "number": "15",
+  "bookId": "JOB",
+  "reference": "Ayubu 15",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "15",
+        "style": "c",
+        "sid": "JOB 15"
+      },
+      "items": [
+        {
+          "text": "15",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Elifazi muna Tema kūhaya hangī",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 15:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hūna ū Elifazi muna Tema",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.15.1",
+            "verseOrgIds": [
+              "JOB.15.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ngelelo ya munhū wabūbi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JOB 15:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.15.16",
+            "verseOrgIds": [
+              "JOB.15.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JOB 15:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nidegelekage nakūsomboolele,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.15.17",
+            "verseOrgIds": [
+              "JOB.15.17"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.16",
+    "number": "16",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.14",
+    "number": "14",
+    "bookId": "JOB"
+  }
+}

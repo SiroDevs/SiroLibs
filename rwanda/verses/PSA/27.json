@@ -1,0 +1,69 @@
+{
+  "id": "PSA.27",
+  "number": "27",
+  "bookId": "PSA",
+  "reference": "Zaburi 27",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "27",
+        "style": "c",
+        "sid": "PSA 27"
+      },
+      "items": [
+        {
+          "text": "27",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 27:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.27.1",
+            "verseOrgIds": [
+              "PSA.27.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.28",
+    "number": "28",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.26",
+    "number": "26",
+    "bookId": "PSA"
+  }
+}

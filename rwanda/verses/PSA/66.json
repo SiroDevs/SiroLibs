@@ -1,0 +1,69 @@
+{
+  "id": "PSA.66",
+  "number": "66",
+  "bookId": "PSA",
+  "reference": "Zaburi 66",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "66",
+        "style": "c",
+        "sid": "PSA 66"
+      },
+      "items": [
+        {
+          "text": "66",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 66:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.66.1",
+            "verseOrgIds": [
+              "PSA.66.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.67",
+    "number": "67",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.65",
+    "number": "65",
+    "bookId": "PSA"
+  }
+}

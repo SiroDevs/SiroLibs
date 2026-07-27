@@ -1,0 +1,226 @@
+{
+  "id": "PRO.1",
+  "number": "1",
+  "bookId": "PRO",
+  "reference": "Sumo 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "PRO 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Wandījo, Malange ga sumo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sumo ja ng'wa Solomoni, ng'witūnja o ng'wa Daūdi, ntemi wa Isilaeli,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.1.1",
+            "verseOrgIds": [
+              "PRO.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Būganikīji kūlwa kogoha būhūmbūūlwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PRO 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.1.7",
+            "verseOrgIds": [
+              "PRO.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PRO 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ng'wanone, igwaga a katongeelele",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.1.8",
+            "verseOrgIds": [
+              "PRO.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Masala gakūhīlīkaga",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "PRO 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.1.19",
+            "verseOrgIds": [
+              "PRO.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "PRO 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "A Masala gakūhīlīkaga",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.1.20",
+            "verseOrgIds": [
+              "PRO.1.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.2",
+    "number": "2",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.intro",
+    "number": "intro",
+    "bookId": "PRO"
+  }
+}
