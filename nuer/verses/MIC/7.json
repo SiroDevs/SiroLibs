@@ -1,0 +1,74 @@
+{
+  "id": "MIC.7",
+  "number": "7",
+  "bookId": "MIC",
+  "reference": "Mikaa 7",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "7",
+        "style": "c",
+        "sid": "MIC 7"
+      },
+      "items": [
+        {
+          "text": "7",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Dup I-thɛ-rɛl tin jiäk",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Nööŋ Kuɔth Nhial kɛ ka̱n",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kɔ̱a̱c lɔaac Kuɔth kɛ I-thɛ-rɛl",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NAM.intro",
+    "number": "intro",
+    "bookId": "NAM"
+  },
+  "previous": {
+    "id": "MIC.6",
+    "number": "6",
+    "bookId": "MIC"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "JON.2",
+  "number": "2",
+  "bookId": "JON",
+  "reference": "Jona 2",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "JON 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "La̱ŋ Jona",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JON 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jic rɛ̱̈c cu Jona Kuoth Nhial in la Kuothdɛ läŋ ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.1",
+            "verseOrgIds": [
+              "JON.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JON 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "wëë i̱,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.2",
+            "verseOrgIds": [
+              "JON.2.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JON.3",
+    "number": "3",
+    "bookId": "JON"
+  },
+  "previous": {
+    "id": "JON.1",
+    "number": "1",
+    "bookId": "JON"
+  }
+}

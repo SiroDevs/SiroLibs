@@ -1,0 +1,82 @@
+{
+  "id": "SNG.3",
+  "number": "3",
+  "bookId": "SNG",
+  "reference": "Thɔl 3",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "SNG 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "La̱k kɛ kui̱ nho̱kä",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "SNG 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni̱n kɛ wäär rɛy kölikä,",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.1",
+            "verseOrgIds": [
+              "SNG.3.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "SNG.4",
+    "number": "4",
+    "bookId": "SNG"
+  },
+  "previous": {
+    "id": "SNG.2",
+    "number": "2",
+    "bookId": "SNG"
+  }
+}

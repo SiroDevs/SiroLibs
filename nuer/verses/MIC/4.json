@@ -1,0 +1,95 @@
+{
+  "id": "MIC.4",
+  "number": "4",
+  "bookId": "MIC",
+  "reference": "Mikaa 4",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "MIC 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ruec malä Kuɔth kɛ wi̱c muɔ̱ɔ̱n",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kä kɛ ni̱n tia̱ bi beni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.4.1",
+            "verseOrgIds": [
+              "MIC.4.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Luny ji̱ I-thɛ-rɛl jɔk pëcä",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.5",
+    "number": "5",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.3",
+    "number": "3",
+    "bookId": "MIC"
+  }
+}
