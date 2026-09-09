@@ -61,7 +61,7 @@
     "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
   },
   {
-    "name": "Bible J.N. Darby",
+    "name": "French Bible J.N. Darby",
     "description": "French Bible: Bible J.N. Darby",
     "abbreviation": "french",
     "tagline": "German (WLC pour l'AT et NA pour le NT)",
@@ -80,7 +80,7 @@
     "info": "Bibles et Publications Chr√©tiennes (r√©vision JND v2.0)"
   },
   {
-    "name": "Reina Valera 1909",
+    "name": "Spanish Bible: Reina Valera",
     "description": "Spanish Bible: Reina Valera 1909",
     "abbreviation": "spanish",
     "tagline": "",
@@ -711,5 +711,138 @@
       }
     ],
     "info": "https://www.bible.com/versions/2155"
+  },
+  {
+    "name": "Kitaaba Waaqa",
+    "description": "Borana Translation 2019",
+    "abbreviation": "Borana",
+    "tagline": "Borana Bible",
+    "language": {
+      "id": "Bor",
+      "name": "Borana",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      }
+    ],
+    "info": "Borana Bible © Bible Society of Kenya, 2019. https://www.bible.com/versions/2935"
+  },
+  {
+    "name": "Îvuku Rîa Ûvoro Mwaro",
+    "description": "Embu Bible Translation 2019",
+    "abbreviation": "Embu",
+    "tagline": "Embu Bible",
+    "language": {
+      "id": "Emb",
+      "name": "Embu",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      }
+    ],
+    "info": "Borana Bible © Bible Society of Kenya, 2019. https://www.bible.com/versions/2775"
+  },
+  {
+    "name": "Nteto Injega cia Mrungu Kiri Antu Bonthe",
+    "description": "Meru Bible Translation 2009",
+    "abbreviation": "Meru",
+    "tagline": "Meru Bible",
+    "language": {
+      "id": "Mer",
+      "name": "Meru",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      }
+    ],
+    "info": "KIMERU BIBLE WITH DC ©Bible Society of Kenya, 2009, 218. https://www.bible.com/versions/2929"
+  },
+  {
+    "name": "Kitaabka Quduuska Ah",
+    "description": "Soomaali Bible Translation",
+    "abbreviation": "Somali",
+    "tagline": "Soomaali Bible",
+    "language": {
+      "id": "Som",
+      "name": "Somali",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      }
+    ],
+    "info": "SOMALI BIBLE PROTESTANT EDITION ©Bible Society of Kenya,1976,1979, 2018. https://www.bible.com/versions/2934"
+  },
+  {
+    "name": "Ibibilia Indakatifu",
+    "description": "Wanga Bible Translation",
+    "abbreviation": "Wanga",
+    "tagline": "Wanga Bible",
+    "language": {
+      "id": "Wan",
+      "name": "Wanga",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      }
+    ],
+    "info": "https://www.bible.com/versions/2656"
+  },
+  {
+    "name": "Ibhibhuria Ënhoreeru",
+    "description": "Kuria Bible Translation 2021",
+    "abbreviation": "Kuria",
+    "tagline": "Kuria Bible",
+    "language": {
+      "id": "Kur",
+      "name": "Kuria",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      }
+    ],
+    "info": "©The Bible Society of Kenya, 2021 © The Bible Society of Tanzania, 2021 https://www.bible.com/versions/3188"
+  },
+  {
+    "name": "Digo Bible",
+    "description": "Digo Bible Translation 2019",
+    "abbreviation": "Digo",
+    "tagline": "Digo Bible",
+    "language": {
+      "id": "Dig",
+      "name": "Digo",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      }
+    ],
+    "info": "© 2019, Bible Translation and Literacy, All rights reserved. https://www.bible.com/versions/2711"
   }
 ]
