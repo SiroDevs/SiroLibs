@@ -448,8 +448,17 @@
           },
           "items": [
             {
-              "text": "Dan 7.7",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.7"
+              },
+              "items": [
+                {
+                  "text": "Dan 7.7",
+                  "type": "text"
+                }
+              ]
             },
             {
               "name": "ref",
@@ -666,7 +675,24 @@
           },
           "items": [
             {
-              "text": "\n        Dan 7.24\n",
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.24"
+              },
+              "items": [
+                {
+                  "text": "Dan 7.24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
               "type": "text"
             }
           ]

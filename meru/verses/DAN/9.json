@@ -2,7 +2,7 @@
   "id": "DAN.9",
   "number": "9",
   "bookId": "DAN",
-  "reference": "Dag 9",
+  "reference": "Dan 9",
   "verseCount": 27,
   "content": [
     {
@@ -89,8 +89,30 @@
           },
           "items": [
             {
-              "text": "Jer 25.11; 29.10",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.25.11"
+              },
+              "items": [
+                {
+                  "text": "Jer 25.11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.29.10"
+              },
+              "items": [
+                {
+                  "text": "29.10",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -179,7 +201,7 @@
           ]
         },
         {
-          "text": "Ndîraromba MWATHANI Mûrungu waakwa, nkiumbûraga meeyia ja antû, ndîrauga atîrî, “Gwe MWATHANI Mûrungu mwene inya, Gwe wîkaga kîrîkanîro na ûkenda na wendo bûrîa bûtîthiraga, antû barîa baakwendeete na bamenyagîîra maathana jaaku.",
+          "text": "Ndîraromba MWATHANI Mûrungu waakwa, nkiumbûraga meeyia ja antû, ndîrauga atîrî, “Gwe MWATHANI Mûrungu mwene inya, Gwe wîkaga kîrîkanîro na ûkenda na wendo bûrîa bûtîthiraga, antû barîa baakwendeete na bamenyagîîra maathana jaaku.”",
           "type": "text",
           "attrs": {
             "verseId": "DAN.9.4",
@@ -238,7 +260,7 @@
           ]
         },
         {
-          "text": "“Tuî nî twîîtie, twathithia jarîa jatîagîrîte, na jamathûûku, na twagîa îrema, twautatîra maathana jaaku na mawaatho. ",
+          "text": "Tuî nî twîîtie, twathithia jarîa jatîagîrîte, na jamathûûku, na twagîa îrema, twautatîra maathana jaaku na mawaatho. ",
           "type": "text",
           "attrs": {
             "verseId": "DAN.9.5",
@@ -727,8 +749,34 @@
           },
           "items": [
             {
-              "text": "Luk 1.19,26",
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.19"
+              },
+              "items": [
+                {
+                  "text": "Luk 1.19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
               "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.26"
+              },
+              "items": [
+                {
+                  "text": "26",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -959,8 +1007,56 @@
           },
           "items": [
             {
-              "text": "Dan 11.31; 12.11; Mat 24.15; Mar 13.14",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.11.31"
+              },
+              "items": [
+                {
+                  "text": "Dan 11.31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.12.11"
+              },
+              "items": [
+                {
+                  "text": "12.11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.24.15"
+              },
+              "items": [
+                {
+                  "text": "Mat 24.15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.13.14"
+              },
+              "items": [
+                {
+                  "text": "Mar 13.14",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },

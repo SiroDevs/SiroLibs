@@ -180,8 +180,17 @@
           },
           "items": [
             {
-              "text": "Dan 11.36",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.11.36"
+              },
+              "items": [
+                {
+                  "text": "Dan 11.36",
+                  "type": "text"
+                }
+              ]
             },
             {
               "name": "ref",

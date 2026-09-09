@@ -91,8 +91,17 @@
               ]
             },
             {
-              "text": "Dan 7.2",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.2"
+              },
+              "items": [
+                {
+                  "text": "Dan 7.2",
+                  "type": "text"
+                }
+              ]
             },
             {
               "name": "ref",
@@ -449,8 +458,21 @@
           },
           "items": [
             {
-              "text": "\n        Dan 12.1",
+              "text": "\n",
               "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.12.1"
+              },
+              "items": [
+                {
+                  "text": "Dan 12.1",
+                  "type": "text"
+                }
+              ]
             },
             {
               "name": "ref",

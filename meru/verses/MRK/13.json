@@ -634,8 +634,47 @@
           },
           "items": [
             {
-              "text": "\n        Dan 9.27; 11.31; 12.11",
+              "text": "\n",
               "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.9.27"
+              },
+              "items": [
+                {
+                  "text": "Dan 9.27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.11.31"
+              },
+              "items": [
+                {
+                  "text": "11.31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.12.11"
+              },
+              "items": [
+                {
+                  "text": "12.11",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -796,8 +835,17 @@
           },
           "items": [
             {
-              "text": "Dan 12.1",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.12.1"
+              },
+              "items": [
+                {
+                  "text": "Dan 12.1",
+                  "type": "text"
+                }
+              ]
             },
             {
               "name": "ref",
@@ -1234,8 +1282,17 @@
           },
           "items": [
             {
-              "text": "Dan 7.13",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.13"
+              },
+              "items": [
+                {
+                  "text": "Dan 7.13",
+                  "type": "text"
+                }
+              ]
             },
             {
               "name": "ref",

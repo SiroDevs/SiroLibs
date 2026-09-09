@@ -2,7 +2,7 @@
   "id": "DAN.10",
   "number": "10",
   "bookId": "DAN",
-  "reference": "Dag 10",
+  "reference": "Dan 10",
   "verseCount": 21,
   "content": [
     {
@@ -164,8 +164,43 @@
           },
           "items": [
             {
-              "text": "Kûg 1.13-15; 2.18; 19.12",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.1.13+REV.1.14+REV.1.15"
+              },
+              "items": [
+                {
+                  "text": "Kûg 1.13-15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.2.18"
+              },
+              "items": [
+                {
+                  "text": "2.18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.19.12"
+              },
+              "items": [
+                {
+                  "text": "19.12",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -446,8 +481,17 @@
           },
           "items": [
             {
-              "text": "Kûg 12.7",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.12.7"
+              },
+              "items": [
+                {
+                  "text": "Kûg 12.7",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -728,8 +772,17 @@
           },
           "items": [
             {
-              "text": "Kûg 12.7",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.12.7"
+              },
+              "items": [
+                {
+                  "text": "Kûg 12.7",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },

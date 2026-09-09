@@ -449,8 +449,17 @@
           },
           "items": [
             {
-              "text": "Dan 10.6",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.10.6"
+              },
+              "items": [
+                {
+                  "text": "Dan 10.6",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },

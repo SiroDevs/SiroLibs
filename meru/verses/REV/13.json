@@ -74,8 +74,21 @@
           },
           "items": [
             {
-              "text": "\n        Dan 7.3",
+              "text": "\n",
               "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.3"
+              },
+              "items": [
+                {
+                  "text": "Dan 7.3",
+                  "type": "text"
+                }
+              ]
             },
             {
               "name": "ref",
@@ -143,8 +156,17 @@
           },
           "items": [
             {
-              "text": "Dan 7.4-6",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.4+DAN.7.5+DAN.7.6"
+              },
+              "items": [
+                {
+                  "text": "Dan 7.4-6",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -276,8 +298,51 @@
           },
           "items": [
             {
-              "text": "\n        Dan 7.8,25; 11.36",
+              "text": "\n",
               "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.8"
+              },
+              "items": [
+                {
+                  "text": "Dan 7.8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.25"
+              },
+              "items": [
+                {
+                  "text": "25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.11.36"
+              },
+              "items": [
+                {
+                  "text": "11.36",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -340,8 +405,17 @@
           },
           "items": [
             {
-              "text": "Dan 7.21",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.21"
+              },
+              "items": [
+                {
+                  "text": "Dan 7.21",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },

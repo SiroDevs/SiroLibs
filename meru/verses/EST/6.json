@@ -2,7 +2,7 @@
   "id": "EST.6",
   "number": "6",
   "bookId": "EST",
-  "reference": "Est 6",
+  "reference": "Esta 6",
   "verseCount": 14,
   "content": [
     {
@@ -81,7 +81,30 @@
           ]
         },
         {
-          "text": "Nî kwaathomerwe arîa kwaandîki ûrîa Modekai aamenyithanîrie ûrîa aakûre baîrî tabo Bigithana na Tereshi barîa baakaragia mpingîro ya gîkaro kîa mûnene, baabangîte kûûraga mûnene Aritashashita. ",
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.2.21+EST.2.22"
+              },
+              "items": [
+                {
+                  "text": "Esta 2.21-22",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Nî kwaathomerwe arîa kwaandîki ûrîa Modekai aamenyithanîrie ûrîa aakûre baîrî tabo Bigithana na Tereshi barîa baakaragia mpingîro ya gîkaro kîa mûnene, baabangîte kûûraga mûnene Aritashashita. ",
           "type": "text",
           "attrs": {
             "verseId": "EST.6.2",
@@ -215,7 +238,7 @@
           ]
         },
         {
-          "text": "Hamani nî aakûrûkîre nyomba kîrî mûnene. Nawe mûnene aramûûria atîrî, “Mûnene akeenda kwaa muntû gîtîîo rî, amûthithîria atîa?” Hamani arathûgaania atî nîwe ûkwenda kûewa gîtîîo nî mûnene. ",
+          "text": "Hamani nî aakûrûkîre nyomba kîrî mûnene. Mûnene aramûûria atîrî, “Mûnene akeenda kwaa muntû gîtîîo rî, amûthithîria atîa?” Hamani arathûgaania atî nîwe ûkwenda kûewa gîtîîo nî mûnene. ",
           "type": "text",
           "attrs": {
             "verseId": "EST.6.6",
@@ -240,7 +263,7 @@
           ]
         },
         {
-          "text": "Nawe Hamani areera mûnene atîrî, “Mûnene akëethîrwa akîendaga kwaa muntû gîtîîo, ",
+          "text": "Hamani areera mûnene atîrî, “Mûnene akëethîrwa akîendaga kwaa muntû gîtîîo, ",
           "type": "text",
           "attrs": {
             "verseId": "EST.6.7",
@@ -290,7 +313,7 @@
           ]
         },
         {
-          "text": "Ûbuîrîte kuuga atî mûtongeeria waaku ûrîa mûnene eekîre muntû ûu ûkûeewa gîtîîo rwambambio. Nawe muntû ûu ûkweewa gîtîîo aitie mbarathine. Nawe mûtongeeria ûu mûnene atongeerie mbarathi îrîa îkamatîte muntû ûu amiikîîrie njîreene cia ntûûra. Mûtongeeria eete akiugaga atîrî, ‘Ûjû nîu mûnene athithagîria muntû ûrîa akwenda kwaa gîtîîo.’”",
+          "text": "Ûbuîrîte kuuga atî mûtongeeria waaku ûrîa mûnene eekîre muntû ûu ûkweewa gîtîîo rwambambio. Muntû ûu ûkweewa gîtîîo aitie mbarathine. Mûtongeeria ûu mûnene atongeerie mbarathi îrîa îkamatîte muntû ûu amikîîrie njîreene cia ntûûra. Mûtongeeria eete akiugaga atîrî, ‘Ûjû nîu mûnene athithagîria muntû ûrîa akwenda kwaa gîtîîo!’”",
           "type": "text",
           "attrs": {
             "verseId": "EST.6.9",
@@ -374,7 +397,7 @@
           ]
         },
         {
-          "text": "Tontû bûû, Hamani arajûkia rwambambio na mbarathi. Areekîra Modekai rwambambio. Modekai araitia mbarathine, nawe Hamani aratongeeria mbarathi areetîîra njîreene cia ntûûra agîtûmagîîria atîrî, “Ûjû nîu mûnene athithagîria muntû ûrîa akwenda kwaa gîtîîo.”",
+          "text": "Tontû bûû, Hamani arajûkia rwambambio na mbarathi. Areekîra Modekai rwambambio. Modekai araitia mbarathine, nawe Hamani aratongeeria mbarathi areetîîra njîreene cia ntûûra agîtûmagîîria atîrî, “Ûjû nîu mûnene athithagîria muntû ûrîa akwenda kwaa gîtîîo!”",
           "type": "text",
           "attrs": {
             "verseId": "EST.6.11",
@@ -458,7 +481,7 @@
           ]
         },
         {
-          "text": "Hamani areera mûka waawe Zereshi na acoore baawe bonthe mantû jonthe jarîa jaakarîkîte kîrî we. Nabo antû baawe barîa boome amwe na mûka waawe Zereshi baramwîra atîrî, “Gûkëethîrwa Modekai ûu wambîrîria gûkûthiria nî Mûyahudi, ûtîmûûmba. Gûtî nkaanja agaakûthiria buru.”",
+          "text": "Hamani areera mûka waawe Zereshi na acoore baawe bonthe mantû jonthe jarîa jaakarîkîte kîrî we. Nabo antû baawe barîa boome amwe na mwekûrû waawe Zereshi baramwîra atîrî, “Gûkëethîrwa Modekai ûu wambîrîria gûkûthiria nî Mûyahudi, ûtîmûûmba. Gûtî nkaanja agaakûthiria buru.”",
           "type": "text",
           "attrs": {
             "verseId": "EST.6.13",

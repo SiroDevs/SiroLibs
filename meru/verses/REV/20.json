@@ -162,8 +162,34 @@
           },
           "items": [
             {
-              "text": "Dan 7.9,22",
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.9"
+              },
+              "items": [
+                {
+                  "text": "Dan 7.9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
               "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.22"
+              },
+              "items": [
+                {
+                  "text": "22",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -525,7 +551,24 @@
           },
           "items": [
             {
-              "text": "\n        Dan 7.9-10\n",
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.9+DAN.7.10"
+              },
+              "items": [
+                {
+                  "text": "Dan 7.9-10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
               "type": "text"
             }
           ]

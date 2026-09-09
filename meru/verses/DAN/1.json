@@ -74,8 +74,34 @@
           },
           "items": [
             {
-              "text": "2Ane 24.1; 2Ma 36.5-7",
+              "text": "\n",
               "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.24.1"
+              },
+              "items": [
+                {
+                  "text": "2Ane 24.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.36.5+2CH.36.6+2CH.36.7"
+              },
+              "items": [
+                {
+                  "text": "2Ma 36.5-7",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -113,8 +139,56 @@
           },
           "items": [
             {
-              "text": "2Ane 20.17-18; 24.10-16; 2Ma 36.10; Isa 29.7-8",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.20.17+2KI.20.18"
+              },
+              "items": [
+                {
+                  "text": "2Ane 20.17-18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.24.10+2KI.24.11+2KI.24.12+2KI.24.13+2KI.24.14+2KI.24.15+2KI.24.16"
+              },
+              "items": [
+                {
+                  "text": "24.10-16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.36.10"
+              },
+              "items": [
+                {
+                  "text": "2Ma 36.10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.29.7+ISA.29.8"
+              },
+              "items": [
+                {
+                  "text": "Isa 29.7-8",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },

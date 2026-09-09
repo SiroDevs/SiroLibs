@@ -290,7 +290,24 @@
           },
           "items": [
             {
-              "text": "\n        Esta 1.1\n",
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.1.1"
+              },
+              "items": [
+                {
+                  "text": "Esta 1.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
               "type": "text"
             }
           ]

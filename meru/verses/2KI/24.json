@@ -78,8 +78,17 @@
               ]
             },
             {
-              "text": "Dan 1.1-2",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.1.1+DAN.1.2"
+              },
+              "items": [
+                {
+                  "text": "Dan 1.1-2",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },

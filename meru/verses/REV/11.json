@@ -468,8 +468,38 @@
           },
           "items": [
             {
-              "text": "\n        Dan 7.7,21",
+              "text": "\n",
               "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.7"
+              },
+              "items": [
+                {
+                  "text": "Dan 7.7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.21"
+              },
+              "items": [
+                {
+                  "text": "21",
+                  "type": "text"
+                }
+              ]
             },
             {
               "name": "ref",
@@ -921,8 +951,47 @@
               ]
             },
             {
-              "text": "Dan 2.44; 7.14,27",
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.2.44"
+              },
+              "items": [
+                {
+                  "text": "Dan 2.44",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.14"
+              },
+              "items": [
+                {
+                  "text": "7.14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
               "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.27"
+              },
+              "items": [
+                {
+                  "text": "27",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },

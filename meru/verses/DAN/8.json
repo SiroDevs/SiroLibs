@@ -2,7 +2,7 @@
   "id": "DAN.8",
   "number": "8",
   "bookId": "DAN",
-  "reference": "Dag 8",
+  "reference": "Dan 8",
   "verseCount": 27,
   "content": [
     {
@@ -323,8 +323,17 @@
           },
           "items": [
             {
-              "text": "Kûg 12.4",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.12.4"
+              },
+              "items": [
+                {
+                  "text": "Kûg 12.4",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -534,8 +543,34 @@
           },
           "items": [
             {
-              "text": "Luk 1.19,26",
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.19"
+              },
+              "items": [
+                {
+                  "text": "Luk 1.19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
               "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.26"
+              },
+              "items": [
+                {
+                  "text": "26",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },

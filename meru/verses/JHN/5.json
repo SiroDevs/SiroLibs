@@ -1045,8 +1045,17 @@
           },
           "items": [
             {
-              "text": "Dan 12.2",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.12.2"
+              },
+              "items": [
+                {
+                  "text": "Dan 12.2",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },

@@ -307,8 +307,17 @@
               ]
             },
             {
-              "text": "Dan 7.18",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.18"
+              },
+              "items": [
+                {
+                  "text": "Dan 7.18",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -620,8 +629,17 @@
           },
           "items": [
             {
-              "text": "Dan 12.10",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.12.10"
+              },
+              "items": [
+                {
+                  "text": "Dan 12.10",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },

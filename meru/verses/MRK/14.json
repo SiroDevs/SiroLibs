@@ -2456,8 +2456,17 @@
           },
           "items": [
             {
-              "text": "Dan 7.13",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.13"
+              },
+              "items": [
+                {
+                  "text": "Dan 7.13",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },

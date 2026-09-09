@@ -2,7 +2,7 @@
   "id": "DAN.7",
   "number": "7",
   "bookId": "DAN",
-  "reference": "Dag 7",
+  "reference": "Dan 7",
   "verseCount": 28,
   "content": [
     {
@@ -81,7 +81,7 @@
           ]
         },
         {
-          "text": "Danieli aandîkîre arauga atîrî, “Nî ndoonere kîoneki ûtukû mami, ndîroona ruuo rwa nteere cio-inya cia nthîgûrû rûkiurutana îrieene rîrîa rînene. ",
+          "text": "Danieli aandîkîre arauga atîrî, “Nî ndoonere kîoneki ûtukû mami, ndîroona ruuo rwa nteere cio-inya cia nthîgûrû rûkiurutana îrieene rîrîa rînene.” ",
           "type": "text",
           "attrs": {
             "verseId": "DAN.7.2",
@@ -114,8 +114,30 @@
           },
           "items": [
             {
-              "text": "Kûg 13.1; 17.8",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.13.1"
+              },
+              "items": [
+                {
+                  "text": "Kûg 13.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.17.8"
+              },
+              "items": [
+                {
+                  "text": "17.8",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -153,8 +175,17 @@
           },
           "items": [
             {
-              "text": "Kûg 13.2",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.13.2"
+              },
+              "items": [
+                {
+                  "text": "Kûg 13.2",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -218,7 +249,7 @@
           ]
         },
         {
-          "text": "“Ningî rî, nyamû ya ijîîrî yaakari ta ndûû. Nayo yarûngami na rûteere rûmwe; na nî yaarûmîte mbaru ithatû na maîgo. Nayo îreerwa atîrî, ‘Îta ûrîe nyama inyiingî.’",
+          "text": "“Ningî rî, nyamû ya ijîîrî yaakari ta ndûû. Nayo yarûngami na rûteere rûmwe; na nî yaarûmîte mbaru ithatû na maîgo. Nayo îreerwa atîrî, ‘Îta ûrîe nyama inyiingî.’”",
           "type": "text",
           "attrs": {
             "verseId": "DAN.7.5",
@@ -277,7 +308,7 @@
           ]
         },
         {
-          "text": "“Nyuma ya ûu ndîraraithîîria ndîroona nyamû îngî îkari ta nkarî, îrî na mathagu jana; mathagu jau jakari ta ja nyoni. Nyamû îîu yaarî na mîtwe îna, na nî yaanenkeri waathani.",
+          "text": "Nyuma ya ûu ndîraraithîîria ndîroona nyamû îngî îkari ta nkarî, îrî na mathagu jana; mathagu jau jakari ta ja nyoni. Nyamû îîu yaarî na mîtwe îna, na nî yaanenkeri waathani.",
           "type": "text",
           "attrs": {
             "verseId": "DAN.7.6",
@@ -354,13 +385,39 @@
           },
           "items": [
             {
-              "text": "Kûg 12.3; 13.1",
+              "text": "\n",
               "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.12.3"
+              },
+              "items": [
+                {
+                  "text": "Kûg 12.3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.13.1"
+              },
+              "items": [
+                {
+                  "text": "13.1",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
         {
-          "text": " “Nyuma ya ûu nî ndoonere nyamû ya inya. Nayo yaarî nyamû îmbîî buru na ya kûmakania, na yaarî na inya înene mono, na maîgo jamanene ja chuuma. Nakîo kîonthe kîrîa yooragaga nî yatambûrangaga na nî yaarîjaga na îgakinyanga kîrîa gîatigaraga na magûrû. Nî yaarî na ngoji îkûmi, nayo yaarî mwanya buru na nyamû ingî cionthe irîa ndaarî ndîkwona. ",
+          "text": " Nyuma ya ûu nî ndoonere nyamû ya inya. Nayo yaarî nyamû îmbîî buru na ya kûmakania, na yaarî na inya înene mono, na maîgo jamanene ja chuuma. Nakîo kîonthe kîrîa yooragaga nî yatambûrangaga na nî yaarîjaga na îgakinyanga kîrîa gîatigaraga na magûrû. Nî yaarî na ngoji îkûmi, nayo yaarî mwanya buru na nyamû ingî cionthe irîa ndaarî ndîkwona. ",
           "type": "text",
           "attrs": {
             "verseId": "DAN.7.7",
@@ -393,8 +450,17 @@
           },
           "items": [
             {
-              "text": "Kûg 13.5-6",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.13.5+REV.13.6"
+              },
+              "items": [
+                {
+                  "text": "Kûg 13.5-6",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -489,13 +555,39 @@
           },
           "items": [
             {
-              "text": "Kûg 20.4; 1.14",
+              "text": "\n",
               "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.20.4"
+              },
+              "items": [
+                {
+                  "text": "Kûg 20.4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.1.14"
+              },
+              "items": [
+                {
+                  "text": "1.14",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
         {
-          "text": " “Ndaraithîîria o ûu, ndîroona ndûriga ciarûngîkwa. Nawe ûrîa ûtwîre o kenya na kenya arakarîra rûriga rwaawe. Ningî nî eekîrîte nguû injerû ta nkamia, na mûtuundu jwa mûtwe jwaawe jwatheri jûkeerûa ta bamba. Naru rûriga rwaawe rwaarî na magûrû jaakanaga mwanki. ",
+          "text": " Ndaraithîîria o ûu, ndîroona ndûriga ciarûngîkwa. Nawe ûrîa ûtwîre o kenya na kenya arakarîra rûriga rwaawe. Ningî nî eekîrîte nguû injerû ta nkamia, na mûtuundu jwa mûtwe jwaawe jwatheri jûkeerûa ta bamba. Naru rûriga rwaawe rwaarî na magûrû jaakanaga mwanki. ",
           "type": "text",
           "attrs": {
             "verseId": "DAN.7.9",
@@ -528,8 +620,30 @@
           },
           "items": [
             {
-              "text": "Kûg 5.11; 20.12",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.5.11"
+              },
+              "items": [
+                {
+                  "text": "Kûg 5.11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.20.12"
+              },
+              "items": [
+                {
+                  "text": "20.12",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -593,7 +707,7 @@
           ]
         },
         {
-          "text": "“Naani ntegeete o ûu, no ndaigagua nteto irîa rûgoji rwaragia cia gwikumia. Naani ndaithîrîîtie o ûu, nyamû îîu îrooragwa na kiimba kîaayo kîreenyangua na kîranenkanîrwa kîîthîîrua na mwanki. ",
+          "text": "Naani ntegeete o ûu, no ndaigagua nteto irîa rûgoji rwaragia cia gwikumia. Naani ndaithîrîîtie o ûu, nyamû îîu îrooragwa na kiimba kîaayo kîreenyangua na kîranenkanîrwa kîîthîîrua na mwanki. ",
           "type": "text",
           "attrs": {
             "verseId": "DAN.7.11",
@@ -695,8 +809,116 @@
           },
           "items": [
             {
-              "text": "Mat 24.30; 26.64; Mar 13.26; 14.62; Luk 21.27; Kûg 1.7,13; 14.14",
+              "text": "\n",
               "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.24.30"
+              },
+              "items": [
+                {
+                  "text": "Mat 24.30",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.26.64"
+              },
+              "items": [
+                {
+                  "text": "26.64",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.13.26"
+              },
+              "items": [
+                {
+                  "text": "Mar 13.26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.14.62"
+              },
+              "items": [
+                {
+                  "text": "14.62",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.21.27"
+              },
+              "items": [
+                {
+                  "text": "Luk 21.27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.1.7"
+              },
+              "items": [
+                {
+                  "text": "Kûg 1.7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.1.13"
+              },
+              "items": [
+                {
+                  "text": "13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.14.14"
+              },
+              "items": [
+                {
+                  "text": "14.14",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -734,8 +956,17 @@
           },
           "items": [
             {
-              "text": "Kûg 11.15",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.11.15"
+              },
+              "items": [
+                {
+                  "text": "Kûg 11.15",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -895,13 +1126,22 @@
           },
           "items": [
             {
-              "text": "Kûg 22.5",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.22.5"
+              },
+              "items": [
+                {
+                  "text": "Kûg 22.5",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
         {
-          "text": " Nabo atheru ba Ûrîa Ûrî Îgûrû buru nîbo bakaajûkia ûnene bûtuîke bwaao kenya na kenya.’",
+          "text": " Nabo atheru ba Ûrîa Ûrî Îgûrû buru nîbo bakaajûkia ûnene bûtuîke bwaao kenya na kenya.’”",
           "type": "text",
           "attrs": {
             "verseId": "DAN.7.18",
@@ -960,7 +1200,7 @@
           ]
         },
         {
-          "text": "“Naani nî ndeendere kûmenya ûûma bwa nyamû ya inya irîa yaarî na mwanya na nyamû ingî cionthe. Nyamû îîu yaarî îmbîî mono nayo nî yaathiragia barîa yaagwataga na nkunyû ciaayo cia îturutia na maîgo jaayo ja chuuma, îkabakinyangîra nthî buru. ",
+          "text": "Naani nî ndeendere kûmenya ûûma bwa nyamû ya inya irîa yaarî na mwanya na nyamû ingî cionthe. Nyamû îîu yaarî îmbîî mono nayo nî yaathiragia barîa yaagwataga na nkunyû ciaayo cia îturutia na maîgo jaayo ja chuuma, îkabakinyangîra nthî buru. ",
           "type": "text",
           "attrs": {
             "verseId": "DAN.7.19",
@@ -1018,8 +1258,17 @@
           },
           "items": [
             {
-              "text": "Kûg 13.7",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.13.7"
+              },
+              "items": [
+                {
+                  "text": "Kûg 13.7",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -1057,8 +1306,17 @@
           },
           "items": [
             {
-              "text": "Kûg 20.4",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.20.4"
+              },
+              "items": [
+                {
+                  "text": "Kûg 20.4",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -1155,8 +1413,17 @@
           },
           "items": [
             {
-              "text": "Kûg 17.12",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.17.12"
+              },
+              "items": [
+                {
+                  "text": "Kûg 17.12",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -1194,8 +1461,30 @@
           },
           "items": [
             {
-              "text": "Kûg 12.14; 13.5-6",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.12.14"
+              },
+              "items": [
+                {
+                  "text": "Kûg 12.14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.13.5+REV.13.6"
+              },
+              "items": [
+                {
+                  "text": "13.5-6",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
@@ -1258,8 +1547,30 @@
           },
           "items": [
             {
-              "text": "Kûg 20.4; 22.5",
-              "type": "text"
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.20.4"
+              },
+              "items": [
+                {
+                  "text": "Kûg 20.4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.22.5"
+              },
+              "items": [
+                {
+                  "text": "22.5",
+                  "type": "text"
+                }
+              ]
             }
           ]
         },
