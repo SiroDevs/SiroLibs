@@ -1,0 +1,1741 @@
+{
+  "id": "MRK.1",
+  "number": "1",
+  "bookId": "MRK",
+  "reference": "Mariko 1",
+  "verseCount": 45,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MRK 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ukurundia ko Yohana Möbhatiisi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MRK 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Igichiiratë ke Yesö Kirisitö, Ömoona wë Ënooköë. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.1",
+            "verseOrgIds": [
+              "MRK.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MRK 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAL.3.1"
+              },
+              "items": [
+                {
+                  "text": "Mari 3:1",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Nkeetangërë keebhörë ömönaabhi Isaya wanyoorrë aandëka iga,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.2",
+            "verseOrgIds": [
+              "MRK.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MRK 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.3",
+            "verseOrgIds": [
+              "MRK.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MRK 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yohana Möbhatiisi naarichokeeyë guiköngö, arabhaatiisa na götebheerria iga, “Taihönchöra kurua kömaraga gainyu möbhatiisue, na Ënooköë narabhaabhëre.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.4",
+            "verseOrgIds": [
+              "MRK.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MRK 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abhantö abhaaru kurua kumugi go Yerusaremu na kurua kömöndaara go Yutea mbaagërëëyë, bhagatöbhöra amaraga gaabho nawe akabhabhatiisa kömooro go Yorotani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.5",
+            "verseOrgIds": [
+              "MRK.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MRK 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.1.8"
+              },
+              "items": [
+                {
+                  "text": "2 Gam 1:8",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Yohana wanyoorrë naasuarrë ëngëbho ëno wanyoorrë ërökëröë na ubhuchooki bhuë ëngamëëra, na aibhohërë umuchibhi gui iriiho kumukurukuru, na ibhiakörëa bhiae mbiarëngë ichingigë na öbhöökë bho masisi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.6",
+            "verseOrgIds": [
+              "MRK.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MRK 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yohana naarë göteebherria aragamba iga, “Ömöntö ngucha arë nyuma yaane öno ana ichinguru gönkëra, öno ntaisaini kuihiinya na götachöra ninyoora ni ibhigachirio bhi ibhiratö bhiae. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.7",
+            "verseOrgIds": [
+              "MRK.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MRK 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nköbhabhatiisa ndë kömanchë, sibhoono we naarabhabhatiise na Nkoro Nhoreeru.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.8",
+            "verseOrgIds": [
+              "MRK.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ëbhaatiso ya Yesö na ögösaachöa kooe",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MRK 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.8",
+            "verseOrgIds": [
+              "MRK.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MRK 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Guchinsikö chiyö Yesö akahika kurua Nasareti, umugi go Gariraya, akabhaatiisua na Yohana kömooro go Yorotani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.9",
+            "verseOrgIds": [
+              "MRK.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MRK 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gönkaaga ëyö bheene wanyoorë Yesö ararua kömanchë igo, akamaaha kuriöbha haraigöka, na Nkoro öno anga inguuti araikara këgörö yaae. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.10",
+            "verseOrgIds": [
+              "MRK.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MRK 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.22.2"
+              },
+              "items": [
+                {
+                  "text": "Ögt 22:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.2.7"
+              },
+              "items": [
+                {
+                  "text": "Sab 2:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.42.1"
+              },
+              "items": [
+                {
+                  "text": "Isa 42:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.3.17"
+              },
+              "items": [
+                {
+                  "text": "Mat 3:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.12.18"
+              },
+              "items": [
+                {
+                  "text": "12:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.9.7"
+              },
+              "items": [
+                {
+                  "text": "Mk 9:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.3.22"
+              },
+              "items": [
+                {
+                  "text": "Ruk 3:22",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ëngamba ëkarua kuriöbha ëragamba iga, “Uwe nö Ömoona waane ömöhanchöa örë, öno ngötegeribhua nawe.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.11",
+            "verseOrgIds": [
+              "MRK.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MRK 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ho hayö igo Nkoro akamurichokia kuya guiköngö. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.12",
+            "verseOrgIds": [
+              "MRK.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MRK 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akabheera guiköngö hayö ichinsikö mërongo ënai, arasaachöa na Setani; na naarëngë hamui na ichitiinyi cha ibhara; na abhamaraika bhakamuirigania.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.13",
+            "verseOrgIds": [
+              "MRK.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesö arabhërëkëra abhahömaani bhanai",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MRK 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.13",
+            "verseOrgIds": [
+              "MRK.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MRK 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hano Yohana aatöörröë cheera, Yesö akaringa kuya Gariraya, akarundia Igichiiratë kë Ënooköë, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.14",
+            "verseOrgIds": [
+              "MRK.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MRK 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.3.2"
+              },
+              "items": [
+                {
+                  "text": "Mat 3:2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "aragamba iga, “Ënkaaga ihikërë, na öbhögambi bhuë Ënooköë nhang'i bhörë; Mötaihönchöra mukumi Igichiiratë!” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.15",
+            "verseOrgIds": [
+              "MRK.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MRK 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nawe hano wanyoorrë araheta mbarëka yi inyancha ya Gariraya, akamaaha Simoni na Anderea mura omoobho, bhararekera uruero kunyancha; kugira mbaarëngë abhahömaani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.16",
+            "verseOrgIds": [
+              "MRK.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MRK 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesö akabhateebhia iga, “Mötansoorana nani nëndabhakore köbha abhahömaani bha abhantö.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.17",
+            "verseOrgIds": [
+              "MRK.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MRK 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ho hayö igo bhagatiga ichinyero chaabho, bhakamösoorana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.18",
+            "verseOrgIds": [
+              "MRK.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MRK 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hano aagenderreeyi kuya mbere hake igo, akamaaha Yakobho o Sebhetayo, na Yohana mura omoobho, nabho guiki bharëngë köbhooto, bharataabha ichinyero chaabho. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.19",
+            "verseOrgIds": [
+              "MRK.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MRK 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ho hayö igo akabhabhërëkëra, bhagatiga Sebhetayo isawaabho köbhooto hamui na abhakoramërëmo, bhakamösoorana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.20",
+            "verseOrgIds": [
+              "MRK.1.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ömöntö öno ana ikihui",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MRK 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.20",
+            "verseOrgIds": [
+              "MRK.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MRK 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesö hamui na abhëëga bhaae bhakahika kumugi go Kabherinaumu, hakurua kurusikö ruë Ësabhatö Yesö akaya gusinagoogi agatanga kuigia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.21",
+            "verseOrgIds": [
+              "MRK.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MRK 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.7.28"
+              },
+              "items": [
+                {
+                  "text": "Mat 7:28",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.7.29"
+              },
+              "items": [
+                {
+                  "text": "29",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Bhakarögööra bhökong'u kömaigiö gaae; kugira naarë köbhaigia kiömöntö öno ana ögötöra, na taarë kuigia kia abhandiki hai. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.22",
+            "verseOrgIds": [
+              "MRK.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MRK 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ho hayö igo ömöntö öno wanyoorrë ana ikihui agaacha gusinagoogi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.23",
+            "verseOrgIds": [
+              "MRK.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "MRK 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "agachana aragamba iga, “Nkë ugututuna, Yesö wa Nasareti? Gösë nuuchërë gutusikia? Nëmanyërë nuwe ng'ui; nö ömöhoreeru wë Ënooköë örë!” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.24",
+            "verseOrgIds": [
+              "MRK.1.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "MRK 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesö akang'oonera ikihui këëra aragamba iga, “Takira, richoka kurua kömöntö öno!” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.25",
+            "verseOrgIds": [
+              "MRK.1.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "MRK 1:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ikihui këëra gëkarekera ömöntö ööra hansë, këgakuura bhökong'u, na kurichoka kurua harë we. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.26",
+            "verseOrgIds": [
+              "MRK.1.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "MRK 1:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abhantö bhonsui bhakarögööra bhökong'u bhakabhuurania iga, “Këno nkë? Gösë na amaigiö amahëa? Ömöntö öno naana ögötöra go köng'oonera ibhihui, nabhio bhimuiguëra!” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.27",
+            "verseOrgIds": [
+              "MRK.1.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "MRK 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ho hayö igo amang'ana ga Yesö gakarönda këra hasë kömöndaara go Gariraya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.28",
+            "verseOrgIds": [
+              "MRK.1.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesö arahuenia abhantö abhaaru",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "MRK 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.28",
+            "verseOrgIds": [
+              "MRK.1.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "MRK 1:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na ho hayö igo, hano bhaarichokërë kurua gusinagoogi, bhakahika o Simioni na Anderea, hamui na Yakobho na Yohana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.29",
+            "verseOrgIds": [
+              "MRK.1.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "MRK 1:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nawe mabhiara o Simioni, nyaköwaabho mökaae, nkanyoora naraayë bhörrë, aroorrë irikeng'enti; ho hayö igo bhakamöteebhia amang'ana gaae. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.30",
+            "verseOrgIds": [
+              "MRK.1.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "MRK 1:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akamöhëkëëra, akamögorrokia gö kömögoota ököbhoko, irikeng'enti rëkamöhaatëra, akaimöka akabhasiriinia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.31",
+            "verseOrgIds": [
+              "MRK.1.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "MRK 1:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hano goobhaayë ömögoroobha, na iriöbha rësëkëëyë, bhakamörentera bhonsui bhano bhaarë abharooyi, na bhano bhaarë na ibhihui. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.32",
+            "verseOrgIds": [
+              "MRK.1.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "MRK 1:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na umugi gonsui waanyoorrë ngösangërë gësaku. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.33",
+            "verseOrgIds": [
+              "MRK.1.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "MRK 1:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akahuenia abhaaru bhano bhaarë na amarooyi hagarëhagarë, akarugia ibhihui ibhiaru, na taatigërë ibhihui bhigambe hai, kugira mbiamömanyërë.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.34",
+            "verseOrgIds": [
+              "MRK.1.34"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesö arateebherria Gariraya",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "MRK 1:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.34",
+            "verseOrgIds": [
+              "MRK.1.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "MRK 1:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inkio yaho bhötararabha, Yesö akabhooka akarichoka. Akaya kumugi këbhara yu umugi harë abhantö bhataarë, agasabhëra ho. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.35",
+            "verseOrgIds": [
+              "MRK.1.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "MRK 1:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sibhoono Simoni hamui na bharikia bhaae bhakaya kumurigia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.36",
+            "verseOrgIds": [
+              "MRK.1.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "MRK 1:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na hano bhaamunyorrë, bhakamöteebhia iga, “Abhantö bhonsui nuwe bhakurigia.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.37",
+            "verseOrgIds": [
+              "MRK.1.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "MRK 1:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sibhoono Yesö akahunchukia iga, “Kuhika tuyi guchimberi chindë chino chiinaarrë hano; nchirundirri nacho chonsui, kugira ëyö niyo yaagirre ngaacha.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.38",
+            "verseOrgIds": [
+              "MRK.1.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "MRK 1:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.4.23"
+              },
+              "items": [
+                {
+                  "text": "Mat 4:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.9.35"
+              },
+              "items": [
+                {
+                  "text": "9:35",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Akainaaranaara Gariraya yonsui, ararundia guchisinagogi chaabho na kurugia ibhihui.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.39",
+            "verseOrgIds": [
+              "MRK.1.39"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesö arahuenia ömöntö wa amagenge",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "MRK 1:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.39",
+            "verseOrgIds": [
+              "MRK.1.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "MRK 1:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ömöntö wöndë öno wanyoorrë aroora amagenge, agaacha harë Yesö agatema hansë ibhiru, akamögeya aragamba iga, “Hano örahanche, önsaabhuure.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.40",
+            "verseOrgIds": [
+              "MRK.1.40"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "MRK 1:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nawe akamömaahëra amaabhë, akarambëka ököbhoko kooe, akamuturubhania, akamöteebhia iga, “Nëhanchërë, saabhuurua.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.41",
+            "verseOrgIds": [
+              "MRK.1.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "MRK 1:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ho hayö igo amagenge gaara gagasira, ömöntö ööra akahuena. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.42",
+            "verseOrgIds": [
+              "MRK.1.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "MRK 1:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akamökaania guchinguru, ho hayö igo akamuruusia ho, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.43",
+            "verseOrgIds": [
+              "MRK.1.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "MRK 1:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.14.1+LEV.14.2+LEV.14.3+LEV.14.4+LEV.14.5+LEV.14.6+LEV.14.7+LEV.14.8+LEV.14.9+LEV.14.10+LEV.14.11+LEV.14.12+LEV.14.13+LEV.14.14+LEV.14.15+LEV.14.16+LEV.14.17+LEV.14.18+LEV.14.19+LEV.14.20+LEV.14.21+LEV.14.22+LEV.14.23+LEV.14.24+LEV.14.25+LEV.14.26+LEV.14.27+LEV.14.28+LEV.14.29+LEV.14.30+LEV.14.31+LEV.14.32"
+              },
+              "items": [
+                {
+                  "text": "Abhar 14:1-32",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "akamöteebhia iga, “Maahërra, ötagateebhia möntö ng'ana ërë yonsui, sibhoono taya bhooo wiyoroki kumunchaama, uruusi keebhörë Mösa aaruusiri ëngamba kögösaabhuurua kooo, ëbhe ëherekiö harëbho.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.44",
+            "verseOrgIds": [
+              "MRK.1.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "MRK 1:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sibhoono ömöntö ööra akaya na götanga köraganka amang'ana gayö, nago gakarönda harë honsui, köhayö Yesö taatörrë gösoha kumugi görë gonsui bhörabhu hai, gëtarë iga naabhaayë këbhara harë abhantö bhataarë. Sibhoono abhantö mbaamögërëëyë kurua guchintahana chonsui.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.45",
+            "verseOrgIds": [
+              "MRK.1.45"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MRK.2",
+    "number": "2",
+    "bookId": "MRK"
+  },
+  "previous": {
+    "id": "MRK.intro",
+    "number": "intro",
+    "bookId": "MRK"
+  }
+}

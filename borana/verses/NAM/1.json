@@ -1,0 +1,425 @@
+{
+  "id": "NAM.1",
+  "number": "1",
+  "bookId": "NAM",
+  "reference": "Nahumu 1",
+  "verseCount": 7,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "NAM 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NAM 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.1",
+            "verseOrgIds": [
+              "NAM.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.10.5+ISA.10.6+ISA.10.7+ISA.10.8+ISA.10.9+ISA.10.10+ISA.10.11+ISA.10.12+ISA.10.13+ISA.10.14+ISA.10.15+ISA.10.16+ISA.10.17+ISA.10.18+ISA.10.19+ISA.10.20+ISA.10.21+ISA.10.22+ISA.10.23+ISA.10.24+ISA.10.25+ISA.10.26+ISA.10.27+ISA.10.28+ISA.10.29+ISA.10.30+ISA.10.31+ISA.10.32+ISA.10.33+ISA.10.34"
+              },
+              "items": [
+                {
+                  "text": "Isa 10.5-34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.14.24+ISA.14.25+ISA.14.26+ISA.14.27"
+              },
+              "items": [
+                {
+                  "text": "14.24-27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEP.2.13+ZEP.2.14+ZEP.2.15"
+              },
+              "items": [
+                {
+                  "text": "Sef 2.13-15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Tunini waan dira Ninawi, ka Nahumuuni, nami gosa Elkoshi, daayyani arge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.1",
+            "verseOrgIds": [
+              "NAM.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Dallansu AABBO Waaqi Ninawiti dallane",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NAM 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.10",
+            "verseOrgIds": [
+              "NAM.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NAM 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee Ninawi, si keesaa nami hameenna mariate AABBO Waaqati malatu bahe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.11",
+            "verseOrgIds": [
+              "NAM.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NAM 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "AABBO Waaqi waan worra Israelitini jed'u: Ato worri Ashuru jabaate yokhaani heddatele, worra balleesani lafaa d'abani. Gumi tiyya, ato qara isani gaargalchele, amma deebie isani ingaargalchu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.12",
+            "verseOrgIds": [
+              "NAM.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NAM 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Anini irre worri Ashuru isaniini dabsate ch'abse, haada worri isaniini hid'u kuta.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.13",
+            "verseOrgIds": [
+              "NAM.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NAM 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.13",
+            "verseOrgIds": [
+              "NAM.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NAM 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "AABBO Waaqi waan worra Ashuru akana jed'e: Worri deebie ilmaani ind'alu, tanaafi maqaani worraa imbada. Anini waan worri harkaani boch'e mid'aasu, ka mana waaqoota worraa keesa jiru, ka worri kad'atu, imballeesa. Anini worra Ashuruti awaala qotuu jira — worri jiraachu himmalle!",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.14",
+            "verseOrgIds": [
+              "NAM.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NAM 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.14",
+            "verseOrgIds": [
+              "NAM.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NAM 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.15",
+            "verseOrgIds": [
+              "NAM.1.15"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.52.7"
+              },
+              "items": [
+                {
+                  "text": "Isa 52.7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Me ilaala, nami ergaani d'ufu, ka odu dansa ta nagaya namati odeesu, gaareeni ira gad'ufuu jira! Worra Yuda, jila teesani tolfad'a, kakhu isani Waaqati kakhattani guuta. Worri ch'ubbu qabu suni deebie lafa teesani inhad'u; ya worra balleesani fit'ani!",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.15",
+            "verseOrgIds": [
+              "NAM.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Aka dira Ninawi balleesani",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NAM.2",
+    "number": "2",
+    "bookId": "NAM"
+  },
+  "previous": {
+    "id": "NAM.intro",
+    "number": "intro",
+    "bookId": "NAM"
+  }
+}

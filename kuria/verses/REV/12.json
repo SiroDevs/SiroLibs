@@ -1,0 +1,810 @@
+{
+  "id": "REV.12",
+  "number": "12",
+  "bookId": "REV",
+  "reference": "Öbhöhönyöro 12",
+  "verseCount": 18,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "REV 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ömögaikörö na irichoka",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "REV 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hakurua ëkëmanyiirriö ëkënene gëkamaahëkana kuriöbha: Ömögaikörö öno abhisiibhui iriöbha na umueri, na hansë ya amagörö gaae na ëköndö ya ichinyunyuunyi ikumi na ibhërë këgörö yö ömötöe gooe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.1",
+            "verseOrgIds": [
+              "REV.12.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "REV 12:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wanyoorrë nënda arë, nawe agakuura bhökong'u gikugira ya öbhörrö bhui ibhisa bhia kuibhöra. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.2",
+            "verseOrgIds": [
+              "REV.12.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "REV 12:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.7"
+              },
+              "items": [
+                {
+                  "text": "Tan 7:7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Hakurua ëkëmanyiirriö këndë gëkarichokera kuriöbha, irichoka irinene iribherretu rëno rëëna ichintëra ikumi na ëmëtöe muhungatë; na këra mötöe gööna ëköndö. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.3",
+            "verseOrgIds": [
+              "REV.12.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "REV 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.8.10"
+              },
+              "items": [
+                {
+                  "text": "Tan 8:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Irichoka rëyö rëkang'uura nö ömökëra goorio iring'ënga rimui ri ichinyunyuunyi cha kuriöbha na guchirekera gökëbhara. Nario rëkaimëërra mbere yö ömögaikörö öyö aarë gutuna kuibhöra, riiseemiri kömera ömoona nkaaga araibhöröë iga tö. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.4",
+            "verseOrgIds": [
+              "REV.12.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "REV 12:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.66.7"
+              },
+              "items": [
+                {
+                  "text": "Isa 66:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.2.9"
+              },
+              "items": [
+                {
+                  "text": "Sab 2:9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Hakurua ömögaikörö öyö akaibhöra ömoona wë ëgësaacha önö aragambëre ichihamatë chonsui na inyimbo yi ikiöma. Sibhoono ömoona ööra agakabhuribhua na kuhiröa kö Ënooköë, kugitumbë kiu ubhukumahe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.5",
+            "verseOrgIds": [
+              "REV.12.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "REV 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ömögaikörö ööra akang'ösa kuya guiköngö, harë wanyoorrë Ënooköë amöseemiiyi ahasë hë ëgareeya harë arariihöë guchinsikö ëgëköë kimui na amagana abhërë na mërongo ësansabha (1,260).",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.6",
+            "verseOrgIds": [
+              "REV.12.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "REV 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.6",
+            "verseOrgIds": [
+              "REV.12.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "REV 12:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.7",
+            "verseOrgIds": [
+              "REV.12.7"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.10.13"
+              },
+              "items": [
+                {
+                  "text": "Tan 10:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.10.21"
+              },
+              "items": [
+                {
+                  "text": "21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.12.1"
+              },
+              "items": [
+                {
+                  "text": "12:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JUD.1.9"
+              },
+              "items": [
+                {
+                  "text": "Yuta 1:9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Hakurua Iriihi rëkagootia kuriöbha. Mikaeri na abhamaraika bhaae bhagaitana ni irichoka rëyö, nario rëkabhaitania hamui na abhamaraika bhario. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.7",
+            "verseOrgIds": [
+              "REV.12.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "REV 12:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sibhoono irichoka rëyö hamui na abhamaraika bhario rëgakëröa, köhayö umueya goobho gökanga köhba ho kuriöbha. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.8",
+            "verseOrgIds": [
+              "REV.12.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "REV 12:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.3.1"
+              },
+              "items": [
+                {
+                  "text": "Ögt 3:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.10.18"
+              },
+              "items": [
+                {
+                  "text": "Ruk 10:18",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Igo, irichoka irinene, rëyö rëgatabhutua isikö. Irichoka rëyö, ni inchoka ëëra ya karai ëno ëköbhërëkëröa iga Munyanku gösë Irisambö rëno rëköng'aina ëkëbhara gionsui. Ee-e ndëëtabhutëröë guucha gökëbhara hamui na abhamaraika bhario bhonsui. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.9",
+            "verseOrgIds": [
+              "REV.12.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "REV 12:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.1.9+JOB.1.10+JOB.1.11"
+              },
+              "items": [
+                {
+                  "text": "Ayb 1:9-11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.3.1"
+              },
+              "items": [
+                {
+                  "text": "Sek 3:1",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Hakurua nkaigua ëngamba ënene kuriöbha ëragamba iga: “Bhoono ubhuituuria na ichinguru na öbhögambi bhöë Ënooköë weitö na ögötöra go Kirisitö waae bhihikërë. Kugira umuchungiri wa abhantö bhaitö öno wanyoorrë aimëërëëyë mbere yë Ënooköë arabhachöngëra ubhutikö na ömöbhasö atabhutëröë hansë. Ee-e, aatabhutëröë hansë, öyö aköbhachöngëra ubhutikö na ömöbhasö. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.10",
+            "verseOrgIds": [
+              "REV.12.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "REV 12:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abhantö bhaitö bhaakërrë kömaanyinga gë Ëkëmaano ki Iring'ondi na ëng'ana ëno bhaaherekiri; kugira tëbhaahanchërë amabhaho gaabho hai, bhaikairuusia kuhika ugukua. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.11",
+            "verseOrgIds": [
+              "REV.12.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "REV 12:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gikugira ëyö, gooka kuriöbha hamui na bhino bhionsui bhimo! Sibhoono ëhöbhë yainyu ëkëbhara na inyancha kugira Munyanku abhaachëëyë ana ubhusinanku, kugira namanyërë iga ënkaaga yaae ëno yaatamërë në ënke.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.12",
+            "verseOrgIds": [
+              "REV.12.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "REV 12:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hano irichoka rëyö rëërööchë iga rëtabhutëröë hansë gökëbhara, ndëëtangërë kuguëma ömögaikörö ööra wanyoorrë aibhöra ömoona wë ëgësaacha. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.13",
+            "verseOrgIds": [
+              "REV.12.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "REV 12:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.25"
+              },
+              "items": [
+                {
+                  "text": "Tan 7:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.12.7"
+              },
+              "items": [
+                {
+                  "text": "12:7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Sibhoono ömögaikörö öyö akahaabhoa amabhabha abhërë gë ëkoohe ënene korri iga, aibhurruke kuya aharai kurua guichoka rëyö, kuhika ahasë aharai guiköngö, harë arariihöë kögaareeya kömeeka ëtatö na iritënë. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.14",
+            "verseOrgIds": [
+              "REV.12.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "REV 12:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Igo, irichoka rëyö rëkaröka amanchë amaaru kiö ömooro kurua kumunyua goorio, gakurua nyuma ömögaikörö öyö korri iga gamuhire. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.15",
+            "verseOrgIds": [
+              "REV.12.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "REV 12:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sibhoono irirobha rëgatuurria ömögaikörö öyö: Irirobha rëgaasama kiu umunyua na kömera amanchë gayö gaaruurë kumunyua gui irichoka rëyö. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.16",
+            "verseOrgIds": [
+              "REV.12.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "REV 12:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Irichoka rëyö rëkarëërra ömögaikörö öyö, rëgatanöra kuya guitana na uruibhöro rö ömögaikörö öyö, nko kögamba iga bhonsui bhano bhakuiguëra amarago gë Ënooköë na köherekia igörö ya Yesö. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.17",
+            "verseOrgIds": [
+              "REV.12.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "REV 12:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na irichoka rëyö rëkaimëërra kunguguni yi inyancha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.12.18",
+            "verseOrgIds": [
+              "REV.12.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "REV.13",
+    "number": "13",
+    "bookId": "REV"
+  },
+  "previous": {
+    "id": "REV.11",
+    "number": "11",
+    "bookId": "REV"
+  }
+}

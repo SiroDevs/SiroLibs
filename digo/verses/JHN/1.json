@@ -1,0 +1,2025 @@
+{
+  "id": "JHN.1",
+  "number": "1",
+  "bookId": "JHN",
+  "reference": "Johana 1",
+  "verseCount": 51,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "JHN 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JHN 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hipho mwandzo kabila ya dunia kuumbwa kpwakala na Neno. Hiye Neno kala a phamwenga na Mlungu, naye kala ni Mlungu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.1",
+            "verseOrgIds": [
+              "JHN.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JHN 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hangu mwandzo, Neno kala a phamwenga na Mlungu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.2",
+            "verseOrgIds": [
+              "JHN.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JHN 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Viumbe vyosi vyaumbwa ni hiye Neno, wala takuna hata chiumbe chimwenga ambacho chaumbwa bila iye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.3",
+            "verseOrgIds": [
+              "JHN.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JHN 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hiye Neno ndiye chandzo cha uzima, nao uzima nkureha mwanga kpwa atu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.4",
+            "verseOrgIds": [
+              "JHN.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JHN 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hinyo mwanga nkungʼala jizani, naro jiza tariuturya bii.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.5",
+            "verseOrgIds": [
+              "JHN.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JHN 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.5",
+            "verseOrgIds": [
+              "JHN.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JHN 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.6",
+            "verseOrgIds": [
+              "JHN.1.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.3.1"
+              },
+              "items": [
+                {
+                  "text": "Mathayo 3:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.1.4"
+              },
+              "items": [
+                {
+                  "text": "Mariko 1:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.3.1"
+              },
+              "items": [
+                {
+                  "text": "Luka 3:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.3.2"
+              },
+              "items": [
+                {
+                  "text": "2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mlungu wahuma mutu mmwenga yeihwa Johana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.6",
+            "verseOrgIds": [
+              "JHN.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JHN 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mutu hiye wakpwedzaambira atu kuhusu mwanga, ili atu osi asikire hinyo ujumbewe na aamini. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.7",
+            "verseOrgIds": [
+              "JHN.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JHN 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Johana kala siye hinyo mwanga, ela wakpwedzaambira atu kuhusu mwanga hinyo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.8",
+            "verseOrgIds": [
+              "JHN.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JHN 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hiye mwanga wa kpweli, angʼariraye chila mmwenga, kala aredza duniani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.9",
+            "verseOrgIds": [
+              "JHN.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JHN 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hiye Neno wakpwedza duniani, ela atu duniani taayammanya, hata dzagbwe iye ndiye ariyeumba dunia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.10",
+            "verseOrgIds": [
+              "JHN.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JHN 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakpwedza kpwa atue, ela taayamkubali. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.11",
+            "verseOrgIds": [
+              "JHN.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JHN 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ela osi ariomkubali na kumkuluphira, waapha haki ya kukala ana a Mlungu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.12",
+            "verseOrgIds": [
+              "JHN.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JHN 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Taayakala ana a Mlungu kpwa kumanyana chimwiri, wala kpwa mipango ya mutu, wala kpwa kuvyalwa ni baba wa chibinadamu. Ela Mlungu mwenye ndiye yeahenda akale anae.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.13",
+            "verseOrgIds": [
+              "JHN.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JHN 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.13",
+            "verseOrgIds": [
+              "JHN.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JHN 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tsona Neno rakala mutu, na achiishi phamwenga naswi. Naswi hwaona ukuluwe, ukulu wa mwana wa macheye yela kpwa Baba. Maishage gahuonyesa ukulu wa Mlungu, mana kala ni mutu wa mbazi nyinji tsona muaminifu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.14",
+            "verseOrgIds": [
+              "JHN.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JHN 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Johana walavya ushahidi kumuhusu, achikota kululu, achiamba, “Hiye ndiye yekuambirani, ‘Ye edzaye nyuma zangu ni mkpwulu kuriko mimi, mana kala a kuko hangu sidzangbwevyalwa.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.15",
+            "verseOrgIds": [
+              "JHN.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JHN 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.15",
+            "verseOrgIds": [
+              "JHN.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JHN 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kpwa vira ni mutu wa mbazi nyinji, anaenderera kuhuonera mbazi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.16",
+            "verseOrgIds": [
+              "JHN.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JHN 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mlungu walavya Shariya na Musa, ela waonyesa mbazi na kpweliye kpwa gara arigohenda Jesu Masihi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.17",
+            "verseOrgIds": [
+              "JHN.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JHN 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Takuna mutu yeyesi ariyemuona Mlungu isiphokala mwana wa macheye yela kpwa Mlungu, ambaye iye mwenye ni Mlungu. Naye ana uhusiano wa phephi na Baba, na wahumanyisa Mlungu arivyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.18",
+            "verseOrgIds": [
+              "JHN.1.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JHN 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.18",
+            "verseOrgIds": [
+              "JHN.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JHN 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku mwenga vilongozi a Chiyahudi hiko Jerusalemu ahuma alavyadzi-sadaka na Alawi akamuuze Johana, “Ye edzaye ni ani?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.19",
+            "verseOrgIds": [
+              "JHN.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "JHN 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Johana karemere kulavya ushaidi, ela wagomba tsona chingʼangʼa achiamba, “Mimi simi iye Yetsambulwa ni Mlungu Kuokola Atu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.20",
+            "verseOrgIds": [
+              "JHN.1.20"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:20",
+              "type": "text"
+            },
+            {
+              "text": "Yani",
+              "type": "text"
+            },
+            {
+              "text": "Masihi",
+              "type": "text"
+            },
+            {
+              "text": "(mstari wa 25 piya).",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.20",
+            "verseOrgIds": [
+              "JHN.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "JHN 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAL.4.5"
+              },
+              "items": [
+                {
+                  "text": "Malaki 4:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.18.15"
+              },
+              "items": [
+                {
+                  "text": "Kumbukumbu 18:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.18.18"
+              },
+              "items": [
+                {
+                  "text": "18",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Nao achimuuza, “Vino we u ani? Ukale u Elija?” Johana achiamba, “Hata simi.” Chisha achimuuza, “Ukale we u yuya Nabii?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.21",
+            "verseOrgIds": [
+              "JHN.1.21"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:21",
+              "type": "text"
+            },
+            {
+              "text": "Ayahudi aamini kukala Mlungu andahumira nabii dza Musa, ambaye andakala na uwezo mkpwulu (soma",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.18.15"
+              },
+              "items": [
+                {
+                  "text": "Kumbukumbu 18:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.18.18"
+              },
+              "items": [
+                {
+                  "text": "18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ").",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Ela achiamba, “Hata simi.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.21",
+            "verseOrgIds": [
+              "JHN.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "JHN 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hara ariohumwa amuuza tsona, “Hebu huambire kpwani we u ani, mana ni lazima huphirike majibu kpwa hinyo achiouhuma. Unaambadze kuhusu we mwenye?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.22",
+            "verseOrgIds": [
+              "JHN.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "JHN 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.40.3"
+              },
+              "items": [
+                {
+                  "text": "Isaya 40:3",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Achiaambira, “Mimi ni hiye apigaye kululu hiko weruni, kuamba, ‘Mtsengerani Mwenyezi Mlungu njira na muigolose.’ ” (Maneno higa gagombwa kare ni nabii Isaya.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.23",
+            "verseOrgIds": [
+              "JHN.1.23"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:23",
+              "type": "text"
+            },
+            {
+              "text": "Chitabu cha Isaya 40:3.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "JHN 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.23",
+            "verseOrgIds": [
+              "JHN.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "JHN 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Phahi hara atu ariohumwa kpwa Johana, anjina kala ni Mafarisayo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.24",
+            "verseOrgIds": [
+              "JHN.1.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "JHN 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao achimuuza, “Ichikala siwe Yetsambulwa Kuokola Atu, wala Elija, wala siwe hiye Nabii, mbona unabatiza atu?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.25",
+            "verseOrgIds": [
+              "JHN.1.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "JHN 1:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Johana achiamba, “Ninabatiza na madzi, ela mumu makundini muna mutu ambaye tamummanya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.26",
+            "verseOrgIds": [
+              "JHN.1.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "JHN 1:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Iye ndiye ndekpwedza bada ya mimi, ambaye mimi sifwaha hata kuvula virahuvye.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.27",
+            "verseOrgIds": [
+              "JHN.1.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "JHN 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gosi higo gahendeka Bethania, uphande wa mlairo wa dzuwa wa muho Joridani, ambako Johana kala anabatiza atu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.28",
+            "verseOrgIds": [
+              "JHN.1.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "JHN 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.28",
+            "verseOrgIds": [
+              "JHN.1.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "JHN 1:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku ya phiriye Johana waona Jesu anatsoloka, naye Johana achiamba, “Hiyu ndiye Mwana ngʼondzi wa Mlungu ausaye dambi za atu osi! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.29",
+            "verseOrgIds": [
+              "JHN.1.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "JHN 1:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndiye yekala nchikuambirani, ‘Ye edzaye nyuma zangu ni mkpwulu kuriko mimi, mana a kuko hangu sidzangbwevyalwa.’ ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.30",
+            "verseOrgIds": [
+              "JHN.1.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "JHN 1:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kala simmanya, ela chonihenda nibatize na madzi, ni kuamanyisa Aiziraeli kuhusu hiye mutu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.31",
+            "verseOrgIds": [
+              "JHN.1.31"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "JHN 1:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.31",
+            "verseOrgIds": [
+              "JHN.1.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "JHN 1:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Chisha Johana achishudiya achiamba, “Náona Roho Mtakatifu anatserera dza njiya kula mlunguni, achendagbwa mwakpwe mwirini achisala phapho. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.32",
+            "verseOrgIds": [
+              "JHN.1.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "JHN 1:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kalapho siyagaona higa, singegamanya. Ela Mlungu ariyenihuma nibatize na madzi wagomba nami achiniamba, ‘Uchedzaona Roho Mtakatifu anatserera na kusala na mutu, manya iye ndiye ndiyebatiza na Roho Mtakatifu.’ ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.33",
+            "verseOrgIds": [
+              "JHN.1.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "JHN 1:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nikaona mwenye mambo higa gachihendeka, nami nashuhudiya kukala yuyu ndiye Mwana wa Mlungu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.34",
+            "verseOrgIds": [
+              "JHN.1.34"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "JHN 1:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.34",
+            "verseOrgIds": [
+              "JHN.1.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "JHN 1:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku ya phiriye tsona Johana kala a phamwenga na anafundzie airi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.35",
+            "verseOrgIds": [
+              "JHN.1.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "JHN 1:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ariphomuona Jesu anatsupa, waamba, “Lolani, yuya ndiye Mwana ngʼondzi wa Mlungu!” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.36",
+            "verseOrgIds": [
+              "JHN.1.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "JHN 1:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hara anafundzi airi ariphosikira maneno higo, amlunga-lunga Jesu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.37",
+            "verseOrgIds": [
+              "JHN.1.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "JHN 1:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Phahi Jesu wagaluka achiaona anamlunga-lunga achiauza, “Mnaendzani?” Nao achiamba, “Rabi, usagalaphi?” (Rabi manage ni Mwalimu.) ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.38",
+            "verseOrgIds": [
+              "JHN.1.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "JHN 1:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Achiaambira, “Ndzoni namwi mundaona.” Kala ni kama saa kumi za dziloni ariphophiya naye kuona asagalapho na achendamarigiza naye dzuwa phapho.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.39",
+            "verseOrgIds": [
+              "JHN.1.39"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "JHN 1:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.39",
+            "verseOrgIds": [
+              "JHN.1.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "JHN 1:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mmwenga wa hara ariosikira Johana anagomba na kumlunga Jesu, kala ni Anderea. Iye kala ni ndugungbwa wa Simoni Petero. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.40",
+            "verseOrgIds": [
+              "JHN.1.40"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "JHN 1:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Dzambo ra kpwandza Anderea arirohenda ni kumlunga nduguye Simoni na achendamuamba, “Hukamuona Masihi.” (Manage ni Yetsambulwa ni Mlungu Kuokola Atu.) ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.41",
+            "verseOrgIds": [
+              "JHN.1.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "JHN 1:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alafu Anderea wamreha Simoni kpwa Jesu. Jesu wamlolato Simoni achimuamba, “Uwe u Simoni mwanangbwa wa Johana. Hivi sambi undaihwa Kefa.” (Yani Petero).",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.42",
+            "verseOrgIds": [
+              "JHN.1.42"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:42",
+              "type": "text"
+            },
+            {
+              "text": "Dzina",
+              "type": "text"
+            },
+            {
+              "text": "Petero",
+              "type": "text"
+            },
+            {
+              "text": "ni ra Chiyunani na dzina",
+              "type": "text"
+            },
+            {
+              "text": "Kefa",
+              "type": "text"
+            },
+            {
+              "text": "ni ra Chieburania, gosi manage ni",
+              "type": "text"
+            },
+            {
+              "text": "mwamba.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "JHN 1:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.42",
+            "verseOrgIds": [
+              "JHN.1.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "JHN 1:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku ya phiri, akata shauri kuphiya Galilaya. Hiko akpwendamuona mutu yeihwa Filipu, naye Jesu achimuamba, “Nilunga-lunga.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.43",
+            "verseOrgIds": [
+              "JHN.1.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "JHN 1:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Filipu kala ala Bethisaida, mudzi ambao Anderea na Petero kala ndiko kpwao. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.44",
+            "verseOrgIds": [
+              "JHN.1.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "JHN 1:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Filipu wamuona msenawe Nathanieli achimuamba, “Hukamuona mutu ambaye Musa na manabii aandika habarize. Mutu hiye ni Jesu mwana wa Yusufu, mwenyezi wa mudzi wa Nazareti.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.45",
+            "verseOrgIds": [
+              "JHN.1.45"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "46",
+            "style": "v",
+            "sid": "JHN 1:46"
+          },
+          "items": [
+            {
+              "text": "46",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nathanieli achiamba, “Takuna chochosi chinono ambacho chinaweza kula Nazareti.” Ndipho Filipu achimuamba, “Ati unaambadze? Huphiye ukadzionere mwenye.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.46",
+            "verseOrgIds": [
+              "JHN.1.46"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "46",
+            "style": "v",
+            "sid": "JHN 1:46"
+          },
+          "items": [
+            {
+              "text": "46",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.46",
+            "verseOrgIds": [
+              "JHN.1.46"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "47",
+            "style": "v",
+            "sid": "JHN 1:47"
+          },
+          "items": [
+            {
+              "text": "47",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jesu ariphomuona Nathanieli anatsoloka, wagomba kumuhusu achiamba, “Ye edzaye ni Muiziraeli mwenye-mwenye, mana mwakpwe rohoni, kana handzo.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.47",
+            "verseOrgIds": [
+              "JHN.1.47"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "48",
+            "style": "v",
+            "sid": "JHN 1:48"
+          },
+          "items": [
+            {
+              "text": "48",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nathanieli achimuuza, “Ukanimanyadze?” Achiambwa, “Nkakuona kabila Filipu kadzangbwekukuiha, mana che u kolo ya muhi wiihwao mtini.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.48",
+            "verseOrgIds": [
+              "JHN.1.48"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "49",
+            "style": "v",
+            "sid": "JHN 1:49"
+          },
+          "items": [
+            {
+              "text": "49",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipho Nathanieli achiamba, “Rabi, uwe u Mwana wa Mlungu! Ndiwe Mfalume wa Iziraeli!” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.49",
+            "verseOrgIds": [
+              "JHN.1.49"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "50",
+            "style": "v",
+            "sid": "JHN 1:50"
+          },
+          "items": [
+            {
+              "text": "50",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jesu achiamba, “Vino, ukaamini kpwa vira nkakuamba nkakuona che u kolo ya mtini? Hebu ni viphi? Phahi undaona mambo makulu zaidi ya higa.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.50",
+            "verseOrgIds": [
+              "JHN.1.50"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "51",
+            "style": "v",
+            "sid": "JHN 1:51"
+          },
+          "items": [
+            {
+              "text": "51",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.28.12"
+              },
+              "items": [
+                {
+                  "text": "Mwandzo 28:12",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Achienjereza kuamba, “Nakuambirani kpweli mundaona mlunguni kuchifwenuka, piya mundaona malaika a Mlungu achikpwera na kutserera kpwa sababu yangu mimi, Mutu Yela Mlunguni.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.51",
+            "verseOrgIds": [
+              "JHN.1.51"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JHN.2",
+    "number": "2",
+    "bookId": "JHN"
+  },
+  "previous": {
+    "id": "JHN.intro",
+    "number": "intro",
+    "bookId": "JHN"
+  }
+}

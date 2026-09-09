@@ -1,0 +1,580 @@
+{
+  "id": "TIT.3",
+  "number": "3",
+  "bookId": "TIT",
+  "reference": "Tito 3",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "TIT 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mîtugo ya Mûkristiano",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "TIT 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ririkania akristiano kwînyivia mbere ya anene na athani. Magîrîrwe nî kûmathîkagîra na kwîthagîrwa mevarîrîtie gwîka ciîko mbaro. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.1",
+            "verseOrgIds": [
+              "TIT.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "TIT 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Merage matikaragie ûcûku wa mûndû wana ûrîkû, nwatî methagîrwe marî na thayû na mendanîte na monanagie ûvoreri kûrî andû onthe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.2",
+            "verseOrgIds": [
+              "TIT.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "TIT 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nîûndû vîndî îmwe tue ene twarî ariitu, aremi, na nîtwekaga naaî. Tue twarî ngombo cia merirîria marîa macûku, na mîago ya mîthemba yonthe. Twatûûraga tûrî aganu na tûkîgucanagîra wîru. Andû nîmaatûmenete na wanatue nîtwamamenete. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.3",
+            "verseOrgIds": [
+              "TIT.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "TIT 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nwatî rîrîa Ngai Mûvonokia wetû atwonirie wendo na ûtugi wake, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.4",
+            "verseOrgIds": [
+              "TIT.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "TIT 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nîwatûvonokirie. Tûtiavonokirue nîûndû wa ûrîa twekîte ciîko mbaro, nwatî nîûndû wa ntha ciake. Aatûvonokirie na njîra ya Roho Mûtheru ûrîa watûtheririe, agîtûciara rîngî na agîtûva mwoyo mûcerû. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.5",
+            "verseOrgIds": [
+              "TIT.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "TIT 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai nîwatwîtîrîrie Roho Mûtheru na njîra ya Jesû Kristû mûvonokia wetû, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.6",
+            "verseOrgIds": [
+              "TIT.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "TIT 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nîguo tûtuwe athingu nî Ngai nîûndû wa wega wake na tûgîe na kîîrîgîrîro Kîam mwoyo wa tene na tene. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.7",
+            "verseOrgIds": [
+              "TIT.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "TIT 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ûvoro ûyû nî wa ma.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.8",
+            "verseOrgIds": [
+              "TIT.3.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "TIT 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nie nîrenda mue mûkinyîrîrie maûndû mama nîguo andû arîa metîkîtie Ngai mameciragie, nao mavecanage o ene nîûndû wa ciîko irîa ciagîrîrîte. Maûndû mama nîma vata na ma kûguna andû onthe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.8",
+            "verseOrgIds": [
+              "TIT.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "TIT 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nwatî îthemage ngarari cia ûrimû, ng'ano ciîgiî mûtaratara mûraca wa methe ma tene, na nyamûkano na mateta ma ûvoro wîgiî Watho. Maûndû mau matirî vata na gûtirî kîndû magunaga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.9",
+            "verseOrgIds": [
+              "TIT.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "TIT 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mûndû ûrîa ûretaga nyamûkano, mûkanagie riita rîa mbere na rîa kaîrî na ûkînatigana nake. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.10",
+            "verseOrgIds": [
+              "TIT.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "TIT 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "We nîwîcî atî mûndû ta ûcio nî areganîte na ûvoro wa ma, na mevia make nîmo monanagia atî nîavîtîtie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.11",
+            "verseOrgIds": [
+              "TIT.3.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mataaro ma mûthiia",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "TIT 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.11",
+            "verseOrgIds": [
+              "TIT.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "TIT 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wona natûma Aritema kana Tukiko kûrî we, geria mûno gûka Nikopoli kûrî nie, nîûndû nînduîte atî kûu nîkuo ngwîkara vîndî yonthe ya mvevo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.12",
+            "verseOrgIds": [
+              "TIT.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "TIT 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Geria mûno gûtethia Zena ûrîa wakiri na Apolo nîguo mambîrîrie rûgendo rwao, na wone atî marî na indo cionthe irîa mangîenda nîûndû wa rûgendo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.13",
+            "verseOrgIds": [
+              "TIT.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "TIT 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andû etû nîmagîrîrwe nî kwîruta gûtûmîra mavinda mao na gwîka ciîko mbaro nîguo matethagîrîria mavata ma andû arîa engî. Matiagîrîrwe nî gûtûûra mûtûûrîre ûtarî na maciaro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.14",
+            "verseOrgIds": [
+              "TIT.3.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "TIT 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.14",
+            "verseOrgIds": [
+              "TIT.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "TIT 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andû arîa onthe tûrî nao nîmamûkethia. Kethiani Akristiano onthe arîa matwendete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.15",
+            "verseOrgIds": [
+              "TIT.3.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "TIT 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wega wa Ngai ûrogîa namue muonthe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.15",
+            "verseOrgIds": [
+              "TIT.3.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PHM.intro",
+    "number": "intro",
+    "bookId": "PHM"
+  },
+  "previous": {
+    "id": "TIT.2",
+    "number": "2",
+    "bookId": "TIT"
+  }
+}

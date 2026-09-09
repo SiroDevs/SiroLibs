@@ -1,0 +1,68 @@
+{
+  "id": "JOL.1",
+  "number": "1",
+  "bookId": "JOL",
+  "reference": "Joeli 1",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "JOL 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOL 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hiri ndiro neno arirogomba Mwenyezi Mlungu kumuambira Joeli mwana wa Pethueli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.1",
+            "verseOrgIds": [
+              "JOL.1.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOL.2",
+    "number": "2",
+    "bookId": "JOL"
+  },
+  "previous": {
+    "id": "JOL.intro",
+    "number": "intro",
+    "bookId": "JOL"
+  }
+}

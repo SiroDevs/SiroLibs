@@ -1,0 +1,157 @@
+{
+  "id": "ISA.17",
+  "number": "17",
+  "bookId": "ISA",
+  "reference": "Isa 17",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "17",
+        "style": "c",
+        "sid": "ISA 17"
+      },
+      "items": [
+        {
+          "text": "17",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mûrungu agakanûkia antû ba Sîria na Israeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 17:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.17.1",
+            "verseOrgIds": [
+              "ISA.17.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.49.23+JER.49.24+JER.49.25+JER.49.26+JER.49.27"
+              },
+              "items": [
+                {
+                  "text": "Jer 49.23-27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.3+AMO.1.4+AMO.1.5"
+              },
+              "items": [
+                {
+                  "text": "Amo 1.3-5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.9.1"
+              },
+              "items": [
+                {
+                  "text": "Zek 9.1",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Bûbû nîbu ûroria bwegiî Damaski:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.17.1",
+            "verseOrgIds": [
+              "ISA.17.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mîgongo ya anthû îkoombwa",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.18",
+    "number": "18",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.16",
+    "number": "16",
+    "bookId": "ISA"
+  }
+}

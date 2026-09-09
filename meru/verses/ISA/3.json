@@ -1,0 +1,60 @@
+{
+  "id": "ISA.3",
+  "number": "3",
+  "bookId": "ISA",
+  "reference": "Isa 3",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "ISA 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Îkanûkia rîa Juda na Jerusalemu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ûrîa aka ba Zaiûni bakaathithîrua",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.4",
+    "number": "4",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.2",
+    "number": "2",
+    "bookId": "ISA"
+  }
+}

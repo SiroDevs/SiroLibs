@@ -1,0 +1,119 @@
+{
+  "id": "EZK.7",
+  "number": "7",
+  "bookId": "EZK",
+  "reference": "Esekieri 7",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "7",
+        "style": "c",
+        "sid": "EZK 7"
+      },
+      "items": [
+        {
+          "text": "7",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Masërra ga Isiraeri hang'i garë",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EZK 7:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ëng'ana yö ÖMÖNENE ëkaanyëchëra iga, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.7.1",
+            "verseOrgIds": [
+              "EZK.7.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EZK 7:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Uwe ömoona wö ömöntö, teebhia abhamenyi bhë ënsë ya Isiraeri iga ÖMÖNENE Ënooköë aragamba iga,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.7.2",
+            "verseOrgIds": [
+              "EZK.7.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Iribhörööta re Isiraeri kugira ya amaraga",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EZK.8",
+    "number": "8",
+    "bookId": "EZK"
+  },
+  "previous": {
+    "id": "EZK.6",
+    "number": "6",
+    "bookId": "EZK"
+  }
+}

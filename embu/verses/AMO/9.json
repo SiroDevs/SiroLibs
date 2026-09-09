@@ -1,0 +1,199 @@
+{
+  "id": "AMO.9",
+  "number": "9",
+  "bookId": "AMO",
+  "reference": "Amo 9",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "9",
+        "style": "c",
+        "sid": "AMO 9"
+      },
+      "items": [
+        {
+          "text": "9",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Îtuîro rîa Ngai-Mûnene",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 9:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nînonire Ngai-Mûnene arûngamîte metharî ya kîgongoona. Nake nîwathanire atîrî,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.1",
+            "verseOrgIds": [
+              "AMO.9.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "AMO 9:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.6",
+            "verseOrgIds": [
+              "AMO.9.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "AMO 9:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai-Mûnene arauga atîrî,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.7",
+            "verseOrgIds": [
+              "AMO.9.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "AMO 9:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.12",
+            "verseOrgIds": [
+              "AMO.9.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "AMO 9:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai-Mûnene arauga atîrî,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.13",
+            "verseOrgIds": [
+              "AMO.9.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "OBA.intro",
+    "number": "intro",
+    "bookId": "OBA"
+  },
+  "previous": {
+    "id": "AMO.8",
+    "number": "8",
+    "bookId": "AMO"
+  }
+}

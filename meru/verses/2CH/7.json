@@ -1,0 +1,673 @@
+{
+  "id": "2CH.7",
+  "number": "7",
+  "bookId": "2CH",
+  "reference": "2Ma 7",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "7",
+        "style": "c",
+        "sid": "2CH 7"
+      },
+      "items": [
+        {
+          "text": "7",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kwathûrwa gwa kîûrû",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "2CH 7:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.7.1",
+            "verseOrgIds": [
+              "2CH.7.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.9.23+LEV.9.24"
+              },
+              "items": [
+                {
+                  "text": "Ala 9.23-24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Rîrîa Solomoni aathirîrie kûromba, mwanki jûreenama kuuma îgûrû jûraîîthia igongwana bia gwakîîria, na kinya igongwana birîa bingî biariti, naju mwago jwa MWATHANI jûroojûra kîûrûûne. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.7.1",
+            "verseOrgIds": [
+              "2CH.7.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "2CH 7:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kinya athînjîri-Mûrungu batoomba gûkûrûka kîûrûûne kîa MWATHANI nîûntû bwa ûrîa mwago jwa MWATHANI jwoojûri ku. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.7.2",
+            "verseOrgIds": [
+              "2CH.7.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "2CH 7:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.16.34"
+              },
+              "items": [
+                {
+                  "text": "1Ma 16.34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.5.13"
+              },
+              "items": [
+                {
+                  "text": "2Ma 5.13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZR.3.11"
+              },
+              "items": [
+                {
+                  "text": "Ezra 3.11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.100.5"
+              },
+              "items": [
+                {
+                  "text": "Zab 100.5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.106.1"
+              },
+              "items": [
+                {
+                  "text": "106.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.107.1"
+              },
+              "items": [
+                {
+                  "text": "107.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.118.1"
+              },
+              "items": [
+                {
+                  "text": "118.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.136.1"
+              },
+              "items": [
+                {
+                  "text": "136.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.33.11"
+              },
+              "items": [
+                {
+                  "text": "Jer 33.11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Ningî rîrîa antû ba Israeli bonthe boonîre mwanki jweenama kuuma îgûrû naju mwago jwa MWATHANI jûrî îgûrû rîa kîûrû, nî baturîrie maru, barenamîîria na baratiirithia moothiû jaao mûthetuune, barathaathayia MWATHANI na baramûcokeria nkaatho bakiugaga:",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.7.3",
+            "verseOrgIds": [
+              "2CH.7.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "2CH 7:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.7.3",
+            "verseOrgIds": [
+              "2CH.7.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "2CH 7:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mûnene na antû bonthe nî baaritîîre MWATHANI igongwana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.7.4",
+            "verseOrgIds": [
+              "2CH.7.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "2CH 7:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mûnene Solomoni aaritîre îgongwana rîa ndeegwa ngiri mîrongo îîrî na ijîîrî (22,000) na ng'ondu ngiri îgana rîmwe rîa mîrongo îîrî (120,000). Ûu nîu mûnene Solomoni na antû bonthe baathûûrîre kîûrû kîa Mûrungu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.7.5",
+            "verseOrgIds": [
+              "2CH.7.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "2CH 7:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Athînjîri-Mûrungu baarûngi antû arîa boonetue. Nabo Alawi baarûngi babeerekerete bakîringaga into bia kwina birîa mûnene Daudi aathithîtie bia gûkumagia Mûrungu. Baainaga rwîmbo rûrîa Daudi aatuungîte rûrîa rwaugaga, “Nîkwîthîrwa wendo bwa MWATHANI bûtûûraga mwanka kenya.” Athînjîri-Mûrungu bararinga tarumbeta ciaao kîrîndî gîa Israeli kîonthe kîrûngi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.7.6",
+            "verseOrgIds": [
+              "2CH.7.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "2CH 7:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.7.6",
+            "verseOrgIds": [
+              "2CH.7.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "2CH 7:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Solomoni araathûra gatîgatî ga kîarago kîrîa kîaarî bwa mbere ya kîûrû kîa MWATHANI; au nîo aaritîîre igongwana bia gwakîîria, na maguta ja igongwana bia thîîrî, nîûntû kîritîro kîa igongwana kîrîa aakîte na îturutia gîtîngîûmba kûng'anîra igongwana biu bia gwakîîria na bia irio, na maguta.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.7.7",
+            "verseOrgIds": [
+              "2CH.7.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "2CH 7:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.7.7",
+            "verseOrgIds": [
+              "2CH.7.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "2CH 7:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Solomoni nî aathithîrie mambura ntukû mûgwanja amwe na antû ba Israeli bonthe. Kîrîndî kîrîa kîothûreene kîaarî gîkiingî mono kiumîte rûteere rwa Hamathi mwanka mûuro jwa Misri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.7.8",
+            "verseOrgIds": [
+              "2CH.7.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "2CH 7:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabo baathirîtie ntukû mûgwanja mantûûne ja kûtharima kîritîro kîa igongwana na ntukû ingî mûgwanja mambureene. Nayo ntukû ya inyanya baragîa na kîûthûrano gîkîtheru. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.7.9",
+            "verseOrgIds": [
+              "2CH.7.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "2CH 7:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ntukû ya mîrongo îîrî na ithatû ya mweri jwa mûgwanja, nîrîo Solomoni arekererie kîrîndî kîraana nja ciaao kîrî na nkerû na kûgwîrua nkoroone ciaao nîûntû bwa mantû jameega jarîa MWATHANI athithîrîtie Daudi na Solomoni na kinya antû baawe ba Israeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.7.10",
+            "verseOrgIds": [
+              "2CH.7.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ûrîa Mûrungu aumîrîîre Solomoni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "2CH 7:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.7.10",
+            "verseOrgIds": [
+              "2CH.7.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "2CH 7:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rîrîa Solomoni aathirîrie gwaka kîûrû kîa MWATHANI na gîkaro kîa mûnene, ningî aroojûria mantû jarîa jonthe aabangîte kûthithia kîûrûûne na gîkaro kîu kîa mûnene, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.7.11",
+            "verseOrgIds": [
+              "2CH.7.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "2CH 7:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "MWATHANI nî amuumîrîîre ûtukû aramwîra atîrî,",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.7.12",
+            "verseOrgIds": [
+              "2CH.7.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2CH.8",
+    "number": "8",
+    "bookId": "2CH"
+  },
+  "previous": {
+    "id": "2CH.6",
+    "number": "6",
+    "bookId": "2CH"
+  }
+}

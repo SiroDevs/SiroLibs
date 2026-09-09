@@ -1,0 +1,229 @@
+{
+  "id": "ISA.4",
+  "number": "4",
+  "bookId": "ISA",
+  "reference": "Isaya 4",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "ISA 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.4.1",
+            "verseOrgIds": [
+              "ISA.4.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku iyo tsi ya Mwenyezi Mlungu indakala na rutuba na yenye nguma na mavunoge gandakala nguma ya Aiziraeli ariotiya nao andagaonera ngulu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.4.2",
+            "verseOrgIds": [
+              "ISA.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na hiye ndiyerichwa ko Sayuni na kusala hiko Jerusalemu andaihwa mtakatifu. Yani chila mmwenga ndiyeandikishwa kahi za atu asagalao Jerusalemu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.4.3",
+            "verseOrgIds": [
+              "ISA.4.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwenyezi Mlungu ndiphoogesa achetu a Sayuni uchafu wao na kusuza nongo za milatso ya Jerusalemu kpwa roho wa uamuli na roho wa moho. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.4.4",
+            "verseOrgIds": [
+              "ISA.4.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.13.21"
+              },
+              "items": [
+                {
+                  "text": "Kutsama 13:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.24.16"
+              },
+              "items": [
+                {
+                  "text": "24:16",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Chisha Mwenyezi Mlungu andareha ingu ra mosi wakati wa mutsi, na jimbijimbi ra moho wakati wa usiku, dzulu ya mwango Sayuni na osi chiokusanyika hipho. Nayo nguma ya Mlungu indafwinika mudzi wosi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.4.5",
+            "verseOrgIds": [
+              "ISA.4.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ro ingu rindakala pepho wakati wa mutsi, chimbiriro na phatu pha kuowa mvula na kudziziba phuto.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.4.6",
+            "verseOrgIds": [
+              "ISA.4.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.5",
+    "number": "5",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.3",
+    "number": "3",
+    "bookId": "ISA"
+  }
+}

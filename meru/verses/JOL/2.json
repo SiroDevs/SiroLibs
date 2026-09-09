@@ -1,0 +1,280 @@
+{
+  "id": "JOL.2",
+  "number": "2",
+  "bookId": "JOL",
+  "reference": "Joe 2",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "JOL 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ngigî ta rwano rwa kûmenyithia antû atî Ntukû ya MWATHANI îrî akuî",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Antû kwîrwa bairire",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mûrungu gûtûma nthîgûrû yoona irio kaîrî",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ntukû ya MWATHANI",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "JOL 2:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.29",
+            "verseOrgIds": [
+              "JOL.2.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "JOL 2:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ningî nkoonania iriga îgûrû na nthîgûrûûne. Gûkeethîrwa kûrî na tharike na mwanki na irûngûûjû bia toogi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.30",
+            "verseOrgIds": [
+              "JOL.2.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "JOL 2:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.24.29"
+              },
+              "items": [
+                {
+                  "text": "Mat 24.29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.13.24+MRK.13.25"
+              },
+              "items": [
+                {
+                  "text": "Mar 13.24-25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.21.25"
+              },
+              "items": [
+                {
+                  "text": "Luk 21.25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.6.12+REV.6.13"
+              },
+              "items": [
+                {
+                  "text": "Kûg 6.12-13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Riûa rîkagîa muundu, na mweri jûtunee ta tharike mbere ya ntukû îîu nthûûku ya kwîja kwa MWATHANI. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.31",
+            "verseOrgIds": [
+              "JOL.2.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "JOL 2:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.10.13"
+              },
+              "items": [
+                {
+                  "text": "Aro 10.13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Naku gûgaakara atîrî, barîa bonthe bagaakaîra MWATHANI bakoonokua. Nîkwîthîrwa barîa bakoonoka bakeethîrwa barî kîrîmeene gîa Zaiûni na Jerusalemu amwe na barîa bageetwa nî MWATHANI o ta ûrîa augîîte.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.32",
+            "verseOrgIds": [
+              "JOL.2.32"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOL.3",
+    "number": "3",
+    "bookId": "JOL"
+  },
+  "previous": {
+    "id": "JOL.1",
+    "number": "1",
+    "bookId": "JOL"
+  }
+}

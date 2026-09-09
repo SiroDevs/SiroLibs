@@ -1,0 +1,587 @@
+{
+  "id": "1TI.2",
+  "number": "2",
+  "bookId": "1TI",
+  "reference": "1 Timoteo 2",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "1TI 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Amaigiö igörö ya amasabhi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1TI 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mbere ya gonsui, ndasimisiria iga amasabhi ga kögeya, amasabhi gagutuna ubhutuurria, amasabhi ga gösabhëra abhandë na amasabhi gu umukumo garuusibhue kö Ënooköë gikugira ya abhantö bhonsui, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.2.1",
+            "verseOrgIds": [
+              "1TI.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1TI 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "gikugira ya abhagambi na abhandë bhonsui monyanguru, korri iga tömenye bhuuya na kömörembe törasööka Ënooköë na tööna ëteemo inchiiya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.2.2",
+            "verseOrgIds": [
+              "1TI.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1TI 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ëyö në ëng'ana inchiiya na guiki ngötegeria ërë Umutuuria weitö Ënooköë, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.2.3",
+            "verseOrgIds": [
+              "1TI.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1TI 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "öno agutuna iga abhantö bhonsui bhanyoore ubhuituuria na bhahëkëëre ököngöra öbhöheene. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.2.4",
+            "verseOrgIds": [
+              "1TI.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1TI 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gikugira Ënooköë nu umui, na nu umui aho öno akögootania abhantö na Ënooköë, ömoona wö ömöntö Kirisitö Yesö, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.2.5",
+            "verseOrgIds": [
+              "1TI.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1TI 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "öno aairuusiri umuene köbhohoria abhantö bhonsui. Ëyö yaabhaayë ubhutubhuri bhöno bhorusiibhui gönkaaga ëno ëragërë, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.2.6",
+            "verseOrgIds": [
+              "1TI.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1TI 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2TI.1.11"
+              },
+              "items": [
+                {
+                  "text": "2 Tim 1:11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "ëyö niyo yaagirrë nkaahöröa nëbhe umurundia na ömötömöa (Nö öbhöheene nkögamba tënkörongoha hai), na guiki umuigia wa Abhahamatë kubhukumia na köbhöheene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.2.7",
+            "verseOrgIds": [
+              "1TI.2.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1TI 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.2.7",
+            "verseOrgIds": [
+              "1TI.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1TI 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Köhayö ngutuna ndë iga harë honsui möraayi mörasikana niiga abhasaacha bhasabhe, bharaimukirria amabhoko gaabho amahoreeru igörö bharasabha bhataana bhörrö gösë nkaani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.2.8",
+            "verseOrgIds": [
+              "1TI.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1TI 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.3.3"
+              },
+              "items": [
+                {
+                  "text": "1 Bhe 3:3",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ngutuna ndë iga abhagaikörö nabho bhasuare ichingëbho kubhuihootu na gösööko, tiiga iga nkögöseemia yi ichituukia hai gösë götööra ibhintö bhë ësahaabhu hai, gösë ichingëbho chi iriguri irinene hai, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.2.9",
+            "verseOrgIds": [
+              "1TI.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1TI 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "gëtatiga nkögökora amaiya kebhörë këragërë köbhagaikörö bhano bhaana ësööko kö Ënooköë. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.2.10",
+            "verseOrgIds": [
+              "1TI.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1TI 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abhagaikörö nkëragërë iga bhaikare bhakire na bhabhe abhasuuseenu nkaaga ndanyoore bhariëga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.2.11",
+            "verseOrgIds": [
+              "1TI.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1TI 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uni tinkuruusia umueya iga ömögaikörö aigi gösë abhe na ögötöra igörö ya abhasaacha hai, niiga aikare akire iga kiri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.2.12",
+            "verseOrgIds": [
+              "1TI.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1TI 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.2.7"
+              },
+              "items": [
+                {
+                  "text": "Ögt 2:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.2.21"
+              },
+              "items": [
+                {
+                  "text": "Ögt 2:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.2.22"
+              },
+              "items": [
+                {
+                  "text": "22",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Gikugira Atamu nëwe aabhömbëröë mbere, hakurua Hawa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.2.13",
+            "verseOrgIds": [
+              "1TI.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1TI 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.3.1+GEN.3.2+GEN.3.3+GEN.3.4+GEN.3.5+GEN.3.6"
+              },
+              "items": [
+                {
+                  "text": "Ögt 3:1-6",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Na guiki tiiga Atamu nëwe aang'ainëröë hai, gëtatiga ömögaikörö nëwe aang'ainëröë akabha umunyamaraga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.2.14",
+            "verseOrgIds": [
+              "1TI.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1TI 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sibhoono ömögaikörö narituruurbhua gukuibhöra abhaana, hano ndanyoore nagumirria ku ubhukumia, na kö öbhöhanchi, na köbhöhoreeru na bhakore igo kubhuihootu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.2.15",
+            "verseOrgIds": [
+              "1TI.2.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1TI.3",
+    "number": "3",
+    "bookId": "1TI"
+  },
+  "previous": {
+    "id": "1TI.1",
+    "number": "1",
+    "bookId": "1TI"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "PSA.7",
+  "number": "7",
+  "bookId": "PSA",
+  "reference": "Faaru 7",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "7",
+        "style": "c",
+        "sid": "PSA 7"
+      },
+      "items": [
+        {
+          "text": "7",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Guddinna Waaqatifi ka namaa",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.8",
+    "number": "8",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.6",
+    "number": "6",
+    "bookId": "PSA"
+  }
+}

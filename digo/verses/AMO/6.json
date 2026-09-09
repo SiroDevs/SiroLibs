@@ -1,0 +1,118 @@
+{
+  "id": "AMO.6",
+  "number": "6",
+  "bookId": "AMO",
+  "reference": "Amosi 6",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "AMO 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "AMO 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.6.8",
+            "verseOrgIds": [
+              "AMO.6.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "AMO 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na hata phakasala atu kumi a nyumba mwenga, aho andafwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.6.9",
+            "verseOrgIds": [
+              "AMO.6.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "AMO 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na aphungbwa wa mutu ndiphoinjira ndani ya nyumba kutuluza lufu kpwendariocha, andamuuza ye mutu ndiyekala akadzifwitsa ko ndani kpwenye, “Dze, kuna mutu yeyesi ariye phamwenga nawe?” Naye andajibu aambe, “Hata, takuna.” Ndipho ye aphu wa mutu andaamba, “Shii! Nahusirihadze dzina ra Mwenyezi Mlungu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.6.10",
+            "verseOrgIds": [
+              "AMO.6.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.7",
+    "number": "7",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.5",
+    "number": "5",
+    "bookId": "AMO"
+  }
+}

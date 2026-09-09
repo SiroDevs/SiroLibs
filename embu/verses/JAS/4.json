@@ -1,0 +1,707 @@
+{
+  "id": "JAS.4",
+  "number": "4",
+  "bookId": "JAS",
+  "reference": "Jak 4",
+  "verseCount": 17,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "JAS 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Gûtuma ûraata na nthî",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JAS 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mbaara na gûtetania ciumaga kû gatagatîrî kenyu? Ciumanaga na kwîgua ngumba ya maûndû marîa meriragîrua nî mîîrî yenyu, na marûaga vîndî cionthe ndaarî yenyu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.1",
+            "verseOrgIds": [
+              "JAS.4.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JAS 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mue nîmwîriragîria indo, nwatî mûtigîcaga nacio, kwoguo nîmûraganaga. Mue nîmwîriragîria indo na vinya, nwatî mûtingîvota kûgîa nacio. Kwoguo nîmûtetanagia na mûkarûa. Mûtirî na kîrîa mwîriragîria nîûndû mûtiîtagia Ngai. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.2",
+            "verseOrgIds": [
+              "JAS.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JAS 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rîrîa mwetia, mûtivecagwa nîûndû mwîtagia mûtarî na itûmi mbaro. Mwîtagia indo nîguo mûitûmîre mûgîkenia mîîrî yenyu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.3",
+            "verseOrgIds": [
+              "JAS.4.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JAS 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mue andû aya mûtarî evokeku! Anga mûtiîcî atî gûtuma ûrata na nthî nîgûtuîka nthû ya Ngai? Andû arîa meriragîria gûtuma ûrata na nthî nîmetucaga nthû cia Ngai. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.4",
+            "verseOrgIds": [
+              "JAS.4.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JAS 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mûtigecirie atî gûtirî na ûma mandîkorî matheru marîa maugîte atîrî, “Ngai nîwîriragîria arî na wîru mwîngî Roho ûrîa eekîrire ndaarî yetû.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.5",
+            "verseOrgIds": [
+              "JAS.4.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JAS 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.3.34"
+              },
+              "items": [
+                {
+                  "text": "Nthi 3.34",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Nwatî Ngai nîavecanaga wega mwîngî makîria, wata ûrîa mandîko matheru maugîte atî, “Ngai nîareganaga na andû arîa etîi, nwatî nîavecaga arîa enyivia wega wake.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.6",
+            "verseOrgIds": [
+              "JAS.4.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JAS 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.6",
+            "verseOrgIds": [
+              "JAS.4.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JAS 4:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwoguo athîkîrani Ngai. Reganani na Ngoma nake nîakûûra aume kûrî mue. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.7",
+            "verseOrgIds": [
+              "JAS.4.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JAS 4:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ûkani vakuvî na Ngai nake nîagûka vakuvî namue. Mue evia, îtherieni njara cienyu. Mue mvinga ino îtherieni ngoro cienyu! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.8",
+            "verseOrgIds": [
+              "JAS.4.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JAS 4:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Îguani kîeva, rîrani na mûcakae. Mîtheko yenyu nî îgarûrûke îtuîke kîrîro, nakîo gîkeno kîenyu gîtuîke kîeva. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.9",
+            "verseOrgIds": [
+              "JAS.4.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JAS 4:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Îînyivieni mbere ya Mwathani, nake nîakûmûnenevia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.10",
+            "verseOrgIds": [
+              "JAS.4.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mûkristiano gûkaanua gûtuîra ûrîa wîngî",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JAS 4:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.10",
+            "verseOrgIds": [
+              "JAS.4.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JAS 4:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ariû na aarî a îthe wetû, tigagani gûcambania. Mûndû ûrîa ûcambagia mûkristiano ûrîa wîngî kana akamûtuîra, nî acambagia watho na agaûtuîra. Mûndû ûtucagîra watho, ndawathîkagîra nwatî nîatuîkaga mûtucanîri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.11",
+            "verseOrgIds": [
+              "JAS.4.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JAS 4:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai wenga nîke mûvecani wa watho na mûtucanîri. Ke wenga nîke ûngîvota kûvonokania na gûcûkangia viû. Ûreciria wî û ûgîtuîra mûndû ûrîa mûriganîtie nake?",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.12",
+            "verseOrgIds": [
+              "JAS.4.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Gûkaanua ûvoro wîgiî gwîtîîa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JAS 4:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.12",
+            "verseOrgIds": [
+              "JAS.4.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JAS 4:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.13",
+            "verseOrgIds": [
+              "JAS.4.13"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.27.1"
+              },
+              "items": [
+                {
+                  "text": "Nthi 27.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Rîu tanthikîrîriani, mue arîa mugaga atîrî, “Ûmûnthî kana rûyû tue nîtûkaathiî îtûûrarî rîna. Nîtûgekara kuo îvinda rîa mwaka mûgima na nîtûkaaruta wîra wa kûgûra na kwendia na tûgîe na mbeca nyîngî.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.13",
+            "verseOrgIds": [
+              "JAS.4.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JAS 4:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nwatî mûtiîcî ûrîa gûgaatuîka rûyû. Mwoyo wenyu wîkariî ta nundu. Mwavota kûmîona gwa kavinda kanini, nwatî îgacoka îkathiî. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.14",
+            "verseOrgIds": [
+              "JAS.4.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JAS 4:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwoguo ûrîa mwagîrîrwe nî kuga nî atîrî, “Ethîrwa Mwathani nîakwenda, nîtûgûtûûra na twîke ûû kana ûû.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.15",
+            "verseOrgIds": [
+              "JAS.4.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JAS 4:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nwatî rîu, mue mûrî etîi na egathi, na mwîgatho ta ûcio wonthe nî mûcûku.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.16",
+            "verseOrgIds": [
+              "JAS.4.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JAS 4:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.16",
+            "verseOrgIds": [
+              "JAS.4.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JAS 4:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mûndû wa wonthe wîcî ûndû mwaro ûrîa agîrîrwe nî gwîka, nwatî ndawîkaga, nî evagia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.4.17",
+            "verseOrgIds": [
+              "JAS.4.17"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JAS.5",
+    "number": "5",
+    "bookId": "JAS"
+  },
+  "previous": {
+    "id": "JAS.3",
+    "number": "3",
+    "bookId": "JAS"
+  }
+}

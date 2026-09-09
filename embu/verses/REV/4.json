@@ -1,0 +1,525 @@
+{
+  "id": "REV.4",
+  "number": "4",
+  "bookId": "REV",
+  "reference": "Kûguû 4",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "REV 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kîoneki kîa Ngai akîgoocwa îgûrû",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "REV 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Vuva wa ûguo nie nînagîre na kîoneki kîngî, nînoonire mûrango ûrî mûvingûre kûu îgûrû. Naguo mûgambo wa ûrîa neguîte ûkîmbarîria na mûgambo ta wa karumbeta, nîwambîrire atîrî, “Unûkia ûûke ava, nanie nîngûkwonia maûndû marîa mageekîka vuvarî.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.1",
+            "verseOrgIds": [
+              "REV.4.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "REV 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.1.26+EZK.1.27+EZK.1.28"
+              },
+              "items": [
+                {
+                  "text": "Ezek 1.26-28",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.10.1"
+              },
+              "items": [
+                {
+                  "text": "10.1",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Na wa rîmwe nînecûrirwe nî Roho. Na rîrîa naaroririe Îgûrû nînoonire gîtî Kîam ûthamaki gîkarîrîtwe nî mûndû. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.2",
+            "verseOrgIds": [
+              "REV.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "REV 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake ûrîa wekarîrîte gîtî kîu Kîam ûthamaki aakengaga ta mathiga ma goro ma rangi njerû na ma rangi ndune. Nakîo gîtî kîu Kîam ûthamaki, nîkîathiûrûrûkîrîtue nî mûkûngambura wakengaga mûno. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.3",
+            "verseOrgIds": [
+              "REV.4.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "REV 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Navo vaarî na itî ciîngî mîrongo îîrî na inya cia ûthamaki ciathiûrûrûkîrîtie gîtî kîu Kîam ûthamaki. Nao athuuri mîrongo îîrî na ana nîmaaciîkarîrîte. Athuuri acio meekîrîte nguo cia rangi njerû na ciongorî ciao maarî na nthûmbî cia thaavu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.4",
+            "verseOrgIds": [
+              "REV.4.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "REV 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.19.16"
+              },
+              "items": [
+                {
+                  "text": "Ntha 19.16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.8.5"
+              },
+              "items": [
+                {
+                  "text": "Kûguû 8.5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.11.19"
+              },
+              "items": [
+                {
+                  "text": "11.19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.16.18"
+              },
+              "items": [
+                {
+                  "text": "16.18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.1.13"
+              },
+              "items": [
+                {
+                  "text": "Ezek 1.13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.1.4"
+              },
+              "items": [
+                {
+                  "text": "Kûguû 1.4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.4.2"
+              },
+              "items": [
+                {
+                  "text": "Zak 4.2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Gîtîrî kîu Kîam ûthamaki nîkwaumaga mveni, mîgambo, na mûrurumo na ngwa. Kwarî na imûrî mûgwanja ciaakanaga vau mbere ya gîtî kîu Kîam ûthamaki, na imûrî icio nî maaroho mûgwanja marîa maatungataga Ngai. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.5",
+            "verseOrgIds": [
+              "REV.4.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "REV 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.1.22"
+              },
+              "items": [
+                {
+                  "text": "Ezek 1.22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.1.5+EZK.1.6+EZK.1.7+EZK.1.8+EZK.1.9+EZK.1.10"
+              },
+              "items": [
+                {
+                  "text": "1.5-10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.10.14"
+              },
+              "items": [
+                {
+                  "text": "10.14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Mbere ya gîtî kîu Kîam ûthamaki kwarî kîndû kîonekaga gîkariî ta îria rîa icicio na rîtheru ta îra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.6",
+            "verseOrgIds": [
+              "REV.4.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "REV 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nakîo gîtî kîu Kîam ûthamaki nîkîathiûrûrûkîrîtue mîena yakîo îna nî ciûmbe inya ciarî mwoyo ciecûrîte metho mbere na vuva. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.6",
+            "verseOrgIds": [
+              "REV.4.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "REV 4:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kîûmbe Kîam mbere kîonekaga gîkariî ta mûnyambû; na gîa kaîrî kîonekaga gîkariî ta karegwa; na gîa kathatû Kîamrî na ûthiû ta wa mûndû. Nakîo kîûmbe gîa kana kîonekanaga gîkariî ta nderi îgûrûkîte. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.7",
+            "verseOrgIds": [
+              "REV.4.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "REV 4:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.1.18"
+              },
+              "items": [
+                {
+                  "text": "Ezek 1.18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.10.12"
+              },
+              "items": [
+                {
+                  "text": "10.12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.6.2+ISA.6.3"
+              },
+              "items": [
+                {
+                  "text": "Isa 6.2-3",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Wa kîûmbe gatagatîrî ka icio inya ciarî mwoyo Kîamrî na mathagu matandatû na nîgîecûrîte metho kûndû kuonthe nja na ndaarî. Ûtukû na mûthenya nî cinaga itagûtigithîria ikiugaga atîrî:",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.8",
+            "verseOrgIds": [
+              "REV.4.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "REV.5",
+    "number": "5",
+    "bookId": "REV"
+  },
+  "previous": {
+    "id": "REV.3",
+    "number": "3",
+    "bookId": "REV"
+  }
+}

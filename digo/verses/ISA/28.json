@@ -1,0 +1,203 @@
+{
+  "id": "ISA.28",
+  "number": "28",
+  "bookId": "ISA",
+  "reference": "Isaya 28",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "28",
+        "style": "c",
+        "sid": "ISA 28"
+      },
+      "items": [
+        {
+          "text": "28",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 28:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Shaka hiro kpwa alevi a Efuraimu enye ngulu;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.28.1",
+            "verseOrgIds": [
+              "ISA.28.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ISA 28:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.28.15",
+            "verseOrgIds": [
+              "ISA.28.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ISA 28:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.28.16",
+            "verseOrgIds": [
+              "ISA.28.16"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.118.22+PSA.118.23"
+              },
+              "items": [
+                {
+                  "text": "Zaburi 118:22–23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.9.33"
+              },
+              "items": [
+                {
+                  "text": "Arumi 9:33",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.10.11"
+              },
+              "items": [
+                {
+                  "text": "10:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.2.6"
+              },
+              "items": [
+                {
+                  "text": "1 Petero 2:6",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Kpwa sababu hiyo, Mwenyezi Mlungu anaamba hivi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.28.16",
+            "verseOrgIds": [
+              "ISA.28.16"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.29",
+    "number": "29",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.27",
+    "number": "27",
+    "bookId": "ISA"
+  }
+}

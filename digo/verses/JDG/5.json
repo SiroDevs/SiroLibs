@@ -1,0 +1,127 @@
+{
+  "id": "JDG.5",
+  "number": "5",
+  "bookId": "JDG",
+  "reference": "Aamuli 5",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "JDG 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JDG 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Phahi siku iyo, Debora na Baraka mwana wa Abinoamu aimba wira huno.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.5.1",
+            "verseOrgIds": [
+              "JDG.5.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JDG 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.5.3",
+            "verseOrgIds": [
+              "JDG.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JDG 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Uwe Mwenyezi Mlungu uriphotserera",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.5.4",
+            "verseOrgIds": [
+              "JDG.5.4"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JDG.6",
+    "number": "6",
+    "bookId": "JDG"
+  },
+  "previous": {
+    "id": "JDG.4",
+    "number": "4",
+    "bookId": "JDG"
+  }
+}

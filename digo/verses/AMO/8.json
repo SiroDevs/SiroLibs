@@ -1,0 +1,93 @@
+{
+  "id": "AMO.8",
+  "number": "8",
+  "bookId": "AMO",
+  "reference": "Amosi 8",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "8",
+        "style": "c",
+        "sid": "AMO 8"
+      },
+      "items": [
+        {
+          "text": "8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 8:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Higa ndigo Mwenyezi Mlungu arigonionyesa, nami naona chikaphu cha matunda maivu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.1",
+            "verseOrgIds": [
+              "AMO.8.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "AMO 8:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Iye achiniuza achiamba, “Amosi, unaonani?” Nami nchimuamba, “Naona chikaphu cha matunda maivu.” Ndipho Mwenyezi Mlungu achiniamba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.2",
+            "verseOrgIds": [
+              "AMO.8.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.9",
+    "number": "9",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.7",
+    "number": "7",
+    "bookId": "AMO"
+  }
+}

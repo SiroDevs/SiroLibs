@@ -1,0 +1,94 @@
+{
+  "id": "HAB.2",
+  "number": "2",
+  "bookId": "HAB",
+  "reference": "Hab 2",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "HAB 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Îcokio rîa MWATHANI kîrî Habakuku",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HAB 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngaitia kîrîngoone gîa akaria, mbeteere mbone ûrîa MWATHANI akambîîra nthithie, na ûrîa agancokeria nîûntû bwa kûnung'una gwaakwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.2.1",
+            "verseOrgIds": [
+              "HAB.2.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Îkanûkia rîa barîa batîagîrîte",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAB.3",
+    "number": "3",
+    "bookId": "HAB"
+  },
+  "previous": {
+    "id": "HAB.1",
+    "number": "1",
+    "bookId": "HAB"
+  }
+}

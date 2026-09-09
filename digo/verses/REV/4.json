@@ -1,0 +1,546 @@
+{
+  "id": "REV.4",
+  "number": "4",
+  "bookId": "REV",
+  "reference": "Maono 4",
+  "verseCount": 7,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "REV 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "REV 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bada ya higo, nátsupha matso nahenda hivi, nchiona mryango u laza mlunguni! Alafu nchisikira iratu sauti dza ya gunda yonigombekeza kpwandza ichiamba, “Ndzo hiku dzulu, ili nikuonyese mambo ambago ni lazima gahendeke badaye.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.1",
+            "verseOrgIds": [
+              "REV.4.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "REV 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.1",
+            "verseOrgIds": [
+              "REV.4.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "REV 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.2",
+            "verseOrgIds": [
+              "REV.4.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.1.26+EZK.1.27+EZK.1.28"
+              },
+              "items": [
+                {
+                  "text": "Ezekieli 1:26–28",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.10.1"
+              },
+              "items": [
+                {
+                  "text": "10:1",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Gafula vivi nchikala ninalongozwa ni Roho, na phapho nchiona chihi cha chifalume ko mlunguni. Na iye achisagariraye ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.2",
+            "verseOrgIds": [
+              "REV.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "REV 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kala anameka-meka dza dziwe zuri ra rangi ya kodza itsi na ya kundu. Chihi hicho kala chikazungulukpwa ni likore rongʼala-ngʼala phamwenga na vihi vyanjina mirongo miiri na vine vya chifalume. Nao okala akasagarira vihi hivyo kala ni atumia mirongo miiri na a ne okala akavwala nguwo nyereru na viremba vyopambwa na zahabu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.3+REV.4.4",
+            "verseOrgIds": [
+              "REV.4.3",
+              "REV.4.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "REV 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.19.16"
+              },
+              "items": [
+                {
+                  "text": "Kutsama 19:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.1.4"
+              },
+              "items": [
+                {
+                  "text": "Maono 1:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.8.5"
+              },
+              "items": [
+                {
+                  "text": "8:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.11.19"
+              },
+              "items": [
+                {
+                  "text": "11:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.16.18"
+              },
+              "items": [
+                {
+                  "text": "16:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.1.13"
+              },
+              "items": [
+                {
+                  "text": "Ezekieli 1:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.4.2"
+              },
+              "items": [
+                {
+                  "text": "Zakariya 4:2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Hicho chihi cha chifalume kala chinalavya limeme na mngurumo wa chiguruguru. Mbereze kala phana taa sabaa ziakazo ambazo kala ni zira roho sabaa za Mlungu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.5",
+            "verseOrgIds": [
+              "REV.4.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "REV 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.1.22"
+              },
+              "items": [
+                {
+                  "text": "Ezekieli 1:22",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.1.5+EZK.1.6+EZK.1.7+EZK.1.8+EZK.1.9+EZK.1.10"
+              },
+              "items": [
+                {
+                  "text": "Ezekieli 1:5–10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.10.14"
+              },
+              "items": [
+                {
+                  "text": "10:14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Hipho mbere za chihi kala phana utu dza bahari ya chilolo, avi ni dziwe ra kungʼala-ngʼala.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.6",
+            "verseOrgIds": [
+              "REV.4.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "REV 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hipho kahi-kahi kuzunguluka chihi cha chifalume kala phana viumbe vine. Navyo kala vina matso chila phatu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.6",
+            "verseOrgIds": [
+              "REV.4.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "REV 4:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Chiumbe cha kpwandza kala ni dza simba, cha phiri kala ni dza ndzau, cha hahu kala china sura dza mutu, nacho cha ne kala ni dza kozi riurukaro. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.7",
+            "verseOrgIds": [
+              "REV.4.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "REV 4:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.1.18"
+              },
+              "items": [
+                {
+                  "text": "Ezekieli 1:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.10.12"
+              },
+              "items": [
+                {
+                  "text": "10:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.6.2+ISA.6.3"
+              },
+              "items": [
+                {
+                  "text": "Isaya 6:2–3",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Hivyo viumbe vine, chila chimwenga kala china mapha sita. Nago mapha kala gana matso chila phatu. Kala vinaimba usiku na mutsi bila ya kunyamala, nao wira wenye kala ni hinyu:",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.8",
+            "verseOrgIds": [
+              "REV.4.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "REV.5",
+    "number": "5",
+    "bookId": "REV"
+  },
+  "previous": {
+    "id": "REV.3",
+    "number": "3",
+    "bookId": "REV"
+  }
+}

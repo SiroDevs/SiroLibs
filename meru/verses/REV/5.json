@@ -1,0 +1,800 @@
+{
+  "id": "REV.5",
+  "number": "5",
+  "bookId": "REV",
+  "reference": "Kûg 5",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "REV 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Gatûrûme kûthoma yuku",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "REV 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.1",
+            "verseOrgIds": [
+              "REV.5.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.2.9+EZK.2.10"
+              },
+              "items": [
+                {
+                  "text": "Ezek 2.9-10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.29.11"
+              },
+              "items": [
+                {
+                  "text": "Isa 29.11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Ningî ndîroona njareene ya ûrîo ya ûu wakarîrîte rûriga kûrî na yuku rîaandîki nteere cio-ijîîrî. Narîo rîakunîki na rîathingwa na mûûra jûkinyi na mîûûri mûgwanja. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.1",
+            "verseOrgIds": [
+              "REV.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "REV 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndîracoka ndîroona mûraîka ûrî na inya mwîrî agîtûmagîîria na kajû gakanene akiugaga, “Nûû wagîrîte gûkunûra yuku na kûthingûra mîûûri îrîa îrîthingîte?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.2",
+            "verseOrgIds": [
+              "REV.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "REV 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gûtî we woonora kûu îgûrû kana nthîgûrû kana rungu rwa nthîgûrû wa kûûmba gûkûnjûra kana kûraithîîria ûrîa yuku rîu rîakari ndeene. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.3",
+            "verseOrgIds": [
+              "REV.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "REV 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naani ndîrarîra mono tontû gûtî we woonora wagîrîte wa gûkunûra yuku rîu kana arîtega ndeene. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.4",
+            "verseOrgIds": [
+              "REV.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "REV 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.49.9"
+              },
+              "items": [
+                {
+                  "text": "Kîam 49.9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.11.1"
+              },
+              "items": [
+                {
+                  "text": "Isa 11.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.11.10"
+              },
+              "items": [
+                {
+                  "text": "10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Rîu ûmwe wa akûrû bau mîrongo îîrî na bana arauga, “Tiga kûrîra! Atîrî, Ngatûnyi ya kuuma mwîrîga jwa Juda, wa rûrîîjo rwa Daudi, nî ombanîte. We nîwe oomba kûthingûra mîûûri mûgwanja na agakunûra yuku.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.5",
+            "verseOrgIds": [
+              "REV.5.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "REV 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.5",
+            "verseOrgIds": [
+              "REV.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "REV 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.6",
+            "verseOrgIds": [
+              "REV.5.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.53.7"
+              },
+              "items": [
+                {
+                  "text": "Isa 53.7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.4.10"
+              },
+              "items": [
+                {
+                  "text": "Zek 4.10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Ningî ndîroona Gatûrûme karûngi o gakari teeka kooragi. Kaarî au gatîgatîîne ka rûriga na kathiûrûkîri nî biûmbe biu birî mwoyo bina, amwe na akûrû bau mîrongo îîrî na bana. Gatûrûme kau nî kaarî na ngoji mûgwanja na meetho mûgwanja nacio nî roho mûgwanja irîa ikaraga mbere ya Mûrungu igîtûmagwa nthîgûrûûne yonthe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.6",
+            "verseOrgIds": [
+              "REV.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "REV 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gatûrûme kareeta na karajûkia yuku kuuma njareene ya ûrîo ya ûrîa wakarîrîte rûriga rwa ûnene. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.7",
+            "verseOrgIds": [
+              "REV.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "REV 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.141.2"
+              },
+              "items": [
+                {
+                  "text": "Zab 141.2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Rîrîa kaajûkîrie yuku, biûmbe birîa birî mwoyo bina na akûrû barîa mîrongo îîrî na bana baraigwîthia nthî mbere ya Gatûrûme. O ûmwe waao nî aagwete kînanda na mpakûri yathithîtue na thaabu. Mpakûri îîu yûjûri ubaani, nayo nî maromba ja atheru. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.8",
+            "verseOrgIds": [
+              "REV.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "REV 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.33.3"
+              },
+              "items": [
+                {
+                  "text": "Zab 33.3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.98.1"
+              },
+              "items": [
+                {
+                  "text": "98.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.42.10"
+              },
+              "items": [
+                {
+                  "text": "Isa 42.10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Nabo baraina rwîmbo rûrwerû rûkuuga,",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.9",
+            "verseOrgIds": [
+              "REV.5.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "REV 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.10",
+            "verseOrgIds": [
+              "REV.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "REV 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.11",
+            "verseOrgIds": [
+              "REV.5.11"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        Dan 7.10\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Ningî ndîraraithîîria kaîrî na ndîraigua kajû ka araîka milioni na milioni inyingî. Araîka bau bathiûrûkîrîte rûriga na biûmbe birîa birî mwoyo na akûrû. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.11",
+            "verseOrgIds": [
+              "REV.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "REV 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabo bainaga rwîmbo rûrwerû bakiugaga,",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.12",
+            "verseOrgIds": [
+              "REV.5.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "REV 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Gatûrûme karîa kooragîrwe nîko kagîrîte kûjûkia inya na ûtonga,",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.12",
+            "verseOrgIds": [
+              "REV.5.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "REV 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.12",
+            "verseOrgIds": [
+              "REV.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "REV 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rîu ndîracoka ndîraigua biûmbe bionthe birîa birî îgûrû na birîa birî nthî înjûmo na rungu rwa nthî o na birîa birî îrieene, na bionthe birîa bitwîre nthîgûrû yonthe, bikiinaga bikiugaga,",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.13",
+            "verseOrgIds": [
+              "REV.5.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "REV 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.13",
+            "verseOrgIds": [
+              "REV.5.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "REV 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabio biûmbe bina birîa birî mwoyo birauga, “Amen!” Nabo akûrû barîa mîrongo îîrî na bana baragwa nthî barathaathayia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.14",
+            "verseOrgIds": [
+              "REV.5.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "REV.6",
+    "number": "6",
+    "bookId": "REV"
+  },
+  "previous": {
+    "id": "REV.4",
+    "number": "4",
+    "bookId": "REV"
+  }
+}

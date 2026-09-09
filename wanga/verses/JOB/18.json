@@ -1,0 +1,81 @@
+{
+  "id": "JOB.18",
+  "number": "18",
+  "bookId": "JOB",
+  "reference": "Ayubu 18",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "18",
+        "style": "c",
+        "sid": "JOB 18"
+      },
+      "items": [
+        {
+          "text": "18",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Bilidadi yatoonya khumakhuwa akalakwila ababii.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 18:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mana Bilidadi omuShuhi nakalusia, mbu",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.18.1",
+            "verseOrgIds": [
+              "JOB.18.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.19",
+    "number": "19",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.17",
+    "number": "17",
+    "bookId": "JOB"
+  }
+}

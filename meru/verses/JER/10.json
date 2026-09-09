@@ -1,0 +1,166 @@
+{
+  "id": "JER.10",
+  "number": "10",
+  "bookId": "JER",
+  "reference": "Jer 10",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "JER 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ûthaathayia bwa mîrungu ya mîng'uanano na ûthaathayia bwa Mûrungu wa mma",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thikîreeni buî antû ba Israeli nteto irîa MWATHANI akûbwarîria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.1",
+            "verseOrgIds": [
+              "JER.10.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JER 10:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.10",
+            "verseOrgIds": [
+              "JER.10.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JER 10:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tontû bûû, ûbeere ûjû; “Mîrungu îrîa îtoombîre îgûrû na nthîgûrû, îkathira buru kuuma nthîgûrûûne na kuuma rungu rwa îgûrû.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.11",
+            "verseOrgIds": [
+              "JER.10.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Rwîmbo rwa gûkumia Mûrungu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kûthaamua kûrîa kwîjîîrîte antû ba Juda",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.11",
+    "number": "11",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.9",
+    "number": "9",
+    "bookId": "JER"
+  }
+}

@@ -1,0 +1,712 @@
+{
+  "id": "REV.13",
+  "number": "13",
+  "bookId": "REV",
+  "reference": "Kûg 13",
+  "verseCount": 18,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "13",
+        "style": "c",
+        "sid": "REV 13"
+      },
+      "items": [
+        {
+          "text": "13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Nyomoo ijîîrî",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "REV 13:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.1",
+            "verseOrgIds": [
+              "REV.13.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        Dan 7.3",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.17.3"
+              },
+              "items": [
+                {
+                  "text": "Kûg 17.3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.17.7+REV.17.8+REV.17.9+REV.17.10+REV.17.11+REV.17.12"
+              },
+              "items": [
+                {
+                  "text": "7-12",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Rîu ndîroona nyomoo îkiumagîra îrieene. Nyomoo îîu yaarî na ngoji îkûmi na biongo mûgwanja. O rûgoji nî rwaarî na thirû na o kiongo nî kîaarî na riîtwa rîrîa rîaarî kîrumi kîrî Mûrungu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.1",
+            "verseOrgIds": [
+              "REV.13.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "REV 13:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "Dan 7.4-6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Nyomoo îîu ndoonere yaakari ta nkarî. Magûrû jaayo jaakari ta ja ndûû na kanyua kaayo gaakari ta ka ngatûnyi. Nkûnga nî yaeere nyomoo îîu inya yaayo na rûriga rwaayo na inya înene ya kwaathana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.2",
+            "verseOrgIds": [
+              "REV.13.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "REV 13:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kîongo kîmwe kîaayo nî kîonekanaga teeka kîaarî na kîronda gîkînene mono îndî kîronda kîu nî kîaarî gîkwora. Nabo antû ba nthîgûrû yonthe nî baarigarîrue mono nî nyomoo îîu na tontû bûû baramîthingata. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.3",
+            "verseOrgIds": [
+              "REV.13.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "REV 13:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Antû baratua kûthaathagia nkûnga îîu tontû nî yanenkeere nyomoo îîu waathi bwaayo. Ningî antû bareeta na mbere kûthaathayia nyomoo îîu bakiugaga, “Nûû ûkari ta nyomoo? Nûû ûûmba kûrwaa nayo?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.4",
+            "verseOrgIds": [
+              "REV.13.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "REV 13:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.4",
+            "verseOrgIds": [
+              "REV.13.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "REV 13:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.5",
+            "verseOrgIds": [
+              "REV.13.5"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        Dan 7.8,25; 11.36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Nyomoo îîu îreetîkîîrua gwikumia na kûruma Mûrungu na kwaathana ûrîa îkwenda mîeri mîrongo îna na îîrî. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.5",
+            "verseOrgIds": [
+              "REV.13.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "REV 13:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Îrambîrîria kûruma Mûrungu na kûruma riîtwa rîa Mûrungu na kûruma gîkaro kîa Mûrungu o na kûruma barîa batûûraga îgûrû. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.6",
+            "verseOrgIds": [
+              "REV.13.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "REV 13:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "Dan 7.21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Ningî nyomoo îîu îreetîkîîrua kûrwaa na atheru na kûboomba. Îraeewa waatho bwa kwatha antû ba mîîrîga yonthe na kîrîndî kîonthe na antû ba nthiomi cionthe o na mîgongo yonthe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.7",
+            "verseOrgIds": [
+              "REV.13.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "REV 13:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.69.28"
+              },
+              "items": [
+                {
+                  "text": "Zab 69.28",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Antû bonthe barîa batûûraga nthîgûrû bakathaathayia nyomoo îîu. Antû bau nî barîa mariîtwa jaao jataandîkîrwe yukuune rîa ûtûûro mbere ya nthîgûrû yûmbwa. Yuku rîu nî rîa Gatûrûme karîa kooragîrwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.8",
+            "verseOrgIds": [
+              "REV.13.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "REV 13:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.8",
+            "verseOrgIds": [
+              "REV.13.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "REV 13:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ûrîa ûrî na matû nî aigue:",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.9",
+            "verseOrgIds": [
+              "REV.13.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "REV 13:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.10",
+            "verseOrgIds": [
+              "REV.13.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "REV 13:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rîu ndîroona nyomoo îngî yaumîra kuuma nthîgûrû. Yaarî na ngoji ijîîrî ta kang'ondu, ningî yaaragia ta nkûnga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.11",
+            "verseOrgIds": [
+              "REV.13.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "REV 13:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yaathanaga îgîtumagîra waathani bwa nyomoo îrîa ya mbere. Yaathithagia ûu nyomoo ya mbere îkîonaga. Nyomoo îîu îrakinyîîria nthîgûrû na antû bonthe barîa batûûraga ku bathaathayie nyomoo îrîa ya mbere, îrîa yaarî na kîronda gîkînene, kîrîa kîaarî gîkûora. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.12",
+            "verseOrgIds": [
+              "REV.13.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "REV 13:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyomoo îîu ya ijîîrî îraringa biama bibinene: îreetia mwanki kuuma îgûrû na jûragwa nthîgûrû antû bonthe bakîonaga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.13",
+            "verseOrgIds": [
+              "REV.13.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "REV 13:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyomoo îîu ya ijîîrî îraîria antû bonthe barîa batûûraga nthîgûrû nîûntû bwa biama birîa yeetîkîrîîtue kûringa îkîonagwa nî nyomoo îrîa ya mbere. Ningî îreera antû nî bathithie mûng'uanano jwa nyomoo îîu ya mbere îrîa yaamunti na rûchiû îndî îtîkue. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.14",
+            "verseOrgIds": [
+              "REV.13.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "REV 13:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyomoo îîu îreetîkîîrua yugîîre mûng'uanano jûu jwa nyomoo îîu ya mbere mîrukî nîkenda jûgîa ûtûûro na nîkenda mûng'uanano jûu jûkaaria na jûûrage bonthe barîa batîjûthaathayia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.15",
+            "verseOrgIds": [
+              "REV.13.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "REV 13:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyomoo îîu îrakinyîîria antû bonthe gwîkîrwa rwano njara ya ûrîo kana moothiû jaao: bëethîrwa barî antû babanene kana babaniini, itonga kana nkîa, nkombo kana barîa barî na ûciathi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.16",
+            "verseOrgIds": [
+              "REV.13.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "REV 13:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gûtî we weetîkagîîrua kûgûra kana kwendia atî na rwano rûu. Rwano rûu nî riîtwa rîa nyomoo îîu kana ntari ya riîtwa rîaayo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.17",
+            "verseOrgIds": [
+              "REV.13.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "REV 13:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kûmenya ûntû bûû, muntû nî akwenda eethîrwe arî na ûûme. Ûrîa ûkûûmba gûciûra nî amenye ntari ya nyomoo îîu tontû nî ntari ya riîtwa rîa muntû. Ntari yaayo nî magana jatantatû ja mîrongo îtantatû na îthanthatû.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.13.18",
+            "verseOrgIds": [
+              "REV.13.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "REV.14",
+    "number": "14",
+    "bookId": "REV"
+  },
+  "previous": {
+    "id": "REV.12",
+    "number": "12",
+    "bookId": "REV"
+  }
+}

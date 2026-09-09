@@ -1,0 +1,764 @@
+{
+  "id": "1TI.1",
+  "number": "1",
+  "bookId": "1TI",
+  "reference": "1Tim 1",
+  "verseCount": 20,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "1TI 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1TI 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nî ni Paûlû nkûbwandîkîra barûga îîjî. Mpeethetue mûtûmwa wa Kristû Jesû nî waatho bwa Mûrungu Mwonokia weetû na Kristû Jesû ûrîa ûrî wîrîgîîro bweetû. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.1",
+            "verseOrgIds": [
+              "1TI.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1TI 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.16.1"
+              },
+              "items": [
+                {
+                  "text": "Maj 16.1",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Kîrî Timotheo mwana waakwa wa mma ndeene ya wîtîkio, ûtugi na kîaao na thîîrî kuuma kîrî Mûrungu Baaba o na kuuma kîrî Kristû Jesû Mwathani weetû birokaraga naagwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.2",
+            "verseOrgIds": [
+              "1TI.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ûgwati bwa mooritani ja ûrongo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1TI 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.2",
+            "verseOrgIds": [
+              "1TI.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1TI 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kara o kûu Efeso, o ta ûrîa ndaakwîrîre rîrîa ndaumaga kûu mbîtîte Makedonia. Kûrî antû bamwe kûu bakûritana mooritani ja ûrongo. Barigîîrie batîgeete na mbere kûthithia ûu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.3",
+            "verseOrgIds": [
+              "1TI.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1TI 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nî batigane na ngono na mooritani jegiî rûrîîjo rwaao. Mantû jau nîjo jatûmaga antû baringanîra nkaanja na bakarega kûthikîîra ûrîa mûbango jwa Mûrungu jûkari jûrîa jûmenyekaga na njîra ya wîtîkio. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.4",
+            "verseOrgIds": [
+              "1TI.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1TI 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mworoto jwa waatho bûbû nî atî akristû bonthe beethîrwe barî na wendo bûrîa buumaga nkoroone intheru na mathûgaanio jameega o na wîtîkio bwa mma. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.5",
+            "verseOrgIds": [
+              "1TI.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1TI 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Antû bamwe nî batiganîte na mwîtîre jûjû na baatîa njîra na baitonyithia ndwariene cia ûtheri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.6",
+            "verseOrgIds": [
+              "1TI.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1TI 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Beendaga kwaa aritani ba Waatho bwa Mûrungu îndî bo batîîthagîrwa bakîmenyaga nteto irîa baaragia kana baciûkîrwa nî mantû jau baaragia baciîtîkîtie mono.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.7",
+            "verseOrgIds": [
+              "1TI.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1TI 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.7",
+            "verseOrgIds": [
+              "1TI.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1TI 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nî twijî atî Waatho nî bûbwega bûkëeja kwîthîrwa bûgatumîrwa ûrîa kwagîrîte. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.8",
+            "verseOrgIds": [
+              "1TI.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1TI 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Waatho bûtîkagwa nîûntû bwa antû barîa baagîrîte îndî bwîkagwa nîûntû bwa auni Waatho na ndemi na antû barîa batîkîraga Mûrungu na eeyia. Ningî bwîki nîûntû bwa barîa booragaga beethe kana bang'ina na barîa booragaga antû bangî. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.9",
+            "verseOrgIds": [
+              "1TI.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1TI 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Waatho bwîkî nîûntû bwa amaramari na athûngîîri na arûme barîa bathengagîîra arûme bangî kana aka barîa bathengagîîra aka bangî na aamba barîa bagwataga antû bageetia mbeecha nîkenda babarekeeria na arongo na akûûjî ba ûrongo na barîa bathithagia ûntû bûngî kinya bûrîkû bûrîa bûtîgwatanagîra na ûritani bwa gîkristû. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.10",
+            "verseOrgIds": [
+              "1TI.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1TI 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabu ûritani bûu nî bûrîa bûrî ndeene ya Nteto Injega irî na ûkumio irîa ndaanenkeerwe ntûmîîria kuuma kîrî Mûrungu ûrîa mûtharime.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.11",
+            "verseOrgIds": [
+              "1TI.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Nkaatho nîûntû bwa kîaao kîa Mûrungu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1TI 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.11",
+            "verseOrgIds": [
+              "1TI.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1TI 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nî ngûcokeria Kristû Jesû Mwathani weetû nkaatho tontû nî antarîte ndî mwîtîkua na anthuura mûtumîkagîra na ampa inya ya kûrita ngûgî îîu, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.12",
+            "verseOrgIds": [
+              "1TI.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1TI 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.8.3"
+              },
+              "items": [
+                {
+                  "text": "Maj 8.3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.9.4+ACT.9.5"
+              },
+              "items": [
+                {
+                  "text": "9.4-5",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " kinya këethîra nî ndamûthûmbagia na nkamûthangîkia amwe na kûmûrumanga. Îndî nî aambigîîrue kîaao tontû ndaathithagia ûu nîûntû bwa kûrigwa na kûrega gwîtîkia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.13",
+            "verseOrgIds": [
+              "1TI.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1TI 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nawe Mwathani weetû arampa ûtugi bwaawe bûbwingî na arampa wîtîkio na wendo birîa twinthe tweejagwa kuumania na Kristû Jesû. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.14",
+            "verseOrgIds": [
+              "1TI.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1TI 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ûrîa kuugagwa nî bwa mma na nî bûbuîri gwîtîkua nî antû bonthe atî Kristû Jesû eejîre nthîgûrûûne kwonokia eeyia, naani nî ni mwîyia ûrîa ûkûrûkîte bangî. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.15",
+            "verseOrgIds": [
+              "1TI.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1TI 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kîrîa gîatûmîre Mûrungu ambigîîrua kîaao nîkenda Kristû Jesû onania ûrîa arî mûûmîîria mantûûne ja eeyia bonthe barîa bakamwîtîkia na onania ûrîa bakaewa ûtûûro bwa kenya na kenya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.16",
+            "verseOrgIds": [
+              "1TI.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1TI 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gîtîîo na ûkumio nî kîrî mûnene wa nthukî cionthe na ûrîa ûtûûraga kenya na kenya na ûrîa ûtîonagwa na ûrîa ûrî Mûrungu wenka. Amen.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.17",
+            "verseOrgIds": [
+              "1TI.1.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1TI 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.17",
+            "verseOrgIds": [
+              "1TI.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1TI 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Timotheo mûtaana waakwa, jûkia waatho bûbû ûbûthingatage. Waatho bûbû nî kûringana na nteto cia ûroria irîa ciarîrue ikweegiî. Nteto iu nî ikweejage inya ya kûrwaa ndwaa ya Nteto Injega cia Kristû bwega. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.18",
+            "verseOrgIds": [
+              "1TI.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "1TI 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rûûjaga ûrî na wîtîkio ndeene ya Kristû na ûrî na mathûgaanio jamatheru. Antû bamwe barîa baaregere kûthikîîra mathûgaanio jaao jakîbagambithia nî beenyangîrie wîtîkio bwaao. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.19",
+            "verseOrgIds": [
+              "1TI.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1TI 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bamwe baao nî Humeneo na Alexanda barîa nthirîtie kûnenkanîra kîrî Nkoma nîkenda bakairitana atî batîbuîri kûruma Mûrungu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.1.20",
+            "verseOrgIds": [
+              "1TI.1.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1TI.2",
+    "number": "2",
+    "bookId": "1TI"
+  },
+  "previous": {
+    "id": "1TI.intro",
+    "number": "intro",
+    "bookId": "1TI"
+  }
+}

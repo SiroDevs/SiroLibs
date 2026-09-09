@@ -1,0 +1,345 @@
+{
+  "id": "EST.7",
+  "number": "7",
+  "bookId": "EST",
+  "reference": "Esta 7",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "7",
+        "style": "c",
+        "sid": "EST 7"
+      },
+      "items": [
+        {
+          "text": "7",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 7:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Chisha mfalume na Hamani aphiya achendasherekeya phamwenga na Malikia Esta. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.1",
+            "verseOrgIds": [
+              "EST.7.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 7:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hata siku ihi ya phiri ariphokala kpwenye karamu, mfalume achimuuza tsona Esta swali riratu rira achimuamba, “Haya Malikia Esta niambira. Hajayo nini? Hata ukalonda nusu ya utawala wangu mino ndakupha.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.2",
+            "verseOrgIds": [
+              "EST.7.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 7:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Malikia Esta achijibu achiamba, “Napho uwe mfalume, unanionera mbazi na ichikala unaona kukala ni vinono, navoya utivye maisha gangu na ga atu angu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.3",
+            "verseOrgIds": [
+              "EST.7.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 7:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mana mimi na atu angu hwaguzwa huolagbwe na huangamizwe tsetsetse. Kalapho hwaguzwa hukale atumwa bahi, hata ningenyamala, singekuyuga nago tse mfalume.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.4",
+            "verseOrgIds": [
+              "EST.7.4"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "7:4",
+              "type": "text"
+            },
+            {
+              "text": "Hipha mana halisi ga Chieburania tagamanyikana.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 7:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.4",
+            "verseOrgIds": [
+              "EST.7.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EST 7:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mfalume Ahasuero achimuuza Malikia Esta achiamba, “Ni ani ye awezaye kusubutu kuhenda dzambo dza hiro na akuphi?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.5",
+            "verseOrgIds": [
+              "EST.7.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EST 7:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Esta achiamba, “Adui wehu ahugayisaye ni hiyu Hamani hipha. Ni mui tamuna.” Hipho Hamani mwiri uchimuinjira mnyevu phapho kare mbere za mfalume na Malikia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.6",
+            "verseOrgIds": [
+              "EST.7.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EST 7:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ariphosikira hivyo hiye mfalume watuluka, achiphiya hiko muhala wa iyo nyumba ya chifalume kuno tsukizi zikampanda. Hamani naye kuona hivyo achimanya kare kukala mfalume akaamua kumuhenda uyi kpwa hivyo achiunuka achendamurai Esta ili ativye rohoye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.7",
+            "verseOrgIds": [
+              "EST.7.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EST 7:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mfalume ariphouya hiko chumba cha karamu achimkuta Hamani akadzibwaga hipho kochini pha Esta, achimuamba Hamani, “Yani unaweza hata kumgbwavukira Malikia hipha phangu kaya tsona mbere zangu!” Hata hiye mfalume kala kadzangbwemala kugomba, ahendadzi kazie achimbwiningiza uso Hamani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.8",
+            "verseOrgIds": [
+              "EST.7.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 7:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hipho Haribona mmwenga wa hara atumishi ariotulwa a mfalume ariokala mbereze achiamba, “Hamani kala akatengeza muhi wa kumsongola Modekai, mutu ariyemtivya mfalume. Muhi hinyo u ko kpwakpwe kaya nao una ure wa mikono mirongo mitsano.” Hiye mfalume achiamba, “Mhaleni mkamsongole dzulu ya hinyo muhi.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.9",
+            "verseOrgIds": [
+              "EST.7.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EST 7:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Phahi Hamani achihalwa achendasongolwa dzulu ya hinyo muhi ariokala akamtengezera Modekai na tsukizi za mfalume zichidigirika.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.10",
+            "verseOrgIds": [
+              "EST.7.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EST.8",
+    "number": "8",
+    "bookId": "EST"
+  },
+  "previous": {
+    "id": "EST.6",
+    "number": "6",
+    "bookId": "EST"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "HAB.1",
+  "number": "1",
+  "bookId": "HAB",
+  "reference": "Habakuki 1",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "HAB 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HAB 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Huno ndio ujumbe ambao Mwenyezi Mlungu wamfwenurira nabii Habakuki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.1",
+            "verseOrgIds": [
+              "HAB.1.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAB.2",
+    "number": "2",
+    "bookId": "HAB"
+  },
+  "previous": {
+    "id": "HAB.intro",
+    "number": "intro",
+    "bookId": "HAB"
+  }
+}

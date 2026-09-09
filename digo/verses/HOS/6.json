@@ -1,0 +1,93 @@
+{
+  "id": "HOS.6",
+  "number": "6",
+  "bookId": "HOS",
+  "reference": "Hosea 6",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "HOS 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HOS 6:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.6.3",
+            "verseOrgIds": [
+              "HOS.6.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HOS 6:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ela Mwenyezi Mlungu anaamba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.6.4",
+            "verseOrgIds": [
+              "HOS.6.4"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.7",
+    "number": "7",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.5",
+    "number": "5",
+    "bookId": "HOS"
+  }
+}

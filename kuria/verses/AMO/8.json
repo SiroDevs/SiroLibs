@@ -1,0 +1,178 @@
+{
+  "id": "AMO.8",
+  "number": "8",
+  "bookId": "AMO",
+  "reference": "Amosi 8",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "8",
+        "style": "c",
+        "sid": "AMO 8"
+      },
+      "items": [
+        {
+          "text": "8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Amamaaho gë ëkëgabhö kia amakö",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 8:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ÖMÖNENE Ënooköë akanhönyöörra amamaaho gandë: Nkamaaha ëkëgabhö këno gichööyë amakö gë ëmaaö. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.1",
+            "verseOrgIds": [
+              "AMO.8.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "AMO 8:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ÖMÖNENE Ënooköë nawe akambuuria iga, “Amosi nkë ökömaaha?” Nani nkamuhunchukiria iga, “Në ëkegabho kia amakö gë ëmaaö nkömaaha.” Hakurua ÖMÖNENE Ënooköë aganteebhia iga,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.2",
+            "verseOrgIds": [
+              "AMO.8.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ugusika ko Isiraeri",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "AMO 8:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.10",
+            "verseOrgIds": [
+              "AMO.8.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "AMO 8:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ÖMÖNENE Ënooköë aragamba iga,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.11",
+            "verseOrgIds": [
+              "AMO.8.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.9",
+    "number": "9",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.7",
+    "number": "7",
+    "bookId": "AMO"
+  }
+}

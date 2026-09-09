@@ -1,0 +1,93 @@
+{
+  "id": "JER.6",
+  "number": "6",
+  "bookId": "JER",
+  "reference": "Jeremia 6",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "JER 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JER 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.6.8",
+            "verseOrgIds": [
+              "JER.6.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JER 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwenyezi Mlungu, Mlungu wa majeshi anaamba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.6.9",
+            "verseOrgIds": [
+              "JER.6.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.7",
+    "number": "7",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.5",
+    "number": "5",
+    "bookId": "JER"
+  }
+}

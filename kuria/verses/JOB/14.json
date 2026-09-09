@@ -1,0 +1,92 @@
+{
+  "id": "JOB.14",
+  "number": "14",
+  "bookId": "JOB",
+  "reference": "Ayubhu 14",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "14",
+        "style": "c",
+        "sid": "JOB 14"
+      },
+      "items": [
+        {
+          "text": "14",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 14:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.14.1",
+            "verseOrgIds": [
+              "JOB.14.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        Öbh 2:1; Sir 40:1-11; 41:1-4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ömoona wö ömöntö öno aaibhööyöë na ömögaikörö;",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.14.1",
+            "verseOrgIds": [
+              "JOB.14.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.15",
+    "number": "15",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.13",
+    "number": "13",
+    "bookId": "JOB"
+  }
+}

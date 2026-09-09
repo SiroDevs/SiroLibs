@@ -1,0 +1,106 @@
+{
+  "id": "ZEC.10",
+  "number": "10",
+  "bookId": "ZEC",
+  "reference": "Sekaria 10",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "ZEC 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "ÖMÖNENE araragana öbhöhobhoribhua",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ZEC 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.2",
+            "verseOrgIds": [
+              "ZEC.10.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ZEC 10:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ÖMÖNENE aragamba iga,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.3",
+            "verseOrgIds": [
+              "ZEC.10.3"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEC.11",
+    "number": "11",
+    "bookId": "ZEC"
+  },
+  "previous": {
+    "id": "ZEC.9",
+    "number": "9",
+    "bookId": "ZEC"
+  }
+}

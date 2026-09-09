@@ -1,0 +1,1251 @@
+{
+  "id": "GEN.1",
+  "number": "1",
+  "bookId": "GEN",
+  "reference": "Kîam 1",
+  "verseCount": 31,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "GEN 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kûmbwa kwa indo cionthe",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "GEN 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kîambîrîriarî Ngai nîwaûmbire îgûrû na nthî. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.1",
+            "verseOrgIds": [
+              "GEN.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "GEN 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nayo nthî ndîarî ûrîa yekariî, na ndîarî na kîndû. Manjî meengî maakunîkîrîte kûndû kuonthe, nayo nduma yarî kûndû kuonthe. Vinya wa Ngai",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.2",
+            "verseOrgIds": [
+              "GEN.1.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1.2",
+              "type": "text"
+            },
+            {
+              "text": "Vinya wa Ngai:",
+              "type": "text"
+            },
+            {
+              "text": "Mandîko mamwe maugaga Roho wa Ngai, rûkûngi kuuma kûrî Ngai, Rûkûngi rûnene.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " nîguo warî îgûrû rîa manjî mau. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.2",
+            "verseOrgIds": [
+              "GEN.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "GEN 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CO.4.6"
+              },
+              "items": [
+                {
+                  "text": "2Akor 4.6",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Nake Ngai nîwaugire atîrî, “Nî kûgîe ûtheri;” nakuo nîkwagîre na ûtheri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.3",
+            "verseOrgIds": [
+              "GEN.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "GEN 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai nîwonire atî ûtheri nî mwaro; na akîgaania ûtheri na nduma. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.4",
+            "verseOrgIds": [
+              "GEN.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "GEN 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai nîwetire ûtheri “Mûthenya” nayo nduma akîmîta “Ûtukû.” Nakuo nîgwatukire na gûgîcoka gûgîkîa. Ûcio nîguo warî mûthenya wa mbere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.5",
+            "verseOrgIds": [
+              "GEN.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "GEN 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.5",
+            "verseOrgIds": [
+              "GEN.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "GEN 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.6",
+            "verseOrgIds": [
+              "GEN.1.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2PE.3.5"
+              },
+              "items": [
+                {
+                  "text": "2Pet 3.5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Ngai nîwacokire akiuga atîrî, “Nî kûgîe mwanya gatagatîrî ka manjî, nîguo wamûranie manjî maita maîrî.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.6",
+            "verseOrgIds": [
+              "GEN.1.6"
+            ]
+          }
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.6",
+            "verseOrgIds": [
+              "GEN.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "GEN 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Ngai nîwekîrire mwanya naguo ûkîamûrania manjî marîa maarî îgûrû rîaguo na marîa maarî rungu rwaguo. Na gûgîtuîka guo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.7",
+            "verseOrgIds": [
+              "GEN.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "GEN 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai nîwetire mwanya ûcio “Îgûrû.” Nakuo gûgîtuka na gûgîcoka gûgîkîa. Ûcio nîguo warî mûthenya wa kaîrî.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.8",
+            "verseOrgIds": [
+              "GEN.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "GEN 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.8",
+            "verseOrgIds": [
+              "GEN.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "GEN 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Ngai nîwaugire atîrî, “Manjî marîa marî rungu rwa matu nîmacokanîrîre vamwe nîguo nthî nyûmû yumîre.” Na gûgîtuîka guo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.9",
+            "verseOrgIds": [
+              "GEN.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "GEN 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai nîwetire nthî nyûmû “Nthî” namo manjî mau maacokanîrîrîte vamwe akîmeta “Îria.” Nake Ngai nîwonire ûndû ûcio ûrî mwaro. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.10",
+            "verseOrgIds": [
+              "GEN.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "GEN 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai nîwacokire akiuga atîrî, “Nthî nîîrute mîmera ya mîthemba yonthe; mîmera îrîa îciaraga mvîndî na mîmera îrîa îciaraga matunda marî na mvîndî, na mîthemba yonthe ya mîmera.” Na gûgîtuîka wa guo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.11",
+            "verseOrgIds": [
+              "GEN.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "GEN 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nthî nîyarutire mîmera ya mîthemba yonthe. Nake Ngai nîwonire ûcio ûrî ûndû mwaro. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.12",
+            "verseOrgIds": [
+              "GEN.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "GEN 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nakuo nîgwatukire na gûgîcoka gûgîkîa. Ûcio nîguo warî mûthenya wa kathatû.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.13",
+            "verseOrgIds": [
+              "GEN.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "GEN 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.13",
+            "verseOrgIds": [
+              "GEN.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "GEN 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai nîwacokire akiuga atîrî, “Nîkûgîe motheri matuurî îgûrû ma kwamûranagia mûthenya na ûtukû na monanagie mavinda, mîthenya, na mîaka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.14",
+            "verseOrgIds": [
+              "GEN.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "GEN 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Motheri mau magaakengaga marî matuurî îgûrû, na magaatûmaga nthî kûgîe na ûtheri.” Na gûgîtuîka guo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.15",
+            "verseOrgIds": [
+              "GEN.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "GEN 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwoguo Ngai nîwathondekire motheri maîrî manene. Riûa rîathage mûthenya na mweri wathage ûtukû. Nîwacokire akîthondeka njata. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.16",
+            "verseOrgIds": [
+              "GEN.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "GEN 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai nîwaigire motheri mau kûu îgûrû nîguo matûmage nthî kûgîe na ûtheri, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.17",
+            "verseOrgIds": [
+              "GEN.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "GEN 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mathage mûthenya na ûtukû na mamûranie ûtheri na nduma. Nake Ngai nîwonire atî ûndû ûcio warî mwaro. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.18",
+            "verseOrgIds": [
+              "GEN.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "GEN 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nakuo nîgwatukire na gûgîkîa. Ûcio nîguo warî mûthenya wa kana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.19",
+            "verseOrgIds": [
+              "GEN.1.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "GEN 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.19",
+            "verseOrgIds": [
+              "GEN.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "GEN 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Ngai nîwaugire atîrî, “Manjîrî nî gwîcûre ciûmbe irîa irî mwoyo cia mîthemba mîîngî, nakuo rîerarî gwîcûre iconi.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.20",
+            "verseOrgIds": [
+              "GEN.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "GEN 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwoguo Ngai nîwaûmbire nyamû irîa nene mûno cia îriarî, nyamû cionthe irîa ciîkaraga manjîrî, na mîthemba yonthe ya iconi. Nake Ngai nîwonire atî ûndû ûcio warî mwaro. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.21",
+            "verseOrgIds": [
+              "GEN.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "GEN 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai nîwarathimire ciûmbe icio na agîciîra atîrî, “Ciaranani na mwîngîve na mwîcûre îriarî, nacio iconi ciîngîve gûkû nthî.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.22",
+            "verseOrgIds": [
+              "GEN.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "GEN 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nakuo nîgwatukire na gûgîcoka gûgîkîa. Ûcio nîguo warî mûthenya wa gatano.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.23",
+            "verseOrgIds": [
+              "GEN.1.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "GEN 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.23",
+            "verseOrgIds": [
+              "GEN.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "GEN 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai nîwacokire akiuga atîrî, “Nthî nîkûgîe ciûmbe cia mîthemba yonthe; nîkûgîe nyamû irîa tûrîthagia mîciî; na nyamû cia kîthaka nene na nini. Na gûgîtuîka guo.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.24",
+            "verseOrgIds": [
+              "GEN.1.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "GEN 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwoguo Ngai nîwaûmbire indo icio cionthe na agîkenua nî ûguo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.25",
+            "verseOrgIds": [
+              "GEN.1.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "GEN 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.25",
+            "verseOrgIds": [
+              "GEN.1.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "GEN 1:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.26",
+            "verseOrgIds": [
+              "GEN.1.26"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.11.7"
+              },
+              "items": [
+                {
+                  "text": "1Akor 11.7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Ngai nîwacokire akiuga atîrî, “Nîtûmbeni mûndû ûvanene natue na wîkariî tatue. Nake akaathaga nthamaki, iconi, na nyamû cionthe irîa ciîkaraga mîciî na cia kîthaka nini na nene.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.26",
+            "verseOrgIds": [
+              "GEN.1.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "GEN 1:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.19.4"
+              },
+              "items": [
+                {
+                  "text": "Mat 19.4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.10.6"
+              },
+              "items": [
+                {
+                  "text": "Mar 10.6",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.27",
+            "verseOrgIds": [
+              "GEN.1.27"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.5.1+GEN.5.2"
+              },
+              "items": [
+                {
+                  "text": "Kîam 5.1-2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Kwoguo Ngai nîwaûmbire andû mavana take. Aamaûmbire marî mûndû mûrûme na mûndû mûka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.27",
+            "verseOrgIds": [
+              "GEN.1.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "GEN 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai nîwamarathimire na akîmera atîrî, “Ciaranani mwîcûre nthî nthî yonthe na mûmîtoorie; mwathage nthamaki, iconi na nyamû cionthe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.28",
+            "verseOrgIds": [
+              "GEN.1.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "GEN 1:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nînamûva mîtî ya mîthemba yonthe îrîa îciaraga mvîndî, na matunda ma mîthemba yonthe irî irio cienyu cia kûrîa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.29",
+            "verseOrgIds": [
+              "GEN.1.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "GEN 1:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nwatî nînava nyamû cionthe cia kîthaka, na iconi cionthe nyaki na mîtî îrîa îrî mathangû irîcage.” Na gûgîtuîka guo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.30",
+            "verseOrgIds": [
+              "GEN.1.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "GEN 1:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai nîwaroririe indo cionthe irîa aaûmbire na akîona irî mbaro. Nakuo nîgwatukire na gûgîcoka gûgîkîa. Ûcio nîguo warî mûthenya wa gatandatû.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.1.31",
+            "verseOrgIds": [
+              "GEN.1.31"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "GEN.2",
+    "number": "2",
+    "bookId": "GEN"
+  },
+  "previous": {
+    "id": "GEN.intro",
+    "number": "intro",
+    "bookId": "GEN"
+  }
+}

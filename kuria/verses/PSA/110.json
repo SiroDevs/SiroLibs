@@ -1,0 +1,286 @@
+{
+  "id": "PSA.110",
+  "number": "110",
+  "bookId": "PSA",
+  "reference": "Ësabhuri 110",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "110",
+        "style": "c",
+        "sid": "PSA 110"
+      },
+      "items": [
+        {
+          "text": "110",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "ÖMÖNENE na Ömögambi Ömohöröa waae",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 110:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.1",
+            "verseOrgIds": [
+              "PSA.110.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.22.44"
+              },
+              "items": [
+                {
+                  "text": "Mat 22:44",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.12.36"
+              },
+              "items": [
+                {
+                  "text": "Mk 12:36",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.20.42"
+              },
+              "items": [
+                {
+                  "text": "Ruk 20:42",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.20.43"
+              },
+              "items": [
+                {
+                  "text": "43",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.2.34"
+              },
+              "items": [
+                {
+                  "text": "Ama 2:34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.2.35"
+              },
+              "items": [
+                {
+                  "text": "35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.15.25"
+              },
+              "items": [
+                {
+                  "text": "1 Ko 15:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.1.20+EPH.1.21+EPH.1.22"
+              },
+              "items": [
+                {
+                  "text": "Eb 1:20-22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.3.1"
+              },
+              "items": [
+                {
+                  "text": "Kor 3:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.1.13"
+              },
+              "items": [
+                {
+                  "text": "Ibr 1:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.8.1"
+              },
+              "items": [
+                {
+                  "text": "8:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.10.12"
+              },
+              "items": [
+                {
+                  "text": "10:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.10.13"
+              },
+              "items": [
+                {
+                  "text": "13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "ÖMÖNENE arateebhia Ömönene waane iga,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.1",
+            "verseOrgIds": [
+              "PSA.110.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.111",
+    "number": "111",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.109",
+    "number": "109",
+    "bookId": "PSA"
+  }
+}

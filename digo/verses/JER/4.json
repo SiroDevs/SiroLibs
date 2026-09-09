@@ -1,0 +1,386 @@
+{
+  "id": "JER.4",
+  "number": "4",
+  "bookId": "JER",
+  "reference": "Jeremia 4",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "JER 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JER 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.4.2",
+            "verseOrgIds": [
+              "JER.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JER 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.4.3",
+            "verseOrgIds": [
+              "JER.4.3"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.10.12"
+              },
+              "items": [
+                {
+                  "text": "Hosea 10:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mana ye Mwenyezi Mlungu anaamba vivi kpwa atu a Juda na a Jerusalemu:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.4.3",
+            "verseOrgIds": [
+              "JER.4.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JER 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.4.4",
+            "verseOrgIds": [
+              "JER.4.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JER 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tangazani ko Juda na mkote kululu ko Jerusalemu muambe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.4.5",
+            "verseOrgIds": [
+              "JER.4.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JER 4:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.4.8",
+            "verseOrgIds": [
+              "JER.4.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JER 4:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku iyo Mwenyezi Mlungu achiamba, “Mfalume na maofisaa andavundzika moyo, alavyadzi-sadaka andakala aoga na manabii andaangalala.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.4.9",
+            "verseOrgIds": [
+              "JER.4.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JER 4:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipho nchiamba, “Aa Mwenyezi Mlungu, kpwa kpweli ukachenga atu aha na atu a Jerusalemu, kpwa kuamba, ‘Mambo gandakala manono kpwenu,’ kuno upanga ukafika mironi.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.4.10",
+            "verseOrgIds": [
+              "JER.4.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JER 4:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakati uho atu aha na a Jerusalemu andaambwa, “Phuto ra kuocha kula dzulu ya myango ko jangbwani rindapiga atu angu. Riro si phuto ra kupheha au kutakasa, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.4.11",
+            "verseOrgIds": [
+              "JER.4.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JER 4:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "phuto kali sana kula kpwangu. Mimi Mwenyezi Mlungu ndimi ndiyelavya uamuli.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.4.12",
+            "verseOrgIds": [
+              "JER.4.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "JER 4:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.4.26",
+            "verseOrgIds": [
+              "JER.4.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "JER 4:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mana Mwenyezi Mlungu anaamba, “Tsi yosi indabanangbwa-banangbwa, dzagbwe sindaibananga kabisa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.4.27",
+            "verseOrgIds": [
+              "JER.4.27"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.5",
+    "number": "5",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.3",
+    "number": "3",
+    "bookId": "JER"
+  }
+}

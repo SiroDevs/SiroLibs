@@ -1,0 +1,164 @@
+{
+  "id": "ZEP.1",
+  "number": "1",
+  "bookId": "ZEP",
+  "reference": "Zef 1",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "ZEP 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEP 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.1",
+            "verseOrgIds": [
+              "ZEP.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        2Ane 22.1—23.30; 2Ma 34.1—35.27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " MWATHANI nî aarîîrie Zefania rîrîa Josia mûtaana wa Amoni aathaga Juda. Zefania aarî mûtaana wa Kuushi, na Kuushi aarî mûtaana wa Gedalia, na Gedalia aarî mûtaana wa Amaria, na Amaria aarî mûtaana wa Hezekia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.1",
+            "verseOrgIds": [
+              "ZEP.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ntukû îrîa MWATHANI akaagitîra antû îgamba",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEP 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.1",
+            "verseOrgIds": [
+              "ZEP.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ZEP 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "MWATHANI nî aarîrie arauga atîrî,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.2",
+            "verseOrgIds": [
+              "ZEP.1.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEP.2",
+    "number": "2",
+    "bookId": "ZEP"
+  },
+  "previous": {
+    "id": "ZEP.intro",
+    "number": "intro",
+    "bookId": "ZEP"
+  }
+}

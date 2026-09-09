@@ -1,0 +1,595 @@
+{
+  "id": "NAM.1",
+  "number": "1",
+  "bookId": "NAM",
+  "reference": "Naxuum 1",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "NAM 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Cadhadii Rabbiga U Cadhooday Nineweh",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NAM 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kanu waa warka culus oo Nineweh ku saabsan. Oo waa kitaabkii waxa Naxuum kii reer Elkosh la tusay.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.1",
+            "verseOrgIds": [
+              "NAM.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NAM 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.1",
+            "verseOrgIds": [
+              "NAM.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NAM 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rabbigu waa Ilaah masayr",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.2",
+            "verseOrgIds": [
+              "NAM.1.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:2",
+              "type": "text"
+            },
+            {
+              "text": "Ilaah aan aqbalanayn in ilaah kale lala caabudo",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ah oo waa aarsadaa, Rabbigu waa aarsadaa oo waa cadho miidhan. Rabbigu cadaawayaashiisa waa ka aargutaa, oo cadowgiisana cadho buu u kaydiyaa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.2",
+            "verseOrgIds": [
+              "NAM.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NAM 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rabbigu cadho wuu u gaabiya, waana xoog badan yahay, oo kii gardaran sinaba eedlaawe ugu haysan maayo. Rabbigu wuxuu jid ku leeyahay dabaysha cirwareenta ah iyo duufaanka, oo daruuruhuna waa boodhkii cagihiisa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.3",
+            "verseOrgIds": [
+              "NAM.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NAM 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Isagu wuxuu canaantaa badda, oo weliba iyaduu engejiyaa, oo webiyaasha oo dhanna wuu wada qallajiyaa. Baashaan iyo Karmel way engegaan, oo ubixii Lubnaanna waa dhaday. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.4",
+            "verseOrgIds": [
+              "NAM.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NAM 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Buuruhu way ka gariiraan isaga, oo kuruhuna way dhalaalaan, oo dhulka xataa dunida iyo waxa deggan oo dhammuba way ku rogmadaan hortiisa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.5",
+            "verseOrgIds": [
+              "NAM.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NAM 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.5",
+            "verseOrgIds": [
+              "NAM.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NAM 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bal yaa dhirifkiisa is-hor taagi kara? Oo bal yaa u adkaysan kara kulaylka cadhadiisa? Cadhadiisu waa u daadatay sidii dab oo kale, oo dhagaxyada waaweynna isagaa kala dildillaacshay. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.6",
+            "verseOrgIds": [
+              "NAM.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NAM 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rabbigu waa wanaagsan yahay, oo wakhtigii dhib jirona waa qalcad, wuuna garanayaa kuwa isaga isku halleeya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.7",
+            "verseOrgIds": [
+              "NAM.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NAM 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Laakiinse meesheeda wuxuu ku baabbi'in doonaa daad soo buuxdhaafay, oo cadaawayaashiisana wuu u eryan doonaa gudcurka dhexdiisa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.8",
+            "verseOrgIds": [
+              "NAM.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NAM 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "War maxaad Rabbiga la damacsan tihiin? Isagu wuu wada baabbi'in doonaa. Dhibaatana mar labaad soo ma kici doonto. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.9",
+            "verseOrgIds": [
+              "NAM.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NAM 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Waayo, in kastoo ay la mid yihiin qodxan isku wada murugsan, oo ay yihiin sidii kuwo cabniinkoodii ku sakhraamay, haddana waxaa loo wada baabbi'in doonaa sidii bal engegay. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.10",
+            "verseOrgIds": [
+              "NAM.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NAM 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Waxaa kaa soo baxay mid Rabbiga wax shar ah u fikira, oo xumaato ku taliya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.11",
+            "verseOrgIds": [
+              "NAM.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NAM 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.11",
+            "verseOrgIds": [
+              "NAM.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NAM 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rabbigu wuxuu leeyahay, In kastoo ay xoog badan yihiin oo weliba ay tiro badan yihiin, haddana iyaga waa la wada gooyn doonaa, oo isna wuu dhammaan doonaa. In kastoo aan idin dhibay, mar dambe idin dhibi maayo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.12",
+            "verseOrgIds": [
+              "NAM.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NAM 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oo haatan harqoodkiisa waan idinka jebin doonaa, oo jebbooyinka idinku xidhanna waan jebin doonaa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.13",
+            "verseOrgIds": [
+              "NAM.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NAM 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.13",
+            "verseOrgIds": [
+              "NAM.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NAM 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oo Rabbigu wuxuu bixiyey amar kugu saabsan, si aan innaba mar dambe jirin farcan magacaaga sii wada. Guriga ilaahyadaada waxaan ka baabbi'in doonaa sanamka xardhan iyo sanamka la shubay, oo waxaan samayn doonaa qabrigaagii, waayo, waxaad tahay wax la fududaystay. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.14",
+            "verseOrgIds": [
+              "NAM.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NAM 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bal eega kan warka wanaagsan keenaya oo nabadda faafinaya cagihiisa oo buuraha dul socda! Dadka Yahuudahow, iidihiinna dhawra, oo nidarradiinna oofiya, waayo, kii sharka ahaa mar dambe idinma soo dhex mari doono, waayo, isagii waa la wada baabbi'iyey.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.15",
+            "verseOrgIds": [
+              "NAM.1.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NAM.2",
+    "number": "2",
+    "bookId": "NAM"
+  },
+  "previous": {
+    "id": "MIC.7",
+    "number": "7",
+    "bookId": "MIC"
+  }
+}

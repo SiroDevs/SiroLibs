@@ -1,0 +1,93 @@
+{
+  "id": "NAM.3",
+  "number": "3",
+  "bookId": "NAM",
+  "reference": "Nah 3",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "NAM 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NAM 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.3.11",
+            "verseOrgIds": [
+              "NAM.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NAM 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kûndû gwaku kuonthe gwa kwîgitîra gûkethîrwa gwîkariî ta mîkûyû îrî mîtune;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.3.12",
+            "verseOrgIds": [
+              "NAM.3.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAB.intro",
+    "number": "intro",
+    "bookId": "HAB"
+  },
+  "previous": {
+    "id": "NAM.2",
+    "number": "2",
+    "bookId": "NAM"
+  }
+}

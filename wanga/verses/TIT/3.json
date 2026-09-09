@@ -1,0 +1,593 @@
+{
+  "id": "TIT.3",
+  "number": "3",
+  "bookId": "TIT",
+  "reference": "Tito 3",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "TIT 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Okhukholanga ebikhole ebilayi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "TIT 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obeetsusinjie okhwongolelanga abaruchi nende abobunyali, nokhubahulila, nibeerecheshela buli mulimo omulayi; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.1",
+            "verseOrgIds": [
+              "TIT.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "TIT 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "oburatoola omundu yesi, kata okhusoolananga ta; okhuba nbeshisa, nibaba abaholo khubandu bosi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.2",
+            "verseOrgIds": [
+              "TIT.3.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "TIT 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.2",
+            "verseOrgIds": [
+              "TIT.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "TIT 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Okhuba ifwe fwesi khwalinji abasilu, abakhayi, abashiamanga; khwali mubusumba bwobwikombi nende emienya ebiambanga. Khwamalanga tsindaalo tsieefwe mukelikhobo nende likhalikhali; khwali abakwanile okhukiywa, abeene nikhukiyananga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.3",
+            "verseOrgIds": [
+              "TIT.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "TIT 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ne olwa eshisa shiaNyasaye Omuhonia weefwe shialolekha, nende obuheelibwe khubandu, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.4",
+            "verseOrgIds": [
+              "TIT.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "TIT 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "yakhuhonia; ne shikhwali khulwa ebikhole biobulunjishi ebia ifwe khwakhola ta, habula tsimbabasitsie shinga olwa tsili, munjila yokhwosibwa khwobwibulwi obuyia, nokhukholwa abayia nende Roho Omutakatifu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.5",
+            "verseOrgIds": [
+              "TIT.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "TIT 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yakhusundulila busundula Roho omwenoyo, khulwa Yesu Kristo Omuhonia weefwe; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.6",
+            "verseOrgIds": [
+              "TIT.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "TIT 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mbu nikhubasiliibwe obulunjishi khulwa obukoosiabwe, mukhunaaya khukholwe abobulaame bobulamu bwobumeli. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.7",
+            "verseOrgIds": [
+              "TIT.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "TIT 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Likhuwa elo neliisiikwa, ne enzenya mbu olitinyisilie elala; mbu abamalile okhumusuubilila Nyasaye mana beerecheshe okhukholanga ebikhole ebilayi. Amakhuwa kano namalayi, akakaasila abandu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.8",
+            "verseOrgIds": [
+              "TIT.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "TIT 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ne wihaanye amareebano amasilusilu, naketsinzibulo, nobusoolo namayingano khukamalako; shichila ako kabula inganga kata eshisina ta.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.9",
+            "verseOrgIds": [
+              "TIT.3.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "TIT 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.9",
+            "verseOrgIds": [
+              "TIT.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "TIT 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omundu ouleeranga obukabukhani, omuchesiyie lulala, khandi olwakhabili, mana omuleshe, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.10",
+            "verseOrgIds": [
+              "TIT.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "TIT 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nomanijile mbu ouli ario nomushiamu, wayoonoonekha, wayeekhalachiile omwene eshiina.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.11",
+            "verseOrgIds": [
+              "TIT.3.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Obuchesiyii khukabandu nalebe",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "TIT 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.11",
+            "verseOrgIds": [
+              "TIT.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "TIT 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Olwa ndalakhurumila Aretema kata Tikiko rakhwo omwoyo okhwitsa ewa endi eNikopoli, shichila ekhalaache likhuwa okhumalilayo tsindaalo tsiomunyiri ebweneyo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.12",
+            "verseOrgIds": [
+              "TIT.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "TIT 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rakhwo omwoyo okhuboongula Zena, omukhulundu wamalako, nende Apolo khuluchendo lwabwe, mbu baratamba eshindu ta. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.13",
+            "verseOrgIds": [
+              "TIT.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "TIT 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abandu beefwe nabo beeche okhurakhwo omwoyo khubikhole ebilayi khukeenyekha; mbu barabula okhwama ebiamo ta.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.14",
+            "verseOrgIds": [
+              "TIT.3.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Okhubasaayila",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "TIT 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.14",
+            "verseOrgIds": [
+              "TIT.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "TIT 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aba endi ninabo bosi bakhushiesiye. Okhushiesilie abo abakhuheelanga mubusuubili. Obukoosia bube nineenywe mwesi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.3.15",
+            "verseOrgIds": [
+              "TIT.3.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PHM.1",
+    "number": "1",
+    "bookId": "PHM"
+  },
+  "previous": {
+    "id": "TIT.2",
+    "number": "2",
+    "bookId": "TIT"
+  }
+}

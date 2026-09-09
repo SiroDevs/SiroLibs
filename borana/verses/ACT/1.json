@@ -1,0 +1,1335 @@
+{
+  "id": "ACT.1",
+  "number": "1",
+  "bookId": "ACT",
+  "reference": "Huji Ergattu 1",
+  "verseCount": 25,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "ACT 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesoni gubbati oldeebia",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ACT 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.1",
+            "verseOrgIds": [
+              "ACT.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.1+LUK.1.2+LUK.1.3+LUK.1.4"
+              },
+              "items": [
+                {
+                  "text": "Luk 1.1-4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee Theofilo kitaaba qara keesati anini waan Yesoni tolcheefi, waan inni barsiise ya sii t'aafe, haga inni huji ufi iti keyate asi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.1",
+            "verseOrgIds": [
+              "ACT.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ACT 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "haga inni gubbati oldeebie. Ato gubbati oliindeebiini, inni jabeenna Lubbu Qulqullotiini jara qara fohate ergattu tolfateti d'aame. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.2",
+            "verseOrgIds": [
+              "ACT.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ACT 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inni eegi due guyya afurtama maro heddu ergattu ufiiti mullate aka aka jiru worra ufi agarsiisu, aka nami dandae ind'aarefanne, worri isa arge inni waan Finna Waaqa worrati hasae. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.3",
+            "verseOrgIds": [
+              "ACT.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ACT 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.24.49"
+              },
+              "items": [
+                {
+                  "text": "Luk 24.49",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Worri woli woldeennaani, inni seera ufi worrati kenne waan jed'eeni, Yerusalemu keesaa imbahiina, ammo qarqaarsa Aabbooni isanii kennu, ka anini qara isaniti hime eegad'a. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.4",
+            "verseOrgIds": [
+              "ACT.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ACT 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.3.11"
+              },
+              "items": [
+                {
+                  "text": "Mat 3.11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.1.8"
+              },
+              "items": [
+                {
+                  "text": "Mar 1.8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.3.16"
+              },
+              "items": [
+                {
+                  "text": "Luk 3.16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.33"
+              },
+              "items": [
+                {
+                  "text": "Yoh 1.33",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Yohanani bisaaniini isani batise, ammo eegi bulti diqo toko isani Lubbu Qulqullooni batifamtani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.5",
+            "verseOrgIds": [
+              "ACT.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ACT 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.5",
+            "verseOrgIds": [
+              "ACT.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ACT 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ergattuuni wolwoldeete waan Yesoni jette Aabbo, atini ammatana guddinna lafa tana Israeliti deebifta? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.6",
+            "verseOrgIds": [
+              "ACT.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ACT 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesoni waan worraani jed'e, Guyyafi ganni ka Aabbooni fohate harka isaa ke jira, waan isani beekhu himmalini. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.7",
+            "verseOrgIds": [
+              "ACT.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ACT 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.28.19"
+              },
+              "items": [
+                {
+                  "text": "Mat 28.19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.16.15"
+              },
+              "items": [
+                {
+                  "text": "Mar 16.15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.24.47+LUK.24.48"
+              },
+              "items": [
+                {
+                  "text": "Luk 24.47-48",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ammo eegi Lubbuuni Qulqullooni isani ira buute jabeenna argattani, Yerusalemufi Yudeafi Samaria keesafi haga muumme lafale ch'ufa na d'ugeesitani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.8",
+            "verseOrgIds": [
+              "ACT.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ACT 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.16.19"
+              },
+              "items": [
+                {
+                  "text": "Mar 16.19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.24.50+LUK.24.51"
+              },
+              "items": [
+                {
+                  "text": "Luk 24.50-51",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Eegi inni dubbi tana dubbate, ato worri ilaalu, inni gubbati oldeebie, dumansi isaani dura isa d'osse.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.9",
+            "verseOrgIds": [
+              "ACT.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ACT 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.9",
+            "verseOrgIds": [
+              "ACT.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ACT 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ato worri ammalle tae gubba ilaalu, jari lamaani toko, ka woya adaadi qabu, worra bira ejaanje. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.10",
+            "verseOrgIds": [
+              "ACT.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ACT 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jari kaani waan jed'e, D'iiro, worra Galilaya, isani maafi ejaanjitani gubba ilaaltani? Yesoni kuni, ka isani bira gubbati oldeebie, akanuma eegi tana deebia, aka isani isa gubba deemu argitani kana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.11",
+            "verseOrgIds": [
+              "ACT.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ergattu kud'ani lameeso fohatani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ACT 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.11",
+            "verseOrgIds": [
+              "ACT.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ACT 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jennaani ergattuuni gaara ejersa, ka d'aatu dira Yerusalemu, biraa yaate kaate dirati dachaate. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.12",
+            "verseOrgIds": [
+              "ACT.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ACT 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.10.2+MAT.10.3+MAT.10.4"
+              },
+              "items": [
+                {
+                  "text": "Mat 10.2-4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.3.16+MRK.3.17+MRK.3.18+MRK.3.19"
+              },
+              "items": [
+                {
+                  "text": "Mar 3.16-19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.6.14+LUK.6.15+LUK.6.16"
+              },
+              "items": [
+                {
+                  "text": "Luk 6.14-16",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Achini baanaani, Petrofi Yakobofi Yohanafi Andareafi Filipofi Tomasofi Bartholomayofi Matayofi Yakobo ilma Alfayofi Simoni Zelotefi Yudani ilmi Yakobo d'aqani mana qara kee taani kaaniti dachaani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.13",
+            "verseOrgIds": [
+              "ACT.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ACT 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Worri kunini ch'ufti nad'eenifi Mariamu haad'a Yesotiifi oboleyaani isaa woliini garaa tokooni Waaqa kad'ate.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.14",
+            "verseOrgIds": [
+              "ACT.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ACT 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.14",
+            "verseOrgIds": [
+              "ACT.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ACT 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eegi bulti diqo, Petroni jiddu oboleyaani keesa olejate (ka worri ch'ufti wolti nama d'ibba tokofi diddama) waan jed'eeni, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.15",
+            "verseOrgIds": [
+              "ACT.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ACT 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oboleyaani tiyya t'aafiini tuni ta Lubbuuni Qulqullooni, afaani Dauditini waan Yuda ka worra Yeso qabe Yesotiini d'ufe fadde guutamu malte. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.16",
+            "verseOrgIds": [
+              "ACT.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ACT 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wonti akanatiifi Yudani qara namuma keenna ka nu huji taka woliini hojanne.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.17",
+            "verseOrgIds": [
+              "ACT.1.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ACT 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.17",
+            "verseOrgIds": [
+              "ACT.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ACT 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.18",
+            "verseOrgIds": [
+              "ACT.1.18"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.27.3+MAT.27.4+MAT.27.5+MAT.27.6+MAT.27.7+MAT.27.8"
+              },
+              "items": [
+                {
+                  "text": "Mat 27.3-8",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "(Yudani hori inni dabaani argate kaaniini eegi oobru bitate, lafati jige, garaani tarsae, marumaani ch'ufti keesaa buani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.18",
+            "verseOrgIds": [
+              "ACT.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ACT 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nami Yerusalemu jiru ch'ufti waan kana d'agaye, afaani worratiini oobru suni maqa Akeldama iti baasani, akasi jechaani oobru d'iiga jecha.) ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.19",
+            "verseOrgIds": [
+              "ACT.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ACT 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.69.25"
+              },
+              "items": [
+                {
+                  "text": "Far 69.25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.109.8"
+              },
+              "items": [
+                {
+                  "text": "109.8",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Wonti akanatiifi kitaaba Faaru keesati t'aafani waan jettu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.20",
+            "verseOrgIds": [
+              "ACT.1.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ACT 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.20",
+            "verseOrgIds": [
+              "ACT.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ACT 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.21+ACT.1.22",
+            "verseOrgIds": [
+              "ACT.1.21",
+              "ACT.1.22"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.3.16"
+              },
+              "items": [
+                {
+                  "text": "Mat 3.16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.1.9"
+              },
+              "items": [
+                {
+                  "text": "Mar 1.9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.16.19"
+              },
+              "items": [
+                {
+                  "text": "16.19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.3.21"
+              },
+              "items": [
+                {
+                  "text": "Luk 3.21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.24.51"
+              },
+              "items": [
+                {
+                  "text": "24.51",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Tanaafi nami toko goli teenna tahu male, aka inni kaisa Aabbo Yeso nu woliini d'ugeesu, nami suni nama bara nu Aabbo woliini teenne nu woliini jiru tahu male, haga Yohana nama batisutifi haga Yesoni nu bira gubbati olgale. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.21+ACT.1.22",
+            "verseOrgIds": [
+              "ACT.1.21",
+              "ACT.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "ACT 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Duuba worri nama lama maqa d'ae; toko Yusufu, ka Barsaba jed'ani, ka maqaani lameeso Yusto; ka lameeso Mathiya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.23",
+            "verseOrgIds": [
+              "ACT.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "ACT 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jennaani Waaqa kad'atani waan jed'ani, Aabbo, atini garaa nama ch'ufa imbeeta. Nama atini fohatte, jara lamaani kana keesa nu garsiisi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.24",
+            "verseOrgIds": [
+              "ACT.1.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "ACT 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "aka inni huji tana keesa qooda argate ergattu tahu ta Yudani lakise fulla isaa malte biraa deeme. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.25",
+            "verseOrgIds": [
+              "ACT.1.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "ACT 1:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jennaani hit'a buusani, hit'aani Mathiya ira bue, inni ergattu kud'ani tokoti darame.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.1.26",
+            "verseOrgIds": [
+              "ACT.1.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "D'ufiisa Lubbu Qulqullo",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ACT.2",
+    "number": "2",
+    "bookId": "ACT"
+  },
+  "previous": {
+    "id": "ACT.intro",
+    "number": "intro",
+    "bookId": "ACT"
+  }
+}
