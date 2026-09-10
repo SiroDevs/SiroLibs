@@ -19,48 +19,6 @@
     "info": "Crosswire Bible Society and eBible.org"
   },
   {
-    "name": "New International Version",
-    "description": "New International Version 2011",
-    "abbreviation": "niv",
-    "tagline": "",
-    "language": {
-      "id": "eng",
-      "name": "English",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "US",
-        "name": "USA"
-      }
-    ],
-    "info": "<h3>About Biblica</h3> <p>Biblica is a global ministry innovating new ways to reach people with the Bible. Now in its third century of mission, Biblica continues to produce Bible translations and resources that power hundreds of Gospel ministries worldwide ‚ÄĒ all so that more people can discover the love of Jesus Christ.</p> <p>To learn more, visit <a href=\"http://biblica.com\">biblica.com</a> and <a href=\"http://facebook.com/Biblica\">facebook.com/Biblica</a>.</p>"
-  },
-  {
-    "name": "Biblia Takatifu",
-    "description": "Open Kiswahili Contemporary Version (Neno) 2015",
-    "abbreviation": "swahili",
-    "tagline": "",
-    "language": {
-      "id": "swh",
-      "name": "Kiswahili",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "KE",
-        "name": "Kenya"
-      },
-      {
-        "id": "TZ",
-        "name": "Tanzania"
-      }
-    ],
-    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
-  },
-  {
     "name": "French Bible J.N. Darby",
     "description": "French Bible: Bible J.N. Darby",
     "abbreviation": "french",
@@ -100,70 +58,55 @@
     "info": "<p>Reina-Valera 1909 - Dominio pļblico.</p> <p>Fue realizada por Sociedades B≠blicas Unidas y publicada por primera vez en 1909.</p>"
   },
   {
-    "name": "Open Luganda Contemporary Bible",
-    "description": "Bayibuli Entukuvu, Endagaano Enkadde n ľEndagaano Empya ekwatiddwa ku katambi‚ĄĘ 2014",
-    "abbreviation": "luganda",
+    "name": "New International Version",
+    "description": "New International Version 2011",
+    "abbreviation": "niv",
     "tagline": "",
     "language": {
-      "id": "lug",
-      "name": "Ganda (Luganda)",
+      "id": "eng",
+      "name": "English",
       "script": "Latin",
       "scriptDirection": "LTR"
     },
     "countries": [
       {
-        "id": "UG",
-        "name": "Uganda"
+        "id": "US",
+        "name": "USA"
+      }
+    ],
+    "info": "About Biblica"
+  },
+  {
+    "name": "Biblia Takatifu",
+    "description": "Open Kiswahili Contemporary Version (Neno) 2015",
+    "abbreviation": "swahili",
+    "tagline": "",
+    "language": {
+      "id": "swh",
+      "name": "Kiswahili",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      },
+      {
+        "id": "TZ",
+        "name": "Tanzania"
       }
     ],
     "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
   },
   {
-    "name": "Baibuli Erikwera",
-    "description": "Open New Nyakole Translation",
-    "abbreviation": "Nyankole",
-    "tagline": "Nyankole Bible",
+    "name": "Îvuku Rîa Ûvoro Mwaro",
+    "description": "Embu Bible Translation 2019",
+    "abbreviation": "embu",
+    "tagline": "Embu Bible",
     "language": {
-      "id": "kol",
-      "name": "Nyankole",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "UG",
-        "name": "Uganda"
-      }
-    ],
-    "info": "https://www.bible.com/versions/1434"
-  },
-  {
-    "name": "Contemporary Zulu Bible",
-    "description": "Contemporary Zulu Bible 2024",
-    "abbreviation": "zulu",
-    "tagline": "Zulu Bible",
-    "language": {
-      "id": "zul",
-      "name": "Zulu",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "SA",
-        "name": "South Africa"
-      }
-    ],
-    "info": "https://www.bible.com/versions/3846"
-  },
-  {
-    "name": "Muma Maler Mar Nyasaye",
-    "description": "Open New Luo Translation 2020",
-    "abbreviation": "dholuo",
-    "tagline": "Biblica¬ģ Ochiw Thuolo Moting ľo Loko Manyien",
-    "language": {
-      "id": "luo",
-      "name": "Dholuo",
+      "id": "Emb",
+      "name": "Embu",
       "script": "Latin",
       "scriptDirection": "LTR"
     },
@@ -173,7 +116,26 @@
         "name": "Kenya"
       }
     ],
-    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
+    "info": "Borana Bible © Bible Society of Kenya, 2019. https://www.bible.com/versions/2775"
+  },
+  {
+    "name": "Mbivlia",
+    "description": "Open New Kamba Translation",
+    "abbreviation": "kamba",
+    "tagline": "Kamba Bible",
+    "language": {
+      "id": "kam",
+      "name": "Kamba",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      }
+    ],
+    "info": "https://www.bible.com/versions/2927"
   },
   {
     "name": "Kiugo Gĩtheru Kĩa Ngai",
@@ -214,119 +176,42 @@
     "info": "https://ebible.org/Scriptures/details.php?id=guz"
   },
   {
-    "name": "Open New Oromo Contemporary Version",
-    "description": " Hiikkaa Ammayyaa Banamaa Haaraa, Loqoda Dhi'aa",
-    "abbreviation": "oromo",
-    "tagline": "Kitaaba Qulqulluu",
+    "name": "Ibhibhuria Ënhoreeru",
+    "description": "Kuria Bible Translation 2021",
+    "abbreviation": "kuria",
+    "tagline": "Kuria Bible",
     "language": {
-      "id": "gaz",
-      "name": "Oromo, West Central",
+      "id": "Kur",
+      "name": "Kuria",
       "script": "Latin",
       "scriptDirection": "LTR"
     },
     "countries": [
       {
-        "id": "ET",
-        "name": "Ethiopia"
+        "id": "KE",
+        "name": "Kenya"
       }
     ],
-    "updatedAt": "2025-09-26T13:18:19.000Z",
-    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
+    "info": "©The Bible Society of Kenya, 2021 © The Bible Society of Tanzania, 2021 https://www.bible.com/versions/3188"
   },
   {
-    "name": "Open Lingala Contemporary Bible",
-    "description": "Salela na bonsomi Mokanda na Bomoi 2020",
-    "abbreviation": "lingala",
-    "tagline": "",
+    "name": "Nteto Injega cia Mrungu Kiri Antu Bonthe",
+    "description": "Meru Bible Translation 2009",
+    "abbreviation": "meru",
+    "tagline": "Meru Bible",
     "language": {
-      "id": "lin",
-      "name": "Lingala (Ling°la)",
+      "id": "Mer",
+      "name": "Meru",
       "script": "Latin",
       "scriptDirection": "LTR"
     },
     "countries": [
       {
-        "id": "CD",
-        "name": "DRC"
+        "id": "KE",
+        "name": "Kenya"
       }
     ],
-    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
-  },
-  {
-    "name": "Mawu a Mulungu mu Chichewa Chalero",
-    "description": "The Word of God in Contemporary Chichewa",
-    "abbreviation": "chichewa",
-    "tagline": "",
-    "language": {
-      "id": "nya",
-      "name": "Chichewa (Nyanja)",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "MW",
-        "name": "Malawi"
-      }
-    ],
-    "info": "<h3>About Biblica</h3> <p>Biblica is a global ministry innovating new ways to reach people with the Bible. Now in its third century of mission, Biblica continues to produce Bible translations and resources that power hundreds of Gospel ministries worldwide ‚ÄĒ all so that more people can discover the love of Jesus Christ.</p>"
-  },
-  {
-    "name": "Open Shona Contemporary Bible",
-    "description": "Bhaibheri Dzvene Rakasununguka MuChiShona Chanhasi",
-    "abbreviation": "shona",
-    "tagline": "Bhaibheri Dzvene",
-    "language": {
-      "id": "sna",
-      "name": "Shona (chiShona)",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "ZW",
-        "name": "Zimbabwe"
-      }
-    ],
-    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
-  },
-  {
-    "name": "Open Hausa Contemporary Bible",
-    "description": "Bu…óa…ó…óen Littafi Mai Tsarki, Sabon Rai Don Kowa 2020",
-    "abbreviation": "hausa",
-    "tagline": "Sabon Alkawari",
-    "language": {
-      "id": "hau",
-      "name": "Hausa",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "NG",
-        "name": "Nigeria"
-      }
-    ],
-    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
-  },
-  {
-    "name": "Open Igbo Contemporary Bible",
-    "description": "BaŠĽčbŠĽ•lŠĽ• NsŠĽć n ľIgbo NdŠĽč Ugbu a nke dŠĽčrŠĽč onye ŠĽćbŠĽ•la ŠĽčgŠĽ•",
-    "abbreviation": "igbo",
-    "tagline": "BaŠĽčbŠĽ•lŠĽ• NsŠĽć",
-    "language": {
-      "id": "ibo",
-      "name": "Igbo",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "NG",
-        "name": "Nigeria"
-      }
-    ],
-    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
+    "info": "KIMERU BIBLE WITH DC ©Bible Society of Kenya, 2009, 218. https://www.bible.com/versions/2929"
   },
   {
     "name": "Biblia Ilagho Jiboie Kwa Wandu Wose",
@@ -348,13 +233,13 @@
     "info": "https://www.bible.com/versions/2138"
   },
   {
-    "name": "Bukuit ne Tilil",
-    "description": "Open New Kalenjin Translation 2020",
-    "abbreviation": "kalenjin",
-    "tagline": "Kalenjin Bible",
+    "name": "Muma Maler Mar Nyasaye",
+    "description": "Open New Luo Translation 2020",
+    "abbreviation": "luo",
+    "tagline": "Ochiw Thuolo Moting ľo Loko Manyien",
     "language": {
-      "id": "kal",
-      "name": "Kalenjin",
+      "id": "luo",
+      "name": "Dholuo",
       "script": "Latin",
       "scriptDirection": "LTR"
     },
@@ -364,45 +249,7 @@
         "name": "Kenya"
       }
     ],
-    "info": "https://www.bible.com/versions/2927"
-  },
-  {
-    "name": "Mbivlia",
-    "description": "Open New Kamba Translation",
-    "abbreviation": "kamba",
-    "tagline": "Kamba Bible",
-    "language": {
-      "id": "kam",
-      "name": "Kamba",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "KE",
-        "name": "Kenya"
-      }
-    ],
-    "info": "https://www.bible.com/versions/2927"
-  },
-  {
-    "name": "Ishiwi Lyakwa Lesa",
-    "description": "The Word of God in Contemporary Chibemba",
-    "abbreviation": "bemba",
-    "tagline": "",
-    "language": {
-      "id": "bem",
-      "name": "Bemba (Chibemba)",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "ZM",
-        "name": "Zambia"
-      }
-    ],
-    "info": "https://www.bible.com/versions/1097"
+    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
   },
   {
     "name": "Biblia Sinyati",
@@ -466,6 +313,44 @@
     "info": "https://www.bible.com/versions/2654"
   },
   {
+    "name": "Ibibilia Indakatifu",
+    "description": "Wanga Bible Translation",
+    "abbreviation": "wanga",
+    "tagline": "Wanga Bible",
+    "language": {
+      "id": "Wan",
+      "name": "Wanga",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      }
+    ],
+    "info": "https://www.bible.com/versions/2656"
+  },
+  {
+    "name": "Bukuit ne Tilil",
+    "description": "Open New Kalenjin Translation 2020",
+    "abbreviation": "kalenjin",
+    "tagline": "Kalenjin Bible",
+    "language": {
+      "id": "kal",
+      "name": "Kalenjin",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      }
+    ],
+    "info": "https://www.bible.com/versions/2927"
+  },
+  {
     "name": "Pipįlia",
     "description": "Open New Pokot Translation",
     "abbreviation": "pokot",
@@ -485,13 +370,70 @@
     "info": "https://www.bible.com/versions/2884"
   },
   {
-    "name": "Baibuli Ekibono kya Katonda",
-    "description": "Open New Basoga Translation",
-    "abbreviation": "Basoga",
-    "tagline": "Basoga Bible",
+    "name": "Kitaaba Waaqa",
+    "description": "Borana Translation 2019",
+    "abbreviation": "borana",
+    "tagline": "Borana Bible",
     "language": {
-      "id": "sog",
-      "name": "Basoga",
+      "id": "Bor",
+      "name": "Borana",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      }
+    ],
+    "info": "Borana Bible © Bible Society of Kenya, 2019. https://www.bible.com/versions/2935"
+  },
+  {
+    "name": "Digo Bible",
+    "description": "Digo Bible Translation 2019",
+    "abbreviation": "digo",
+    "tagline": "Digo Bible",
+    "language": {
+      "id": "Dig",
+      "name": "Digo",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      }
+    ],
+    "info": "© 2019, Bible Translation and Literacy, All rights reserved. https://www.bible.com/versions/2711"
+  },
+  {
+    "name": "Kitaabka Quduuska Ah",
+    "description": "Soomaali Bible Translation",
+    "abbreviation": "somali",
+    "tagline": "Soomaali Bible",
+    "language": {
+      "id": "Som",
+      "name": "Somali",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      }
+    ],
+    "info": "SOMALI BIBLE PROTESTANT EDITION ©Bible Society of Kenya,1976,1979, 2018. https://www.bible.com/versions/2934"
+  },
+  {
+    "name": "Open Luganda Contemporary Bible",
+    "description": "Bayibuli Entukuvu, Endagaano Enkadde n ľEndagaano Empya ekwatiddwa ku katambi‚ĄĘ 2014",
+    "abbreviation": "luganda",
+    "tagline": "",
+    "language": {
+      "id": "lug",
+      "name": "Ganda (Luganda)",
       "script": "Latin",
       "scriptDirection": "LTR"
     },
@@ -501,7 +443,26 @@
         "name": "Uganda"
       }
     ],
-    "info": "https://www.bible.com/versions/1256"
+    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
+  },
+  {
+    "name": "Baibuli Erikwera",
+    "description": "Open New Nyakole Translation",
+    "abbreviation": "Nyankole",
+    "tagline": "Nyankole Bible",
+    "language": {
+      "id": "kol",
+      "name": "Nyankole",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "UG",
+        "name": "Uganda"
+      }
+    ],
+    "info": "https://www.bible.com/versions/1434"
   },
   {
     "name": "Ebaibuli",
@@ -561,6 +522,197 @@
     "info": "https://www.bible.com/versions/1974"
   },
   {
+    "name": "Baibuli Ekibono kya Katonda",
+    "description": "Open New Basoga Translation",
+    "abbreviation": "Basoga",
+    "tagline": "Basoga Bible",
+    "language": {
+      "id": "sog",
+      "name": "Basoga",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "UG",
+        "name": "Uganda"
+      }
+    ],
+    "info": "https://www.bible.com/versions/1256"
+  },
+  {
+    "name": "Contemporary Zulu Bible",
+    "description": "Contemporary Zulu Bible 2024",
+    "abbreviation": "zulu",
+    "tagline": "Zulu Bible",
+    "language": {
+      "id": "zul",
+      "name": "Zulu",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "SA",
+        "name": "South Africa"
+      }
+    ],
+    "info": "https://www.bible.com/versions/3846"
+  },
+  {
+    "name": "Open New Oromo Contemporary Version",
+    "description": " Hiikkaa Ammayyaa Banamaa Haaraa, Loqoda Dhi'aa",
+    "abbreviation": "oromo",
+    "tagline": "Kitaaba Qulqulluu",
+    "language": {
+      "id": "gaz",
+      "name": "Oromo, West Central",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "ET",
+        "name": "Ethiopia"
+      }
+    ],
+    "updatedAt": "2025-09-26T13:18:19.000Z",
+    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
+  },
+  {
+    "name": "Open Lingala Contemporary Bible",
+    "description": "Salela na bonsomi Mokanda na Bomoi 2020",
+    "abbreviation": "lingala",
+    "tagline": "",
+    "language": {
+      "id": "lin",
+      "name": "Lingala",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "CD",
+        "name": "DRC"
+      }
+    ],
+    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
+  },
+  {
+    "name": "Mukanda wa Nzambi Dihungila Dikulukulu",
+    "description": "Mukanda wa Nzambi Dihungila Dikulukulu ne Dihungila Dihia-dihia 2003",
+    "abbreviation": "tshiluba",
+    "tagline": "Tshiluba Bible",
+    "language": {
+      "id": "lub",
+      "name": "Tshiluba",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "CD",
+        "name": "DRC"
+      }
+    ],
+    "info": "https://www.bible.com/versions/2919"
+  },
+  {
+    "name": "Mawu a Mulungu mu Chichewa Chalero",
+    "description": "The Word of God in Contemporary Chichewa",
+    "abbreviation": "chichewa",
+    "tagline": "",
+    "language": {
+      "id": "nya",
+      "name": "Chichewa (Nyanja)",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "MW",
+        "name": "Malawi"
+      }
+    ],
+    "info": "About Biblica"
+  },
+  {
+    "name": "Open Shona Contemporary Bible",
+    "description": "Bhaibheri Dzvene Rakasununguka MuChiShona Chanhasi",
+    "abbreviation": "shona",
+    "tagline": "Bhaibheri Dzvene",
+    "language": {
+      "id": "sna",
+      "name": "Shona (chiShona)",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "ZW",
+        "name": "Zimbabwe"
+      }
+    ],
+    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
+  },
+  {
+    "name": "Open Hausa Contemporary Bible",
+    "description": "Bu…óa…ó…óen Littafi Mai Tsarki, Sabon Rai Don Kowa 2020",
+    "abbreviation": "hausa",
+    "tagline": "Sabon Alkawari",
+    "language": {
+      "id": "hau",
+      "name": "Hausa",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "NG",
+        "name": "Nigeria"
+      }
+    ],
+    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
+  },
+  {
+    "name": "Open Igbo Contemporary Bible",
+    "description": "BaŠĽčbŠĽ•lŠĽ• NsŠĽć n ľIgbo NdŠĽč Ugbu a nke dŠĽčrŠĽč onye ŠĽćbŠĽ•la ŠĽčgŠĽ•",
+    "abbreviation": "igbo",
+    "tagline": "BaŠĽčbŠĽ•lŠĽ• NsŠĽć",
+    "language": {
+      "id": "ibo",
+      "name": "Igbo",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "NG",
+        "name": "Nigeria"
+      }
+    ],
+    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
+  },
+  {
+    "name": "Ishiwi Lyakwa Lesa",
+    "description": "The Word of God in Contemporary Chibemba",
+    "abbreviation": "bemba",
+    "tagline": "",
+    "language": {
+      "id": "bem",
+      "name": "Bemba (Chibemba)",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "ZM",
+        "name": "Zambia"
+      }
+    ],
+    "info": "https://www.bible.com/versions/1097"
+  },
+  {
     "name": "Bibiliya Yera",
     "description": "Open New Kinyarwanda Translation",
     "abbreviation": "Rwanda",
@@ -616,25 +768,6 @@
       }
     ],
     "info": "https://www.bible.com/versions/4660"
-  },
-  {
-    "name": "Mukanda wa Nzambi Dihungila Dikulukulu",
-    "description": "Mukanda wa Nzambi Dihungila Dikulukulu ne Dihungila Dihia-dihia 2003",
-    "abbreviation": "tshiluba",
-    "tagline": "Tshiluba Bible",
-    "language": {
-      "id": "lub",
-      "name": "Tshiluba",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "CD",
-        "name": "DRC"
-      }
-    ],
-    "info": "https://www.bible.com/versions/2919"
   },
   {
     "name": "Mukanda Wanzambi",
@@ -711,138 +844,5 @@
       }
     ],
     "info": "https://www.bible.com/versions/2155"
-  },
-  {
-    "name": "Kitaaba Waaqa",
-    "description": "Borana Translation 2019",
-    "abbreviation": "Borana",
-    "tagline": "Borana Bible",
-    "language": {
-      "id": "Bor",
-      "name": "Borana",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "KE",
-        "name": "Kenya"
-      }
-    ],
-    "info": "Borana Bible © Bible Society of Kenya, 2019. https://www.bible.com/versions/2935"
-  },
-  {
-    "name": "Îvuku Rîa Ûvoro Mwaro",
-    "description": "Embu Bible Translation 2019",
-    "abbreviation": "Embu",
-    "tagline": "Embu Bible",
-    "language": {
-      "id": "Emb",
-      "name": "Embu",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "KE",
-        "name": "Kenya"
-      }
-    ],
-    "info": "Borana Bible © Bible Society of Kenya, 2019. https://www.bible.com/versions/2775"
-  },
-  {
-    "name": "Nteto Injega cia Mrungu Kiri Antu Bonthe",
-    "description": "Meru Bible Translation 2009",
-    "abbreviation": "Meru",
-    "tagline": "Meru Bible",
-    "language": {
-      "id": "Mer",
-      "name": "Meru",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "KE",
-        "name": "Kenya"
-      }
-    ],
-    "info": "KIMERU BIBLE WITH DC ©Bible Society of Kenya, 2009, 218. https://www.bible.com/versions/2929"
-  },
-  {
-    "name": "Kitaabka Quduuska Ah",
-    "description": "Soomaali Bible Translation",
-    "abbreviation": "Somali",
-    "tagline": "Soomaali Bible",
-    "language": {
-      "id": "Som",
-      "name": "Somali",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "KE",
-        "name": "Kenya"
-      }
-    ],
-    "info": "SOMALI BIBLE PROTESTANT EDITION ©Bible Society of Kenya,1976,1979, 2018. https://www.bible.com/versions/2934"
-  },
-  {
-    "name": "Ibibilia Indakatifu",
-    "description": "Wanga Bible Translation",
-    "abbreviation": "Wanga",
-    "tagline": "Wanga Bible",
-    "language": {
-      "id": "Wan",
-      "name": "Wanga",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "KE",
-        "name": "Kenya"
-      }
-    ],
-    "info": "https://www.bible.com/versions/2656"
-  },
-  {
-    "name": "Ibhibhuria Ënhoreeru",
-    "description": "Kuria Bible Translation 2021",
-    "abbreviation": "Kuria",
-    "tagline": "Kuria Bible",
-    "language": {
-      "id": "Kur",
-      "name": "Kuria",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "KE",
-        "name": "Kenya"
-      }
-    ],
-    "info": "©The Bible Society of Kenya, 2021 © The Bible Society of Tanzania, 2021 https://www.bible.com/versions/3188"
-  },
-  {
-    "name": "Digo Bible",
-    "description": "Digo Bible Translation 2019",
-    "abbreviation": "Digo",
-    "tagline": "Digo Bible",
-    "language": {
-      "id": "Dig",
-      "name": "Digo",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "KE",
-        "name": "Kenya"
-      }
-    ],
-    "info": "© 2019, Bible Translation and Literacy, All rights reserved. https://www.bible.com/versions/2711"
   }
 ]
