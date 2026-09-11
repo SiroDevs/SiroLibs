@@ -1,0 +1,2530 @@
+{
+  "id": "NUM.1",
+  "number": "1",
+  "bookId": "NUM",
+  "reference": "Guharūra 1",
+  "verseCount": 54,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "NUM 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NUM 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.1",
+            "verseOrgIds": [
+              "NUM.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.19.1"
+              },
+              "items": [
+                {
+                  "text": "Kuv 19:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.25.22"
+              },
+              "items": [
+                {
+                  "text": "25:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.10.11"
+              },
+              "items": [
+                {
+                  "text": "Guh 10:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.10.12"
+              },
+              "items": [
+                {
+                  "text": "12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ku musi wa mbere w’ukwezi kwa kabiri kw’umwaka ugira kabiri bavuye mu gihugu ca Egiputa, Uhoraho abaririra Mose mw ihema ry’ibonaniro, bari mu bugaragwa bg’i Sinayi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.1",
+            "verseOrgIds": [
+              "NUM.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.26.2+NUM.26.3+NUM.26.4+NUM.26.5+NUM.26.6+NUM.26.7+NUM.26.8+NUM.26.9+NUM.26.10+NUM.26.11+NUM.26.12+NUM.26.13+NUM.26.14+NUM.26.15+NUM.26.16+NUM.26.17+NUM.26.18+NUM.26.19+NUM.26.20+NUM.26.21+NUM.26.22+NUM.26.23+NUM.26.24+NUM.26.25+NUM.26.26+NUM.26.27+NUM.26.28+NUM.26.29+NUM.26.30+NUM.26.31+NUM.26.32+NUM.26.33+NUM.26.34+NUM.26.35+NUM.26.36+NUM.26.37+NUM.26.38+NUM.26.39+NUM.26.40+NUM.26.41+NUM.26.42+NUM.26.43+NUM.26.44+NUM.26.45+NUM.26.46+NUM.26.47+NUM.26.48+NUM.26.49+NUM.26.50+NUM.26.51"
+              },
+              "items": [
+                {
+                  "text": "Guh 26:2-51",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.26.57+NUM.26.58+NUM.26.59+NUM.26.60+NUM.26.61+NUM.26.62"
+              },
+              "items": [
+                {
+                  "text": "57-62",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2SA.24.1+2SA.24.2+2SA.24.3+2SA.24.4+2SA.24.5+2SA.24.6+2SA.24.7+2SA.24.8+2SA.24.9"
+              },
+              "items": [
+                {
+                  "text": "2 Sam 24:1-9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.30.12"
+              },
+              "items": [
+                {
+                  "text": "Kuv 30:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.38.25"
+              },
+              "items": [
+                {
+                  "text": "38:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.38.26"
+              },
+              "items": [
+                {
+                  "text": "26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ati Muharūre igitigiri c’ishengero ryose ry’Abisirayeli, nk’ukw imiryango yabo iri, nk’ukw amazu ya ba sekuruza ari, muharūre amazina y’abagabo bose umwe‐umwe, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.2",
+            "verseOrgIds": [
+              "NUM.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NUM 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "muhēreye ku bamaze imyaka mirongwibiri no kuja hejuru, abo mu Bisirayeli bose bashobora kurwana mu ntambara, mwe na Aroni mubaharūre, nk’ukw imice yabo iri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.3",
+            "verseOrgIds": [
+              "NUM.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi muze mufatanye n’umuntu umwe‐umwe wo mu miryango yose, asanzwe ar’ umukuru mu nzu ya ba sekuruza. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.4",
+            "verseOrgIds": [
+              "NUM.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NUM 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aya ni yo mazina y’abo bantu bazofatanya namwe: mu ba Reyubeni ni Esisuri mwene Shedeyuri; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.5",
+            "verseOrgIds": [
+              "NUM.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NUM 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mu ba Simeyoni ni Shelumiyeli mwene Surishadayi; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.6",
+            "verseOrgIds": [
+              "NUM.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NUM 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "RUT.4.20"
+              },
+              "items": [
+                {
+                  "text": "Rus 4:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.1.1+MAT.1.2+MAT.1.3+MAT.1.4"
+              },
+              "items": [
+                {
+                  "text": "Mat 1:1-4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mu ba Yuda ni Nahashoni mwene Aminadabu; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.7",
+            "verseOrgIds": [
+              "NUM.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NUM 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mu ba Isakari ni Netaneli mwene Suwari; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.8",
+            "verseOrgIds": [
+              "NUM.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NUM 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mu ba Zebuloni ni Eliyabu mwene Heloni; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.9",
+            "verseOrgIds": [
+              "NUM.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NUM 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "muri bene Yosefu, uwo mu ba Efurayimu ni Elishama mwene Amihudi, uwo mu ba Manase ni Gamaliyeli mwene Pedasuri; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.10",
+            "verseOrgIds": [
+              "NUM.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NUM 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mu ba Benyamini ni Abidani mwene Gideyoni; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.11",
+            "verseOrgIds": [
+              "NUM.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NUM 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mu ba Dani ni Ahiyeseri mwene Amishadayi; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.12",
+            "verseOrgIds": [
+              "NUM.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NUM 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mu ba Asheri ni Pagiyeli mwene Okirani; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.13",
+            "verseOrgIds": [
+              "NUM.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NUM 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.2.14"
+              },
+              "items": [
+                {
+                  "text": "Guh 2:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.7.42"
+              },
+              "items": [
+                {
+                  "text": "7:42",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mu ba Gadi ni Eliyasafu mwene Duweli; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.14",
+            "verseOrgIds": [
+              "NUM.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NUM 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mu ba Nafutali ni Ahira mwene Enani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.15",
+            "verseOrgIds": [
+              "NUM.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NUM 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.15",
+            "verseOrgIds": [
+              "NUM.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NUM 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.16",
+            "verseOrgIds": [
+              "NUM.1.16"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.18.21"
+              },
+              "items": [
+                {
+                  "text": "Kuv 18:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abo ni bo bātowe mw ikoraniro, b’abakuru mu miryango ya ba sekuruza, ni bo bāgaba ibihumbi vy’Abisirayeli. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.16",
+            "verseOrgIds": [
+              "NUM.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "NUM 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nuko Mose na Aroni bajana abo bantu bavuzwe amazina, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.17",
+            "verseOrgIds": [
+              "NUM.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "NUM 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "bakoranya ikoraniro ryose ku musi wa mbere w’ukwezi kwa kabiri; abantu bariyandikisha nk’ukw amavuka yabo ari, nk’ukw imiryango yabo iri, nk’ukw amazu ya ba sekuruza ari, baharūra amazina yabo umwe‐umwe, uhereye ku bamaze imyaka mirongwibiri no kuja hejuru, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.18",
+            "verseOrgIds": [
+              "NUM.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "NUM 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nk’uk’ Uhoraho yabariye Mose; nukw abaharūrira mu bugaragwa bg’i Sinayi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.19",
+            "verseOrgIds": [
+              "NUM.1.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "NUM 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.19",
+            "verseOrgIds": [
+              "NUM.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "NUM 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baharūra amavuka ya ba Reyubeni imfura ya Isirayeli, nk’ukw imiryango yabo iri, nk’ukw amazu ya ba sekuruza ari, amazina y’abagabo bose umwe‐umwe, uhereye ku bamaze imyaka mirongwibiri no kuja hejuru, abashobora kurwana mu ntambara bose: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.20",
+            "verseOrgIds": [
+              "NUM.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "NUM 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "abāharūwe bo mu muryango wa Reyubeni baba ibihumbi mirongwine na bitandatu n’amajana atanu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.21",
+            "verseOrgIds": [
+              "NUM.1.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "NUM 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.21",
+            "verseOrgIds": [
+              "NUM.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "NUM 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baharūra amavuka ya ba Simeyoni, nk’ukw imiryango yabo iri, nk’ukw amazu ya ba sekuruza ari, amazina yabo bose, uhereye ku bamaze imyaka mirongwibiri no kuja hejuru, abashobora kurwana mu ntambara bose: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.22",
+            "verseOrgIds": [
+              "NUM.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "NUM 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "abāharūwe bo mu muryango wa Simeyoni baba ibihumbi mirongwitanu n’ icenda n’amajana atatu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.23",
+            "verseOrgIds": [
+              "NUM.1.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "NUM 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.23",
+            "verseOrgIds": [
+              "NUM.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "NUM 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baharūra amavuka ya ba Gadi, nk’ukw imiryango yabo iri, nk’ukw amazu ya ba sekuruza ari, amazina yabo bose, uhereye ku bamaze imyaka mirongwibiri no kuja hejuru, abashobora kurwana mu ntambara bose: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.24",
+            "verseOrgIds": [
+              "NUM.1.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "NUM 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "abāharūwe bo mu muryango wa Gadi baba ibihumbi mirongwine na bitanu n’amajana atandatu na mirongwitanu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.25",
+            "verseOrgIds": [
+              "NUM.1.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "NUM 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.25",
+            "verseOrgIds": [
+              "NUM.1.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "NUM 1:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baharūra amavuka ya ba Yuda, nk’ukw imiryango yabo iri, nk’ukw amazu ya ba sekuruza ari, amazina yabo bose, uhereye ku bamaze imyaka mirongwibiri no kuja hejuru, abashobora kurwana mu ntambara bose: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.26",
+            "verseOrgIds": [
+              "NUM.1.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "NUM 1:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "abāharūwe bo mu muryango wa Yuda baba ibihumbi mirongwirindwi n’amajana atandatu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.27",
+            "verseOrgIds": [
+              "NUM.1.27"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "NUM 1:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.27",
+            "verseOrgIds": [
+              "NUM.1.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "NUM 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baharūra amavuka ya ba Isakari, nk’ukw imiryango yabo iri, nk’ukw amazu ya ba sekuruza ari, amazina yabo bose, uhereye ku bamaze imyaka mirongwibiri no kuja hejuru, abashobora kurwana mu ntambara bose: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.28",
+            "verseOrgIds": [
+              "NUM.1.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "NUM 1:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "abāharūwe bo mu muryango wa Isakari baba ibihumbi mirongwitanu na bine n’amajana ane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.29",
+            "verseOrgIds": [
+              "NUM.1.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "NUM 1:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.29",
+            "verseOrgIds": [
+              "NUM.1.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "NUM 1:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baharūra amavuka ya ba Zebuloni, nk’ukw imiryango yabo iri, nk’ukw amazu ya ba sekuruza ari, amazina yabo bose, uhereye ku bamaze imyaka mirongwibiri no kuja hejuru, abashobora kurwana mu ntambara bose: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.30",
+            "verseOrgIds": [
+              "NUM.1.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "NUM 1:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "abāharūwe bo mu muryango wa Zebuloni baba ibihumbi mirongwitanu n’ indwi n’amajana ane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.31",
+            "verseOrgIds": [
+              "NUM.1.31"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "NUM 1:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.31",
+            "verseOrgIds": [
+              "NUM.1.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "NUM 1:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mu ba Yosefu, baharūra amavuka ya ba Efurayimu, nk’ukw imiryango yabo iri, nk’ukw amazu ya ba sekuruza ari, amazina yabo bose, uhereye ku bamaze imyaka mirongwibiri no kuja hejuru, abashobora kurwana mu ntambara bose: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.32",
+            "verseOrgIds": [
+              "NUM.1.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "NUM 1:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "abāharūwe bo mu muryango wa Efurayimu baba ibihumbi mirongwine n’amajana atanu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.33",
+            "verseOrgIds": [
+              "NUM.1.33"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "NUM 1:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.33",
+            "verseOrgIds": [
+              "NUM.1.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "NUM 1:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baharūra amavuka ya ba Manase, nk’ukw imiryango yabo iri, nk’ukw amazu ya ba sekuruza ari, amazina yabo bose, uhereye ku bamaze imyaka mirongwibiri no kuja hejuru, abashobora kurwana mu ntambara bose: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.34",
+            "verseOrgIds": [
+              "NUM.1.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "NUM 1:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "abāharūwe bo mu muryango wa Manase baba ibihumbi mirongwitatu na bibiri n’amajana abiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.35",
+            "verseOrgIds": [
+              "NUM.1.35"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "NUM 1:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.35",
+            "verseOrgIds": [
+              "NUM.1.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "NUM 1:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baharūra amavuka ya ba Benyamini, nk’ukw imiryango yabo iri, nk’ukw amazu ya ba sekuruza ari, amazina yabo bose, uhereye ku bamaze imyaka mirongwibiri no kuja hejuru, abashobora kurwana mu ntambara bose: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.36",
+            "verseOrgIds": [
+              "NUM.1.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "NUM 1:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "abāharūwe bo mu muryango wa Benyamini baba ibihumbi mirongwitatu na bitanu n’amajana ane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.37",
+            "verseOrgIds": [
+              "NUM.1.37"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "NUM 1:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.37",
+            "verseOrgIds": [
+              "NUM.1.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "NUM 1:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baharūra amavuka ya ba Dani, nk’ukw imiryango yabo iri, nk’ukw amazu ya ba sekuruza ari, amazina yabo bose, uhereye ku bamaze imyaka mirongwibiri no kuja hejuru, abashobora kurwana mu ntambara bose: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.38",
+            "verseOrgIds": [
+              "NUM.1.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "NUM 1:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "abāharūwe bo mu muryango wa Dani baba ibihumbi mirongwitandatu na bibiri n’amajana ndwi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.39",
+            "verseOrgIds": [
+              "NUM.1.39"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "NUM 1:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.39",
+            "verseOrgIds": [
+              "NUM.1.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "NUM 1:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baharūra amavuka ya ba Asheri, nk’ukw imiryango yabo iri, nk’ukw amazu ya ba sekuruza ari, amazina yabo bose, uhereye ku bamaze imyaka mirongwibiri no kuja hejuru, abashobora kurwana mu ntambara bose: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.40",
+            "verseOrgIds": [
+              "NUM.1.40"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "NUM 1:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "abāharūwe bo mu muryango wa Asheri baba ibihumbi mirongwine na kimwe n’amajana atanu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.41",
+            "verseOrgIds": [
+              "NUM.1.41"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "NUM 1:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.41",
+            "verseOrgIds": [
+              "NUM.1.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "NUM 1:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baharūra amavuka ya ba Nafutali, nk’ukw imiryango yabo iri, nk’ukw amazu ya ba sekuruza ari, amazina yabo bose, uhereye ku bamaze imyaka mirongwibiri no kuja hejuru, abashobora kurwana mu ntambara bose: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.42",
+            "verseOrgIds": [
+              "NUM.1.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "NUM 1:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "abāharūwe bo mu muryango wa Nafutali baba ibihumbi mirongwitanu na bitatu n’amajana ane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.43",
+            "verseOrgIds": [
+              "NUM.1.43"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "NUM 1:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.43",
+            "verseOrgIds": [
+              "NUM.1.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "NUM 1:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abo ni bo bāharūwe na Mose na Aroni bafatanije na ba bakuru b’Abisirayeli ukw ar’ icumi na babiri, umwe‐umwe wo mu nzu ya ba sekuruza. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.44",
+            "verseOrgIds": [
+              "NUM.1.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "NUM 1:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nukw abāharūwe bose bo mu Bisirayeli, nk’ukw amazu ya ba sekuruza ari, uhereye ku bamaze imyaka mirongwibiri no kuja hejuru, abashobora kurwana mu ntambara bose bo mu Bisirayeli; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.45",
+            "verseOrgIds": [
+              "NUM.1.45"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "46",
+            "style": "v",
+            "sid": "NUM 1:46"
+          },
+          "items": [
+            {
+              "text": "46",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.12.37"
+              },
+              "items": [
+                {
+                  "text": "Kuv 12:37",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.38.26"
+              },
+              "items": [
+                {
+                  "text": "38:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "abāharūwe bose na bose baba ibihumbi amajana atandatu na bitatu, n’amajana atanu na mirongwitanu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.46",
+            "verseOrgIds": [
+              "NUM.1.46"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "46",
+            "style": "v",
+            "sid": "NUM 1:46"
+          },
+          "items": [
+            {
+              "text": "46",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.46",
+            "verseOrgIds": [
+              "NUM.1.46"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "47",
+            "style": "v",
+            "sid": "NUM 1:47"
+          },
+          "items": [
+            {
+              "text": "47",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.47",
+            "verseOrgIds": [
+              "NUM.1.47"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.2.33"
+              },
+              "items": [
+                {
+                  "text": "Guh 2:33",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.3.39"
+              },
+              "items": [
+                {
+                  "text": "3:39",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.4.48"
+              },
+              "items": [
+                {
+                  "text": "4:48",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.26.62"
+              },
+              "items": [
+                {
+                  "text": "26:62",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arikw Abalewi, nk’uk’ umuryango wa ba sekuruza usanzwe uri, ntibāharūranywe na bo, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.47",
+            "verseOrgIds": [
+              "NUM.1.47"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "48",
+            "style": "v",
+            "sid": "NUM 1:48"
+          },
+          "items": [
+            {
+              "text": "48",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kuk’ Uhoraho yabariye Mose, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.48",
+            "verseOrgIds": [
+              "NUM.1.48"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "49",
+            "style": "v",
+            "sid": "NUM 1:49"
+          },
+          "items": [
+            {
+              "text": "49",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "at’ Umuryango wa Lewi wo ntuz’ uwuharūre, canke ng’ urīmbūre igitigiri cabo mu Bisirayeli bandi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.49",
+            "verseOrgIds": [
+              "NUM.1.49"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "50",
+            "style": "v",
+            "sid": "NUM 1:50"
+          },
+          "items": [
+            {
+              "text": "50",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.3.4"
+              },
+              "items": [
+                {
+                  "text": "Guh 3:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arikw Abalewi uz’ ubagire abo kuzezwa iryo hema ry’Ibishinga intahe, n’ibintu vyose vy’imbombovu vyo muri ryo, n’ivyaryo vyose: abe ari bo barirerura, n’ibintu vyose vyo muri ryo; abe ari bo bakora ibikorwa vyo muri ryo, bashinge amahema yabo impande zose z’iryo hema. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.50",
+            "verseOrgIds": [
+              "NUM.1.50"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "51",
+            "style": "v",
+            "sid": "NUM 1:51"
+          },
+          "items": [
+            {
+              "text": "51",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.6.19"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 6:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2SA.6.6"
+              },
+              "items": [
+                {
+                  "text": "2 Sam 6:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2SA.6.7"
+              },
+              "items": [
+                {
+                  "text": "7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi mu kurishingūra rigeze kugenda, Abalewi abe ari bo barishingūra, kand’ iyo hageze gushinga, Abalewi abe ari bo barishinga: kandi ni hagira uwundi wese atar’ uwo muri bo yovyēgēra akavyitamwo, aze yicwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.51",
+            "verseOrgIds": [
+              "NUM.1.51"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "52",
+            "style": "v",
+            "sid": "NUM 1:52"
+          },
+          "items": [
+            {
+              "text": "52",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abisirayeli baze bashinge amahema yabo, nk’ukw imice yabo iri, umuntu wese aherēre ah’ ab’i wabo bashagaje, ku ruhande rw’ibendera y’i wabo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.52",
+            "verseOrgIds": [
+              "NUM.1.52"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "53",
+            "style": "v",
+            "sid": "NUM 1:53"
+          },
+          "items": [
+            {
+              "text": "53",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.3.7"
+              },
+              "items": [
+                {
+                  "text": "Guh 3:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.3.8"
+              },
+              "items": [
+                {
+                  "text": "8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.8.19"
+              },
+              "items": [
+                {
+                  "text": "8:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.18.3+NUM.18.4+NUM.18.5"
+              },
+              "items": [
+                {
+                  "text": "18:3-5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arikw Abalewi bo baze bashinge ayabo impande zose z’iryo hema ry’Ibishinga intahe, kugira ng’ uburake bganje bgoye kuziriringira iryo koraniro ry’Abisirayeli; Abalewi baze bitondere ivyo bājejwe vy’iryo hema.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.53",
+            "verseOrgIds": [
+              "NUM.1.53"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "53",
+            "style": "v",
+            "sid": "NUM 1:53"
+          },
+          "items": [
+            {
+              "text": "53",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.53",
+            "verseOrgIds": [
+              "NUM.1.53"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "54",
+            "style": "v",
+            "sid": "NUM 1:54"
+          },
+          "items": [
+            {
+              "text": "54",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nukw Abisirayeli babigenza kuno, bakora vyose nk’uk’ Uhoraho yabariye Mose.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.54",
+            "verseOrgIds": [
+              "NUM.1.54"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NUM.2",
+    "number": "2",
+    "bookId": "NUM"
+  },
+  "previous": {
+    "id": "LEV.27",
+    "number": "27",
+    "bookId": "LEV"
+  }
+}

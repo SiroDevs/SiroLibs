@@ -1,0 +1,565 @@
+{
+  "id": "ZEC.5",
+  "number": "5",
+  "bookId": "ZEC",
+  "reference": "Zekariya 5",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "ZEC 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEC 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.1",
+            "verseOrgIds": [
+              "ZEC.5.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.36.2"
+              },
+              "items": [
+                {
+                  "text": "Yer 36:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.36.28"
+              },
+              "items": [
+                {
+                  "text": "28",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nuko nongera kwunamura amaso, mbona umuzingo w’ igitabo uguruka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.1",
+            "verseOrgIds": [
+              "ZEC.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ZEC 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.2.9"
+              },
+              "items": [
+                {
+                  "text": "Ezk 2:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.2.10"
+              },
+              "items": [
+                {
+                  "text": "10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arambaza, at’ Ubona iki? Ndamwishura, nti Mbona umuzingo w’igitabo uguruka: uburebure bgawo n’amatambge mirongwibiri y’ukuboko uciriye mu nkokora, ubgaguke bgawo n’amatambge cumi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.2",
+            "verseOrgIds": [
+              "ZEC.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ZEC 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.20.7"
+              },
+              "items": [
+                {
+                  "text": "Kuv 20:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.20.15"
+              },
+              "items": [
+                {
+                  "text": "15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.29.27"
+              },
+              "items": [
+                {
+                  "text": "Gus 29:27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arambarira, at’ Uwo n’umuvumo urekuwe ng’ ukwire isi yose: igihe uwiba wese yīrāye kirahāgije, kandi n’igihe ūrahira wese yīrāye kirahāgije. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.3",
+            "verseOrgIds": [
+              "ZEC.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ZEC 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.3.33"
+              },
+              "items": [
+                {
+                  "text": "Imig 3:33",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndawurekuye, ni k’Uhoraho Nyen’ ingabo agize, winjire mu nzu y’umusuma no mu nzu y’ūrahira izina ryanje ibinyoma; uzoguma hagati mu nzu y’ūmeze artyo, uyitikizanye n’ibiti n’amabuye biyubatse.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.4",
+            "verseOrgIds": [
+              "ZEC.5.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ZEC 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.4",
+            "verseOrgIds": [
+              "ZEC.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ZEC 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maz’ umumarayika twavugana yīgira imbere, arambarira, at’ Unamura amaso, urābe kirya kije ic’ ari co. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.5",
+            "verseOrgIds": [
+              "ZEC.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ZEC 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.45.11"
+              },
+              "items": [
+                {
+                  "text": "Ezk 45:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndabaza, nti Mbega n’igiki? Arambarira, ati Kirya n’ingero yitwa efa ije. Kand’ at’ Ivyo ni vyo bigabitanyo vyabo mu gihugu cose. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.6",
+            "verseOrgIds": [
+              "ZEC.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ZEC 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maze ngize ntya, mbona umupfundikizo wacuzwe mw isāsu upfundururwa, mbona umugore yicaye muri efa imbere. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.7",
+            "verseOrgIds": [
+              "ZEC.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ZEC 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "At’ Uyu ni we Bugarariji; maz’ amunyikiriza muri efa imbere, akubitirako ca cuma c’isāsu ku munwa wayo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.8",
+            "verseOrgIds": [
+              "ZEC.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEC 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maze nunamuye amaso, mbona abagore babiri baje, bakubebga n’umuyaga mu mababa yabo; kandi bāri bafise amababa nk’ay’ agasōza; baterura iyo efa, bayicana mu kirēre hagati y’isi n’ijuru. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.9",
+            "verseOrgIds": [
+              "ZEC.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ZEC 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mbaza umumarayika twavugana, nt’ Irya efa bariya bayijanye hehe? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.10",
+            "verseOrgIds": [
+              "ZEC.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ZEC 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aranyishura, ati Bagiye kumwubakira inzu mu gihugu c’i Shinari; ni yuzura, azoshirwa iyo, ahantu hiwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.11",
+            "verseOrgIds": [
+              "ZEC.5.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEC.6",
+    "number": "6",
+    "bookId": "ZEC"
+  },
+  "previous": {
+    "id": "ZEC.4",
+    "number": "4",
+    "bookId": "ZEC"
+  }
+}

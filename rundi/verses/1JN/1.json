@@ -1,0 +1,645 @@
+{
+  "id": "1JN.1",
+  "number": "1",
+  "bookId": "1JN",
+  "reference": "1 Yohana 1",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "1JN 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1JN 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Icariho uhereye ubga mbere na mbere, ico twumvise, ico twabonye n’amaso yacu, ico twitegereje, intoke zacu zikagikorako, ivyo kuri Jambo w’ubugingo — ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.1",
+            "verseOrgIds": [
+              "1JN.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.1"
+              },
+              "items": [
+                {
+                  "text": "Yoh 1:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.14"
+              },
+              "items": [
+                {
+                  "text": "14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.1",
+            "verseOrgIds": [
+              "1JN.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1JN 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kand’ ubgo bugingo bgarerekanywe, turabubona, turabushingira intahe, kandi turababarira ivy’ ubgo bugingo budashira, bgamanye na Data wa twese, tukabgerekwa — ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.2",
+            "verseOrgIds": [
+              "1JN.1.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.4"
+              },
+              "items": [
+                {
+                  "text": "Yoh 1:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.2",
+            "verseOrgIds": [
+              "1JN.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1JN 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ico twabonye tukacumva ni co tubabgira namwe, kugira ngo namwe mufatanye natwe. Kandi natwe dufatanije na Data wa twese n’Umwana wiwe Yesu Kristo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.3",
+            "verseOrgIds": [
+              "1JN.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1JN 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Twanditse ivyo kugira ng’ umunezero wacu wuzure.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.4",
+            "verseOrgIds": [
+              "1JN.1.4"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.15.11"
+              },
+              "items": [
+                {
+                  "text": "Yoh 15:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.16.24"
+              },
+              "items": [
+                {
+                  "text": "16:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1JN 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.4",
+            "verseOrgIds": [
+              "1JN.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1JN 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ubu ni bgo butumwa twumvise bgavuye kuri we, tukabubabgira, yukw Imana ar’ umuco, kandi muri yo ko hatagira umwiza na mukeya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.5",
+            "verseOrgIds": [
+              "1JN.1.5"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JAS.1.17"
+              },
+              "items": [
+                {
+                  "text": "Yak 1:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.5",
+            "verseOrgIds": [
+              "1JN.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1JN 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tuvuze yuko dufatanije na yo, tukagendera mu mwiza, kuba ar’ ukubesha, ntituba dukora ivy’ ukuri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.6",
+            "verseOrgIds": [
+              "1JN.1.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1JN.2.4"
+              },
+              "items": [
+                {
+                  "text": "1 Yoh 2:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.3.21"
+              },
+              "items": [
+                {
+                  "text": "Yoh 3:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.6",
+            "verseOrgIds": [
+              "1JN.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1JN 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ariko tugendeye mu muco, nk’uko na yo iri mu muco, tuba dufatanije ubgacu, kand’ amaraso ya Yesu Umwana wayo atwoza icaha cose.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.7",
+            "verseOrgIds": [
+              "1JN.1.7"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.9.14"
+              },
+              "items": [
+                {
+                  "text": "Heb 9:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.1.5"
+              },
+              "items": [
+                {
+                  "text": "Ivyah 1:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.7.14"
+              },
+              "items": [
+                {
+                  "text": "7:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.7",
+            "verseOrgIds": [
+              "1JN.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1JN 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tuvuze yukw ata caha dufise, tuba twizimiza, ukuri ntikuba kuri muri twebge. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.8",
+            "verseOrgIds": [
+              "1JN.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1JN 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni twatura ivyaha vyacu, ni yo yo kwizigirwa kand’ igororoka, ivyo ni vyo bituma iduharira ivyaha vyacu, ikatwoza ukugabitanya kwose.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.9",
+            "verseOrgIds": [
+              "1JN.1.9"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.28.13"
+              },
+              "items": [
+                {
+                  "text": "Imig 28:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.9",
+            "verseOrgIds": [
+              "1JN.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1JN 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tuvuze yukw ata caha twakoze, tuba tuyigize umubeshi, kandi n’ijambo ryayo riba ritari muri twebge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.10",
+            "verseOrgIds": [
+              "1JN.1.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1JN.2",
+    "number": "2",
+    "bookId": "1JN"
+  },
+  "previous": {
+    "id": "2PE.3",
+    "number": "3",
+    "bookId": "2PE"
+  }
+}

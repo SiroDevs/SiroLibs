@@ -1,0 +1,743 @@
+{
+  "id": "EXO.11",
+  "number": "11",
+  "bookId": "EXO",
+  "reference": "Kuvayo 11",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "11",
+        "style": "c",
+        "sid": "EXO 11"
+      },
+      "items": [
+        {
+          "text": "11",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EXO 11:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.1",
+            "verseOrgIds": [
+              "EXO.11.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.12.31"
+              },
+              "items": [
+                {
+                  "text": "Kuv 12:31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.12.33"
+              },
+              "items": [
+                {
+                  "text": "33",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.12.39"
+              },
+              "items": [
+                {
+                  "text": "39",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uhoraho abarira Mose, ati Hasigaye icago kimwe nzorekurira kuri Farawo no ku Banyegiputa: hanyuma azobarekura mugende. Kand’ igihe azobarekura, mber’ azonabirukana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.1",
+            "verseOrgIds": [
+              "EXO.11.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EXO 11:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.3.22"
+              },
+              "items": [
+                {
+                  "text": "Kuv 3:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.12.35"
+              },
+              "items": [
+                {
+                  "text": "12:35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "None rero barira abantu, umugabo wese asabe umubanyi wiwe, n’umugore wese asabe umubanyi wiwe, babasabe utugenegene tw’ ifeza n’utw’ izahabu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.2",
+            "verseOrgIds": [
+              "EXO.11.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EXO 11:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.3.21"
+              },
+              "items": [
+                {
+                  "text": "Kuv 3:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.12.36"
+              },
+              "items": [
+                {
+                  "text": "12:36",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uhoraho aha ubgo bgoko kurābga neza n’Abanyegiputa. Bitayeko uwo mugabo Mose na we yar’ umuntu ahambaye mu gihugu ca Egiputa, mu maso y’abanyarugo ba Farawo, no mu maso y’abandi bantu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.3",
+            "verseOrgIds": [
+              "EXO.11.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EXO 11:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.3",
+            "verseOrgIds": [
+              "EXO.11.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EXO 11:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.4",
+            "verseOrgIds": [
+              "EXO.11.4"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.12.12"
+              },
+              "items": [
+                {
+                  "text": "Kuv 12:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.12.29"
+              },
+              "items": [
+                {
+                  "text": "29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mose aravuga, at’ Uku ni k’Uhoraho agize, ngo Nko mu gicugu azonyuranganya hose muri Egiputa: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.4",
+            "verseOrgIds": [
+              "EXO.11.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EXO 11:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "abana b’imfura bose bo mu gihugu ca Egiputa bapfe, uhereye ku mfura ya Farawo nyen’ ingoma, ukageza ku mfura y’umuguranokazi w’umusyi; kandi n’ivy’ uburiza vyose vy’ ibitunzwe bizopfa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.5",
+            "verseOrgIds": [
+              "EXO.11.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EXO 11:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.5.16"
+              },
+              "items": [
+                {
+                  "text": "Am 5:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.5.17"
+              },
+              "items": [
+                {
+                  "text": "17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hazocura umuborogo mwinshi mu gihugu cose ca Egiputa, utigeze kubaho, kandi ntihazokwongera kuba ūngana nk’uwo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.6",
+            "verseOrgIds": [
+              "EXO.11.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EXO 11:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.8.22"
+              },
+              "items": [
+                {
+                  "text": "Kuv 8:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.10.21"
+              },
+              "items": [
+                {
+                  "text": "Yos 10:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ariko mu Bisirayeli nta n’umwe azogira ico aba, ar’ umuntu cank’ igitungano, haba n’uwo imbga izogwangwarira: kugira ngo mumenye yuk’ Uhoraho yashizeh’ itandukaniro hagati y’ Abanyegiputa n’Abisirayeli. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.7",
+            "verseOrgIds": [
+              "EXO.11.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EXO 11:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kand’ aba banyarugo bawe bose bazomanuka baze iyo ndi, bankomere ibōbo, bati N’ugende, mwe n’abantu bose bagukondoreye inyuma. Aho ni ho nzoca ngenda. Nuko Mose arasohoka ava imbere ya Farawo, aratse cane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.8",
+            "verseOrgIds": [
+              "EXO.11.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EXO 11:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.8",
+            "verseOrgIds": [
+              "EXO.11.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EXO 11:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.9",
+            "verseOrgIds": [
+              "EXO.11.9"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.7.3"
+              },
+              "items": [
+                {
+                  "text": "Kuv 7:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.7.4"
+              },
+              "items": [
+                {
+                  "text": "4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uhoraho abarira Mose, ati Farawo ntazobumvira; kand’ ivyo bizotuma ibitangaza vyanje bigwira mu gihugu ca Egiputa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.9",
+            "verseOrgIds": [
+              "EXO.11.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EXO 11:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.4.21"
+              },
+              "items": [
+                {
+                  "text": "Kuv 4:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi Mose na Aroni bakoreye ivyo bitangaza vyose imbere ya Farawo: arik’ Uhoraho akomantaza umutima wa Farawo, ntiyarekura Abisirayeli ngo bagende, bave mu gihugu ciwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.10",
+            "verseOrgIds": [
+              "EXO.11.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EXO.12",
+    "number": "12",
+    "bookId": "EXO"
+  },
+  "previous": {
+    "id": "EXO.10",
+    "number": "10",
+    "bookId": "EXO"
+  }
+}

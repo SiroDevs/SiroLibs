@@ -1,0 +1,1387 @@
+{
+  "id": "JOL.1",
+  "number": "1",
+  "bookId": "JOL",
+  "reference": "Yoweli 1",
+  "verseCount": 20,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "JOL 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOL 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ijambo ry’Uhoraho ryaje kuri Yoweli mwene Petuweli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.1",
+            "verseOrgIds": [
+              "JOL.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOL 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.1",
+            "verseOrgIds": [
+              "JOL.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JOL 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.2",
+            "verseOrgIds": [
+              "JOL.1.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOL.2.2"
+              },
+              "items": [
+                {
+                  "text": "Yow 2:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ati Ni mwumve ibi, yemwe batāma, kandi mutege amatwi, namwe ababa mu gihugu mwese! Mbega har’ ibimeze nk’ibi vyigeze kubaho mu bihe vyanyu, canke mu bihe vya ba sogokuruza? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.2",
+            "verseOrgIds": [
+              "JOL.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JOL 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.78.4"
+              },
+              "items": [
+                {
+                  "text": "Zab 78:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mubidondere abana banyu, na bo baze babidondere abana babo, abana babo na bo baze babidondere abuzukuruza. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.3",
+            "verseOrgIds": [
+              "JOL.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JOL 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.78.46"
+              },
+              "items": [
+                {
+                  "text": "Zab 78:46",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.105.34"
+              },
+              "items": [
+                {
+                  "text": "105:34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.4.9"
+              },
+              "items": [
+                {
+                  "text": "Am 4:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.7.1"
+              },
+              "items": [
+                {
+                  "text": "7:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Imiranga y’inzige zikegeta yariwe n’izāraraye; imiranga y’izāraraye yariwe n’izitaragurika; imiranga y’izitaragurika yariwe n’iziyigiza.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.4",
+            "verseOrgIds": [
+              "JOL.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JOL 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.4",
+            "verseOrgIds": [
+              "JOL.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JOL 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.5",
+            "verseOrgIds": [
+              "JOL.1.5"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.24.11"
+              },
+              "items": [
+                {
+                  "text": "Yes 24:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni mwikangure, yemwe mborerwa, murire; namwe abakāmīra vino, muboroge, muririre vino ziryoshe, kuko zikūwe mu kanwa kanyu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.5",
+            "verseOrgIds": [
+              "JOL.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOL 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.9.8"
+              },
+              "items": [
+                {
+                  "text": "Ivyah 9:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kukw ihanga rikomeye kandi ry’isinzi riteye igihugu canje; amenyo yabo ni nk’imikāka y’intambge, kandi bafise amajigo nk’ay’ intambge y’ingore. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.6",
+            "verseOrgIds": [
+              "JOL.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JOL 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bononye umuzabibu wanje, kand’ umusukoni wanje barawuvunnye, barawushishuye rwose, bawutsinda hasi; amashami yawo asigaye ar’ igihororo c’imitonore. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.7",
+            "verseOrgIds": [
+              "JOL.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JOL 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Boroga nk’inkumi ikenyeye amagunira iririra uwar’ ayikoye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.8",
+            "verseOrgIds": [
+              "JOL.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JOL 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.29.41"
+              },
+              "items": [
+                {
+                  "text": "Kuv 29:41",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.45.4"
+              },
+              "items": [
+                {
+                  "text": "Ezk 45:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amafu y’amashikanwa n’ibiturire vyabuze mu ngoro y’Uhoraho; abaherezi, ari bo basuku b’Uhoraho, basigaye baganya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.9",
+            "verseOrgIds": [
+              "JOL.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JOL 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.2.9"
+              },
+              "items": [
+                {
+                  "text": "Hos 2:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.4.3"
+              },
+              "items": [
+                {
+                  "text": "4:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Imirima irononekaye, n’igihugu kiraganya; kukw amasaka yononekaye, na vino z’umubira zikamye akagīrīre, kand’ amavuta ya elayo na yo aherengeteye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.10",
+            "verseOrgIds": [
+              "JOL.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JOL 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.14.4"
+              },
+              "items": [
+                {
+                  "text": "Yer 14:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni mujorerwe, yemwe barimyi, namwe abarimyi b’uruzabibu, ni muboroge, muririre ingano na sayiri; kukw ivyimburwa vyo mu ndimiro bibuze. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.11",
+            "verseOrgIds": [
+              "JOL.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JOL 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.16.10"
+              },
+              "items": [
+                {
+                  "text": "Yes 16:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Umuzabibu urakabiranye, umusukoni urahondobereye; umukomamanga bo n’ikigazi n’umucungwa, mbere n’ibiti vyose vyo mu ndimiro birakabiranye: kuk’ umunezero uherengeteye mu bantu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.12",
+            "verseOrgIds": [
+              "JOL.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JOL 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.12",
+            "verseOrgIds": [
+              "JOL.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JOL 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.13",
+            "verseOrgIds": [
+              "JOL.1.13"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MIC.1.8"
+              },
+              "items": [
+                {
+                  "text": "Mik 1:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yemwe baherezi, mukenyere amagunira, murire; namwe abasukūra ku gicaniro, ni muboroge; enda ni muze mukēshe ijoro mwubaraye, mwambaye amagunira, yemwe basuku b’Imana yanje: kukw ishikanwa ry’ifu n’ibiturire vyimanywe ngo ntibize mu ngoro y’Imana yanyu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.13",
+            "verseOrgIds": [
+              "JOL.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JOL 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.20.3"
+              },
+              "items": [
+                {
+                  "text": "2 Ngo 20:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mushinge igihe co kwisonzesha, mutāngāze hose habe ikoraniro ry’agahebuza; mwa bashingantahe, ni mukoranye ababa mu gihugu bose, baze mu ngoro y’Uhoraho Imana yanyu, mutakambire Uhoraho. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.14",
+            "verseOrgIds": [
+              "JOL.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JOL 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.13.6"
+              },
+              "items": [
+                {
+                  "text": "Yes 13:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.46.10"
+              },
+              "items": [
+                {
+                  "text": "Yer 46:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOL.2.1"
+              },
+              "items": [
+                {
+                  "text": "Yow 2:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOL.2.11"
+              },
+              "items": [
+                {
+                  "text": "11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOL.2.31"
+              },
+              "items": [
+                {
+                  "text": "31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOL.3.14"
+              },
+              "items": [
+                {
+                  "text": "3:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "OBA.1.15"
+              },
+              "items": [
+                {
+                  "text": "Ob 1:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.14.1"
+              },
+              "items": [
+                {
+                  "text": "Zek 14:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2PE.3.10"
+              },
+              "items": [
+                {
+                  "text": "2 Pet 3:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ewe wa musi mubi! Kuk’ umusi w’Uhoraho uri hafi; uzoza ar’ umusi wo guhonnya uvuye kw Īshobora vyose. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.15",
+            "verseOrgIds": [
+              "JOL.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JOL 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.12.6"
+              },
+              "items": [
+                {
+                  "text": "Gus 12:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.12.7"
+              },
+              "items": [
+                {
+                  "text": "7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mbeg’ ivyo kurya ntivyavumbuwe twirorērera? Mbere n’umunezero n’ibihimbaro ntivyakūwe mu ngoro y’Imana yacu? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.16",
+            "verseOrgIds": [
+              "JOL.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JOL 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Imbuto zumiye mu masīze; ibigega birasivye, n’ivya nyamugari birasambuwe; kukw amasaka arumbiranye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.17",
+            "verseOrgIds": [
+              "JOL.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JOL 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.12.4"
+              },
+              "items": [
+                {
+                  "text": "Yer 12:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.4.3"
+              },
+              "items": [
+                {
+                  "text": "Hos 4:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ewe kuntu amatungo yābagirana! Amasho y’inka aragangaraye, kukw ahebuye ubgatsi; mbere n’imikuku y’intama iragowe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.18",
+            "verseOrgIds": [
+              "JOL.1.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JOL 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.18",
+            "verseOrgIds": [
+              "JOL.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JOL 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.19",
+            "verseOrgIds": [
+              "JOL.1.19"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.50.15"
+              },
+              "items": [
+                {
+                  "text": "Zab 50:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.9.10"
+              },
+              "items": [
+                {
+                  "text": "Yer 9:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ewe Uhoraho, ni wewe ntakambiye: kuk’ umuriro waturiye ubgatsi bgo mu bgeranyange, kand’ ibirimi vyawo vyaturiye ibiti vyose vyo ku misozi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.19",
+            "verseOrgIds": [
+              "JOL.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "JOL 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.104.21"
+              },
+              "items": [
+                {
+                  "text": "Zab 104:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mbere n’ibikōko vyo mw ishamba bihuzagirika ari wewe bitumbereye: kukw imigezi yakamye, kand’ umuriro waturiye ubgatsi bgo mu bgeranyange.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.20",
+            "verseOrgIds": [
+              "JOL.1.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOL.2",
+    "number": "2",
+    "bookId": "JOL"
+  },
+  "previous": {
+    "id": "HOS.14",
+    "number": "14",
+    "bookId": "HOS"
+  }
+}

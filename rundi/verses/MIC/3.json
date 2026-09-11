@@ -1,0 +1,892 @@
+{
+  "id": "MIC.3",
+  "number": "3",
+  "bookId": "MIC",
+  "reference": "Mika 3",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "MIC 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.1",
+            "verseOrgIds": [
+              "MIC.3.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.5.5"
+              },
+              "items": [
+                {
+                  "text": "Yer 5:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maze ndavuga, nti Ni mwumve se ndabinginze, yemwe bakuru bo mu ba Yakobo, namwe abaganza bo mu b’inzu ya Isirayeli: mbega si mwebge mwari mukwiye kumenya imanza ziroranye? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.1",
+            "verseOrgIds": [
+              "MIC.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MIC 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.34.3"
+              },
+              "items": [
+                {
+                  "text": "Ezk 34:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yemwe abanka ivyiza mugakunda ibibi; abantu banje mukaborosorako urukoba rwabo, mugaharura inyama ku magufa yabo; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.2",
+            "verseOrgIds": [
+              "MIC.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MIC 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.14.4"
+              },
+              "items": [
+                {
+                  "text": "Zab 14:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kandi mukarya inyama z’abantu banje, mukababāgak’ urukoba, mukabajanjagura amagufa, mukabatimbagura nk’izo gushira mu nzīhebe, nk’inyama zo gushira mu nkono! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.3",
+            "verseOrgIds": [
+              "MIC.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MIC 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.31.17"
+              },
+              "items": [
+                {
+                  "text": "Gus 31:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.1.28"
+              },
+              "items": [
+                {
+                  "text": "Imig 1:28",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.1.15"
+              },
+              "items": [
+                {
+                  "text": "Yes 1:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maze namwe har’ igihe muzotakambira Uhoraho, ntabishure, mber’ azobahisha mu nyonga hiwe ico gihe, nk’uko namwe mwagize nabi mu vyo mwakoze.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.4",
+            "verseOrgIds": [
+              "MIC.3.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MIC 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.4",
+            "verseOrgIds": [
+              "MIC.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MIC 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.5",
+            "verseOrgIds": [
+              "MIC.3.5"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.6.14"
+              },
+              "items": [
+                {
+                  "text": "Yer 6:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.23.13"
+              },
+              "items": [
+                {
+                  "text": "23:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ku vy’abavugishwa bazimiza abantu banje, bagasemerera, bati N’amahoro, iyo bagize ico babugunyīra, arik’ ūtagize ico ashira mu kanwa kabo bitegura kumurwanya; ibi ni vyo Uhoraho avuga kuri bo, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.5",
+            "verseOrgIds": [
+              "MIC.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MIC 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.12.24"
+              },
+              "items": [
+                {
+                  "text": "Ezk 12:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.8.9"
+              },
+              "items": [
+                {
+                  "text": "Am 8:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ati Kubg’ ivyo hazobabera ijoro, mwoye kugira ico mwerekwa, kandi hazobabera umwiza, mwoye kugira ico muragura; kand’ izuba rizodoberera kur’ abo bavugishwa, buzobazingirakw ināni ku murango. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.6",
+            "verseOrgIds": [
+              "MIC.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MIC 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.8.11"
+              },
+              "items": [
+                {
+                  "text": "Am 8:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.13.4"
+              },
+              "items": [
+                {
+                  "text": "Zek 13:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abamenyi bazotētērwa, n’abapfumu bamāramāre; mbere bose bazojorerwa, kukw ata co bishuwe kivuye ku Mana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.7",
+            "verseOrgIds": [
+              "MIC.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MIC 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.58.1"
+              },
+              "items": [
+                {
+                  "text": "Yes 58:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ariko jeho nuzuye ubushobozi n’ ukuroranya n’inkomezi, mbihawe na Mpwemu w’Uhoraho, kugira ngo mmenyeshe Yakobo igicumuro ciwe, Isirayeli ndamumenyeshe icaha ciwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.8",
+            "verseOrgIds": [
+              "MIC.3.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MIC 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.8",
+            "verseOrgIds": [
+              "MIC.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni mwumve se ndabinginze, yemwe bakuru bo mu b’inzu ya Yakobo, namwe abaganza bo mu b’inzu ya Isirayeli, mwebge abazinukwa imanza ziroranye, mukagoreka ivyari bibereye vyose; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.9",
+            "verseOrgIds": [
+              "MIC.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MIC 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.22.13"
+              },
+              "items": [
+                {
+                  "text": "Yer 22:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.22.27"
+              },
+              "items": [
+                {
+                  "text": "Ezk 22:27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HAB.2.12"
+              },
+              "items": [
+                {
+                  "text": "Hab 2:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "abubakisha Siyoni amaraso muvishije, n’i Yerusalemu mukahubakisha ibigabitanyo! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.10",
+            "verseOrgIds": [
+              "MIC.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MIC 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.1.23"
+              },
+              "items": [
+                {
+                  "text": "Yes 1:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.48.2"
+              },
+              "items": [
+                {
+                  "text": "48:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.6.13"
+              },
+              "items": [
+                {
+                  "text": "Yer 6:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.7.4"
+              },
+              "items": [
+                {
+                  "text": "7:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.23.17"
+              },
+              "items": [
+                {
+                  "text": "23:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MIC.7.3"
+              },
+              "items": [
+                {
+                  "text": "Mik 7:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abakuru baho baca imanza kubg’ ingurire, n’abaherezi baho bigishiriza ingero, n’abavugishwa baho baragurira kubona ingemu: yamara bisunga Uhoraho, bakavuga, bati Mbeg’ Uhoraho ntari muri twebge? bat’ Erega nta cago kizodushikako. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.11",
+            "verseOrgIds": [
+              "MIC.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MIC 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.26.18"
+              },
+              "items": [
+                {
+                  "text": "Yer 26:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nuko ni co gituma Siyoni hazohinduka ubusīze kubganyu, n’i Yerusalemu hahinduke ibirundo vy’amasakamburira, n’umurwa wubatswekw iyi ngoro uhinduke nk’ ikibira kiri ku mpinga y’umusozi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.12",
+            "verseOrgIds": [
+              "MIC.3.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.4",
+    "number": "4",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.2",
+    "number": "2",
+    "bookId": "MIC"
+  }
+}

@@ -1,0 +1,615 @@
+{
+  "id": "EST.5",
+  "number": "5",
+  "bookId": "EST",
+  "reference": "Esiteri 5",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "EST 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bukeye ku musi ugira gatatu, Esiteri yambara imyambaro yiwe y’ubgamikazi, aragenda ahagarara mu karusha ko ku ngoro y’umwami, aharābana n’iyo ngoro nyene; kand’ umwami yar’ avyagiye ku ntebe yiwe y’ubgami mu ngoro, atumberanye no mw irebe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.1",
+            "verseOrgIds": [
+              "EST.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.4.11"
+              },
+              "items": [
+                {
+                  "text": "Est 4:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.8.4"
+              },
+              "items": [
+                {
+                  "text": "8:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nuk’ umwami abonye umwamikazi Esiteri ahagaze mu karusha, Esiteri agira ubutoni imbere yiwe; umwami atunga Esiteri inkoni y’ izahabu yar’ afise mu minwe. Maze Esiteri aca yīgira hafi, akora ku mutwe w’iyo nkoni. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.2",
+            "verseOrgIds": [
+              "EST.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.7.2"
+              },
+              "items": [
+                {
+                  "text": "Est 7:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.6.23"
+              },
+              "items": [
+                {
+                  "text": "Mrk 6:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nuk’ umwami aramubaza, at’ Uragomba iki ga mwamikazi Esiteri? Urasaba iki? Ndakiguha, n’iyo coba igisate c’igihugu canje. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.3",
+            "verseOrgIds": [
+              "EST.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Esiteri aramwishura, ati Mwami, ni wavyemera, uyu musi wozanana na Hamani ku giturire mbīteguriye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.4",
+            "verseOrgIds": [
+              "EST.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EST 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nuk’ umwami aravuga, ati Ni munyarukane Hamani, kugira ngo bibe nk’uko Esiteri avuze. Nuk’ umwami na Hamani baja ku giturire Esiteri yiteguye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.5",
+            "verseOrgIds": [
+              "EST.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EST 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bakiri ku giturire ca vino, umwami abaza Esiteri, at’ Ico usaba n’iki, ukagihabga? Urondera iki? N’iyo coba igisate c’igihugu canje uragihabga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.6",
+            "verseOrgIds": [
+              "EST.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EST 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Esiteri aramwishura, at’ Ico nsaba kandi ndondera n’iki: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.7",
+            "verseOrgIds": [
+              "EST.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EST 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "namba ngize ubutoni imbere yawe, mwami, ukemera kumpa ico nsaba, no gushitsa ico ndondera, mwokwongera kuza, mwe na Hamani, ku giturire nzobītegurira; kand’ ejo ico uvuze nzogikora, mwami.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.8",
+            "verseOrgIds": [
+              "EST.5.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EST 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.8",
+            "verseOrgIds": [
+              "EST.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.9",
+            "verseOrgIds": [
+              "EST.5.9"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.3.5"
+              },
+              "items": [
+                {
+                  "text": "Est 3:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nuk’ uwo musi Hamani asohoka ahimbawe, afise akanyamuneza mu mutima; arikw abonye Moridekayi ku kirimba i bgami, atamuhagurukiye canke ngw amuroresheko n’ijisho, bimutera gushungumirwa cane. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.9",
+            "verseOrgIds": [
+              "EST.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EST 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yamara Hamani ariyumanganya, arataha; atuma guhamagara abagenzi, n’umugore wiwe Zereshi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.10",
+            "verseOrgIds": [
+              "EST.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EST 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.3.1"
+              },
+              "items": [
+                {
+                  "text": "Est 3:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.9.7+EST.9.8+EST.9.9+EST.9.10"
+              },
+              "items": [
+                {
+                  "text": "9:7-10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nuko Hamani abīgānira ukw atunze, n’uko bimuhaye icubahiro, n’ abana biwe ingen’ ari benshi, n’ ingen’ umwami yamushize hejuru muri vyose, kandi ko yamukujije kuruta abaganwa b’umwami n’ abamenyekana biwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.11",
+            "verseOrgIds": [
+              "EST.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EST 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hamani arongera arababgira, ati Kandi n’umwamikazi Esiteri nta wundi yakundiye kwinjirana n’umwami ku giturire yiteguye atari jewe; mbere n’ubu yantumiye ngo n’ejo nze njane n’umwami. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.12",
+            "verseOrgIds": [
+              "EST.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EST 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.2.19"
+              },
+              "items": [
+                {
+                  "text": "Est 2:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arikw ivyo vyose nta co bimmariye, nkibona wa Muyuda Moridekayi yicaye ku kirimba i bgami. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.13",
+            "verseOrgIds": [
+              "EST.5.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EST 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nuk’ umugore wiwe Zereshi n’abagenzi biwe bose bamugīra inama, bati Ni bashinge igiti c’intambge mirongwitanu z’ukuboko uciriye mu nkokora, maz’ ejo uz’ usabe umwami atange Moridekayi bakimumanikeko; uheze ubone kwinjirana n’umwami ku giturire unezerewe. Nuko Hamani ashima iyo nama; aca ashingisha ico giti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.14",
+            "verseOrgIds": [
+              "EST.5.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EST.6",
+    "number": "6",
+    "bookId": "EST"
+  },
+  "previous": {
+    "id": "EST.4",
+    "number": "4",
+    "bookId": "EST"
+  }
+}
