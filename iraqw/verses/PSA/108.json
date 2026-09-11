@@ -1,0 +1,68 @@
+{
+  "id": "PSA.108",
+  "number": "108",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 108",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "108",
+        "style": "c",
+        "sid": "PSA 108"
+      },
+      "items": [
+        {
+          "text": "108",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 108:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Muunaáeé' ku amohhoó', Mungú,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.108.1",
+            "verseOrgIds": [
+              "PSA.108.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.109",
+    "number": "109",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.107",
+    "number": "107",
+    "bookId": "PSA"
+  }
+}

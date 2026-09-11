@@ -1,0 +1,68 @@
+{
+  "id": "PSA.99",
+  "number": "99",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 99",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "99",
+        "style": "c",
+        "sid": "PSA 99"
+      },
+      "items": [
+        {
+          "text": "99",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 99:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "AAKOÓ MUNGÚ i waawuti'ii'ín, xoordu ni daaraxatiye'.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.1",
+            "verseOrgIds": [
+              "PSA.99.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.100",
+    "number": "100",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.98",
+    "number": "98",
+    "bookId": "PSA"
+  }
+}

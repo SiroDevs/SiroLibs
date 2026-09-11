@@ -1,0 +1,34 @@
+{
+  "id": "ZEP.3",
+  "number": "3",
+  "bookId": "ZEP",
+  "reference": "Zefaniya 3",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "ZEP 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAG.intro",
+    "number": "intro",
+    "bookId": "HAG"
+  },
+  "previous": {
+    "id": "ZEP.2",
+    "number": "2",
+    "bookId": "ZEP"
+  }
+}

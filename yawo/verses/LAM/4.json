@@ -1,0 +1,47 @@
+{
+  "id": "LAM.4",
+  "number": "4",
+  "bookId": "LAM",
+  "reference": "Mal 4",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "LAM 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yelusalemu ali ajonasice",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "LAM.5",
+    "number": "5",
+    "bookId": "LAM"
+  },
+  "previous": {
+    "id": "LAM.3",
+    "number": "3",
+    "bookId": "LAM"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "LAM.3",
+  "number": "3",
+  "bookId": "LAM",
+  "reference": "Wa/Aa/I 3",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "LAM 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "LAM 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aníng a heé slahh'amaaye gaa slay",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.3.1",
+            "verseOrgIds": [
+              "LAM.3.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "LAM.4",
+    "number": "4",
+    "bookId": "LAM"
+  },
+  "previous": {
+    "id": "LAM.2",
+    "number": "2",
+    "bookId": "LAM"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "SNG.8",
+  "number": "8",
+  "bookId": "SNG",
+  "reference": "Daa'Aangw 8",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "8",
+        "style": "c",
+        "sid": "SNG 8"
+      },
+      "items": [
+        {
+          "text": "8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "SNG 8:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tsiní geera kuúng bar hhiyaaeé',",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.8.1",
+            "verseOrgIds": [
+              "SNG.8.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.intro",
+    "number": "intro",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "SNG.7",
+    "number": "7",
+    "bookId": "SNG"
+  }
+}

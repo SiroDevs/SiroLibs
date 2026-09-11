@@ -1,0 +1,377 @@
+{
+  "id": "JOL.3",
+  "number": "3",
+  "bookId": "JOL",
+  "reference": "Yow 3",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "JOL 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mlungu tacijilamula mitundu ja ŵandu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JOL 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.3.3",
+            "verseOrgIds": [
+              "JOL.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JOL 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ana jemanja ŵa ku Taya, ŵa ku Sidoni, ku madela ga Filisitiya mkuti ndende cici? Ana msosileje kuti munjimucile ligongo lya yine yele yinamtendele? Naga pana kandu kakuti mumbucisye, une tinjimwucisya yakutenda yenu mwacitema.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.3.4",
+            "verseOrgIds": [
+              "JOL.3.4"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.14.29+ISA.14.30+ISA.14.31"
+              },
+              "items": [
+                {
+                  "text": "Yes 14:29-31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.23.1+ISA.23.2+ISA.23.3+ISA.23.4+ISA.23.5+ISA.23.6+ISA.23.7+ISA.23.8+ISA.23.9+ISA.23.10+ISA.23.11+ISA.23.12+ISA.23.13+ISA.23.14+ISA.23.15+ISA.23.16+ISA.23.17+ISA.23.18"
+              },
+              "items": [
+                {
+                  "text": "23:1-18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.47.1+JER.47.2+JER.47.3+JER.47.4+JER.47.5+JER.47.6+JER.47.7"
+              },
+              "items": [
+                {
+                  "text": "Yel 47:1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "Esek 25:15—28:26",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.6+AMO.1.7+AMO.1.8+AMO.1.9+AMO.1.10"
+              },
+              "items": [
+                {
+                  "text": "Amo 1:6-10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEP.2.4+ZEP.2.5+ZEP.2.6+ZEP.2.7"
+              },
+              "items": [
+                {
+                  "text": "Sef 2:4-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.9.1+ZEC.9.2+ZEC.9.3+ZEC.9.4+ZEC.9.5+ZEC.9.6+ZEC.9.7"
+              },
+              "items": [
+                {
+                  "text": "Sak 9:1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.11.21+MAT.11.22"
+              },
+              "items": [
+                {
+                  "text": "Mat 11:21-22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.10.13+LUK.10.14"
+              },
+              "items": [
+                {
+                  "text": "Luk 10:13-14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.3.4",
+            "verseOrgIds": [
+              "JOL.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JOL 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jemanja mwajigele silifa",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.3.5",
+            "verseOrgIds": [
+              "JOL.3.5"
+            ]
+          }
+        },
+        {
+          "text": " ni golidi",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.3.5",
+            "verseOrgIds": [
+              "JOL.3.5"
+            ]
+          }
+        },
+        {
+          "text": " jwangu ni yindu yangu yine ya mtengo wapenani, kwawula nayo ku nyumba ja milungu jine. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.3.5",
+            "verseOrgIds": [
+              "JOL.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOL 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwasumisye ŵandu ŵa ku Yuda ni ku Yelusalemu kwa Agiliki,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.3.6",
+            "verseOrgIds": [
+              "JOL.3.6"
+            ]
+          }
+        },
+        {
+          "text": " kuti mjawule nawo kwakutalika ni malile ga cilambo cawo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.3.6",
+            "verseOrgIds": [
+              "JOL.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JOL 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nambo tinjajimusya kuti atyoce kumalo kwawo kumwasumisye jemanjajo. Kaneko tinjiwucisya yitendo yenu yosope pa mtwe penu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.3.7",
+            "verseOrgIds": [
+              "JOL.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JOL 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tinjasumisya ŵanace ŵenu ŵacalume ni ŵacakongwe kwa ŵandu ŵa ku Yuda, nipo jemanjajo tacasumisya kwa Aseba, mtundu wa ŵandu ŵakutama kwakutalika ŵala. AMBUJE aŵecete myoyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.3.8",
+            "verseOrgIds": [
+              "JOL.3.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mlungu tacipeleka upile kwa ŵandu ŵakwe",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.intro",
+    "number": "intro",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "JOL.2",
+    "number": "2",
+    "bookId": "JOL"
+  }
+}

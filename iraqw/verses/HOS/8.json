@@ -1,0 +1,68 @@
+{
+  "id": "HOS.8",
+  "number": "8",
+  "bookId": "HOS",
+  "reference": "Hosea 8",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "8",
+        "style": "c",
+        "sid": "HOS 8"
+      },
+      "items": [
+        {
+          "text": "8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 8:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tarumbeéta ufahhaak!",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.8.1",
+            "verseOrgIds": [
+              "HOS.8.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.9",
+    "number": "9",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.7",
+    "number": "7",
+    "bookId": "HOS"
+  }
+}

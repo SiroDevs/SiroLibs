@@ -1,0 +1,963 @@
+{
+  "id": "EXO.2",
+  "number": "2",
+  "bookId": "EXO",
+  "reference": "Eks 2",
+  "verseCount": 24,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "EXO 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kupagwa kwa Mose",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EXO 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mundu jwine jwa lukosyo lwa Lefi, ŵalombele jwamkongwe jwa lukosyo lwakwe lulolo lwa Lefi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.1",
+            "verseOrgIds": [
+              "EXO.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EXO 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jwamkongwejo ŵakwete citumbo, ni ŵaŵelece mwanace jwamlume. Piŵaweni kuti mwanacejo ŵaliji jwakusalala, ŵamsisile kwa miesi jitatu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.2",
+            "verseOrgIds": [
+              "EXO.2.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.20"
+              },
+              "items": [
+                {
+                  "text": "Mase 7:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.11.23"
+              },
+              "items": [
+                {
+                  "text": "Aheb 11:23",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.2",
+            "verseOrgIds": [
+              "EXO.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EXO 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nambo mwanacejo piŵayikene msingu wakuti, ngamkanapakombola kumsisa soni, jwamkongwejo ŵajigele kacitundu kakaluce ni matete, ŵakapacile lipula ni ngunga. Ŵamŵisile mwanacejo mkati, ni ŵakaŵisile kacitunduko pasikati pa matete, mungulugulu lusulo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.3",
+            "verseOrgIds": [
+              "EXO.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EXO 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mlumbugwe mwanacejo, ŵajimi pa kukutalicila panandi ali mkulolecesya, kuti alole yitiyimtendecele mwanacejo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.4",
+            "verseOrgIds": [
+              "EXO.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EXO 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lisiku line mwanace jwamkongwe jwa Mwenye jwa ku Iguputo, ŵajawile ku lusulo lulolo kuja koga. Jwalakwe ŵaliji ni ŵakutumicila ŵakwe ŵacakongwe, wosopewo ŵaliji mkwendajenda mungulugulu mwa lusulo lula. Mwanace jwa Mwenye jwa ku Iguputo jula, ŵakaweni kacitundu kala m'matete, ŵamtumile jumo jwa ŵakutumicila ŵakwe, kuti akakatole ka citunduko. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.5",
+            "verseOrgIds": [
+              "EXO.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EXO 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Piŵakawunukwile kacitundu kala, ŵamsimene mwanace jwamlume ali mgamba kulila. Mwanace jwa Mwenye jwa ku Iguputojo ŵamtendele canasa mwanacejo, ni ŵatite, “Ajuju ali mwanace jwa mtundu wa Cihebeli.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.6",
+            "verseOrgIds": [
+              "EXO.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EXO 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Papopo mlumbugwe jwa mwanacejo, ŵamwusisye mwanace jwa Mwenye jwa ku Iguputojo kuti, “Uli njawule ngamŵilanjile jwamkongwe jwa Cihebeli jwakuti akamlelele mwanaceju?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.7",
+            "verseOrgIds": [
+              "EXO.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EXO 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwanagwawo Mwenye jwa ku Iguputo jula ŵajanjile kuti, “Cambone jawulani.” Myoyo mwali jula ŵajaŵile kuja kwaŵilanga mamagwe mwanacejo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.8",
+            "verseOrgIds": [
+              "EXO.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EXO 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwanagwawo Mwenye jwa ku Iguputo, ŵasalile mamagwe mwanace jula kuti, “Mumjigale mwanaceju mkandelele, ni une tinjimlipila.” Jwamkongwe jula ŵamjigele mwanacejo kuja kumlela. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.9",
+            "verseOrgIds": [
+              "EXO.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EXO 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwanace jula piŵakusile ŵajile kumpeleka kwa mwanagwawo Mwenye jwa ku Iguputo jula, ni ŵamjigele kuŵa mwanagwawo jwamlume, ni ŵampele lina lyakwe Mose,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.10",
+            "verseOrgIds": [
+              "EXO.2.10"
+            ]
+          }
+        },
+        {
+          "text": " ligongo ŵatite, “Namcuwile m'mesi.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.10",
+            "verseOrgIds": [
+              "EXO.2.10"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.21"
+              },
+              "items": [
+                {
+                  "text": "Mase 7:21",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mose akutilila ku Midiyani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EXO 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.10",
+            "verseOrgIds": [
+              "EXO.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EXO 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lisiku line Mose ali akusile, ŵajaŵile kuja kunguluka kwa ŵandu ŵa mtundu ŵakwe wa Cihebeli ŵala, ni ŵalolite yiŵatiji Aiguputo, pakwakamulisya masengo mwa ngalwe acalongo acimjakwe. Ni ŵam'weni mundu jwa ku Iguputo ali kumputa mundu jwa Cihebeli, jumo jwa acalongo acimjakwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.11",
+            "verseOrgIds": [
+              "EXO.2.11"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.11.24"
+              },
+              "items": [
+                {
+                  "text": "Aheb 11:24",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.23+ACT.7.24+ACT.7.25+ACT.7.26+ACT.7.27+ACT.7.28"
+              },
+              "items": [
+                {
+                  "text": "Mase 7:23-28",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.11",
+            "verseOrgIds": [
+              "EXO.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EXO 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mose ŵalolite aku nakuku, piŵaweni kuti kwaliji kwangali ŵandu ŵane, ŵamwuleje mu Iguputo jula ni ŵawusilile mtembo wakwe mu mcenga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.12",
+            "verseOrgIds": [
+              "EXO.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EXO 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mose piŵayice soni kundaŵi kwakwe, ŵaweni ŵandu ŵaŵili ŵa Cihebeli ali mkumenyana, ni ŵamwusisye juŵatandisye ndewojo kuti, “Ligongo cici mkumputa mjenu?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.13",
+            "verseOrgIds": [
+              "EXO.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EXO 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jwalakwe jula ŵamwusisye Mose kuti, “Ana ŵani ŵamŵisile m'mwejo kuŵa ŵakutulongolela ni ŵakutulamula uwe? Ana mkusosa kumbulaga une, mpela yimwatite pakumwulaga mu Iguputo jula?” Mose ŵajogwepe, ni ŵaganisisye mu mtima mwakwe kuti, “Ŵandu ayimanyi yindetesile yila.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.14",
+            "verseOrgIds": [
+              "EXO.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EXO 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwenye jwa ku Iguputo piŵajipikene ngani jeleji, ŵasacile kumwulaga Mose. Nambo Mose ŵatisile pameso pa Mwenye jwa ku Iguputo, ni ŵajile kutama ku cilambo ca Midiyani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.15+EXO.2.16",
+            "verseOrgIds": [
+              "EXO.2.15",
+              "EXO.2.16"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.29"
+              },
+              "items": [
+                {
+                  "text": "Mase 7:29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.11.27"
+              },
+              "items": [
+                {
+                  "text": "Aheb 11:27",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EXO 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lisiku line, ali ku cilambo celeco, Mose ŵatemi mungulugulu cisima. Ku Midiyaniko ŵapali mundu jwakutaga mbopesi lina lyakwe Yetelo, juŵakwete ŵanace ŵacakongwe msano ni ŵaŵili, ŵanace ŵacakongwewo ŵayice kucisima kukuteka mesi, ni ŵagumbesye muyakumwela mesi, kuti ngondolo sya atati ŵawo simwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.15+EXO.2.16",
+            "verseOrgIds": [
+              "EXO.2.15",
+              "EXO.2.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EXO 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nambo ŵayice ŵakucinga ngondolo ŵane, ni ŵatopwesye ŵali ŵala, nambo Mose ŵajimi kwakamucisya ŵali ŵala, kusimwesya ngondolo syawo syosope. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.17",
+            "verseOrgIds": [
+              "EXO.2.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EXO 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nambo pa ŵawujile ŵali ŵala kwa Yetelo atati ŵawo, atati ŵawowo ŵawusisye kuti, “Ligongo cici lelo mwusile akuno mwacitema citema?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.18",
+            "verseOrgIds": [
+              "EXO.2.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EXO 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni ŵajanjile kuti, “Mu Iguputo jwine ni jwatucenjele uweji, kwa ŵakucinga ngondolo ŵala, soni atutecele mesi ga kusimwesya ngondolo syosopesi.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.19",
+            "verseOrgIds": [
+              "EXO.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EXO 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Atati ŵawowo ŵawusisye kuti, “Nambi jwalakwejo ali kwapi? Ligongo cici mumlesile kukoko mundujo? Mjawule mkamŵilanje, kuti tulye najo yakulyayi.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.20",
+            "verseOrgIds": [
+              "EXO.2.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "EXO 2:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mose ŵakundile kutama nawo kukoko, ni Yetelo ŵampele jwalakwejo mwanace jwakwe jwamkongwe, lina lyakwe Sipola, kuti aŵe ŵamkwakwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.21",
+            "verseOrgIds": [
+              "EXO.2.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EXO 2:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sipola ŵaŵelece mwanace jwamlume. Mose ŵampele mwanacejo lina lyakuti Geleshomu, pakuŵa Mose ŵatite kuti, “Une ndili mlendo mcilambo ca cilendo.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.22",
+            "verseOrgIds": [
+              "EXO.2.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "EXO 2:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pali papite yaka yejinji, Mwenye jwa ku Iguputo jula ŵawile. Ndaŵi josopeji Aisalaeli ŵaliji mkulila nawo ukapolo wawo ula, ŵalisile kuti apate cikamucisyo, ni kulila kwawo kwapikanice kwa Mlungu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.23",
+            "verseOrgIds": [
+              "EXO.2.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "EXO 2:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mlungu ŵakupikene kudandawula kwawo, ni ŵakumbucile cilanga",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.24",
+            "verseOrgIds": [
+              "EXO.2.24"
+            ]
+          }
+        },
+        {
+          "text": " ciŵatesile ni Abulahamu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.24",
+            "verseOrgIds": [
+              "EXO.2.24"
+            ]
+          }
+        },
+        {
+          "text": " Isaki, ni soni Yakobo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.24",
+            "verseOrgIds": [
+              "EXO.2.24"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.15.13+GEN.15.14"
+              },
+              "items": [
+                {
+                  "text": "Gen 15:13-14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.24",
+            "verseOrgIds": [
+              "EXO.2.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "EXO 2:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mlungu ŵawuweni ukapolo wa Aisalaeli ŵala, ni ŵatendele canasa. Ni ŵamanyilile yakuti ŵatendele jemanjajo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.25",
+            "verseOrgIds": [
+              "EXO.2.25"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EXO.3",
+    "number": "3",
+    "bookId": "EXO"
+  },
+  "previous": {
+    "id": "EXO.1",
+    "number": "1",
+    "bookId": "EXO"
+  }
+}

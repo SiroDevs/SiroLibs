@@ -1,0 +1,68 @@
+{
+  "id": "PSA.102",
+  "number": "102",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 102",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "102",
+        "style": "c",
+        "sid": "PSA 102"
+      },
+      "items": [
+        {
+          "text": "102",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 102:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "AAKOÓ MUNGÚ, firor'eé' iiárií qaaseek,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.102.1",
+            "verseOrgIds": [
+              "PSA.102.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.103",
+    "number": "103",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.101",
+    "number": "101",
+    "bookId": "PSA"
+  }
+}

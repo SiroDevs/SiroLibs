@@ -1,0 +1,47 @@
+{
+  "id": "PSA.9",
+  "number": "9",
+  "bookId": "PSA",
+  "reference": "Mas 9",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "9",
+        "style": "c",
+        "sid": "PSA 9"
+      },
+      "items": [
+        {
+          "text": "9",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kumtogolela Mlungu ligongo lya cilungamo cakwe",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.10",
+    "number": "10",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.8",
+    "number": "8",
+    "bookId": "PSA"
+  }
+}

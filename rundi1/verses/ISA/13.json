@@ -1,0 +1,68 @@
+{
+  "id": "ISA.13",
+  "number": "13",
+  "bookId": "ISA",
+  "reference": "Yesaya 13",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "13",
+        "style": "c",
+        "sid": "ISA 13"
+      },
+      "items": [
+        {
+          "text": "13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 13:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ibi ni vyo Yesaya mwene Amozi yeretswe, vyerekeye ugutikizwa kwa Babiloni:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.13.1",
+            "verseOrgIds": [
+              "ISA.13.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.14",
+    "number": "14",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.12",
+    "number": "12",
+    "bookId": "ISA"
+  }
+}

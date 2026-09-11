@@ -1,0 +1,68 @@
+{
+  "id": "PSA.73",
+  "number": "73",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 73",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "73",
+        "style": "c",
+        "sid": "PSA 73"
+      },
+      "items": [
+        {
+          "text": "73",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 73:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ar ló', Mungú ku hhoó' dír Israeliro,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.73.1",
+            "verseOrgIds": [
+              "PSA.73.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.74",
+    "number": "74",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.72",
+    "number": "72",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "PSA.6",
+  "number": "6",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 6",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "PSA 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "AAKOÓ MUNGÚ, án mi iigahhaataar ar buhhtaawók,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.1",
+            "verseOrgIds": [
+              "PSA.6.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.7",
+    "number": "7",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.5",
+    "number": "5",
+    "bookId": "PSA"
+  }
+}

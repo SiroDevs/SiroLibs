@@ -1,0 +1,68 @@
+{
+  "id": "PSA.53",
+  "number": "53",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 53",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "53",
+        "style": "c",
+        "sid": "PSA 53"
+      },
+      "items": [
+        {
+          "text": "53",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 53:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daktana in baraá muner'ín i kat,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.53.1",
+            "verseOrgIds": [
+              "PSA.53.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.54",
+    "number": "54",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.52",
+    "number": "52",
+    "bookId": "PSA"
+  }
+}

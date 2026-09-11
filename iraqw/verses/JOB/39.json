@@ -1,0 +1,68 @@
+{
+  "id": "JOB.39",
+  "number": "39",
+  "bookId": "JOB",
+  "reference": "Yobu 39",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "39",
+        "style": "c",
+        "sid": "JOB 39"
+      },
+      "items": [
+        {
+          "text": "39",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 39:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "«Kuúng qoomár tsagni i laqwalaaliin a xúa?",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.39.1",
+            "verseOrgIds": [
+              "JOB.39.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.40",
+    "number": "40",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.38",
+    "number": "38",
+    "bookId": "JOB"
+  }
+}

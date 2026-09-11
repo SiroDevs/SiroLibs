@@ -1,0 +1,236 @@
+{
+  "id": "ECC.12",
+  "number": "12",
+  "bookId": "ECC",
+  "reference": "Umusiguzi 12",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "ECC 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ECC 12:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.12.8",
+            "verseOrgIds": [
+              "ECC.12.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ECC 12:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Umusiguzi ntiyari umunyabwenge gusa, ariko kandi yigishije abantu ukumenya. Yaragerageje kurondera maze ashira ku rutonde imigani myinshi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.12.9",
+            "verseOrgIds": [
+              "ECC.12.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ECC 12:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Umusiguzi yarondeye gushiraho amajambo atunganye, kandi ivyo yanditse vyari bigororotse kandi ari ivy’ukuri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.12.10",
+            "verseOrgIds": [
+              "ECC.12.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ECC 12:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.12.10",
+            "verseOrgIds": [
+              "ECC.12.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ECC 12:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amajambo y’abanyabwenge ameze nk’imambo, imigani yabo na yo ni nk’imisumari itewe neza, itangwa n’Umwungere umwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.12.11",
+            "verseOrgIds": [
+              "ECC.12.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ECC 12:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwana wanje, hanurwa wumve ku kintu cose ciyongera kuri yo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.12.12",
+            "verseOrgIds": [
+              "ECC.12.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ECC 12:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ukwandika ibitabu vyinshi ntibigira iherezo, kandi kwiga cane kuruhisha umubiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.12.12",
+            "verseOrgIds": [
+              "ECC.12.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "SNG.intro",
+    "number": "intro",
+    "bookId": "SNG"
+  },
+  "previous": {
+    "id": "ECC.11",
+    "number": "11",
+    "bookId": "ECC"
+  }
+}

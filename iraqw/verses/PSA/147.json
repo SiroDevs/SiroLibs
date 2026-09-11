@@ -1,0 +1,68 @@
+{
+  "id": "PSA.147",
+  "number": "147",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 147",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "147",
+        "style": "c",
+        "sid": "PSA 147"
+      },
+      "items": [
+        {
+          "text": "147",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 147:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "AAKOÓ MUNGÚ xirfayeemisaak!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.147.1",
+            "verseOrgIds": [
+              "PSA.147.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.148",
+    "number": "148",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.146",
+    "number": "146",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "PRO.15",
+  "number": "15",
+  "bookId": "PRO",
+  "reference": "Axweesanoó Sagalooa 15",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "15",
+        "style": "c",
+        "sid": "PRO 15"
+      },
+      "items": [
+        {
+          "text": "15",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 15:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Heé aa buuhh burkwa mu/aywaáts ar tsaeema buuhhtaawós gin máy,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.15.1",
+            "verseOrgIds": [
+              "PRO.15.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.16",
+    "number": "16",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.14",
+    "number": "14",
+    "bookId": "PRO"
+  }
+}

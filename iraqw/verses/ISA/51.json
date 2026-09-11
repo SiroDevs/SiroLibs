@@ -1,0 +1,127 @@
+{
+  "id": "ISA.51",
+  "number": "51",
+  "bookId": "ISA",
+  "reference": "Isaya 51",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "51",
+        "style": "c",
+        "sid": "ISA 51"
+      },
+      "items": [
+        {
+          "text": "51",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 51:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aníng iiárií qaasaré' kuungaádaá hotaá ganaa'á' ngi sla'á',",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.51.1",
+            "verseOrgIds": [
+              "ISA.51.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ISA 51:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.51.16",
+            "verseOrgIds": [
+              "ISA.51.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ISA 51:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tlawáng aá Yerusalemu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.51.17",
+            "verseOrgIds": [
+              "ISA.51.17"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.52",
+    "number": "52",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.50",
+    "number": "50",
+    "bookId": "ISA"
+  }
+}

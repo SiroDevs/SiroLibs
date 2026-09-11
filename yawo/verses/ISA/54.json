@@ -1,0 +1,142 @@
+{
+  "id": "ISA.54",
+  "number": "54",
+  "bookId": "ISA",
+  "reference": "Yes 54",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "54",
+        "style": "c",
+        "sid": "ISA 54"
+      },
+      "items": [
+        {
+          "text": "54",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Cinonyelo ca AMBUJE pa Isalaeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yelusalemu jwamsogolo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 54:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.54.10",
+            "verseOrgIds": [
+              "ISA.54.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 54:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "AMBUJE akuŵeceta kuti,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.54.11",
+            "verseOrgIds": [
+              "ISA.54.11"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.21.18+REV.21.19+REV.21.20+REV.21.21"
+              },
+              "items": [
+                {
+                  "text": "Ciw 21:18-21",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.55",
+    "number": "55",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.53",
+    "number": "53",
+    "bookId": "ISA"
+  }
+}

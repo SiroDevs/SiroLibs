@@ -1,0 +1,103 @@
+{
+  "id": "JOL.2",
+  "number": "2",
+  "bookId": "JOL",
+  "reference": "Yoweli 2",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "JOL 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JOL 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.18",
+            "verseOrgIds": [
+              "JOL.2.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JOL 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.19",
+            "verseOrgIds": [
+              "JOL.2.19"
+            ]
+          }
+        },
+        {
+          "text": " arabishura ati:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.19",
+            "verseOrgIds": [
+              "JOL.2.19"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOL.3",
+    "number": "3",
+    "bookId": "JOL"
+  },
+  "previous": {
+    "id": "JOL.1",
+    "number": "1",
+    "bookId": "JOL"
+  }
+}

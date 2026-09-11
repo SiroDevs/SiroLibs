@@ -1,0 +1,127 @@
+{
+  "id": "PSA.1",
+  "number": "1",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 1",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "PSA 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Heé amohhoó' a kudá' axweesantá múk tlákw ga iiárií qamimaaká,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.1",
+            "verseOrgIds": [
+              "PSA.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.3",
+            "verseOrgIds": [
+              "PSA.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ala tlakuuse a adooriheeká.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.4",
+            "verseOrgIds": [
+              "PSA.1.4"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.2",
+    "number": "2",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.intro",
+    "number": "intro",
+    "bookId": "PSA"
+  }
+}

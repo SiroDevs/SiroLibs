@@ -1,0 +1,1298 @@
+{
+  "id": "1SA.2",
+  "number": "2",
+  "bookId": "1SA",
+  "reference": "1 Sam 2",
+  "verseCount": 28,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "1SA 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Lipopelo lya Hana",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1SA 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hana ŵapopesile ŵatite,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.1",
+            "verseOrgIds": [
+              "1SA.2.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.46+LUK.1.47+LUK.1.48+LUK.1.49+LUK.1.50+LUK.1.51+LUK.1.52+LUK.1.53+LUK.1.54+LUK.1.55"
+              },
+              "items": [
+                {
+                  "text": "Luk 1:46-55",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1SA 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.10",
+            "verseOrgIds": [
+              "1SA.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1SA 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaneko Elikana ŵawujile kumangwakwe ku Lama. Nambo mcanda jula Samuele ŵasigele ku Shilo kukoko nipo ŵatumicile AMBUJE pameso pa Eli jwakutaga mbopesi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.11",
+            "verseOrgIds": [
+              "1SA.2.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ŵanace ŵa Eli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1SA 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.11",
+            "verseOrgIds": [
+              "1SA.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1SA 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ŵanace ŵa Eli ŵaliji ŵakusakala, soni nganasamalilaga ya AMBUJE. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.12",
+            "verseOrgIds": [
+              "1SA.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1SA 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nganasamalilaga soni ya ndamo jakwenela ŵakutaga mbopesi sikati ja ŵandu. M'malo mwakwe ŵatendaga ayi: naga mundu jwine apelece mbopesi, jwakutumicila jwa jwakutaga mbopesi jwayikaga ali ajigele foloko ja meno gatatu nyamajo jili mkutokota pamoto, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.13",
+            "verseOrgIds": [
+              "1SA.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1SA 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nipo jwakutumicilajo jwaloŵekaga folokojo mu mpikamo nipo yosope yijasomaga foloko jila jwa mbopesijo ŵajigalaga kuti yiŵe yakwe. Aisalaeli wosope ŵiŵayikaga ku Shilo kukupeleka mbopesi ŵatendedwaga yeleyi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.14",
+            "verseOrgIds": [
+              "1SA.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1SA 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pakonjecesya pelepa atamose mkanatyosye mawuta gakuŵajilwa kugatinisya, jwakutumicila jwayikaga ni kumsalila mundu jwakutaga mbopesijo kuti, “Mumbe nyama jakuti akajoce jwakutaga mbopesi, pakuti jwalakwejo ngaŵa mkupocela nyama jakuteleka, nambo jangateleka.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.15",
+            "verseOrgIds": [
+              "1SA.2.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1SA 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.15",
+            "verseOrgIds": [
+              "1SA.2.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1SA 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naga mundu akwanga kuti, “Kwende tutende yayili yakwenela pakutanda kutinisya kaje mawuta, ni kaneko mjigale yimkuyisosayo.” Jwakutumicila jula jwajangaga kuti, “Iyayi, mumbeje cile sambano jino. Naga ngimkumba, tingambe kujigala mwakumsumula.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.16",
+            "verseOrgIds": [
+              "1SA.2.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1SA 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.16",
+            "verseOrgIds": [
+              "1SA.2.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1SA 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Awu ulemwawu uŵatesile ŵanace ŵa Eli syaliji syakogoya pameso pa AMBUJE, ligongo nganapeleka ucimbicimbi pa mbopesi siŵapelece ŵandu. Yeleyi yasakalisye mnope AMBUJE.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.17",
+            "verseOrgIds": [
+              "1SA.2.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Samuele ku Shilo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1SA 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.17",
+            "verseOrgIds": [
+              "1SA.2.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1SA 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Samuele pa ucanda wakwe ŵapitilisye kwatumicila AMBUJE, ali awete efodi",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.18",
+            "verseOrgIds": [
+              "1SA.2.18"
+            ]
+          }
+        },
+        {
+          "text": " ja bafuta. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.18",
+            "verseOrgIds": [
+              "1SA.2.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "1SA 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Caka ni caka mamagwe ŵampanganyicisyaga mkanjo mwanagwawojo, ni kuja kukumpa jwalakwejo pa ndaŵi jiŵajawulaga jemanjajo ni ŵamkwawo kukupeleka mbopesi ja caka ni caka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.19",
+            "verseOrgIds": [
+              "1SA.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1SA 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaneko Eli ŵapaga upile Elikana ni ŵamkwakwe, pakwasalila maloŵe jemanjajo maloŵe gakuti, “AMBUJE ampe m'mwejo ŵanace ŵane mwa jwele jwamkongweju kuti ajinjile m'malo mwa ajuju jumwampelece kwa AMBUJEJU.” Ali atesile yeleyo jemanjajo ŵawujilaga kumangwawo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.20",
+            "verseOrgIds": [
+              "1SA.2.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1SA 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.20",
+            "verseOrgIds": [
+              "1SA.2.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "1SA 2:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "AMBUJE ŵampele upile Hana, nipo ŵakwete ŵanace ŵane ŵacalume ŵatatu ni ŵanace ŵa cakongwe ŵaŵili. Nipo mcanda jula Samuele ŵakulaga ali mkwatumicila AMBUJE.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.21",
+            "verseOrgIds": [
+              "1SA.2.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Eli ni ŵanace ŵakwe ŵacalume",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "1SA 2:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.21",
+            "verseOrgIds": [
+              "1SA.2.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "1SA 2:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sambano Eli ŵayice msingu wakucekulupa mnope, nipo ŵapikanga yosope yiŵatendaga ŵanace ŵakwe ŵacalume kwa Aisalaeli wosope mpaka kwika pakugonana ni acakongwe ŵakupanganya masengo pa mlango pakwinjilila mu tenti jakusimanilana ni AMBUJE. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.22",
+            "verseOrgIds": [
+              "1SA.2.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "1SA 2:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Myoyo ŵawusisye ŵanace ŵakwewo kuti, “Ligongo cici mkutenda yindu yeleyi? Ŵandu wosope ŵene akusalila yindu yakusakala yimkutenda jemanja. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.23",
+            "verseOrgIds": [
+              "1SA.2.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "1SA 2:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ŵanace ŵangu, lekani yeleyo! Yindu yakuŵeceta ŵandu ŵa AMBUJEYI nganiyiŵa yambone kose. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.24",
+            "verseOrgIds": [
+              "1SA.2.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "1SA 2:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naga mundu akumlemwecesya mundu mjakwe Mlungu mpaka amkamucisye kongola yinduyo kuti yiŵe soni cenene. Nambo naga mundu akwalemwecesya AMBUJE, ana ŵani mpaka amcenjele jwalakwejo pakongolela kuti yindu yiŵe soni cenene.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.25",
+            "verseOrgIds": [
+              "1SA.2.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "1SA 2:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nambo jemanjajo nganapikanila kose maloŵe ga baba ŵawo, pakuŵa AMBUJE ŵalinganyisye kuti jemanjajo ŵawulaje.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.25",
+            "verseOrgIds": [
+              "1SA.2.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "1SA 2:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.25",
+            "verseOrgIds": [
+              "1SA.2.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "1SA 2:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mosopemo mcanda jula Samuele ŵapitilisye kukula mu msingu nipo AMBUJE ŵamnonyelaga pamo ni ŵandu ŵakwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.26",
+            "verseOrgIds": [
+              "1SA.2.26"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.2.52"
+              },
+              "items": [
+                {
+                  "text": "Luk 2:52",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yakulocesya yakusisyana ni liŵasa lya Eli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "1SA 2:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.26",
+            "verseOrgIds": [
+              "1SA.2.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "1SA 2:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jwakulocesya",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.27",
+            "verseOrgIds": [
+              "1SA.2.27"
+            ]
+          }
+        },
+        {
+          "text": " jwine jwayice kwa Eli ni mtenga awu kutyocela kwa AMBUJE: “Nangolo jwenu Aloni",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.27",
+            "verseOrgIds": [
+              "1SA.2.27"
+            ]
+          }
+        },
+        {
+          "text": " ni liŵasa lyakwe piŵaliji acikapolo ŵa Mwenye jwa ku Iguputo, Une nalijuwile namsyene kwa Aloni. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.27",
+            "verseOrgIds": [
+              "1SA.2.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "1SA 2:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Une nalisagwile liŵasa lyakwe mwa mitundu josope ja ku Isalaeli kuti liŵe liŵasa lya ŵakupeleka mbopesi ŵangu, ŵakutumicila pa malo gakupelecela mbopesi, kutinisya ubani,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.28",
+            "verseOrgIds": [
+              "1SA.2.28"
+            ]
+          }
+        },
+        {
+          "text": " ni kuwala efodi pameso pangu. Nipo napelece macili kwa jemanjajo gakuti asalasyeje yakugaŵanya ya mbopesi syakutinisya pa malo gakupelecela mbopesi siŵapelekaga Aisalaeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.28",
+            "verseOrgIds": [
+              "1SA.2.28"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.28.1+EXO.28.2+EXO.28.3+EXO.28.4"
+              },
+              "items": [
+                {
+                  "text": "Eks 28:1-4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.7.35+LEV.7.36"
+              },
+              "items": [
+                {
+                  "text": "Lef 7:35-36",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.28",
+            "verseOrgIds": [
+              "1SA.2.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "1SA 2:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nambi ligongo cici kuyitendela mitulo yindu ya mbopesi ni yakupeleka yinguyisosa kutyocela kwa ŵandu ŵangu? Ligongo cici m'mwejo Eli mkwacimbicisya ŵanace ŵenu ŵa acalumewo kupunda Une, pakulijimbasya acimsyene ni yakulya yakunong'a mnope ya mbopesi syosope syakupeleka ŵandu ŵangu kwa Une? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.29",
+            "verseOrgIds": [
+              "1SA.2.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "1SA 2:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Une AMBUJE Mlungu jwa Aisalaeli, naŵisile cilanga",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.30",
+            "verseOrgIds": [
+              "1SA.2.30"
+            ]
+          }
+        },
+        {
+          "text": " kuti, liŵasa lyenu ni liŵele lyenu tilicindumicila Une mpela ŵakutaga mbopesi ndaŵi syosope. Nambo sambano Une nguti, yeleyo basi yimasile! Tinjacimbicisya ŵakunjimbicisya une, soni tinjapila mtima ŵakunyosya une. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.30",
+            "verseOrgIds": [
+              "1SA.2.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "1SA 2:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndaŵi jikwisa jitinjawulaga acacanda wosope ŵa mwiŵasa mwenu ni ŵa liŵele lyenu, kwamti kuti pangali mundu mwiŵasa mwenu jutaciŵa umi mpaka kucekulupa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.31",
+            "verseOrgIds": [
+              "1SA.2.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "1SA 2:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "M'mwejo timcilaga nipo timciwusilila upile utinjipeleka kwa ŵandu ŵane ŵa ku Isalaeli, nambo pangali mundu jumo jwa mwiŵasa mwenu jutaciŵa umi mpaka kucekulupa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.32",
+            "verseOrgIds": [
+              "1SA.2.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "1SA 2:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Atamose yili myoyo tinjicisunga cimo ca yisukulu yenu kuŵa ca umi, nipo ticicindumicila Une mpela jwakutaga mbopesi. Nambo tacisanduka jwakutatala nipo tacijasa mtima, nipo yisukulu yenu yine yosope tiyiciwa ni ciwa ca ku ngondo ali ŵangakula. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.33",
+            "verseOrgIds": [
+              "1SA.2.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "1SA 2:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ŵanace ŵenu ŵaŵili Hofini ni Finihasi tiyicagwila yindu yakogoya. Jemanjaji taciwa lisiku limo, pelepo ni pitimcimanyilila kuti cilicose cimbecete Une cikasicitendekaga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.34",
+            "verseOrgIds": [
+              "1SA.2.34"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.4.11"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 4:11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.34",
+            "verseOrgIds": [
+              "1SA.2.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "1SA 2:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tinjisagula jwakutaga mbopesi jwakulupicika kwa Une nipo tacitenda mwakupikanila yiliyose yingusosa ya kumtima kwangu. Jwalakwejo tinjimpa yisukulu, yakutumicila pameso pa mwenye jwangu jutinjimsagula. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.35",
+            "verseOrgIds": [
+              "1SA.2.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "1SA 2:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jwalijose jwa yisukulu yenu jutacikulupuka tacijawulaga kwa jwele jwa mbopesijo kukumŵenda mbiya ni yakulya, nipo taciŵendaga kuti ŵakamusye ŵambopesiwo, pakusosa kuti akole yakulya.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.2.36",
+            "verseOrgIds": [
+              "1SA.2.36"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1SA.3",
+    "number": "3",
+    "bookId": "1SA"
+  },
+  "previous": {
+    "id": "1SA.1",
+    "number": "1",
+    "bookId": "1SA"
+  }
+}

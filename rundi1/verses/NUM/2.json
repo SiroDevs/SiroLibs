@@ -1,0 +1,172 @@
+{
+  "id": "NUM.2",
+  "number": "2",
+  "bookId": "NUM",
+  "reference": "Guharura 2",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "NUM 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NUM 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.1",
+            "verseOrgIds": [
+              "NUM.2.1"
+            ]
+          }
+        },
+        {
+          "text": " abarira Mose na Aroni ati: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.1",
+            "verseOrgIds": [
+              "NUM.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Abisirayeli baze bacumbike bakikuje Ihema ry’Ibonaniro ariko bataryegereye cane, umuntu wese azobe musi y’ibendera ry’umuryango wiwe no musi y’ibendera ry’inzu yiwe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.2",
+            "verseOrgIds": [
+              "NUM.2.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "NUM 2:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.33",
+            "verseOrgIds": [
+              "NUM.2.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "NUM 2:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nuko Abisirayeli bakora vyose nk’uko ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.34",
+            "verseOrgIds": [
+              "NUM.2.34"
+            ]
+          }
+        },
+        {
+          "text": " yari yabitegetse Mose. Bashinga amahema musi y’amabendera yabo, umwe wese mu nzu ya ba sekuruza no mu muryango wiwe, kandi ni muri urwo rutonde nyene bahaguruka bagafata inzira.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.34",
+            "verseOrgIds": [
+              "NUM.2.34"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NUM.3",
+    "number": "3",
+    "bookId": "NUM"
+  },
+  "previous": {
+    "id": "NUM.1",
+    "number": "1",
+    "bookId": "NUM"
+  }
+}

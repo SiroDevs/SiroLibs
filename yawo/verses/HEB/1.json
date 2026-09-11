@@ -1,0 +1,333 @@
+{
+  "id": "HEB.1",
+  "number": "1",
+  "bookId": "HEB",
+  "reference": "Aheb 1",
+  "verseCount": 7,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "HEB 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Maloŵe ga Mlungu kupitila mwa Mwanagwe",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HEB 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kala Mlungu ŵaŵecete kaŵilikaŵili ni acinangolo ŵetu m'matala gakulekanganalekangana kupitila mwa ŵakulocesya ŵakwe, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.1",
+            "verseOrgIds": [
+              "HEB.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "HEB 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nambo masiku gambesi gano aŵecete ni uwe kupitila mwa Mwanagwe. Kupitila mwa Jwalakwe Mlungu ŵapanganyisye yindu yosope ni ŵampele yosopeyo kuti yiŵe yakwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.2",
+            "verseOrgIds": [
+              "HEB.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HEB 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jwalakwe ali lilanguka lya lumbili lwa Mlungu soni ali ciwilili cisyesyene cakulosya ndamo sya Mlungu. Jwalakweju akuyijangata yosope ni maloŵe gakwe ga macili. Piŵamasile kwakululucila ŵandu yakulemwa yawo, ŵapite kukutama kwinani, ku mkono wamlyo wa lumbili lwa Mlungu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.3",
+            "verseOrgIds": [
+              "HEB.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HEB 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.3",
+            "verseOrgIds": [
+              "HEB.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HEB 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwanace jwa Mlungu akupunda malayika,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.4",
+            "verseOrgIds": [
+              "HEB.1.4"
+            ]
+          }
+        },
+        {
+          "text": " mpela mwele lina lyele Mlungu ŵampele likusapunda lina lya malayika. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.4",
+            "verseOrgIds": [
+              "HEB.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HEB 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwamti Mlungu nganaŵeceteje kwa malayika gakwe kuti,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.5",
+            "verseOrgIds": [
+              "HEB.1.5"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.2.7"
+              },
+              "items": [
+                {
+                  "text": "Mas 2:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2SA.7.14"
+              },
+              "items": [
+                {
+                  "text": "2 Sam 7:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.17.13"
+              },
+              "items": [
+                {
+                  "text": "1 Mbi 17:13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "HEB 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.13",
+            "verseOrgIds": [
+              "HEB.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "HEB 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nambi malayika gakutenda masengoci? Ana ngaŵa jemanjajo ali misimu jakutumicila Mlungu nipo akusagatuma kukwakamucisya ŵandu ŵele ŵitacipocela cikulupusyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.14",
+            "verseOrgIds": [
+              "HEB.1.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HEB.2",
+    "number": "2",
+    "bookId": "HEB"
+  },
+  "previous": {
+    "id": "HEB.intro",
+    "number": "intro",
+    "bookId": "HEB"
+  }
+}

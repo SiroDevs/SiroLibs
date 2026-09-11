@@ -1,0 +1,68 @@
+{
+  "id": "PRO.14",
+  "number": "14",
+  "bookId": "PRO",
+  "reference": "Axweesanoó Sagalooa 14",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "14",
+        "style": "c",
+        "sid": "PRO 14"
+      },
+      "items": [
+        {
+          "text": "14",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 14:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "/Ameenír sagaloo' do'ós gu tléhh,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.14.1",
+            "verseOrgIds": [
+              "PRO.14.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.15",
+    "number": "15",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.13",
+    "number": "13",
+    "bookId": "PRO"
+  }
+}

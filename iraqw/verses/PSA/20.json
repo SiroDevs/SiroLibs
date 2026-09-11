@@ -1,0 +1,127 @@
+{
+  "id": "PSA.20",
+  "number": "20",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 20",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "20",
+        "style": "c",
+        "sid": "PSA 20"
+      },
+      "items": [
+        {
+          "text": "20",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 20:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "AAKOÓ MUNGÚ u mu/aywatsi deelór slahh'amko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.20.1",
+            "verseOrgIds": [
+              "PSA.20.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 20:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.20.7",
+            "verseOrgIds": [
+              "PSA.20.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 20:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Múk adór kwí ta dukuuts nee tay huuhu'ún,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.20.8",
+            "verseOrgIds": [
+              "PSA.20.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.21",
+    "number": "21",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.19",
+    "number": "19",
+    "bookId": "PSA"
+  }
+}

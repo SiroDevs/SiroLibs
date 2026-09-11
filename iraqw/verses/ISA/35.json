@@ -1,0 +1,68 @@
+{
+  "id": "ISA.35",
+  "number": "35",
+  "bookId": "ISA",
+  "reference": "Isaya 35",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "35",
+        "style": "c",
+        "sid": "ISA 35"
+      },
+      "items": [
+        {
+          "text": "35",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 35:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Darma nee yaamaá kaahaar i qwalaa/iyá',",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.1",
+            "verseOrgIds": [
+              "ISA.35.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.36",
+    "number": "36",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.34",
+    "number": "34",
+    "bookId": "ISA"
+  }
+}

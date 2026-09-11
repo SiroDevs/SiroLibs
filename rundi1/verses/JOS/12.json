@@ -1,0 +1,118 @@
+{
+  "id": "JOS.12",
+  "number": "12",
+  "bookId": "JOS",
+  "reference": "Yosuwa 12",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "JOS 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOS 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.6",
+            "verseOrgIds": [
+              "JOS.12.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JOS 12:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aba ni bo bami n’ibice vy’igihugu abo bami batwara aho Yosuwa n’Abisirayeli bafashe, mu burengero bwa Yorodani, kuva i Bayali-Gadi mu kiyaya ca Libani, gushika ku musozi Halaki, uduga utumbereye i Seyiri, Yosuwa yagaburiye ico gihugu imiryango y’Abisirayeli ngo kibe icabo bazokwamana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.7",
+            "verseOrgIds": [
+              "JOS.12.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JOS 12:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Muri ico gihugu, hariho ahari imisozi miremire, ahari imisozi migufimigufi yo mu burengero, hakaba ikiyaya Araba, imimanuko y’imisozi, ubugaragwa bw’i Negebu, hamwe n’ibihugu vy’Abaheti, Abamori, Abanyakanani, Abaperizi, Abahiwi n’Abayebusi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.8",
+            "verseOrgIds": [
+              "JOS.12.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOS.13",
+    "number": "13",
+    "bookId": "JOS"
+  },
+  "previous": {
+    "id": "JOS.11",
+    "number": "11",
+    "bookId": "JOS"
+  }
+}
