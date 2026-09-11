@@ -1,0 +1,140 @@
+{
+  "id": "AMO.1",
+  "number": "1",
+  "bookId": "AMO",
+  "reference": "Amos 1",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "AMO 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erae nu ŋakiro ka Amos a ŋolo arae epei a ŋikeyokok alotaun a ŋolo anyaritae Tekoa. Abu Akuj kisileerek Amos aŋuna a Isirael alorwa a ŋulu epukator Usia Yudaya, kipukate Yeroboam lokoku a Yoas Isirael. Esileerekini Akuj Amos ŋakiro nu ŋikaru ŋiarei eriŋa nyeyakauna amaranikinet ka akwap.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.1",
+            "verseOrgIds": [
+              "AMO.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Atubokino a ŋikidunyet a Isirael",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.1",
+            "verseOrgIds": [
+              "AMO.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "AMO 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tema Amos,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.2",
+            "verseOrgIds": [
+              "AMO.1.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.2",
+    "number": "2",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.intro",
+    "number": "intro",
+    "bookId": "AMO"
+  }
+}

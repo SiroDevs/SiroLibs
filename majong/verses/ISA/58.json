@@ -1,0 +1,81 @@
+{
+  "id": "ISA.58",
+  "number": "58",
+  "bookId": "ISA",
+  "reference": "Isa. 58",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "58",
+        "style": "c",
+        "sid": "ISA 58"
+      },
+      "items": [
+        {
+          "text": "58",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Akilip ŋina a kire ka ŋina nyiyookino",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 58:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alimu Ekapolon ebe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.1",
+            "verseOrgIds": [
+              "ISA.58.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.59",
+    "number": "59",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.57",
+    "number": "57",
+    "bookId": "ISA"
+  }
+}

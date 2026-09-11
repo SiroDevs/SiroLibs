@@ -1,0 +1,47 @@
+{
+  "id": "HAB.2",
+  "number": "2",
+  "bookId": "HAB",
+  "reference": "Abak. 2",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "HAB 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Toboŋok Ekapolon ŋuna eŋita ekadwaran",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAB.3",
+    "number": "3",
+    "bookId": "HAB"
+  },
+  "previous": {
+    "id": "HAB.1",
+    "number": "1",
+    "bookId": "HAB"
+  }
+}

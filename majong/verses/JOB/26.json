@@ -1,0 +1,81 @@
+{
+  "id": "JOB.26",
+  "number": "26",
+  "bookId": "JOB",
+  "reference": "Yob 26",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "26",
+        "style": "c",
+        "sid": "JOB 26"
+      },
+      "items": [
+        {
+          "text": "26",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Aboŋokinet a Yob: Emam ituŋanan epedori ayenun neni etya ailiil ŋina ka Akuj",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 26:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Toboŋok nai Yob erwori a Bilidad tema,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.26.1",
+            "verseOrgIds": [
+              "JOB.26.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.27",
+    "number": "27",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.25",
+    "number": "25",
+    "bookId": "JOB"
+  }
+}

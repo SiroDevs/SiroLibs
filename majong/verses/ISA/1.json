@@ -1,0 +1,153 @@
+{
+  "id": "ISA.1",
+  "number": "1",
+  "bookId": "ISA",
+  "reference": "Isa. 1",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "ISA 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erae nu ŋakiro ŋuna abu Akuj kisileerek Isaya lokoku ka Amos aŋuna a ŋituŋa a Yudaya ka Yerusalem alorwa a ŋulu epukatotor Usia, Yosan, Aas ka Esekia ŋulu arae ŋirwosi a Yudaya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.1",
+            "verseOrgIds": [
+              "ISA.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Aronis ŋina a ŋituŋa a Yudaya",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.3",
+            "verseOrgIds": [
+              "ISA.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekaŋ iyes ŋituŋa a akwap a ŋina a ŋikasecak",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.4",
+            "verseOrgIds": [
+              "ISA.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Etaun ŋolo abu tomunaar",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.2",
+    "number": "2",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.intro",
+    "number": "intro",
+    "bookId": "ISA"
+  }
+}

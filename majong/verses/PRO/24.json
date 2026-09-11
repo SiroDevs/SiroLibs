@@ -1,0 +1,106 @@
+{
+  "id": "PRO.24",
+  "number": "24",
+  "bookId": "PRO",
+  "reference": "Ŋakit. 24",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "24",
+        "style": "c",
+        "sid": "PRO 24"
+      },
+      "items": [
+        {
+          "text": "24",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PRO 24:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.24.9",
+            "verseOrgIds": [
+              "PRO.24.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PRO 24:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ani kirae iyoŋ ŋini ipatak alorwa a ŋulu a ŋican,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.24.10",
+            "verseOrgIds": [
+              "PRO.24.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ŋakiro ŋace ŋuna a ŋikaosok",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.25",
+    "number": "25",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.23",
+    "number": "23",
+    "bookId": "PRO"
+  }
+}

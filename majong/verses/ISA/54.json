@@ -1,0 +1,81 @@
+{
+  "id": "ISA.54",
+  "number": "54",
+  "bookId": "ISA",
+  "reference": "Isa. 54",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "54",
+        "style": "c",
+        "sid": "ISA 54"
+      },
+      "items": [
+        {
+          "text": "54",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Acamunet ŋina a ekisil ŋina nyesaluni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 54:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alimu Ekapolon ŋakiro nu, “Okoe iyoŋ aberu ŋina ikolupana, toeik,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.54.1",
+            "verseOrgIds": [
+              "ISA.54.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.55",
+    "number": "55",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.53",
+    "number": "53",
+    "bookId": "ISA"
+  }
+}

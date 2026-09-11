@@ -1,0 +1,94 @@
+{
+  "id": "ISA.65",
+  "number": "65",
+  "bookId": "ISA",
+  "reference": "Isa. 65",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "65",
+        "style": "c",
+        "sid": "ISA 65"
+      },
+      "items": [
+        {
+          "text": "65",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Akiyookino ŋina ka akitub ka Akuj ŋakiro",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 65:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abu ayoŋ etoodiun neni a ŋulu pa ekeitanito ayoŋ;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.65.1",
+            "verseOrgIds": [
+              "ISA.65.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ŋisubuna ŋulukitet ŋulu ajokak",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.66",
+    "number": "66",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.64",
+    "number": "64",
+    "bookId": "ISA"
+  }
+}

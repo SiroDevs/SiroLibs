@@ -1,0 +1,81 @@
+{
+  "id": "ISA.59",
+  "number": "59",
+  "bookId": "ISA",
+  "reference": "Isa. 59",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "59",
+        "style": "c",
+        "sid": "ISA 59"
+      },
+      "items": [
+        {
+          "text": "59",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Isicanio ŋulu nyetubete ŋakiro a akiyookino ka ŋulu isicanito ŋuluce",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 59:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kiirasi, nyitamete atemar nyepedori Ekapolon alakun,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.59.1",
+            "verseOrgIds": [
+              "ISA.59.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.60",
+    "number": "60",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.58",
+    "number": "58",
+    "bookId": "ISA"
+  }
+}

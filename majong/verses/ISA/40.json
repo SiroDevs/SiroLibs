@@ -1,0 +1,81 @@
+{
+  "id": "ISA.40",
+  "number": "40",
+  "bookId": "ISA",
+  "reference": "Isa. 40",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "40",
+        "style": "c",
+        "sid": "ISA 40"
+      },
+      "items": [
+        {
+          "text": "40",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kisirworiunae ŋituŋa ŋulu ka Akuj",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 40:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Irworo Akuj kus ŋakiro nu:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.40.1",
+            "verseOrgIds": [
+              "ISA.40.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.41",
+    "number": "41",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.39",
+    "number": "39",
+    "bookId": "ISA"
+  }
+}

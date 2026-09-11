@@ -1,0 +1,132 @@
+{
+  "id": "PRO.9",
+  "number": "9",
+  "bookId": "PRO",
+  "reference": "Ŋakit. 9",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "9",
+        "style": "c",
+        "sid": "PRO 9"
+      },
+      "items": [
+        {
+          "text": "9",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Anyaritoi ŋina ka aosou",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ŋakiro ŋuna a kire ŋuna a daadaŋ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Anyaritoi ka akiikinet ŋina ka abaŋao",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PRO 9:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.9.12",
+            "verseOrgIds": [
+              "PRO.9.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PRO 9:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Emina aberu ŋinabaŋaanot acela nooi irworo;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.9.13",
+            "verseOrgIds": [
+              "PRO.9.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.10",
+    "number": "10",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.8",
+    "number": "8",
+    "bookId": "PRO"
+  }
+}

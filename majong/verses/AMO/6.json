@@ -1,0 +1,81 @@
+{
+  "id": "AMO.6",
+  "number": "6",
+  "bookId": "AMO",
+  "reference": "Amos 6",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "AMO 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Amunyaro a Ŋisirael",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ekaŋ iyes ŋulu iboiyete emam ŋace alo Sion",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.6.1",
+            "verseOrgIds": [
+              "AMO.6.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.7",
+    "number": "7",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.5",
+    "number": "5",
+    "bookId": "AMO"
+  }
+}

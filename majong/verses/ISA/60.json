@@ -1,0 +1,119 @@
+{
+  "id": "ISA.60",
+  "number": "60",
+  "bookId": "ISA",
+  "reference": "Isa. 60",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "60",
+        "style": "c",
+        "sid": "ISA 60"
+      },
+      "items": [
+        {
+          "text": "60",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Acununo a ŋulu ielara",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Akuj akapolon a Sion",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ISA 60:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.18",
+            "verseOrgIds": [
+              "ISA.60.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ISA 60:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyeruwor nabo akoloŋ ikiinakini iyes akica naparan,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.19",
+            "verseOrgIds": [
+              "ISA.60.19"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.61",
+    "number": "61",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.59",
+    "number": "59",
+    "bookId": "ISA"
+  }
+}
