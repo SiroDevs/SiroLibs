@@ -1,0 +1,118 @@
+{
+  "id": "PSA.85",
+  "number": "85",
+  "bookId": "PSA",
+  "reference": "Zaburi 85",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "85",
+        "style": "c",
+        "sid": "PSA 85"
+      },
+      "items": [
+        {
+          "text": "85",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 85:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.1",
+            "verseOrgIds": [
+              "PSA.85.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.30.18"
+              },
+              "items": [
+                {
+                  "text": "Yer 30:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.39.25"
+              },
+              "items": [
+                {
+                  "text": "Eze 39:25",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Yehova, mi ovu ndra asi ndriza be angu mini vu; mi onze ndra suru Yakoboni ati’boarisi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.1",
+            "verseOrgIds": [
+              "PSA.85.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.86",
+    "number": "86",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.84",
+    "number": "84",
+    "bookId": "PSA"
+  }
+}

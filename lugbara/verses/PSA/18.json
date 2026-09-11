@@ -1,0 +1,131 @@
+{
+  "id": "PSA.18",
+  "number": "18",
+  "bookId": "PSA",
+  "reference": "Zaburi 18",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "18",
+        "style": "c",
+        "sid": "PSA 18"
+      },
+      "items": [
+        {
+          "text": "18",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 18:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.18.1",
+            "verseOrgIds": [
+              "PSA.18.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.32.4"
+              },
+              "items": [
+                {
+                  "text": "Azi 32:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.2.2"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 2:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.91.2"
+              },
+              "items": [
+                {
+                  "text": "Zab 91:2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ma le mi ra, Yehova okpo manira la.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.18.1",
+            "verseOrgIds": [
+              "PSA.18.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.19",
+    "number": "19",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.17",
+    "number": "17",
+    "bookId": "PSA"
+  }
+}

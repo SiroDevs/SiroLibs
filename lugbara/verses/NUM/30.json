@@ -1,0 +1,950 @@
+{
+  "id": "NUM.30",
+  "number": "30",
+  "bookId": "NUM",
+  "reference": "Kalafe 30",
+  "verseCount": 16,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "30",
+        "style": "c",
+        "sid": "NUM 30"
+      },
+      "items": [
+        {
+          "text": "30",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NUM 30:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.1",
+            "verseOrgIds": [
+              "NUM.30.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.1.4"
+              },
+              "items": [
+                {
+                  "text": "Kal 1:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.1.16"
+              },
+              "items": [
+                {
+                  "text": "16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.7.2"
+              },
+              "items": [
+                {
+                  "text": "7:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.1.13"
+              },
+              "items": [
+                {
+                  "text": "Azi 1:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.1.17"
+              },
+              "items": [
+                {
+                  "text": "17",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Musa nga di ’yo ’ba opiru Israeli anziyi ma suru ma drilia ’diyi ma tia, kini, E’yo Yeho­vani azileri ’di. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.1",
+            "verseOrgIds": [
+              "NUM.30.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 30:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.23.21+DEU.23.22+DEU.23.23"
+              },
+              "items": [
+                {
+                  "text": "Azi 23:21-23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.5.33"
+              },
+              "items": [
+                {
+                  "text": "Mat 5:33",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.28.20"
+              },
+              "items": [
+                {
+                  "text": "E’do 28:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.27.2"
+              },
+              "items": [
+                {
+                  "text": "Lev 27:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.11.30"
+              },
+              "items": [
+                {
+                  "text": "Lip 11:30",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.11.35"
+              },
+              "items": [
+                {
+                  "text": "35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.56.12"
+              },
+              "items": [
+                {
+                  "text": "Zab 56:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.119.106"
+              },
+              "items": [
+                {
+                  "text": "119:106",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.20.25"
+              },
+              "items": [
+                {
+                  "text": "O’be 20:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ECC.5.4"
+              },
+              "items": [
+                {
+                  "text": "Ekl 5:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.5.4"
+              },
+              "items": [
+                {
+                  "text": "Lev 5:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.14.9"
+              },
+              "items": [
+                {
+                  "text": "Mat 14:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.23.14"
+              },
+              "items": [
+                {
+                  "text": "’Yeta 23:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.22.27"
+              },
+              "items": [
+                {
+                  "text": "Yob 22:27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.22.25"
+              },
+              "items": [
+                {
+                  "text": "Zab 22:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.50.14"
+              },
+              "items": [
+                {
+                  "text": "50:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NAM.1.15"
+              },
+              "items": [
+                {
+                  "text": "Nah 1:15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "’Ba ka e’yo azi oyo sozasi Yehova dri, kani ka oyo so i orindi ombezu e’yo ombezasi, eri ma eza e’yo erini ’yoleri ku; te eri ma ’ye ekile e’yo dria efupi eri ma tiliarile. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.2",
+            "verseOrgIds": [
+              "NUM.30.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NUM 30:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Azini vini zamva ka e’yo azi oyo sozasi Yehova dri, ka i ombe e’yo ombezasi erini de ovuria zamvaru ’dani i ati vile akua, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.3",
+            "verseOrgIds": [
+              "NUM.30.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 30:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "eri ati ka e’yo erini azile oyo sozasiri pi eri e’yo ombeza erini i orindi ombezuri be, te ati ka adri erini ciri; ka’dini oyo erini dria nga pa so okporu ’dani, azini vini e’yo ombeza dria erini i orindi ombezuri nga pa so ra indi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.4",
+            "verseOrgIds": [
+              "NUM.30.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NUM 30:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Te eri ma ati ka ga si, o’du erini eri ma oyo erizurisi, oyo erini aluni ngani pa so ku, azini vini e’yo ombeza erini i orindi ombezuri ma aluni ngani pa so ku indi; Yehovani nga e’yo onzi erini ku ra, eri ma ’atini eri gale sirisi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.5",
+            "verseOrgIds": [
+              "NUM.30.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NUM 30:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Te eri ka mu agupia, de e’yo erini azile oyo sozasiri ovu eri ma dria ci, kani e’yo efupi eri ma tilia egata kokoru erini ani i orindi ombezuri ka ovu eri ma dria ci, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.6",
+            "verseOrgIds": [
+              "NUM.30.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NUM 30:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "agupi ka eri ra, ka adri erini ciri o’du erini e’yo nde erizurisi; ka’dini oyo erini nga pa so ra, azini vini e’yo ombeza erini ani i orindi ombezuri nga pa so ra indio ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.7",
+            "verseOrgIds": [
+              "NUM.30.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NUM 30:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.3.16"
+              },
+              "items": [
+                {
+                  "text": "E’do 3:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.7.4"
+              },
+              "items": [
+                {
+                  "text": "1 Kor 7:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.14.34"
+              },
+              "items": [
+                {
+                  "text": "14:34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.5.22+EPH.5.23+EPH.5.24"
+              },
+              "items": [
+                {
+                  "text": "Efe 5:22-24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.3.18"
+              },
+              "items": [
+                {
+                  "text": "Kol 3:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.3.1"
+              },
+              "items": [
+                {
+                  "text": "1 Pet 3:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.2.11"
+              },
+              "items": [
+                {
+                  "text": "1 Tim 2:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.2.12"
+              },
+              "items": [
+                {
+                  "text": "12",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Te agupi erini ka ga si, o’du erini e’yo nde erizurisi, ka’dini eri nga oyo ovupi eri ma driari pi ’ba toko, e’yo efupi eri ma tilia egata kokoru erini ani i orindi ombezuri be; Yehovani nga eri ma e’yo onzi ku ra. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.8",
+            "verseOrgIds": [
+              "NUM.30.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NUM 30:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.21.7"
+              },
+              "items": [
+                {
+                  "text": "Lev 21:7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Te oyo awuzini, kani oku drole ’borini, ada e’yo dria erini ani i orindi ombezu ’diyi yi nga pa so eri ma dria ra. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.9",
+            "verseOrgIds": [
+              "NUM.30.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NUM 30:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Te eri ka ndra e’yo azi oyo sozasi i agupi vile akua, kani eri ka ndra i orindi ombe e’yo ombeza oyonirisi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.10",
+            "verseOrgIds": [
+              "NUM.30.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NUM 30:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "te agupi erini ka ndra eri ra, te eri adri erini ciri, ogani ndra eri ku; ka’dini e’yo erini azile oyo sozasiri nga pa so dria ra, azini e’yo ombeza erini ani i orindi ombezuri nga pa so dria ra indi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.11",
+            "verseOrgIds": [
+              "NUM.30.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NUM 30:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Te agupi ka e’yo nde ga si, ka ’ba toko o’du erini e’yo nde erizurisi, ka’dini e’yo efupi eri ma tilea oyo sozasi, kani e’yo ombeza erini i orindi ombezurisiri ngani pa so ku; agupi erini ’ba yi tokoru ’bo, Yehovani nga e’yo onzi erini ku ra. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.12",
+            "verseOrgIds": [
+              "NUM.30.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NUM 30:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "E’yo dria azile oyo sozasi ’diyi pi, oyo okporu ’bani ani yi ma orindi ecandizu ’diyi be, agupi eco yi ’ba pa sozuni, agupi eco vini yi ’bazaru tokoni indio ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.13",
+            "verseOrgIds": [
+              "NUM.30.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NUM 30:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Te agupi erini ka adri erini ciri etuzu, ka’dini eri e’yo erini azile oyo sozasi ’diyi pi fe pa sozu, e’yo ombeza ovupi eri ma dria ’diyi pie dria; eri fe yini pa sozu ra ,erini ovule erini ciri o’du erini ’yo nde erizurisirisi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.14",
+            "verseOrgIds": [
+              "NUM.30.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NUM 30:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Te eri ka e’yo nde ’diyi ga si ’bazu toko, erini e’yo nde erizu ’bori ma vutia, ka’dini eri nga oku erini ma e’yo onzi ’du i dria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.15",
+            "verseOrgIds": [
+              "NUM.30.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NUM 30:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.15",
+            "verseOrgIds": [
+              "NUM.30.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NUM 30:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "’Diyi e’yo azitaru Yehovani azile Musa dri e’yo agupi pi ma eselia oku ini beri ma dria, azini e’yo ata pi ma eselia i zi ovupi nga zamva­ru i ati vile akuari beri ma dria ’diyi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.16",
+            "verseOrgIds": [
+              "NUM.30.16"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NUM.31",
+    "number": "31",
+    "bookId": "NUM"
+  },
+  "previous": {
+    "id": "NUM.29",
+    "number": "29",
+    "bookId": "NUM"
+  }
+}

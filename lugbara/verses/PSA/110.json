@@ -1,0 +1,248 @@
+{
+  "id": "PSA.110",
+  "number": "110",
+  "bookId": "PSA",
+  "reference": "Zaburi 110",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "110",
+        "style": "c",
+        "sid": "PSA 110"
+      },
+      "items": [
+        {
+          "text": "110",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 110:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.1",
+            "verseOrgIds": [
+              "PSA.110.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.45.6"
+              },
+              "items": [
+                {
+                  "text": "Zab 45:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.22.44"
+              },
+              "items": [
+                {
+                  "text": "Mat 22:44",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.12.36"
+              },
+              "items": [
+                {
+                  "text": "Mar 12:36",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.20.42+LUK.20.43"
+              },
+              "items": [
+                {
+                  "text": "Luk 20:42-43",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.15.25"
+              },
+              "items": [
+                {
+                  "text": "1 Kor 15:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.2.34+ACT.2.35"
+              },
+              "items": [
+                {
+                  "text": "’Yeta 2:34-35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.15.25"
+              },
+              "items": [
+                {
+                  "text": "1 Kor 15:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.1.20+EPH.1.21+EPH.1.22"
+              },
+              "items": [
+                {
+                  "text": "Efe 1:20-22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.3.1"
+              },
+              "items": [
+                {
+                  "text": "Kol 3:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.1.13"
+              },
+              "items": [
+                {
+                  "text": "Ebra 1:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.8.1"
+              },
+              "items": [
+                {
+                  "text": "8:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.10.12+HEB.10.13"
+              },
+              "items": [
+                {
+                  "text": "10:12-13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Yehova ’yo opi mani ma tia: Mi ri ma dri ndiria, de nga ma ’bani ari’ba mini ovuzu afa mi pa ’bazu driniariru ku.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.1",
+            "verseOrgIds": [
+              "PSA.110.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.111",
+    "number": "111",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.109",
+    "number": "109",
+    "bookId": "PSA"
+  }
+}

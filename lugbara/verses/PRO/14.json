@@ -1,0 +1,135 @@
+{
+  "id": "PRO.14",
+  "number": "14",
+  "bookId": "PRO",
+  "reference": "E'Yo O'Beza 14",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "14",
+        "style": "c",
+        "sid": "PRO 14"
+      },
+      "items": [
+        {
+          "text": "14",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 14:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.14.1",
+            "verseOrgIds": [
+              "PRO.14.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "RUT.4.11"
+              },
+              "items": [
+                {
+                  "text": "Rut 4:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.24.3"
+              },
+              "items": [
+                {
+                  "text": "O’be 24:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.24.4"
+              },
+              "items": [
+                {
+                  "text": "4",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Oku onduaru ’diyi dria si yi ma jo ra, te oku ondua kokoruri anzu eri va i ma ngulupi ma drisi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.14.1",
+            "verseOrgIds": [
+              "PRO.14.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.15",
+    "number": "15",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.13",
+    "number": "13",
+    "bookId": "PRO"
+  }
+}

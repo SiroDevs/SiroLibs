@@ -1,0 +1,2071 @@
+{
+  "id": "DEU.14",
+  "number": "14",
+  "bookId": "DEU",
+  "reference": "Azita Amvizu 14",
+  "verseCount": 29,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "14",
+        "style": "c",
+        "sid": "DEU 14"
+      },
+      "items": [
+        {
+          "text": "14",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DEU 14:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.1",
+            "verseOrgIds": [
+              "DEU.14.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.19.28"
+              },
+              "items": [
+                {
+                  "text": "Lev 19:28",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.21.5"
+              },
+              "items": [
+                {
+                  "text": "21:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.6.2"
+              },
+              "items": [
+                {
+                  "text": "E’do 6:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.6.4"
+              },
+              "items": [
+                {
+                  "text": "4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.4.22"
+              },
+              "items": [
+                {
+                  "text": "Efu 4:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.4.23"
+              },
+              "items": [
+                {
+                  "text": "23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.82.6"
+              },
+              "items": [
+                {
+                  "text": "Zab 82:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.82.7"
+              },
+              "items": [
+                {
+                  "text": "7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.3.19"
+              },
+              "items": [
+                {
+                  "text": "Yer 3:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.1.10"
+              },
+              "items": [
+                {
+                  "text": "Hos 1:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.1.10"
+              },
+              "items": [
+                {
+                  "text": "Rum 1:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.8.16"
+              },
+              "items": [
+                {
+                  "text": "8:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GAL.3.26"
+              },
+              "items": [
+                {
+                  "text": "Gal 3:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1JN.3.1"
+              },
+              "items": [
+                {
+                  "text": "1 Yoh 3:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.16.6"
+              },
+              "items": [
+                {
+                  "text": "Yer 16:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.41.5"
+              },
+              "items": [
+                {
+                  "text": "41:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TH.4.13"
+              },
+              "items": [
+                {
+                  "text": "1 Tes 4:13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Emi Yehova Mungu eminiri ma anzi; emi ma osi emi rua imvosi ku, emi ma fa vini emi mile ongoro’bi mile ma eseliari ’ba drapi ’bo ’diyi ma e’yosi aluni ku indio ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.1",
+            "verseOrgIds": [
+              "DEU.14.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DEU 14:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.19.5+EXO.19.6"
+              },
+              "items": [
+                {
+                  "text": "Efu 19:5-6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.4.20"
+              },
+              "items": [
+                {
+                  "text": "Azi 4:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.7.6"
+              },
+              "items": [
+                {
+                  "text": "7:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.26.18"
+              },
+              "items": [
+                {
+                  "text": "26:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "TIT.2.14"
+              },
+              "items": [
+                {
+                  "text": "Tit 2:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.2.9"
+              },
+              "items": [
+                {
+                  "text": "1 Pet 2:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.11.45"
+              },
+              "items": [
+                {
+                  "text": "Lev 11:45",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.19.2"
+              },
+              "items": [
+                {
+                  "text": "19:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.62.12"
+              },
+              "items": [
+                {
+                  "text": "Isa 62:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.8.24"
+              },
+              "items": [
+                {
+                  "text": "Dan 8:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.12.1"
+              },
+              "items": [
+                {
+                  "text": "Rum 12:1",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "A’disiku mi suru ovupi alatararu Yehova Mungu miniri driri, te Yehova pe mi aga suru ovupi nyakua ’diyi dria, ovuzu i ma afaru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.2",
+            "verseOrgIds": [
+              "DEU.14.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DEU 14:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.2",
+            "verseOrgIds": [
+              "DEU.14.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "DEU 14:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.3",
+            "verseOrgIds": [
+              "DEU.14.3"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.65.4"
+              },
+              "items": [
+                {
+                  "text": "Isa 65:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.4.14"
+              },
+              "items": [
+                {
+                  "text": "Eze 4:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.10.13"
+              },
+              "items": [
+                {
+                  "text": "’Yeta 10:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.14.14"
+              },
+              "items": [
+                {
+                  "text": "Rum 14:14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mi ma nya afa ngule onziri aluni ku. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.3",
+            "verseOrgIds": [
+              "DEU.14.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DEU 14:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.11.2"
+              },
+              "items": [
+                {
+                  "text": "Lev 11:2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Anyapa emini ecole nyale ’diyi yi ’di: ti pi, kabilo pi, ndri pi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.4",
+            "verseOrgIds": [
+              "DEU.14.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "DEU 14:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "yere pi, nyajo pi, eba pi, ndri aseari pi, oborojo pi, loa pi, kabilo oni driari pie. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.5",
+            "verseOrgIds": [
+              "DEU.14.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DEU 14:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Anyapa ma eselia, anyapa dria onyofi asipi asi, yi ma pa onyofini yi awazu iri iri, iribi ale amvipi ’diyi, emi eco yi nyazaru ra. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.6",
+            "verseOrgIds": [
+              "DEU.14.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "DEU 14:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Te ti, anyapa iribi ale amvipi ’diyi ma eselia, kani yi ma pa onyofini yi awazu iri iri ’diyi ma eselia, anyapa emini ecole nyale ku ’diyi yi ’di: ngamia pi, eto pi, ando pie, yi ovu alatarara kokoru emi dri a’disiku yi iribi ale amvi ra ’bo, bani yi ma pa onyofi asini yi ku. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.7",
+            "verseOrgIds": [
+              "DEU.14.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DEU 14:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Azini ezoni vini alatara kokoru emi dri a’disiku eri ma onyofi asi ra ’bo, te amvini bani iribi ale ku. Emi ma nya yi ma za ku, ma elo vini yi ma avu ku. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.8",
+            "verseOrgIds": [
+              "DEU.14.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "DEU 14:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Afa ovupi yia ’diyi ma eselia, emini ecole nyale ra ’diyi yi ’di: e’bi dria ovupi opile be azini ongo­ro’bo be ’diyi emi eco nyazaru. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.9",
+            "verseOrgIds": [
+              "DEU.14.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DEU 14:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Afa dria ovupi opile kokoru, azini ongoro’bo kokoru ’diyi emi ma nya ku; yi alatara kokoru emi dri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.10",
+            "verseOrgIds": [
+              "DEU.14.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "DEU 14:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Emi eco aria alatararu ’diyi nyazaru dria. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.11",
+            "verseOrgIds": [
+              "DEU.14.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DEU 14:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.11.13"
+              },
+              "items": [
+                {
+                  "text": "Lev 11:13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Aria emini ecole nyale ku ’diyi yi ’di: aji pi, iru pi, aji yia kubukubururi pi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.12",
+            "verseOrgIds": [
+              "DEU.14.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "DEU 14:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "gu’bere pi, idridria pi, yuku piyi suruti yini vusi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.13",
+            "verseOrgIds": [
+              "DEU.14.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "DEU 14:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "koreke piyi suruti yini vusi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.14",
+            "verseOrgIds": [
+              "DEU.14.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "DEU 14:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "aria okondoruri pi, dama­naka pi, yi aria pi, yuku pie sururi yini vusi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.15",
+            "verseOrgIds": [
+              "DEU.14.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "DEU 14:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "asikuu pi, elipidri pi, emaa pie, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.16",
+            "verseOrgIds": [
+              "DEU.14.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "DEU 14:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "yiaria aroruaru pi, roke pi, aria e’bi nyapiri pie, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.17",
+            "verseOrgIds": [
+              "DEU.14.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "DEU 14:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kapia pi, otonoko piyi suruti yini vusi, ebaaria pi, ’bi’bia pie. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.18",
+            "verseOrgIds": [
+              "DEU.14.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "DEU 14:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Afa opilebi be acipi valesi ’diyi ovu emi dri alatara kokoru; emi ma nya yi ku. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.19",
+            "verseOrgIds": [
+              "DEU.14.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "DEU 14:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Te emi eco aria alatararu ’diyi nyazaru dria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.20",
+            "verseOrgIds": [
+              "DEU.14.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "DEU 14:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.20",
+            "verseOrgIds": [
+              "DEU.14.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "DEU 14:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.21",
+            "verseOrgIds": [
+              "DEU.14.21"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.23.19"
+              },
+              "items": [
+                {
+                  "text": "Efu 23:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.34.26"
+              },
+              "items": [
+                {
+                  "text": "34:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.22.31"
+              },
+              "items": [
+                {
+                  "text": "22:31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.17.15"
+              },
+              "items": [
+                {
+                  "text": "Lev 17:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.22.8"
+              },
+              "items": [
+                {
+                  "text": "22:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.4.14"
+              },
+              "items": [
+                {
+                  "text": "Eze 4:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.44.31"
+              },
+              "items": [
+                {
+                  "text": "44:31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.23.19"
+              },
+              "items": [
+                {
+                  "text": "Efu 23:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.34.26"
+              },
+              "items": [
+                {
+                  "text": "34:26",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Emi ma nya afa aluni drapi drasi ceniri leu; te mi ceo eri fezaru ’ba emuza ovupi mi vile akuari dri, eri ma nyani, kani mi ceo eri je ani’bo dri je; a’disiku mi suru ala­tararu Yehova Mungu miniri dri. Mi ma a’di ndrimva andri ma lesusi ku.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.21",
+            "verseOrgIds": [
+              "DEU.14.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "DEU 14:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.21",
+            "verseOrgIds": [
+              "DEU.14.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "DEU 14:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.22",
+            "verseOrgIds": [
+              "DEU.14.22"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.27.30+LEV.27.31+LEV.27.32+LEV.27.33"
+              },
+              "items": [
+                {
+                  "text": "Lev 27:30-33",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.18.21"
+              },
+              "items": [
+                {
+                  "text": "Kal 18:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.12.6"
+              },
+              "items": [
+                {
+                  "text": "Azi 12:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.12.17"
+              },
+              "items": [
+                {
+                  "text": "17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NEH.10.37"
+              },
+              "items": [
+                {
+                  "text": "Neh 10:37",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mi ma fe ori dria kapi mi vile amvua eli vusi eli vusiri ma esele mudri ’diyi ma azi aluri ecekokoru. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.22",
+            "verseOrgIds": [
+              "DEU.14.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "DEU 14:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.2.11"
+              },
+              "items": [
+                {
+                  "text": "Zab 2:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.5.7"
+              },
+              "items": [
+                {
+                  "text": "5:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.3.13"
+              },
+              "items": [
+                {
+                  "text": "O’be 3:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.8.13"
+              },
+              "items": [
+                {
+                  "text": "Isa 8:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.32.38+JER.32.39+JER.32.40+JER.32.41"
+              },
+              "items": [
+                {
+                  "text": "Yer 32:38-41",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.12.28"
+              },
+              "items": [
+                {
+                  "text": "Ebra 12:28",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mi ma nya anya mini pi ma esele mudri ’diyi ma azi aluri Yehova Mungu miniri ma drilia pari erini ngale pele runini adrizu ’daa ’daniria, patiefi ma su miniri pie, odu mini pie, anyapa tile oko ti mini ma eselia azini kabilo mini ma eselia ’diyi pie; mi ma ni ani Yehova Mungu miniri ruzu ’dani beni. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.23",
+            "verseOrgIds": [
+              "DEU.14.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "DEU 14:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.12.21"
+              },
+              "items": [
+                {
+                  "text": "Azi 12:21",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Te Yehova Mungu miniri ka nga asi ndriza fe mi dri ’boria, geri ka zo mi dri tu aga ra, mini ecozu ani afa nde jizu ku, a’disiku pari Yehova Mungu eminirini pele runini adrizu ’daarini ovule mi be ziririsi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.24",
+            "verseOrgIds": [
+              "DEU.14.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "DEU 14:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ka’dini mi ma je di ani silingi’i, mi ma ombe silingi nde ’diyi, mi ’du mi dria, mi mu pari Yehova Mungu minirini ngale pele­ria, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.25",
+            "verseOrgIds": [
+              "DEU.14.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "DEU 14:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mi ma je afa mi asini leleri silingi nde ’diyisi, kani tini, kani kabiloni, kani patiefi ma suni, kani afa mvuza okari, kani afa mi asini leleri, ka a’dini ti; mi ma nya eri ’daa Yehova Mungu miniri ma drilia, mi ma ovu ayikosi ’ba mi vilei joa ’diyi be tualu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.26",
+            "verseOrgIds": [
+              "DEU.14.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "DEU 14:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.13.4"
+              },
+              "items": [
+                {
+                  "text": "Rum 13:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.15.27"
+              },
+              "items": [
+                {
+                  "text": "15:27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.9.1+1CO.9.2+1CO.9.3+1CO.9.4+1CO.9.5+1CO.9.6+1CO.9.7+1CO.9.8+1CO.9.9+1CO.9.10+1CO.9.11+1CO.9.12+1CO.9.13+1CO.9.14"
+              },
+              "items": [
+                {
+                  "text": "1 Kor 9:1-14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.18.20"
+              },
+              "items": [
+                {
+                  "text": "Kal 18:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.18.1"
+              },
+              "items": [
+                {
+                  "text": "Azi 18:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.18.2"
+              },
+              "items": [
+                {
+                  "text": "2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Azini vini Leviou ovupi mi vile akuari tani ma avi ku, a’disiku eri ovuni afa ini be, kani awuruso be mile ku. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.27",
+            "verseOrgIds": [
+              "DEU.14.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "DEU 14:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.4.4"
+              },
+              "items": [
+                {
+                  "text": "Amo 4:4",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Eli nari vusi dria erini asiria, mi ma ofu afa mini ezupi eli nderisi ’diyi ma esele mudri ma azi aluri dria, ma o’ba iriidria kalitilia alialeru; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.28",
+            "verseOrgIds": [
+              "DEU.14.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "DEU 14:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.10.18"
+              },
+              "items": [
+                {
+                  "text": "Azi 10:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.94.6"
+              },
+              "items": [
+                {
+                  "text": "Zab 94:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.1.17"
+              },
+              "items": [
+                {
+                  "text": "Isa 1:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.22.7"
+              },
+              "items": [
+                {
+                  "text": "Eze 22:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.22.29"
+              },
+              "items": [
+                {
+                  "text": "29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.14.12"
+              },
+              "items": [
+                {
+                  "text": "Luk 14:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.13.2"
+              },
+              "items": [
+                {
+                  "text": "Ebra 13:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.15.10"
+              },
+              "items": [
+                {
+                  "text": "Azi 15:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.41.1"
+              },
+              "items": [
+                {
+                  "text": "Zab 41:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.11.24"
+              },
+              "items": [
+                {
+                  "text": "O’be 11:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.19.17"
+              },
+              "items": [
+                {
+                  "text": "19:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.58.7+ISA.58.8+ISA.58.9+ISA.58.10+ISA.58.11+ISA.58.12"
+              },
+              "items": [
+                {
+                  "text": "Isa 58:7-12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAL.3.10"
+              },
+              "items": [
+                {
+                  "text": "Mal 3:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.11.41"
+              },
+              "items": [
+                {
+                  "text": "Luk 11:41",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CO.9.6+2CO.9.7+2CO.9.8+2CO.9.9+2CO.9.10+2CO.9.11"
+              },
+              "items": [
+                {
+                  "text": "2 Kor 9:6-11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "te ’ba Levinini ovule afa ini be ka­niawuruso bemile kurisi,eri nga emu nyani, nga tra ani, ani’bo pie, imvoa pie, awuziou pie, ovupi kali mini ma alia ’diyi; ’dini Yehova Mungu miniri ma fe ani asi ndriza mi dri azi mini ’yele drisi ’diyi ma alia dria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.14.29",
+            "verseOrgIds": [
+              "DEU.14.29"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DEU.15",
+    "number": "15",
+    "bookId": "DEU"
+  },
+  "previous": {
+    "id": "DEU.13",
+    "number": "13",
+    "bookId": "DEU"
+  }
+}

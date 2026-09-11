@@ -1,0 +1,2288 @@
+{
+  "id": "NUM.5",
+  "number": "5",
+  "bookId": "NUM",
+  "reference": "Kalafe 5",
+  "verseCount": 31,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "NUM 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NUM 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yehova nga di ’eyo ’yo Musa tia, kini, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.1",
+            "verseOrgIds": [
+              "NUM.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.13.3"
+              },
+              "items": [
+                {
+                  "text": "Lev 13:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.13.46"
+              },
+              "items": [
+                {
+                  "text": "46",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.12.14"
+              },
+              "items": [
+                {
+                  "text": "Kal 12:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.23.10"
+              },
+              "items": [
+                {
+                  "text": "Azi 23:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.24.8"
+              },
+              "items": [
+                {
+                  "text": "24:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.24.9"
+              },
+              "items": [
+                {
+                  "text": "9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.5.27"
+              },
+              "items": [
+                {
+                  "text": "2 Opi 5:27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.7.3"
+              },
+              "items": [
+                {
+                  "text": "7:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.26.20"
+              },
+              "items": [
+                {
+                  "text": "2 Sur 26:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.52.11"
+              },
+              "items": [
+                {
+                  "text": "Isa 52:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.17.12"
+              },
+              "items": [
+                {
+                  "text": "Luk 17:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.15.2"
+              },
+              "items": [
+                {
+                  "text": "Lev 15:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.21.1"
+              },
+              "items": [
+                {
+                  "text": "21:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.9.6"
+              },
+              "items": [
+                {
+                  "text": "Kal 9:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.9.10"
+              },
+              "items": [
+                {
+                  "text": "10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.19.11"
+              },
+              "items": [
+                {
+                  "text": "19:11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mi azi e’yo ami Israe­lini ma tia, kini, yi ma ofu ’ba ofu be ’diyi pi pari ’bani hema asozuriasi amve, ’ba afani razu eri ma ruaasi viru ’diyi pie, ’ba ovupi alatara ko­koru ’ba ma avu ma e’yosi ’diyi pie dria. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.2",
+            "verseOrgIds": [
+              "NUM.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NUM 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.25.8"
+              },
+              "items": [
+                {
+                  "text": "Efu 25:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.29.45"
+              },
+              "items": [
+                {
+                  "text": "29:45",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.26.11"
+              },
+              "items": [
+                {
+                  "text": "Lev 26:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.26.12"
+              },
+              "items": [
+                {
+                  "text": "12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.32.19"
+              },
+              "items": [
+                {
+                  "text": "Azi 32:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.22.19"
+              },
+              "items": [
+                {
+                  "text": "Yos 22:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.76.2"
+              },
+              "items": [
+                {
+                  "text": "Zab 76:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.37.26+EZK.37.27+EZK.37.28"
+              },
+              "items": [
+                {
+                  "text": "Eze 37:26-28",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.2.10"
+              },
+              "items": [
+                {
+                  "text": "Zek 2:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.14.17"
+              },
+              "items": [
+                {
+                  "text": "Yoh 14:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.14.23"
+              },
+              "items": [
+                {
+                  "text": "23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CO.6.16"
+              },
+              "items": [
+                {
+                  "text": "2 Kor 6:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.21.3"
+              },
+              "items": [
+                {
+                  "text": "Eceza 21:3",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Emi ma ofu ’ba dria kani agupiru kani okuru, emi ma ofu yi pari ’bani hema asozuriasi amve, yi ma eza pari yini hema asozu mani ovuzu aleniari ku beni. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.3",
+            "verseOrgIds": [
+              "NUM.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Anzi Israelini nga di ’ye ’dini, nga yi ofu pari hema asozuriasi amve ra; ekile Yehovani ’yole Musa ma tiarile, anzi Israelini ’ye ’dinile trotro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.4",
+            "verseOrgIds": [
+              "NUM.5.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.4",
+            "verseOrgIds": [
+              "NUM.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NUM 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.5",
+            "verseOrgIds": [
+              "NUM.5.5"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.6.1+LEV.6.2+LEV.6.3+LEV.6.4+LEV.6.5+LEV.6.6+LEV.6.7"
+              },
+              "items": [
+                {
+                  "text": "Lev 6:1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yehova nga ’yo Musa tia, kini, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.5",
+            "verseOrgIds": [
+              "NUM.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NUM 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.6.2"
+              },
+              "items": [
+                {
+                  "text": "Lev 6:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.6.3"
+              },
+              "items": [
+                {
+                  "text": "3",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mi ma ’yo anzi Israelini ma tia, kini, ’Ba agupiru kani okuru ka e’yo onzi ’bani adrile ’yele ’diyi ma azi ’ye ezata ezazu Yehova vu, ’ba nde nga ovu e’yo be i ma dria; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.6",
+            "verseOrgIds": [
+              "NUM.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NUM 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.5.5"
+              },
+              "items": [
+                {
+                  "text": "Lev 5:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.26.40"
+              },
+              "items": [
+                {
+                  "text": "26:40",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.7.19"
+              },
+              "items": [
+                {
+                  "text": "Yos 7:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.6.5"
+              },
+              "items": [
+                {
+                  "text": "Lev 6:5",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "ka’dini yi ma e’da e’yo onzi yini ’yeleri ra, eri ma ofe afa nde e’yonini ovuzu eri ma driari kililiru, ma ’ba afa nderi ma esele towi ma azi aluri drinia, ma fe eri ’ba nde erini ’yele onzi vunia e’yonini ovuzu eri ma driari dri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.7",
+            "verseOrgIds": [
+              "NUM.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NUM 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.7.7"
+              },
+              "items": [
+                {
+                  "text": "Lev 7:7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Te ’ba nde ma ori’ba, erini ani e’yo eri ma driari ma arioti ofezu vuniari ka adri yo, e’yo onzi nde ma arioti ofeza ’bani ofele Yehova driri ma ovu kuhanini, ma fe eri eri dri kabiloago e’yo onzi edezu, yini ani eri ma e’yo onzi edezuri be tualu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.8",
+            "verseOrgIds": [
+              "NUM.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NUM 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.29.28"
+              },
+              "items": [
+                {
+                  "text": "Efu 29:28",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Edeta dria ’dule uru afa alatararu anzi Israelini ’diyini ma eselia, yini fele kuhani dri ’diyi, nga ovu erini. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.9",
+            "verseOrgIds": [
+              "NUM.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NUM 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.10.13"
+              },
+              "items": [
+                {
+                  "text": "Lev 10:13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Afa dria ’ba driani o’bale ndu alatararu ’diyi nga ovu vini erini; afa ’bani fele kuhani driri ka ngoni ti, nga ovu erini,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.10",
+            "verseOrgIds": [
+              "NUM.5.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NUM 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.10",
+            "verseOrgIds": [
+              "NUM.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NUM 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yehova nga ’yo Musa tia, kini, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.11",
+            "verseOrgIds": [
+              "NUM.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NUM 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.2.16"
+              },
+              "items": [
+                {
+                  "text": "O’be 2:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.7.10+PRO.7.11+PRO.7.12+PRO.7.13+PRO.7.14+PRO.7.15+PRO.7.16+PRO.7.17+PRO.7.18+PRO.7.19+PRO.7.20+PRO.7.21+PRO.7.22+PRO.7.23+PRO.7.24+PRO.7.25+PRO.7.26+PRO.7.27"
+              },
+              "items": [
+                {
+                  "text": "7:10-27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.4.13"
+              },
+              "items": [
+                {
+                  "text": "Hos 4:13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mi olu e’yo anzi Israelini ma tia, mi ’yo yi ma tia kini, ’Ba azini ma oku ka i oja e’yo ’yezu kalaasi, ka eza agupi ini vu, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.12",
+            "verseOrgIds": [
+              "NUM.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NUM 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.18.20"
+              },
+              "items": [
+                {
+                  "text": "Lev 18:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.20.10"
+              },
+              "items": [
+                {
+                  "text": "20:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.30.20"
+              },
+              "items": [
+                {
+                  "text": "O’be 30:20",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "’ba azini ka la erisi, te agupi ndreni e’yoni i milesi ku, yi ka e’yo nderi oci ci, oku nde eza ra, te ’ba e’yo eti nzepi eri ma ruaari yo, isuni vini eri yini e’yo nde ’yeriaria ku; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.13",
+            "verseOrgIds": [
+              "NUM.5.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NUM 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.6.34"
+              },
+              "items": [
+                {
+                  "text": "O’be 6:34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "SNG.8.6"
+              },
+              "items": [
+                {
+                  "text": "Ong 8:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.19.14"
+              },
+              "items": [
+                {
+                  "text": "Isa 19:14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "e’yoni ka fi agupi ma asia onzi, erini ovuzu ani onzi oku ini vu, de eri eza e’yo ada, kani e’yo ka fi eri ma asia onzi, erini ovuzu ani onzi oku ini vu, de eri ezani e’yo ku; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.14",
+            "verseOrgIds": [
+              "NUM.5.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NUM 5:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.5.11"
+              },
+              "items": [
+                {
+                  "text": "Lev 5:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.53.2"
+              },
+              "items": [
+                {
+                  "text": "Isa 53:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1KI.17.18"
+              },
+              "items": [
+                {
+                  "text": "1 Opi 17:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.29.16"
+              },
+              "items": [
+                {
+                  "text": "Eze 29:16",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "agu nde ma eji di oku ini; kuhani vu, ma eji afa feza erini eri ma e’yo edezuri indi, ’du abaka ma aliari ma esele mudri ma azi alu; te eri ma osu odu drinia ku, ma o’ba obiese vele veri drinia ku indi, erini ovule edeta edele anyafurasi e’yo asia onziri edezurisi, eri edeta edele anyafurasi e’yo egazuriru, fezu yini yi ma e’yo onzi egazu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.15",
+            "verseOrgIds": [
+              "NUM.5.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NUM 5:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.1.3"
+              },
+              "items": [
+                {
+                  "text": "Lev 1:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.17.10"
+              },
+              "items": [
+                {
+                  "text": "Yer 17:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.28.9"
+              },
+              "items": [
+                {
+                  "text": "1 Sur 28:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAL.3.5"
+              },
+              "items": [
+                {
+                  "text": "Mal 3:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.13.4"
+              },
+              "items": [
+                {
+                  "text": "Ebra 13:4",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Kuhani ma fe eri ma esi ogogo, ma ’ba eri Yehova ma drilia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.16",
+            "verseOrgIds": [
+              "NUM.5.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "NUM 5:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuhanini nga yi alatararuri be imvu sile odrisiri ma alia; kuhanini nga di irifura ovupi hema ma alia vari ma azi omvu, nga eri yi yi nde ma alia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.17",
+            "verseOrgIds": [
+              "NUM.5.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "NUM 5:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuhanini nga oku nde ’ba Yehova ma drilia, nga oku nde ma dri’bi ayu ra, nga edeta edele anyafurasi e’yo egazuriru ovupi edeta edele anyafurasi e’yo asia onziri edezuri ’ba eri ma dri agelea, de kuhani ovu yi drazaru ’ba dri wazuri be i ma dria. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.18",
+            "verseOrgIds": [
+              "NUM.5.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "NUM 5:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuhanini nga fe erini oyo sozu, nga ’yo oku nde ma tia, ’Ba azini ka la misi ku mi ka mi oja e’yo alatara kokoruri, ’yezu kalaasi, de mini ovuria mi agupi ma palaaria ku, ka’dini yi drazaru ’ba dri wazu ’diri ma ’ye mi onzi ku. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.19",
+            "verseOrgIds": [
+              "NUM.5.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "NUM 5:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Te mi ka mi oja e’yo ’yezu kalaasi de mini ovuria mi agupi ma palaaria ra, mi ka eza ra, ’ba azini ovupi agupi mini kuri ka la misi ra, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.20",
+            "verseOrgIds": [
+              "NUM.5.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "NUM 5:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.9.25"
+              },
+              "items": [
+                {
+                  "text": "E’do 9:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.6.26"
+              },
+              "items": [
+                {
+                  "text": "Yos 6:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.14.24"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 14:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NEH.10.29"
+              },
+              "items": [
+                {
+                  "text": "Neh 10:29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAL.4.6"
+              },
+              "items": [
+                {
+                  "text": "Mal 4:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.26.74"
+              },
+              "items": [
+                {
+                  "text": "Mat 26:74",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.65.15"
+              },
+              "items": [
+                {
+                  "text": "Isa 65:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.29.22"
+              },
+              "items": [
+                {
+                  "text": "Yer 29:22",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "(kuhanini nga di fe oku ma wa i dri oyo ’ba dri wazurisi, kuhanini nga ’yo oku ma tia kini), Yehova ma ’ba mi ovuzu tritaru, azini oyoru ’ba mini ma eselia, Yehova ka nga fe mi o’duni ondrizu azini mi aleni mbazuria; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.21",
+            "verseOrgIds": [
+              "NUM.5.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "NUM 5:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.109.18"
+              },
+              "items": [
+                {
+                  "text": "Zab 109:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.1.31"
+              },
+              "items": [
+                {
+                  "text": "O’be 1:31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.3.3"
+              },
+              "items": [
+                {
+                  "text": "Eze 3:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.27.15"
+              },
+              "items": [
+                {
+                  "text": "Azi 27:15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "yi ’ba dri wazu ’diri ma fi mi alia, ma fe mi aleni pizu azini mi o’duni ondrizu ra, Te oku nde nga ’yo, Amena, Amena. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.22",
+            "verseOrgIds": [
+              "NUM.5.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "NUM 5:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuhanini nga e’yo dri wazu ’diyi osi buku ma alia ci, nga di yi oji yinini razu yi drazaru ’diri ma alia; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.23",
+            "verseOrgIds": [
+              "NUM.5.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "NUM 5:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "eri ma fe oku nde ma mvu yi drazaru ’ba dri wazu nderi ra, yi ’ba dri wazu nderi nga fi eri ma alia, nga i oja drazaru. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.24",
+            "verseOrgIds": [
+              "NUM.5.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "NUM 5:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.29.24"
+              },
+              "items": [
+                {
+                  "text": "Efu 29:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.8.27"
+              },
+              "items": [
+                {
+                  "text": "Lev 8:27",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Kuhanini nga edeta edele anyafurasi e’yo asia onziri edezuri a’i oku nderi ma dria, nga edeta anyafurasi nderi oya Yehova ma drilia, nga eri ji ’ba pari edeta edezuri ma dria; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.25",
+            "verseOrgIds": [
+              "NUM.5.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "NUM 5:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.2.2"
+              },
+              "items": [
+                {
+                  "text": "Lev 2:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.2.9"
+              },
+              "items": [
+                {
+                  "text": "9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "kuhanini nga edeta edele anyafurasiri ndi driega alu tre ovuzu esele erini e’yo egazuriru, nga eri eve pari edeta edezuri ma dria, nga di oku nde imvu yi ndesi ndo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.26",
+            "verseOrgIds": [
+              "NUM.5.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "NUM 5:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.28.37"
+              },
+              "items": [
+                {
+                  "text": "Azi 28:37",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.83.9"
+              },
+              "items": [
+                {
+                  "text": "Zab 83:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ECC.7.26"
+              },
+              "items": [
+                {
+                  "text": "Ekl 7:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.65.15"
+              },
+              "items": [
+                {
+                  "text": "Isa 65:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.24.9"
+              },
+              "items": [
+                {
+                  "text": "Yer 24:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.8.13"
+              },
+              "items": [
+                {
+                  "text": "Zek 8:13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Te eri ka eri imvu yi ndesi ’bo, eri di nga eca ’dini, eri lea ndra eza ra, ka ndra e’yo onzi ’ye i agupi vu ra, yi ’ba dri wazurini firia eri ma alia, eri nga ofu drazaru, eri ma aleni nga mba ra, eri ma o’duni nga ondri ra, oku nde nga ovu tritaru i o’dipi ma eselia ra. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.27",
+            "verseOrgIds": [
+              "NUM.5.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "NUM 5:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.17.8"
+              },
+              "items": [
+                {
+                  "text": "Yob 17:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.17.9"
+              },
+              "items": [
+                {
+                  "text": "9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.37.5"
+              },
+              "items": [
+                {
+                  "text": "Zab 37:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.37.6"
+              },
+              "items": [
+                {
+                  "text": "6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.5.3+ROM.5.4+ROM.5.5"
+              },
+              "items": [
+                {
+                  "text": "Rum 5:3-5",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Te oku nde ka ndra eza ku, ka ovu alaru, eri nga ovu e’yo kokoru, eri nga anzi ti ra. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.28",
+            "verseOrgIds": [
+              "NUM.5.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "NUM 5:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "’Di azita e’yo ’ba asia onzirini, oku ovupi i agupi ma palaari ka i oja e’yo ’yezu kalaasi, ka i eza ra, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.29",
+            "verseOrgIds": [
+              "NUM.5.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "NUM 5:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kani e’yo ka fi agupi ma asia onzi erini ovuzu ani onzi oku ini vu; yi nga di oku nde ’ba Yehova ma drilia, kuhanini nga di azita ’diri ’ye eri ma ruaa dria. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.30",
+            "verseOrgIds": [
+              "NUM.5.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "NUM 5:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.20.17"
+              },
+              "items": [
+                {
+                  "text": "Lev 20:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.18.4"
+              },
+              "items": [
+                {
+                  "text": "Eze 18:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.2.8"
+              },
+              "items": [
+                {
+                  "text": "Rum 2:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.2.9"
+              },
+              "items": [
+                {
+                  "text": "9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Agu nde ma e’yo onzi nga ovu adizaru, te oku nde nga e’yo onzi ini ’du i’i.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.5.31",
+            "verseOrgIds": [
+              "NUM.5.31"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NUM.6",
+    "number": "6",
+    "bookId": "NUM"
+  },
+  "previous": {
+    "id": "NUM.4",
+    "number": "4",
+    "bookId": "NUM"
+  }
+}

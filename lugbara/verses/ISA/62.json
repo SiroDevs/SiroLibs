@@ -1,0 +1,68 @@
+{
+  "id": "ISA.62",
+  "number": "62",
+  "bookId": "ISA",
+  "reference": "Isaya 62",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "62",
+        "style": "c",
+        "sid": "ISA 62"
+      },
+      "items": [
+        {
+          "text": "62",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 62:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Zioni ma e’yosi ma ngani adri ciri ku,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.1",
+            "verseOrgIds": [
+              "ISA.62.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.63",
+    "number": "63",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.61",
+    "number": "61",
+    "bookId": "ISA"
+  }
+}

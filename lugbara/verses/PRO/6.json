@@ -1,0 +1,144 @@
+{
+  "id": "PRO.6",
+  "number": "6",
+  "bookId": "PRO",
+  "reference": "E'Yo O'Beza 6",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "PRO 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.6.1",
+            "verseOrgIds": [
+              "PRO.6.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.43.9"
+              },
+              "items": [
+                {
+                  "text": "E’do 43:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.27.13"
+              },
+              "items": [
+                {
+                  "text": "O’be 27:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.7.22"
+              },
+              "items": [
+                {
+                  "text": "Ebra 7:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZR.10.19"
+              },
+              "items": [
+                {
+                  "text": "Ezr 10:19",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ma mvi la, mi ka afa toboru fe mi agyisi, emi ka emi dri zi e’yo azizu ani’bo ma e’yosi ra;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.6.1",
+            "verseOrgIds": [
+              "PRO.6.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.7",
+    "number": "7",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.5",
+    "number": "5",
+    "bookId": "PRO"
+  }
+}

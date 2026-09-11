@@ -1,0 +1,131 @@
+{
+  "id": "PSA.48",
+  "number": "48",
+  "bookId": "PSA",
+  "reference": "Zaburi 48",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "48",
+        "style": "c",
+        "sid": "PSA 48"
+      },
+      "items": [
+        {
+          "text": "48",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 48:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.48.1",
+            "verseOrgIds": [
+              "PSA.48.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.2.2"
+              },
+              "items": [
+                {
+                  "text": "Isa 2:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "OBA.1.17"
+              },
+              "items": [
+                {
+                  "text": "Oba 1:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MIC.4.1"
+              },
+              "items": [
+                {
+                  "text": "Mik 4:1",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Yehovani amboru, ’ba ma inzi eri tu Mungu amani ma aku amboru­ri ma alia, oni erini alatara­ruria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.48.1",
+            "verseOrgIds": [
+              "PSA.48.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.49",
+    "number": "49",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.47",
+    "number": "47",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "JER.6",
+  "number": "6",
+  "bookId": "JER",
+  "reference": "Yeremia 6",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "JER 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.6.1",
+            "verseOrgIds": [
+              "JER.6.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.18.28"
+              },
+              "items": [
+                {
+                  "text": "Yos 18:28",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.1.21"
+              },
+              "items": [
+                {
+                  "text": "Lip 1:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NEH.3.14"
+              },
+              "items": [
+                {
+                  "text": "Neh 3:14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Emi nzu, emi pa emi, emi Benyamini anziyi la, emi fu Yerusalemuasi! Emi vu guka Tekoa, emi enga eceta Beti-hakeremu dria; a’disiku e’yo ewaru pini efule kalaa andraleruria dri jata amboru berisi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.6.1",
+            "verseOrgIds": [
+              "JER.6.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.7",
+    "number": "7",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.5",
+    "number": "5",
+    "bookId": "JER"
+  }
+}

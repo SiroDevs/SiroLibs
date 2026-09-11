@@ -1,0 +1,161 @@
+{
+  "id": "PSA.39",
+  "number": "39",
+  "bookId": "PSA",
+  "reference": "Zaburi 39",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "39",
+        "style": "c",
+        "sid": "PSA 39"
+      },
+      "items": [
+        {
+          "text": "39",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 39:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.39.1",
+            "verseOrgIds": [
+              "PSA.39.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1KI.2.4"
+              },
+              "items": [
+                {
+                  "text": "1 Opi 2:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.4.26"
+              },
+              "items": [
+                {
+                  "text": "O’be 4:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.4.27"
+              },
+              "items": [
+                {
+                  "text": "27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.2.1"
+              },
+              "items": [
+                {
+                  "text": "Ebra 2:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.4.5"
+              },
+              "items": [
+                {
+                  "text": "Kol 4:5",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ma ’yo ra, Ma nga geri mani ma agei te, ma kazu e’yo ezazu andre manisi ku; ma nga ti mani ma ta mba ’bani akanya ma ti ombelerile, de ’ba onzini ovuria ma drilia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.39.1",
+            "verseOrgIds": [
+              "PSA.39.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.40",
+    "number": "40",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.38",
+    "number": "38",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "ISA.50",
+  "number": "50",
+  "bookId": "ISA",
+  "reference": "Isaya 50",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "50",
+        "style": "c",
+        "sid": "ISA 50"
+      },
+      "items": [
+        {
+          "text": "50",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 50:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.50.1",
+            "verseOrgIds": [
+              "ISA.50.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.24.1"
+              },
+              "items": [
+                {
+                  "text": "Azi 24:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.2.2"
+              },
+              "items": [
+                {
+                  "text": "Hos 2:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.4.1"
+              },
+              "items": [
+                {
+                  "text": "2 Opi 4:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.18.25"
+              },
+              "items": [
+                {
+                  "text": "Mat 18:25",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Yehova ’yo ’dinile: Waraga mani mi andrini drozu rari eri ngoa ya? Kani ma nya ndra a’di ma mari, mani ani emi fezu tiniri ya? Emi ndre, fe emi je e’yo onzi eminisi, dro vini emi andrini ezata eminisi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.50.1",
+            "verseOrgIds": [
+              "ISA.50.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.51",
+    "number": "51",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.49",
+    "number": "49",
+    "bookId": "ISA"
+  }
+}

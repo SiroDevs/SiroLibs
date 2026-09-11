@@ -1,0 +1,982 @@
+{
+  "id": "3JN.1",
+  "number": "1",
+  "bookId": "3JN",
+  "reference": "3 Yohana 1",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "3JN 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "3JN 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.1",
+            "verseOrgIds": [
+              "3JN.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.19.29"
+              },
+              "items": [
+                {
+                  "text": "’Yeta 19:29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.16.23"
+              },
+              "items": [
+                {
+                  "text": "Rum 16:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.1.14"
+              },
+              "items": [
+                {
+                  "text": "1 Kor 1:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2JN.1.1"
+              },
+              "items": [
+                {
+                  "text": "2 Yoh 1:1",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Atalau, Gayo ovupi lezaru avasi, mani lele e’yo adaru ma aliari vu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.1",
+            "verseOrgIds": [
+              "3JN.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "3JN 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.1",
+            "verseOrgIds": [
+              "3JN.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "3JN 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.2",
+            "verseOrgIds": [
+              "3JN.1.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2JN.1.4"
+              },
+              "items": [
+                {
+                  "text": "2 Yoh 1:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "’Ba mani leleri, ma zi Mungu tia ’dini e’yo mini dria ma ovu onyiru, azini mi rua ma ovu alaru, ekile mi orindini ovule onyirurile. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.2",
+            "verseOrgIds": [
+              "3JN.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "3JN 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ma ovu ndra ayikosi tu, adripi ka eca e’yo mini adaruri ma eti nzezu, ekile mini acile e’yo adaru ma aliarile. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.3",
+            "verseOrgIds": [
+              "3JN.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "3JN 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ma ovuni ayiko azini amboru ayiko ’diri agapi rari be ku, mani eriria kini anzi mani yi ad e’yo i adaruri ma alia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.4",
+            "verseOrgIds": [
+              "3JN.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "3JN 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.4",
+            "verseOrgIds": [
+              "3JN.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "3JN 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "’Ba mani leleri, azi mini ’yele adripi vu, ka tro ’ba mini nile ku ’diyi tiri eri azi adaruri’i. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.5",
+            "verseOrgIds": [
+              "3JN.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "3JN 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "TIT.3.13"
+              },
+              "items": [
+                {
+                  "text": "Tit 3:13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "’Ba nde ’diyi nze leta mini ma e’yo ma eti kanisa ma milia. Mi nga ’ye onyiru mi ka yi idri drile acita yini ma alia ekile dri fupi Mungu ma miliarile. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.6",
+            "verseOrgIds": [
+              "3JN.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "3JN 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.20.35"
+              },
+              "items": [
+                {
+                  "text": "’Yeta 20:35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.9.12"
+              },
+              "items": [
+                {
+                  "text": "1 Kor 9:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.9.15"
+              },
+              "items": [
+                {
+                  "text": "15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "A’disiku Ru nde ma e’yosi yi fu mu ra, afa aluni a’izu ’ba jururu dri ku. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.7",
+            "verseOrgIds": [
+              "3JN.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "3JN 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.13.2"
+              },
+              "items": [
+                {
+                  "text": "Ebra 13:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2JN.1.10"
+              },
+              "items": [
+                {
+                  "text": "2 Yoh 1:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "E’yo ’dirisi ama ma a’i ’ba ’dinile ’diyi ra, ’dini ama ma ovu ’ba azi ngapi yi be tualu e’yo adarusi ’diyi ani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.8",
+            "verseOrgIds": [
+              "3JN.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "3JN 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.8",
+            "verseOrgIds": [
+              "3JN.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "3JN 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ma si e’yo azini kanisa vu ’bo; te Diotrefe, lepi i ’bapi ’ba ’diyi ma driliari, a’ini ama ku. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.9",
+            "verseOrgIds": [
+              "3JN.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "3JN 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "E’yo ’dirisi, ma ka nga mu ra, ma nga azi erini ’yeleri ma e’yo ega, erini ama aji diria toko e’yo ’yoza onzikanyaru ’diyisi. Te e’yo ’diri funi dri eri dri a’dule ku, te eri ma ngulupi a’ini adripi ’diyi ku, eri vini ’ba lepi yi a’ipi ’diyi oga indi, yi odrozu kanisa ma aliasi amve.",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.10",
+            "verseOrgIds": [
+              "3JN.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "3JN 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.10",
+            "verseOrgIds": [
+              "3JN.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "3JN 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.11",
+            "verseOrgIds": [
+              "3JN.1.11"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1JN.3.6"
+              },
+              "items": [
+                {
+                  "text": "1 Yoh 3:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1JN.3.9"
+              },
+              "items": [
+                {
+                  "text": "9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "’Ba mani leleri, mi bi e’yo ovupi onziruri ma vuti ku, te e’yo onyiruri’i. ’Ba ’yepi onyiruri eri ’ba Munguni, te ’ba ’yepi onziri ndreni nga Mungu ku. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.11",
+            "verseOrgIds": [
+              "3JN.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "3JN 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.19.35"
+              },
+              "items": [
+                {
+                  "text": "Yoh 19:35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.21.24"
+              },
+              "items": [
+                {
+                  "text": "21:24",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "’Ba dria nze Demeterio ma e’yo eti ’bo, e’yo adaru ma ngulupi ece vini e’yo erini; ama e’yo erini ma eti nze ama’i indi, azini mi ni ra e’yo eti nzeza amani ovu adaru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.12",
+            "verseOrgIds": [
+              "3JN.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "3JN 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.12",
+            "verseOrgIds": [
+              "3JN.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "3JN 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.13",
+            "verseOrgIds": [
+              "3JN.1.13"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2JN.1.12"
+              },
+              "items": [
+                {
+                  "text": "2 Yoh 1:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ma ovu e’yo be kakau sizu mi vu, te ma leni yi sizu mi vu vino pisi kalamu be ku; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.13",
+            "verseOrgIds": [
+              "3JN.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "3JN 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "te ma le avasi mi ndrezu mbele, azini ama nga e’yo ’yo milia milia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.14",
+            "verseOrgIds": [
+              "3JN.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "3JN 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.14",
+            "verseOrgIds": [
+              "3JN.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "3JN 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Asi anzuru ma ovu mi be. Mi agyi ’diyi zi mi ci ci. Mi ma zi ma agyi ’dayi ci ci rusi rusi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "3JN.1.15",
+            "verseOrgIds": [
+              "3JN.1.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JUD.1",
+    "number": "1",
+    "bookId": "JUD"
+  },
+  "previous": {
+    "id": "2JN.1",
+    "number": "1",
+    "bookId": "2JN"
+  }
+}

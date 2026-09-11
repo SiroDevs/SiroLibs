@@ -1,0 +1,109 @@
+{
+  "id": "PSA.2",
+  "number": "2",
+  "bookId": "PSA",
+  "reference": "Zaburi 2",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "PSA 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.2.1",
+            "verseOrgIds": [
+              "PSA.2.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.4.25+ACT.4.26"
+              },
+              "items": [
+                {
+                  "text": "’Yeta 4:25-26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "’Ba jururu yi enga adrasi a’di e’yosi ya?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.2.1",
+            "verseOrgIds": [
+              "PSA.2.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.3",
+    "number": "3",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.1",
+    "number": "1",
+    "bookId": "PSA"
+  }
+}

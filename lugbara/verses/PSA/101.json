@@ -1,0 +1,68 @@
+{
+  "id": "PSA.101",
+  "number": "101",
+  "bookId": "PSA",
+  "reference": "Zaburi 101",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "101",
+        "style": "c",
+        "sid": "PSA 101"
+      },
+      "items": [
+        {
+          "text": "101",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 101:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ma nga ongo ngo yiki aleruri pi ma dria e’yo liza kililiruri be; Yehova la, ma nga ongo inzi­tani ngo mi vu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.1",
+            "verseOrgIds": [
+              "PSA.101.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.102",
+    "number": "102",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.100",
+    "number": "100",
+    "bookId": "PSA"
+  }
+}

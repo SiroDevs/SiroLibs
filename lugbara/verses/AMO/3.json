@@ -1,0 +1,127 @@
+{
+  "id": "AMO.3",
+  "number": "3",
+  "bookId": "AMO",
+  "reference": "Amosi 3",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "AMO 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Emi eri e’yo Yehovani ’yole emi ruaa ’diri, emi anzi Israelini la; adani, e’yo nde ovu suru pi mani ofule ejile engazu angu Misiriari ma ruaa, ’dini kini:",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.3.1",
+            "verseOrgIds": [
+              "AMO.3.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "AMO 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.3.11",
+            "verseOrgIds": [
+              "AMO.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "AMO 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yehova ’yo ’dini: Ekile ’ba kabilo ocepirini pa iri kani bi ma esele alu epale kami tiliarile, ’dinile indi yi nga Israeli anzi ripi Samariaa gbolo ma kalatia, bongo gboloni edele ndrila ndrila dri arizuri ma dria ’diyi opa ’dini.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.3.12",
+            "verseOrgIds": [
+              "AMO.3.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.4",
+    "number": "4",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.2",
+    "number": "2",
+    "bookId": "AMO"
+  }
+}

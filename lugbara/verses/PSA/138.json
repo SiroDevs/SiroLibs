@@ -1,0 +1,109 @@
+{
+  "id": "PSA.138",
+  "number": "138",
+  "bookId": "PSA",
+  "reference": "Zaburi 138",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "138",
+        "style": "c",
+        "sid": "PSA 138"
+      },
+      "items": [
+        {
+          "text": "138",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 138:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.138.1",
+            "verseOrgIds": [
+              "PSA.138.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.119.46"
+              },
+              "items": [
+                {
+                  "text": "Zab 119:46",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ma nga awa ’dia ’yo mi ria ma asi driasi; ma nga mi ru inzi ongosi adrou ’diyi ma drilia;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.138.1",
+            "verseOrgIds": [
+              "PSA.138.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.139",
+    "number": "139",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.137",
+    "number": "137",
+    "bookId": "PSA"
+  }
+}

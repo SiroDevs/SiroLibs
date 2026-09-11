@@ -1,0 +1,215 @@
+{
+  "id": "ISA.29",
+  "number": "29",
+  "bookId": "ISA",
+  "reference": "Isaya 29",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "29",
+        "style": "c",
+        "sid": "ISA 29"
+      },
+      "items": [
+        {
+          "text": "29",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 29:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arieli la! Arieli ta aku Daudini ’a’azu aleniari! Emi o’ba eli alu eli azini ma dria; omu ma eca eli vusi dika dika.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.29.1",
+            "verseOrgIds": [
+              "ISA.29.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 29:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.29.10",
+            "verseOrgIds": [
+              "ISA.29.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 29:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.29.11",
+            "verseOrgIds": [
+              "ISA.29.11"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.12.4"
+              },
+              "items": [
+                {
+                  "text": "Dan 12:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.11.25"
+              },
+              "items": [
+                {
+                  "text": "Mat 11:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.5.1"
+              },
+              "items": [
+                {
+                  "text": "Eceza 5:1",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Te afa ndreza dria ovu emi dri ekile e’yo ovupi sizaru buku ’bani tini opile ciri ma aliarile, buku nde ’bani fele ’ba nipi buku lapiri driri, ’yozu kini, Mi la buku ’diri fo. Te eri ’yo ra, kini, Ma econi ku, erini ovule opizaru cirisi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.29.11",
+            "verseOrgIds": [
+              "ISA.29.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 29:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Te ’ba nga di buku nde fe ’ba nipi buku lapi kuri dri, kini, Mi la buku ’diri fo. Te eri omvi e’yo kini, Ma nini buku lazu ku.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.29.12",
+            "verseOrgIds": [
+              "ISA.29.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.30",
+    "number": "30",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.28",
+    "number": "28",
+    "bookId": "ISA"
+  }
+}

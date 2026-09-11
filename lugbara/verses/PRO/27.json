@@ -1,0 +1,118 @@
+{
+  "id": "PRO.27",
+  "number": "27",
+  "bookId": "PRO",
+  "reference": "E'Yo O'Beza 27",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "27",
+        "style": "c",
+        "sid": "PRO 27"
+      },
+      "items": [
+        {
+          "text": "27",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 27:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.27.1",
+            "verseOrgIds": [
+              "PRO.27.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JAS.4.13+JAS.4.14+JAS.4.15+JAS.4.16"
+              },
+              "items": [
+                {
+                  "text": "Yak 4:13-16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.12.19"
+              },
+              "items": [
+                {
+                  "text": "Luk 12:19",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mi ovu afusi e’yo drusirisi ku, mini e’yo ngapi efupi o’du alu ma aliari nile kurisi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.27.1",
+            "verseOrgIds": [
+              "PRO.27.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.28",
+    "number": "28",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.26",
+    "number": "26",
+    "bookId": "PRO"
+  }
+}

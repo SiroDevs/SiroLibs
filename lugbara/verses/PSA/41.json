@@ -1,0 +1,118 @@
+{
+  "id": "PSA.41",
+  "number": "41",
+  "bookId": "PSA",
+  "reference": "Zaburi 41",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "41",
+        "style": "c",
+        "sid": "PSA 41"
+      },
+      "items": [
+        {
+          "text": "41",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 41:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.41.1",
+            "verseOrgIds": [
+              "PSA.41.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.14.21"
+              },
+              "items": [
+                {
+                  "text": "O’be 14:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.10.21"
+              },
+              "items": [
+                {
+                  "text": "Mar 10:21",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "’Ba ’ba alioru ma e’yo egapi yikisiri eri drilebaru! Yehovani nga eri ari etu candinirisi;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.41.1",
+            "verseOrgIds": [
+              "PSA.41.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.42",
+    "number": "42",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.40",
+    "number": "40",
+    "bookId": "PSA"
+  }
+}

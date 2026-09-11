@@ -1,0 +1,131 @@
+{
+  "id": "PSA.22",
+  "number": "22",
+  "bookId": "PSA",
+  "reference": "Zaburi 22",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "22",
+        "style": "c",
+        "sid": "PSA 22"
+      },
+      "items": [
+        {
+          "text": "22",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 22:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.1",
+            "verseOrgIds": [
+              "PSA.22.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.27.46"
+              },
+              "items": [
+                {
+                  "text": "Mat 27:46",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.15.34"
+              },
+              "items": [
+                {
+                  "text": "Mar 15:34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.5.7"
+              },
+              "items": [
+                {
+                  "text": "Ebra 5:7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mungu mani, Mungu mani, mi ku ma a’disi ya? Mi ovu ma vusi re ma aza kozu ku, mi erini e’yo mani otazu aniri ku a’disi ya?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.1",
+            "verseOrgIds": [
+              "PSA.22.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.23",
+    "number": "23",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.21",
+    "number": "21",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "PSA.82",
+  "number": "82",
+  "bookId": "PSA",
+  "reference": "Zaburi 82",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "82",
+        "style": "c",
+        "sid": "PSA 82"
+      },
+      "items": [
+        {
+          "text": "82",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 82:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.1",
+            "verseOrgIds": [
+              "PSA.82.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ECC.5.8"
+              },
+              "items": [
+                {
+                  "text": "Ekl 5:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.21.6"
+              },
+              "items": [
+                {
+                  "text": "Efu 21:6",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.1",
+            "verseOrgIds": [
+              "PSA.82.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.11.3"
+              },
+              "items": [
+                {
+                  "text": "Zab 11:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mungu so pa okuza Mungu­ni ma eselia; eri e’yo li Mungu azini eselia:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.1",
+            "verseOrgIds": [
+              "PSA.82.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.83",
+    "number": "83",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.81",
+    "number": "81",
+    "bookId": "PSA"
+  }
+}

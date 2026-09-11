@@ -1,0 +1,109 @@
+{
+  "id": "PSA.144",
+  "number": "144",
+  "bookId": "PSA",
+  "reference": "Zaburi 144",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "144",
+        "style": "c",
+        "sid": "PSA 144"
+      },
+      "items": [
+        {
+          "text": "144",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 144:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.1",
+            "verseOrgIds": [
+              "PSA.144.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2SA.22.35"
+              },
+              "items": [
+                {
+                  "text": "2 Sam 22:35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inzita Yehova vu, eri’i oni manini; eri dri mani imba omba ’bazu, azini eri drianzi mani imba a’di ’dizu;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.1",
+            "verseOrgIds": [
+              "PSA.144.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.145",
+    "number": "145",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.143",
+    "number": "143",
+    "bookId": "PSA"
+  }
+}

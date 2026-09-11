@@ -1,0 +1,68 @@
+{
+  "id": "JOB.37",
+  "number": "37",
+  "bookId": "JOB",
+  "reference": "Yobu 37",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "37",
+        "style": "c",
+        "sid": "JOB 37"
+      },
+      "items": [
+        {
+          "text": "37",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 37:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Asi mani oti oti e’yo ’dirisi indi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.37.1",
+            "verseOrgIds": [
+              "JOB.37.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.38",
+    "number": "38",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.36",
+    "number": "36",
+    "bookId": "JOB"
+  }
+}

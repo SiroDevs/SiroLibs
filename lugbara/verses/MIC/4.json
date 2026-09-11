@@ -1,0 +1,131 @@
+{
+  "id": "MIC.4",
+  "number": "4",
+  "bookId": "MIC",
+  "reference": "Mika 4",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "MIC 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.4.1",
+            "verseOrgIds": [
+              "MIC.4.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.2.2"
+              },
+              "items": [
+                {
+                  "text": "Isa 2:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.17.22"
+              },
+              "items": [
+                {
+                  "text": "Eze 17:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.2.44"
+              },
+              "items": [
+                {
+                  "text": "Dan 2:44",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Te eri nga eca ’dini ewu vilerisi kini, oni jo Yehova vilerinini nga pa so okporu, oni azini ’diyi ma dria dria, eri nga ovu ’bazaru uru oni were ’diyi ma dria indi; te suru yi nga ra eri vu ra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.4.1",
+            "verseOrgIds": [
+              "MIC.4.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.5",
+    "number": "5",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.3",
+    "number": "3",
+    "bookId": "MIC"
+  }
+}

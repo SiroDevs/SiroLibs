@@ -1,0 +1,68 @@
+{
+  "id": "PRO.21",
+  "number": "21",
+  "bookId": "PRO",
+  "reference": "E'Yo O'Beza 21",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "21",
+        "style": "c",
+        "sid": "PRO 21"
+      },
+      "items": [
+        {
+          "text": "21",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 21:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Opi ma asi ovu Yehova ma dria ekile yi gerile; Munguni tini ona pari ini leleria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.21.1",
+            "verseOrgIds": [
+              "PRO.21.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.22",
+    "number": "22",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.20",
+    "number": "20",
+    "bookId": "PRO"
+  }
+}

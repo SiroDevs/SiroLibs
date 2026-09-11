@@ -1,0 +1,68 @@
+{
+  "id": "PSA.140",
+  "number": "140",
+  "bookId": "PSA",
+  "reference": "Zaburi 140",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "140",
+        "style": "c",
+        "sid": "PSA 140"
+      },
+      "items": [
+        {
+          "text": "140",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 140:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mi pa ma, Yehova, ’ba onzi ma dria fo; mi mba ma ta ’ba ’ba ’yepi eganasi ’diyisi fo!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.1",
+            "verseOrgIds": [
+              "PSA.140.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.141",
+    "number": "141",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.139",
+    "number": "139",
+    "bookId": "PSA"
+  }
+}

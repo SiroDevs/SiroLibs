@@ -1,0 +1,68 @@
+{
+  "id": "PSA.64",
+  "number": "64",
+  "bookId": "PSA",
+  "reference": "Zaburi 64",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "64",
+        "style": "c",
+        "sid": "PSA 64"
+      },
+      "items": [
+        {
+          "text": "64",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 64:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mi eri o’duko mani, Mungu la, mani otaria mi vu; mi mba ma idri ina ta ma kazu ovuzu urisi ari’basi ku beni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.64.1",
+            "verseOrgIds": [
+              "PSA.64.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.65",
+    "number": "65",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.63",
+    "number": "63",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "PSA.88",
+  "number": "88",
+  "bookId": "PSA",
+  "reference": "Zaburi 88",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "88",
+        "style": "c",
+        "sid": "PSA 88"
+      },
+      "items": [
+        {
+          "text": "88",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 88:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yehova Mungu pata manirini ma wu mi milia etu zu ini be rra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.88.1",
+            "verseOrgIds": [
+              "PSA.88.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.89",
+    "number": "89",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.87",
+    "number": "87",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "id": "PSA.84",
+  "number": "84",
+  "bookId": "PSA",
+  "reference": "Zaburi 84",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "84",
+        "style": "c",
+        "sid": "PSA 84"
+      },
+      "items": [
+        {
+          "text": "84",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 84:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.1",
+            "verseOrgIds": [
+              "PSA.84.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.26.8"
+              },
+              "items": [
+                {
+                  "text": "Zab 26:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.27.4"
+              },
+              "items": [
+                {
+                  "text": "27:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.9.23"
+              },
+              "items": [
+                {
+                  "text": "Ebra 9:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.9.24"
+              },
+              "items": [
+                {
+                  "text": "24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.21.2"
+              },
+              "items": [
+                {
+                  "text": "Eceza 21:2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Bere mini ovu ndrizaru tu ’doni ya, Yehova asikari ongulumuru­niri la!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.1",
+            "verseOrgIds": [
+              "PSA.84.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.85",
+    "number": "85",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.83",
+    "number": "83",
+    "bookId": "PSA"
+  }
+}

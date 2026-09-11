@@ -1,0 +1,68 @@
+{
+  "id": "PSA.113",
+  "number": "113",
+  "bookId": "PSA",
+  "reference": "Zaburi 113",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "113",
+        "style": "c",
+        "sid": "PSA 113"
+      },
+      "items": [
+        {
+          "text": "113",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 113:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Emi inzi Yehova! Emi mzi, emi ati’ba Yehovani ’diyi la, emi inzi ru Yehovani!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.1",
+            "verseOrgIds": [
+              "PSA.113.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.114",
+    "number": "114",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.112",
+    "number": "112",
+    "bookId": "PSA"
+  }
+}

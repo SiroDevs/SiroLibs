@@ -1,0 +1,68 @@
+{
+  "id": "PSA.127",
+  "number": "127",
+  "bookId": "PSA",
+  "reference": "Zaburi 127",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "127",
+        "style": "c",
+        "sid": "PSA 127"
+      },
+      "items": [
+        {
+          "text": "127",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 127:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yehova ka jo si ku, ’ba jo sipi ’diyi yi azi ’ye toko. Yehova ka aku agei te ku, ’ba aku agei tepiri eri ovu mile be ’dani oye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.1",
+            "verseOrgIds": [
+              "PSA.127.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.128",
+    "number": "128",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.126",
+    "number": "126",
+    "bookId": "PSA"
+  }
+}

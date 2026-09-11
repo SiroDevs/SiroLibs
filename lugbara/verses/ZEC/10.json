@@ -1,0 +1,118 @@
+{
+  "id": "ZEC.10",
+  "number": "10",
+  "bookId": "ZEC",
+  "reference": "Zekaria 10",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "ZEC 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEC 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.1",
+            "verseOrgIds": [
+              "ZEC.10.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.14.22"
+              },
+              "items": [
+                {
+                  "text": "Yer 14:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOL.2.23"
+              },
+              "items": [
+                {
+                  "text": "Yoe 2:23",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Emi zi ozoo Yehova ma tia ewu ozoo ewadri vilerini ma alia; emi zi Yehova ovi ma diza ’bapiri, eri nga yi dri ozoo fe ra, aseni duzu ’ba alu alu dri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.1",
+            "verseOrgIds": [
+              "ZEC.10.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEC.11",
+    "number": "11",
+    "bookId": "ZEC"
+  },
+  "previous": {
+    "id": "ZEC.9",
+    "number": "9",
+    "bookId": "ZEC"
+  }
+}

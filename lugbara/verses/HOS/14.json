@@ -1,0 +1,165 @@
+{
+  "id": "HOS.14",
+  "number": "14",
+  "bookId": "HOS",
+  "reference": "Hosea 14",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "14",
+        "style": "c",
+        "sid": "HOS 14"
+      },
+      "items": [
+        {
+          "text": "14",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 14:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.14.1",
+            "verseOrgIds": [
+              "HOS.14.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.7.3"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 7:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.7.4"
+              },
+              "items": [
+                {
+                  "text": "4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.12.6"
+              },
+              "items": [
+                {
+                  "text": "Hos 12:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.55.6"
+              },
+              "items": [
+                {
+                  "text": "Isa 55:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.55.7"
+              },
+              "items": [
+                {
+                  "text": "7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Israeli la, emi emvi Yehova Mungu emini vu, emini e’dele e’yo onzi emini ma e’yosi ’borisi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.14.1",
+            "verseOrgIds": [
+              "HOS.14.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOL.1",
+    "number": "1",
+    "bookId": "JOL"
+  },
+  "previous": {
+    "id": "HOS.13",
+    "number": "13",
+    "bookId": "HOS"
+  }
+}
