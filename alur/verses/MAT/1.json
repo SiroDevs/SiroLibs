@@ -1,0 +1,893 @@
+{
+  "id": "MAT.1",
+  "number": "1",
+  "bookId": "MAT",
+  "reference": "Matayo 1",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MAT 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAT 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kitabu mi thekwaru pa Yesu Kristu, wod Daudi, wod Ibrahim.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.1",
+            "verseOrgIds": [
+              "MAT.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAT 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.1",
+            "verseOrgIds": [
+              "MAT.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAT 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ibrahim unyolo Isak; Isak ke nyolo Yakobo; Yakobo ke nyolo Yuda ku utumin mire; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.2",
+            "verseOrgIds": [
+              "MAT.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAT 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "man Yuda nyolo Perez man Zera kor Tamar; Perez ke nyolo Hezron; Hezron ke nyolo Aram; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.3",
+            "verseOrgIds": [
+              "MAT.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAT 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aram ke nyolo Aminadab; Aminadab ke nyolo Nahacon; Nahacon ke nyolo Salmon; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.4",
+            "verseOrgIds": [
+              "MAT.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAT 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Salmon ke nyolo Boaz kor Rahab; Boaz ke nyolo Obed kor Ruth; Obed ke nyolo Yese; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.5",
+            "verseOrgIds": [
+              "MAT.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAT 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.24.14"
+              },
+              "items": [
+                {
+                  "text": "2 Ub 24:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.24.15"
+              },
+              "items": [
+                {
+                  "text": "15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.36.10"
+              },
+              "items": [
+                {
+                  "text": "2 Kei 36:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.27.20"
+              },
+              "items": [
+                {
+                  "text": "Yer 27:20",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Yese ke nyolo Daudi m’ubimo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.6",
+            "verseOrgIds": [
+              "MAT.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAT 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi ke nyolo Suleman kor dhaku ma yang’ p’Uria; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.6",
+            "verseOrgIds": [
+              "MAT.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MAT 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Suleman ke nyolo Rehoboam; Rehoboam ke nyolo Abia; Abia ke nyolo Asa; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.7",
+            "verseOrgIds": [
+              "MAT.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAT 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Asa ke nyolo Yehocafat; Yehocafat ke nyolo Yoram; Yoram ke nyolo Uzia; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.8",
+            "verseOrgIds": [
+              "MAT.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MAT 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uzia ke nyolo Yotham; Yotham ke nyolo Ahaz; Ahaz ke nyolo Hezekia; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.9",
+            "verseOrgIds": [
+              "MAT.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MAT 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hezekia ke nyolo Manase; Manase ke nyolo Amon; Amon ke nyolo Yosia; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.10",
+            "verseOrgIds": [
+              "MAT.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAT 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yosia ke nyolo Yekonia ku utumin mire nindo ma gidak Babeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.11",
+            "verseOrgIds": [
+              "MAT.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAT 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.11",
+            "verseOrgIds": [
+              "MAT.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MAT 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yo ng’ei dak ma Babeli Yekonia nyolo Cealtiel; Cealtiel ke nyolo Zerubabel; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.12",
+            "verseOrgIds": [
+              "MAT.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAT 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Zerubabel ke nyolo Abihud; Abihud ke nyolo Eliakim; Eliakim ke nyolo Azor; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.13",
+            "verseOrgIds": [
+              "MAT.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MAT 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Azor ke nyolo Sadok; Sadok ke nyolo Ahim; Ahim ke nyolo Eliud; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.14",
+            "verseOrgIds": [
+              "MAT.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MAT 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eliud ke nyolo Eleazar; Eleazar ke nyolo Matan; Matan ke nyolo Yakobo; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.15",
+            "verseOrgIds": [
+              "MAT.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MAT 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yakobo ke nyolo Yusuf ma cwar Mariamu, m’unyolo Yesu, ma julwong’o Kristu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.16",
+            "verseOrgIds": [
+              "MAT.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MAT 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.16",
+            "verseOrgIds": [
+              "MAT.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MAT 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum kumeno thekwaru ceke m’ugambre kum Ibrahim utundo kum Daudi gi thekwaru apar wi ang’wen; m’ugambre de kum Daudi utundo kum dak ma Babeli de gi thekwaru apar wi ang’wen; m’ugambre kum dak ma Babeli de utundo kum Kristu gi thekwaru apar wi ang’wen.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.17",
+            "verseOrgIds": [
+              "MAT.1.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MAT 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.17",
+            "verseOrgIds": [
+              "MAT.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MAT 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.18",
+            "verseOrgIds": [
+              "MAT.1.18"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.27"
+              },
+              "items": [
+                {
+                  "text": "Lk 1:27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nwang’u nyol pa Yesu Kristu bedo kumae; Kinde ma min mire ma Mariamu Yusuf umaku benyome, ka fodi gibino karacelo ngo junwang’u egamu ic ku Tipo Maleng’. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.18",
+            "verseOrgIds": [
+              "MAT.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MAT 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yusuf de ma cware, kum en e ng’atu ma pwe, eyenyo ngo nia enyai lewic i wie i wang’ dhanu, e ie pido ya ekethe cen ling’. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.19",
+            "verseOrgIds": [
+              "MAT.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MAT 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ento ka ie pido kum lembe maeni, nen, malaika pa Rwoth uwok i bang’e ku wang’ lek ewacu kumae, Yusuf, i wod Daudi, lworo kud unegi nigamu Mariamu ma dhaku peri i beng’i: kum maeno m’egamu i ie en e pa Tipo Maleng’. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.20",
+            "verseOrgIds": [
+              "MAT.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MAT 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.31"
+              },
+              "items": [
+                {
+                  "text": "Lk 1:31",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Man ebinyolo nyathin ma nico; e ibilwong’o nyinge Yesu; kum en e ng’atu ma bilaru dhanu pare kud i dubo migi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.21",
+            "verseOrgIds": [
+              "MAT.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MAT 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nie maeni ceke timbre, kara lembe ma yang’ Rwoth uyero ku dhu jubila timbre kakare, m’uwacu kumae,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.22",
+            "verseOrgIds": [
+              "MAT.1.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MAT.2",
+    "number": "2",
+    "bookId": "MAT"
+  },
+  "previous": {
+    "id": "MAL.4",
+    "number": "4",
+    "bookId": "MAL"
+  }
+}

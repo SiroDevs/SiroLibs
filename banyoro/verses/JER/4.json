@@ -1,0 +1,157 @@
+{
+  "id": "JER.4",
+  "number": "4",
+  "bookId": "JER",
+  "reference": "Yer 4",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "JER 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yuda neehayirwa Kuseesirwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JER 4:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.4.10",
+            "verseOrgIds": [
+              "JER.4.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JER 4:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omu kasumi ako, abantu ba Yerusaalemu nubwo baligambirwa ngu, “omuyaga ogurukwokya niguteera niguruga omwirungu, nigutwara nambere bali. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.4.11",
+            "verseOrgIds": [
+              "JER.4.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JER 4:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omuyaga ogu, tiguliba muyaga omurungi ogunyakuhuuhuura omusunga gwonka, omuyaga oguliragirwa MUKAMA, guliba gw'amaani okukira ogu. Omu kasumi ako, Nyowe nyenka ninyowe ndibacwera omusango.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.4.12",
+            "verseOrgIds": [
+              "JER.4.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yeremiya omurangi nasaalirirwa abantu be",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yeremiya nayolekwa okuhwerekerra okukaba nikwija kubaho",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.5",
+    "number": "5",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.3",
+    "number": "3",
+    "bookId": "JER"
+  }
+}

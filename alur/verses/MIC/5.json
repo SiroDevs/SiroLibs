@@ -1,0 +1,559 @@
+{
+  "id": "MIC.5",
+  "number": "5",
+  "bookId": "MIC",
+  "reference": "Mika 5",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "MIC 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kawono ibicokri giri ni njuru, E nya njuru: etiekowa kud ali; gibigoyo japoklembe mir Israel ku dul i limbe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.1",
+            "verseOrgIds": [
+              "MIC.5.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.1",
+            "verseOrgIds": [
+              "MIC.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MIC 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.2",
+            "verseOrgIds": [
+              "MIC.5.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.2.6"
+              },
+              "items": [
+                {
+                  "text": "Mt 2:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.7.42"
+              },
+              "items": [
+                {
+                  "text": "Yoh 7:42",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ento in, Beth-lehem Efratha, m’i nok m’ibedo kind rubanga mi Yuda, ng’atu moko biwok i bang’a kud ii ma bibedo jabim i Israel; ma wokwoko pare gambre con, ugambre mi nja. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.2",
+            "verseOrgIds": [
+              "MIC.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MIC 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ka kumeno ebimiogi, maram nindo wok ko ma ng’atu m’usendre ku nyodo nyol i ie: e dong’ utumin m’udong’ bilund dwogo ba nyithindho mir Israel. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.3",
+            "verseOrgIds": [
+              "MIC.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MIC 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man ebicungo e ebikwayu udul pare ku tego pa Yehova, ku dwong’ mi nying’ Yehova Mungu pare: e gibibedo; kum kawono ebibedo dit cil i tung’ng’om. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.4",
+            "verseOrgIds": [
+              "MIC.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MIC 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "E ng’atu maeni bibedo kwiocwiny mwa. Kinde ma Jaascuri bimondo i ng’om mwa, man kinde m’ebiwotho i udiker mwa, e wabilund ting’o jukwac abiro i kume, man judongomawijo abora. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.5",
+            "verseOrgIds": [
+              "MIC.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MIC 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.10.8+GEN.10.9+GEN.10.10+GEN.10.11"
+              },
+              "items": [
+                {
+                  "text": "Tha 10:8-11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "E gibinyotho ng’om mir Ascur ku palamularu, ku ng’om mi Nimrod i kamondone: man ebibodhowa ni Jascuri, kinde m’emondo i ng’om mwa, man kinde m’ewotho yor i kieu mwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.6",
+            "verseOrgIds": [
+              "MIC.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MIC 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man dong’ Yakobo bibedo i kind kodhif dhanu dupa calu thoi m’uai ba Yehova, calu koth wi lum, ma galu ngo ni dhanu, kadi kuro wot dhanu de ngo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.7",
+            "verseOrgIds": [
+              "MIC.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MIC 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man dong’ Yakobo bibedo i kind thek, i die kodhidhanu dupa, calu umvor i kind yedi m’i luli, calu nyathin umvor i kind udul rombe; ma, tek ekadhu akadha, enyono piny man eyeco nziki nziki, e ng’atu moko mbe ma laru. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.8",
+            "verseOrgIds": [
+              "MIC.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wek cingi tingre malu wi jusend peri, man wek judegi peri ceke thumbri woko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.9",
+            "verseOrgIds": [
+              "MIC.5.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.9",
+            "verseOrgIds": [
+              "MIC.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MIC 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man ebitimbre i ceng’ maeca, Yehova wacu, nia abikabu riuni peri woko kud i kindi, man abinyotho magali peri: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.10",
+            "verseOrgIds": [
+              "MIC.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MIC 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "man abikabu adhura mi ng’om peri woko, man abing’ielo ka ma tek peri ceke. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.11",
+            "verseOrgIds": [
+              "MIC.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MIC 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man abikabu ajoga woko kud i cingi; e ibibedo ku jubila mi ndra kendo ngo: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.12",
+            "verseOrgIds": [
+              "MIC.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MIC 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "man abikabu ayi gin m’acwia peri m’ang’ika ku mbegi peri kud i kindi; e ibirwo ni tic mi cingi kendo ngo; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.13",
+            "verseOrgIds": [
+              "MIC.5.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MIC 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "e abikabu mungu m’araga peri kud i kindi; man abinyotho adhura peri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.14",
+            "verseOrgIds": [
+              "MIC.5.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MIC 5:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man abiculo kwor ku ng’ecwiny man kwinyo wi thek m’uwinjo ngo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.15",
+            "verseOrgIds": [
+              "MIC.5.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.6",
+    "number": "6",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.4",
+    "number": "4",
+    "bookId": "MIC"
+  }
+}

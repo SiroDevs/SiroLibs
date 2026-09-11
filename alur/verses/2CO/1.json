@@ -1,0 +1,889 @@
+{
+  "id": "2CO.1",
+  "number": "1",
+  "bookId": "2CO",
+  "reference": "2 Jukorinto 1",
+  "verseCount": 24,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "2CO 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "2CO 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.1",
+            "verseOrgIds": [
+              "2CO.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.18.1"
+              },
+              "items": [
+                {
+                  "text": "Tic 18:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Paolo, jakwenda pa Yesu Kristu ni yeny ma Mungu yenyo, man Timoteo m’umegwa, ni kanisa pa Mungu ma ni i Korinto, ku jumaleng’ ceke ma ni i Akaya yu: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.1",
+            "verseOrgIds": [
+              "2CO.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "2CO 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bero iwu man kwiocwiny m’uai ba Mungu ma Wegwa man Rwoth Yesu Kristu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.2",
+            "verseOrgIds": [
+              "2CO.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "2CO 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.2",
+            "verseOrgIds": [
+              "2CO.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "2CO 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mugisa ni Mungu man Won Rwoth mwa Yesu Kristu, ma Wego mi kisa man Mungu mi jukojuk ceke; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.3",
+            "verseOrgIds": [
+              "2CO.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "2CO 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "m’ejukowa i can mwa ceke, kara wacopo juko ju ma gini i can moko, ni kum jukojuk ma Mungu juko ko wan giwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.4",
+            "verseOrgIds": [
+              "2CO.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "2CO 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum calu sendri pa Kristu sagre iwa, e kumeno jukojuk mwa bende sagre ni kum Kristu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.5",
+            "verseOrgIds": [
+              "2CO.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "2CO 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ento kadok wasendra, en e pi jukojuk mu man both mu; kadi kadok wabedo ajuka, en e pi jukojuk mu, m’ubetimbre i ciro can ma calacel ku maeno ma wan bende wasendra kudo ku twiocwiny: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.6",
+            "verseOrgIds": [
+              "2CO.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "2CO 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "man genogen mwa piwu cungo tek; ma wang’eyo ko nia, calu wun wugamu kum sendrine, kumeno bende wu jugam jukne. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.7",
+            "verseOrgIds": [
+              "2CO.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "2CO 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.15.32"
+              },
+              "items": [
+                {
+                  "text": "1 Kor 15:32",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Kum wayenyo ngo, umego, ya wubed cobo kum lembe mi can ma wanwang’u i Asia, ya junurowa piny apila, ma sagu tego mwa, ketho cwinywa ai cil kum kwo: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.8",
+            "verseOrgIds": [
+              "2CO.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "2CO 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "eyo, wan giwa wabedo ku lembang’ola mi tho yor i iwa giwa, kara ku wagendra giwa, ento i Mungu re ma ting’o ju m’utho: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.9",
+            "verseOrgIds": [
+              "2CO.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "2CO 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "m’elaruwa kud i tho ma dit kumeni, man ebilaru: e waketho genogen mwa i ie ya ebilaruwa asu bende; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.10",
+            "verseOrgIds": [
+              "2CO.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "2CO 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ma wubekonyo karacelo bende piwa ku kwac ma wukwayu; kara, kum giramia ma jumio iwa ni kum dhanu dupa, foyofoc umire ku dhanu dupa ni kumwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.11",
+            "verseOrgIds": [
+              "2CO.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "2CO 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.11",
+            "verseOrgIds": [
+              "2CO.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "2CO 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum kulula mwa e eni, lembatuca mi pidocwiny mwa, nia i leng’cwiny man cwiny ma abombi mbe i ie pa Mungu, i rieko mi kum de ngo endre i bero pa Mungu, watimbra giwa i ng’om, ma sagu dit yor i beng’wu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.12",
+            "verseOrgIds": [
+              "2CO.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "2CO 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum wagoro iwu giki mange ngo, ndhu ma wusomo kadi ma wutuco, man ageno de ya wubituco cil i kajikne: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.13",
+            "verseOrgIds": [
+              "2CO.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "2CO 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "calu jumoko m’i kindwu bende gituco piwa, ya wan wa kulula mu, cil calu wun bende wu mwa, i ceng’ pa Rwoth mwa Yesu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.14",
+            "verseOrgIds": [
+              "2CO.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "2CO 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.14",
+            "verseOrgIds": [
+              "2CO.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "2CO 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "E i genogen maeni nwang’u ia pido ya alar abin i beng’wu, kara wunwang’ kuloka mir arionde; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.15",
+            "verseOrgIds": [
+              "2CO.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "2CO 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.19.21"
+              },
+              "items": [
+                {
+                  "text": "Tic 19:21",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "man abikadhu kud i beng’wu m’acidho ko i Makedoni, man kendo kud i Makedoni abibino i beng’wu, e wun e ma wubicika i woth para m’acidho ko i Yahudi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.16",
+            "verseOrgIds": [
+              "2CO.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "2CO 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "E kinde ma ia pido kumeno, anyutho lok ma pidoia lokre ko swa? kadi gin m’akeco ya abitimo, akeco calku kum, ya eyo eyo kud ungo ungo ubed nuti i bang’a? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.17",
+            "verseOrgIds": [
+              "2CO.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "2CO 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ento calu Mungu en e mandha, lembe mwa ma yor i beng’wu de en e eyo kud ungo de ngo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.18",
+            "verseOrgIds": [
+              "2CO.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "2CO 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.18.5"
+              },
+              "items": [
+                {
+                  "text": "Tic 18:5",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Kum Wod Mungu, Yesu Kristu, en nini ma pire yere i kindwu ni kuma, ndhu ni kuma waku Siluano man Timoteo, en e eyo kud ungo de ngo, ento i ie re en e eyo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.19",
+            "verseOrgIds": [
+              "2CO.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "2CO 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum kadok lembang’ola pa Mungu gi dupa, e eyo ni i ie: kum kumeno amen bende ni i kume, ni dwong’ pa Mungu ni kumwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.20",
+            "verseOrgIds": [
+              "2CO.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "2CO 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nie ng’atu m’uketho wanyang’ wakudu i Kristu, en m’ewirowa de, en e Mungu; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.21",
+            "verseOrgIds": [
+              "2CO.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "2CO 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "en bende m’eketho ayi i kumwa, man emio mukwatu mi Tipo i adundewa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.22",
+            "verseOrgIds": [
+              "2CO.1.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "2CO 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.22",
+            "verseOrgIds": [
+              "2CO.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "2CO 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ento alwong’o Mungu ni jamulembe mi pidoic para, kum ngisi nega i kumwu ketho akwero bino Korinto. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.23",
+            "verseOrgIds": [
+              "2CO.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "2CO 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "En e kum wan wa rwodhi mi yioyic mu ngo, endre wa jukony mi mutoro mu: kum i yioyic wucungo ki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.1.24",
+            "verseOrgIds": [
+              "2CO.1.24"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2CO.2",
+    "number": "2",
+    "bookId": "2CO"
+  },
+  "previous": {
+    "id": "1CO.16",
+    "number": "16",
+    "bookId": "1CO"
+  }
+}

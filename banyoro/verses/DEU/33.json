@@ -1,0 +1,47 @@
+{
+  "id": "DEU.33",
+  "number": "33",
+  "bookId": "DEU",
+  "reference": "Bir 33",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "33",
+        "style": "c",
+        "sid": "DEU 33"
+      },
+      "items": [
+        {
+          "text": "33",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Musa naasabira enganda za Isirairi omugisa",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DEU.34",
+    "number": "34",
+    "bookId": "DEU"
+  },
+  "previous": {
+    "id": "DEU.32",
+    "number": "32",
+    "bookId": "DEU"
+  }
+}

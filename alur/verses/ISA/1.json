@@ -1,0 +1,1178 @@
+{
+  "id": "ISA.1",
+  "number": "1",
+  "bookId": "ISA",
+  "reference": "Isaya 1",
+  "verseCount": 31,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "ISA 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.1",
+            "verseOrgIds": [
+              "ISA.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.15.1+2KI.15.2+2KI.15.3+2KI.15.4+2KI.15.5+2KI.15.6+2KI.15.7"
+              },
+              "items": [
+                {
+                  "text": "2 Ub 15:1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.26.1+2CH.26.2+2CH.26.3+2CH.26.4+2CH.26.5+2CH.26.6+2CH.26.7+2CH.26.8+2CH.26.9+2CH.26.10+2CH.26.11+2CH.26.12+2CH.26.13+2CH.26.14+2CH.26.15+2CH.26.16+2CH.26.17+2CH.26.18+2CH.26.19+2CH.26.20+2CH.26.21+2CH.26.22+2CH.26.23"
+              },
+              "items": [
+                {
+                  "text": "2 Kei 26:1-23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.15.32+2KI.15.33+2KI.15.34+2KI.15.35+2KI.15.36+2KI.15.37+2KI.15.38"
+              },
+              "items": [
+                {
+                  "text": "2 Ub 15:32-38",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.27.1+2CH.27.2+2CH.27.3+2CH.27.4+2CH.27.5+2CH.27.6+2CH.27.7+2CH.27.8+2CH.27.9"
+              },
+              "items": [
+                {
+                  "text": "2 Kei 27:1-9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.16.1+2KI.16.2+2KI.16.3+2KI.16.4+2KI.16.5+2KI.16.6+2KI.16.7+2KI.16.8+2KI.16.9+2KI.16.10+2KI.16.11+2KI.16.12+2KI.16.13+2KI.16.14+2KI.16.15+2KI.16.16+2KI.16.17+2KI.16.18+2KI.16.19+2KI.16.20"
+              },
+              "items": [
+                {
+                  "text": "2 Ub 16:1-20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.28.1+2CH.28.2+2CH.28.3+2CH.28.4+2CH.28.5+2CH.28.6+2CH.28.7+2CH.28.8+2CH.28.9+2CH.28.10+2CH.28.11+2CH.28.12+2CH.28.13+2CH.28.14+2CH.28.15+2CH.28.16+2CH.28.17+2CH.28.18+2CH.28.19+2CH.28.20+2CH.28.21+2CH.28.22+2CH.28.23+2CH.28.24+2CH.28.25+2CH.28.26+2CH.28.27"
+              },
+              "items": [
+                {
+                  "text": "2 Kei 28:1-27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n        2 Ub 18:1-20:21; 2 Kei 29:1-32:33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ginmawokiwang’ pa Isaya ma wod Amoz, m’eneno pi Yuda ku Yerusalem, i nindo pa Uzia, ku Yotham, man Ahaz, ku Hezekia, ma gin ubimo mi Yuda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.1",
+            "verseOrgIds": [
+              "ISA.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.1",
+            "verseOrgIds": [
+              "ISA.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wuwinji, E polo, man icik ithi, E ng’om; kum Yehova yero kumae: Agwoko man atungo nyithindho, e gijai ira. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.2",
+            "verseOrgIds": [
+              "ISA.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Koni dhiang’ ung’eyo won, man kana ng’eyo dero pa won; ento Israel ung’eyo ngo, dhanu para pido lembe ngo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.3",
+            "verseOrgIds": [
+              "ISA.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "A thek mi dubo, dhanu ma kier unurogi, kodhi mi jutim rac, nyithindho m’utimo gin mi nyoth mire! giweko Yehova, gicayu Ng’atu Maleng’ mir Israel, gikoc man gicoro cen. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.4",
+            "verseOrgIds": [
+              "ISA.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wuyenyo jugoiwu asu nedi, ketho wujai kendo kendo? wie dho lith, man adunde dho voc. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.5",
+            "verseOrgIds": [
+              "ISA.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ugambre i die tielo cil kum wie ubedo bo moko mbe i ie; ento lero, man wil, ku wang’goc ma nyen: jumwono wang’gi ngo, kadi jutwiogi de ngo, kadi juyomogi ku mo de ngo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.6",
+            "verseOrgIds": [
+              "ISA.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ng’om mu bedo ni uvuru; adhura mu juwang’u ku mac; ng’om mu, juwirok ucame i vutwu, man ebedo ni uvuru, calu juwirok ung’ielo gin. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.7",
+            "verseOrgIds": [
+              "ISA.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man Nyasayuni juweko calu odkur i podho mir ulok, calu odkur i podho mir ukuju, calu adhura ma jutieko kud ali. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.8",
+            "verseOrgIds": [
+              "ISA.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.19.24"
+              },
+              "items": [
+                {
+                  "text": "Tha 19:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.9.29"
+              },
+              "items": [
+                {
+                  "text": "Rum 9:29",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Tek Yehova mir udul kuweko iwa nyathi dong’ dhanu moko ngo, kuno di wabedo calu Sodoma, kuno di wabedo calu Gomora.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.9",
+            "verseOrgIds": [
+              "ISA.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.9",
+            "verseOrgIds": [
+              "ISA.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wuwinj lembe pa Yehova, wu jubim mi Sodoma; wucik ithwu kum cik pa Mungu mwa, wu dhanu mi Gomora. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.10",
+            "verseOrgIds": [
+              "ISA.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.5.21"
+              },
+              "items": [
+                {
+                  "text": "Amo 5:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.5.22"
+              },
+              "items": [
+                {
+                  "text": "22",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Udul lam mu en e ang’o ira? Yehova wacu: lam m’awang’a mi nyogi rombe, ku mio mi lim ma jukakugi ku cam uroma; man anyong’a nega ngo kum rim thwoni dhiang’, kadi mi nyithi rombe, kadi mi nyogi diegi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.11",
+            "verseOrgIds": [
+              "ISA.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kinde ma wubino nyuthru i wang’a, ng’a m’ulwong’o maeni i cingwu, ma nia wunyon lelagang’ para? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.12",
+            "verseOrgIds": [
+              "ISA.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kud wukel lam ma ie nanu kendo; udok ma ng’wice ng’ar en e ginmajudagu ira; dwi ma por ku sabatu, man lwong’o mi cokri, acopo kude ngo: en e kier, cil cokri mi rwo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.13",
+            "verseOrgIds": [
+              "ISA.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ISA 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Dwi ma por mu man agba mu ma juketho ng’eyong’ec para dagu; gi gin mir ang’abacwiny ira; aol ku cirogi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.14",
+            "verseOrgIds": [
+              "ISA.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ISA 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man kinde ma wuthang’u cingwu, abipanu wang’a iwu; eyo, kinde ma wutimo rwo dupa, abiwinjo ngo: cingwu pong’ ku rimo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.15",
+            "verseOrgIds": [
+              "ISA.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ISA 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wujom, wudwokru leng’; wukab dubo mi giratima mu cen kud i nyim wang’a; wuwek timo rac; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.16",
+            "verseOrgIds": [
+              "ISA.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ISA 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "wuponj ng’eyo timo ber; wuyeny pokolembe, wukony ju ma jusendo, wupok lembe mi kic, wucung kum dhaku ma cware tho.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.17",
+            "verseOrgIds": [
+              "ISA.1.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ISA 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.17",
+            "verseOrgIds": [
+              "ISA.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ISA 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wubin kawono, man wek waporu lembe karacelo, Yehova wacu: kadok dubo mu bedo kwar ngbo, gibibedo tar calu pei; kadok gi kwar calu rimo, gibibedo calu yuk rombe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.18",
+            "verseOrgIds": [
+              "ISA.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ISA 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tek wuwinjo man wuworo, wubicamu gin ma ber m’i ng’om: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.19",
+            "verseOrgIds": [
+              "ISA.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ISA 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ento tek wukwero man wujai, palamularu bicamuwu kum dhu Yehova yero maeni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.20",
+            "verseOrgIds": [
+              "ISA.1.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ISA 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.20",
+            "verseOrgIds": [
+              "ISA.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ISA 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Adhura mandha doko ni won asara mire ma! en ma naka epong’ ku pokolembe mire! naka bedopwe gonjo i ie, ento kawono junek. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.21",
+            "verseOrgIds": [
+              "ISA.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "ISA 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mola ma tar peri doko usau, pigulok peri ke ajeba ku pi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.22",
+            "verseOrgIds": [
+              "ISA.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "ISA 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Judongomawijo peri gijai, man gi juwadi jukwo; kubang’gi kubang’gi ng’atuman umaru jamng’om, man elubo tok sukulia: e gipoko lembe mi kic ungo, kadok lembe pa dhaku ma cware tho de wok i bang’gi ngo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.23",
+            "verseOrgIds": [
+              "ISA.1.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "ISA 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.23",
+            "verseOrgIds": [
+              "ISA.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "ISA 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ka kumeno Rwoth, Yehova mir udul, Ng’atu Matek mir Israel uwacu kumae, A, abijukra kum jusend para, man abiculo kwor kum judegina pira; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.24",
+            "verseOrgIds": [
+              "ISA.1.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "ISA 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "man abiloko cinga i kumi, man abikabu munyali peri pet, e abikabu usau peri ceke cen; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.25",
+            "verseOrgIds": [
+              "ISA.1.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "ISA 1:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "man abidwoko jupoklembe peri calu ma kwong’a, man juporlembe peri calu ma kwong’a: yo ku ng’eye jubilwong’i Adhura mi bedopwe, adhura mandha. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.26",
+            "verseOrgIds": [
+              "ISA.1.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "ISA 1:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jubiwaru Sayuni ku pokolembe, man jupare m’udwogo ku bedopwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.27",
+            "verseOrgIds": [
+              "ISA.1.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "ISA 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ento nyoth mi weg gondri ku judubo bibedo karacelo, man ju m’uweko Yehova bithum. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.28",
+            "verseOrgIds": [
+              "ISA.1.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "ISA 1:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum lewic binegogi kum bongu ma wuketho cwinywu i kume, man cwinywu bing’abre kum podho ma wufoyo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.29",
+            "verseOrgIds": [
+              "ISA.1.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "ISA 1:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum wubibedo calu bongu ma ithe ner, man calu podho ma pi mbe kude. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.30",
+            "verseOrgIds": [
+              "ISA.1.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "ISA 1:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man jutego bibedo calu thondh gonia, tic pare de calu bieimac; e gin ario de gibiwang’ karacelo, e ng’atu moko mbe ma binego maje.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.31",
+            "verseOrgIds": [
+              "ISA.1.31"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.2",
+    "number": "2",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "SNG.8",
+    "number": "8",
+    "bookId": "SNG"
+  }
+}

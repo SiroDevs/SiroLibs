@@ -1,0 +1,595 @@
+{
+  "id": "MIC.1",
+  "number": "1",
+  "bookId": "MIC",
+  "reference": "Mika 1",
+  "verseCount": 16,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MIC 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.1",
+            "verseOrgIds": [
+              "MIC.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.15.32+2KI.15.33+2KI.15.34+2KI.15.35+2KI.15.36+2KI.15.37+2KI.15.38"
+              },
+              "items": [
+                {
+                  "text": "2 Ub 15:32-38",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.27.1+2CH.27.2+2CH.27.3+2CH.27.4+2CH.27.5+2CH.27.6+2CH.27.7"
+              },
+              "items": [
+                {
+                  "text": "2 Kei 27:1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.16.1+2KI.16.2+2KI.16.3+2KI.16.4+2KI.16.5+2KI.16.6+2KI.16.7+2KI.16.8+2KI.16.9+2KI.16.10+2KI.16.11+2KI.16.12+2KI.16.13+2KI.16.14+2KI.16.15+2KI.16.16+2KI.16.17+2KI.16.18+2KI.16.19+2KI.16.20"
+              },
+              "items": [
+                {
+                  "text": "2 Ub 16:1-20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.28.1+2CH.28.2+2CH.28.3+2CH.28.4+2CH.28.5+2CH.28.6+2CH.28.7+2CH.28.8+2CH.28.9+2CH.28.10+2CH.28.11+2CH.28.12+2CH.28.13+2CH.28.14+2CH.28.15+2CH.28.16+2CH.28.17+2CH.28.18+2CH.28.19+2CH.28.20+2CH.28.21+2CH.28.22+2CH.28.23+2CH.28.24+2CH.28.25+2CH.28.26+2CH.28.27"
+              },
+              "items": [
+                {
+                  "text": "2 Kei 28:1-27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n        2 Ub 18:1-20:21; 2 Kei 29:1-32:33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lembe pa Yehova m’ubino ba Mika ma Jamoracti i nindo pa Yotham, kud Ahaz, man Hezekia, ma gin ubimo mi Yuda, m’eneno pi Samaria ku Yerusalem.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.1",
+            "verseOrgIds": [
+              "MIC.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.1",
+            "verseOrgIds": [
+              "MIC.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MIC 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wuwinji, wu kodhidhanu, kewu ceke; winji, E ng’om, ku gin ceke ma ni i ie: man wek Rwoth Yehova bed jamulembe i kumwu, Rwoth kud i hekalu pare ma leng’. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.2",
+            "verseOrgIds": [
+              "MIC.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MIC 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum, nen, Yehova ai woko kud i kakare, man ebiloro piny, man ebinyono ka ma malu mi ng’om. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.3",
+            "verseOrgIds": [
+              "MIC.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MIC 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "E gudi biloi i there, man poga bikak, calu udogyen i wang’ mac calu pi m’ukonjre ku ka ma lung’. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.4",
+            "verseOrgIds": [
+              "MIC.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MIC 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maeni ceke wok kum gondri pa Yakobo, man kum dubo mi ot mir Israel. Gondri pa Yakobo en e ang’o? en e Samaria ngo? man ka ma malu pa Yuda ang’o? gi Yerusalem ngo? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.5",
+            "verseOrgIds": [
+              "MIC.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MIC 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ka kumeno abidwoko Samaria ni udhuru mi thim, man calu ka ma jupidho ie podho mir ulok; man abibayu kidine piny i poga, man abiyabu there. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.6",
+            "verseOrgIds": [
+              "MIC.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MIC 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man ayi gin m’acwia m’ang’ika pare jubiodo nziki nziki, man sukulia pare ceke jubiwang’u ku mac, man abiketho mungu pare m’araga ceke bedo kende; kum ecokogi ku sukulia pa won asara, man gibidok ba sukulia pa won asara.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MIC 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MIC 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pi maeni abiywak man abigoyo nduru; abicidho mbe kendi man muneru; abitimo goyonduru calu utho, man ywak calu udo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.8",
+            "verseOrgIds": [
+              "MIC.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum lero pare cangre ngo; kum ewok cil kum Yuda; etundo ba dhugang’ mi dhanu para, cil kum Yerusalem. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.9",
+            "verseOrgIds": [
+              "MIC.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MIC 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kud wuyere i Gath, kud wuywak ki; ang’iela i utur i Beth-leafra. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.10",
+            "verseOrgIds": [
+              "MIC.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MIC 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kadh cen, E ng’atu m’ubedo i Cafir, i muneru man lewic: ng’atu m’ubedo i Zanan uwok woko ngo; goyonduru mi Beth-ezel bikabu kacungo kud i beng’wu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.11",
+            "verseOrgIds": [
+              "MIC.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MIC 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum ng’atu m’ubedo i Maroth ukuro gin ma ber hai, kum lem ma rac uloro piny ku ba Yehova cil kum dhugang’ mi Yerusalem. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.12",
+            "verseOrgIds": [
+              "MIC.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MIC 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Twi magali kum riuni ma jang’wec, E ng’atu m’ubedo i Lakic: en e thekri mi dubo ni nya Sayuni; kum gondri mir Israel unwangre ii. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.13",
+            "verseOrgIds": [
+              "MIC.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MIC 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ka kumeno ibimio giramia mi pokri mi Moreceth-gath: udi mi Akzib bibedo gin mir abombi ni ubimo mir Israel. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.14",
+            "verseOrgIds": [
+              "MIC.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MIC 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Fodi abikelo i beng’i, E ng’atu m’ubedo i Mareca, ng’atu ma bimwonyi: dwong’ mir Israel bibino cil kum Adulam. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.15",
+            "verseOrgIds": [
+              "MIC.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MIC 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Luny wii, man thum yukwii woko ni nyithindho mir anyong’a peri: kok dhu wii m’uwang’ calu acur; kum gicidho i ng’eca kud i beng’i.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.16",
+            "verseOrgIds": [
+              "MIC.1.16"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.2",
+    "number": "2",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "JON.4",
+    "number": "4",
+    "bookId": "JON"
+  }
+}

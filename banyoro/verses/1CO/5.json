@@ -1,0 +1,672 @@
+{
+  "id": "1CO.5",
+  "number": "5",
+  "bookId": "1CO",
+  "reference": "1 Abakor 5",
+  "verseCount": 13,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "1CO 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Orwanju omu kitebe ky'abaikiriza",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1CO 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.1",
+            "verseOrgIds": [
+              "1CO.5.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.22.30"
+              },
+              "items": [
+                {
+                  "text": "Bir 22:30",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nikigambwa ngu, mwina orwanju, kandi orwanju orw'omulingo ogutarukusangwa n'omu bakafiiri; habwokuba omusaija naateerana na muka-ise. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.1",
+            "verseOrgIds": [
+              "1CO.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1CO 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi inywe nimwenyumiza! Timusemeriire kuganya? Omuntu ayakozire eki, asendwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.2",
+            "verseOrgIds": [
+              "1CO.5.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1CO 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.2",
+            "verseOrgIds": [
+              "1CO.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1CO 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Noobu ndaaba ntali na inywe oku, baitu tuli hamu omu mwoyo. Kandi na inywe, omuntu ayakozire ekibi eki, mmazire ira kumucwera omusango omu ibara lya MUKAMA Yesu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.3",
+            "verseOrgIds": [
+              "1CO.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1CO 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obu murabaga musorrokaine, ndaabaga na inywe mu mwoyo, nyina amaani ga MUKAMA waitu Yesu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.4",
+            "verseOrgIds": [
+              "1CO.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1CO 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omuntu ogu mumuheyo hali Sitaani, omubiri gwe guhwerekerre, nukwo omwoyo gwe gujunwe ha kiro kya MUKAMA Yesu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.5",
+            "verseOrgIds": [
+              "1CO.5.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1CO 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.5",
+            "verseOrgIds": [
+              "1CO.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1CO 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.6",
+            "verseOrgIds": [
+              "1CO.5.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GAL.5.9"
+              },
+              "items": [
+                {
+                  "text": "Bag 5:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nimwenyumiririza busa. Timurukumanya ekitumbisa ekike nkooku kitumbisa ihyanga lyona? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.6",
+            "verseOrgIds": [
+              "1CO.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1CO 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.12.5"
+              },
+              "items": [
+                {
+                  "text": "Kurug 12:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwihemu ekitumbisa eky'obubi, nukwo mube mugaati omuhyaka ogutarumu kitumbisa ekya ira. Habwokuba Kristo, Omwana gw'Entaama ogw'Okuhingurwaho kwaitu, akatambwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.7",
+            "verseOrgIds": [
+              "1CO.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1CO 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.13.7"
+              },
+              "items": [
+                {
+                  "text": "Kurug 13:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.16.3"
+              },
+              "items": [
+                {
+                  "text": "Bir 16:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nahabweki katusemeze ekiro kikuru eky'obugenyi obw'okwijuka Okuhingurwaho, tutaina kitumbisa ekya ira, noobu kyakuba ekitumbisa eky'itima n'obubi, baitu twina omugaati ogutatumbisiibwe, ogutarumu kamogo kandi gw'amananu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.8",
+            "verseOrgIds": [
+              "1CO.5.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1CO 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.8",
+            "verseOrgIds": [
+              "1CO.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1CO 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omu bbaruha yange nkabahandiikira nimbatanga kwikara n'abasiihani; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.9",
+            "verseOrgIds": [
+              "1CO.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1CO 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "baitu ntagambe kwahukanira kimu n'abasiihani ab'omunsi munu abataikiriza, rundi ab'omukoijo, rundi abasuma, rundi abarukuramya abacwezi. Obu kyakubaire kiri kiti, mwakurugire omunsi munu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.10",
+            "verseOrgIds": [
+              "1CO.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1CO 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baitu eki nabahandiikiire nukwo kubatanga okwikara n'omuntu omwikiriza obu araaba ali musiihani, rundi w'omukoijo, rundi arukuramya embandwa, rundi omujumi, rundi omutamiizi, rundi omusuma-omuntu nk'ogu n'okulya mutalirya nawe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.11",
+            "verseOrgIds": [
+              "1CO.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1CO 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.13.5"
+              },
+              "items": [
+                {
+                  "text": "Bir 13:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.17.7"
+              },
+              "items": [
+                {
+                  "text": "17:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyowe ninfaayo ki okucwera omusango abatali omu kitebe ky'abaikiriza? Abanyakuli omu kitebe ky'abaikiriza tinubo musemeriire kucwera omusango? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.12",
+            "verseOrgIds": [
+              "1CO.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1CO 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ruhanga nuwe acwera omusango abatali omu kitebe ky'abaikiriza. Kikahandiikwa kiti; “Omuntu omubi mumubinge, abarugemu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.13",
+            "verseOrgIds": [
+              "1CO.5.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1CO.6",
+    "number": "6",
+    "bookId": "1CO"
+  },
+  "previous": {
+    "id": "1CO.4",
+    "number": "4",
+    "bookId": "1CO"
+  }
+}

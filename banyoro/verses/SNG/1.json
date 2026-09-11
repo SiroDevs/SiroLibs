@@ -1,0 +1,60 @@
+{
+  "id": "SNG.1",
+  "number": "1",
+  "bookId": "SNG",
+  "reference": "Kiz 1",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "SNG 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Omugole omuswerwa na bahara ba Yerusaalemu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Omugole omukazi n'omugole omusaija",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "SNG.2",
+    "number": "2",
+    "bookId": "SNG"
+  },
+  "previous": {
+    "id": "SNG.intro",
+    "number": "intro",
+    "bookId": "SNG"
+  }
+}

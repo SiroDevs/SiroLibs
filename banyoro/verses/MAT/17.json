@@ -1,0 +1,1331 @@
+{
+  "id": "MAT.17",
+  "number": "17",
+  "bookId": "MAT",
+  "reference": "Mat 17",
+  "verseCount": 27,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "17",
+        "style": "c",
+        "sid": "MAT 17"
+      },
+      "items": [
+        {
+          "text": "17",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu naahindurwa ali ha rusozi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAT 17:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obu haahingwireho ebiro mukaaga, Yesu yatwara Petero, Yakobbo na Yohaana mugenzi we, yabatembya ha rusozi oruraihire bali bonka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.1",
+            "verseOrgIds": [
+              "MAT.17.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAT 17:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yahinduka omumaiso gaabo, amaiso ge gaayangasana nk'izooba, n'ebijwaro bye byayera tiitiiti. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.2",
+            "verseOrgIds": [
+              "MAT.17.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAT 17:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nubwo Musa na Eriya baazooka nibabaza nawe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.3",
+            "verseOrgIds": [
+              "MAT.17.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAT 17:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Petero yagambire Yesu ati; “MUKAMA wange, kibaire kirungi itwe kusangwa hanu; obu oraaba nogonza, kanyombeke hanu obusiisira busatu: akamu kaawe, akandi ka Musa, n'akandi ka Eriya.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.4",
+            "verseOrgIds": [
+              "MAT.17.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAT 17:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.22.2"
+              },
+              "items": [
+                {
+                  "text": "Kub 22:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.2.7"
+              },
+              "items": [
+                {
+                  "text": "Zab 2:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.42.1"
+              },
+              "items": [
+                {
+                  "text": "Is 42:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.3.17"
+              },
+              "items": [
+                {
+                  "text": "Mat 3:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.12.18"
+              },
+              "items": [
+                {
+                  "text": "12:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.1.11"
+              },
+              "items": [
+                {
+                  "text": "Mar 1:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.3.22"
+              },
+              "items": [
+                {
+                  "text": "Luk 3:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.18.15"
+              },
+              "items": [
+                {
+                  "text": "Bir 18:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2PE.1.17"
+              },
+              "items": [
+                {
+                  "text": "2Pet 1:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2PE.1.18"
+              },
+              "items": [
+                {
+                  "text": "18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obu akaba naakyabaza, haija ekicu ekirukwangasana, kyabasiikiriza; kandi iraka lyaruga omu kicu, nirigamba liti: “Onu nuwe Mwana wange omugonzibwa ou nsiima; mumuhurre.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.5",
+            "verseOrgIds": [
+              "MAT.17.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAT 17:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abeegesebwa obu baahuliire eki, baagwa bajuumaire, bakwasirwe obutiini bwingi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.6",
+            "verseOrgIds": [
+              "MAT.17.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MAT 17:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu yaija yabakwataho naagamba ati: “Mwimuke, muleke kutiina,” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.7",
+            "verseOrgIds": [
+              "MAT.17.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAT 17:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obu bainunwire amaiso gaabo, batarole muntu, kwihaho Yesu wenka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.8",
+            "verseOrgIds": [
+              "MAT.17.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ekikaguzo ha kugaruka kwa Eriya",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAT 17:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.8",
+            "verseOrgIds": [
+              "MAT.17.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MAT 17:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obu bakaba nibasirimuka orusozi, Yesu yabateererra ati: “Eki mwolekerwe, mutakigambiraho muntu weena, okuhikya Omwana w'omuntu obu alikamara kuhumbuuka omu bafu.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.9",
+            "verseOrgIds": [
+              "MAT.17.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MAT 17:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAL.4.5"
+              },
+              "items": [
+                {
+                  "text": "Mara 4:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abeegesebwa be nukwo kumukaguza bati: “Habwaki abeegesa b'ebiragiro bagamba ngu: Eriya nuwe alibanza kwija?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.10",
+            "verseOrgIds": [
+              "MAT.17.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAT 17:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "SIR.48.10"
+              },
+              "items": [
+                {
+                  "text": "Sir 48:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yabagarukamu ati: “Mazimakwo Eriya nuwe alibanza kwija, nukwo atereekereze byona. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.11",
+            "verseOrgIds": [
+              "MAT.17.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MAT 17:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.11.14"
+              },
+              "items": [
+                {
+                  "text": "Mat 11:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyowe nimbagambira nti: Eriya akaija ira, abantu batamumanye, baitu bakamukora kyona eki baagondeze. Omwana w'omuntu nawe nukwo balimubonabonesa bati.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.12",
+            "verseOrgIds": [
+              "MAT.17.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAT 17:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aho nuho abeegesebwa be baayetegereriize nkooku arukubagambira ebyo Yohaana Omubatiza.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.13",
+            "verseOrgIds": [
+              "MAT.17.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu naakiza omwojo omugu w'ensimbo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAT 17:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.13",
+            "verseOrgIds": [
+              "MAT.17.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MAT 17:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obu baahikire ha kitebe ky'abantu, omusaija akaija yamutereza amaju, naagamba ati: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.14",
+            "verseOrgIds": [
+              "MAT.17.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MAT 17:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“MUKAMA wange, girra mutabani wange embabazi, habwokuba agwa ensimbo kandi zimubonabonesa muno; emirundi nyingi zimunaga omu murro n'omu maizi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.15",
+            "verseOrgIds": [
+              "MAT.17.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MAT 17:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkamuleetera abeegesebwa baawe, baitu batasobole kumukiza.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.16",
+            "verseOrgIds": [
+              "MAT.17.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MAT 17:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu yamugarukamu ati: “Haa! Inywe ab'akasumi kanu ak'obutaikiriza kandi abahabire, ndihikya nkaha okwikara na inywe nti? Ndibagumiisiriza kuhikya di? Mumundeetere hanu.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.17",
+            "verseOrgIds": [
+              "MAT.17.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MAT 17:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu yacoomera omwoyo omubi, gwamurugamu, omwojo yakira ahonaaho.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.18",
+            "verseOrgIds": [
+              "MAT.17.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MAT 17:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.18",
+            "verseOrgIds": [
+              "MAT.17.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MAT 17:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ebi obu byahoire nubwo abeegesebwa baizire hali Yesu baamukaguza omu nsita bati: “Habwaki itwe tukalemwa kugubinga?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.19",
+            "verseOrgIds": [
+              "MAT.17.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MAT 17:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.21.21"
+              },
+              "items": [
+                {
+                  "text": "Mat 21:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.11.23"
+              },
+              "items": [
+                {
+                  "text": "Mar 11:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.13.2"
+              },
+              "items": [
+                {
+                  "text": "1Kor 13:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uwe yabagarukamu ati: Habw'okwikiriza kwanyu okuke. Mazimakwo nimbagambira nti: Obu muraaba mwina okwikiriza okurukwingana nk'akasigo ka karadaali, muligambira orusozi oru muti: “Sinduka hanu, ogende hali kandi rulirugaho; busaho kintu kyona ekiribalema.” [ ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.20",
+            "verseOrgIds": [
+              "MAT.17.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MAT 17:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omwoyo omubi ogwa mulingo gunu tigubingwa kindi, kwihaho okusaba n'okusiiba.]",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.21",
+            "verseOrgIds": [
+              "MAT.17.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu naabazaaho okubonabonesibwa kwe omurundi gwa kabiri",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MAT 17:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.21",
+            "verseOrgIds": [
+              "MAT.17.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MAT 17:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu n'abeegesebwa be obu bakaba bakyali Galiraaya, nubwo yabagambiire ati: “Omwana w'omuntu naija kuheebwayo omu mikono y'abantu, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.22",
+            "verseOrgIds": [
+              "MAT.17.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MAT 17:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "balimwita, kandi obu halihinguraho ebiro bisatu alihumbuurwa.” Aho bbo baatuntura muno.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.23",
+            "verseOrgIds": [
+              "MAT.17.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu naasasura omusoro gw'Enju ya Ruhanga",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MAT 17:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.23",
+            "verseOrgIds": [
+              "MAT.17.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "MAT 17:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.24",
+            "verseOrgIds": [
+              "MAT.17.24"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.30.13"
+              },
+              "items": [
+                {
+                  "text": "Kurug 30:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.38.26"
+              },
+              "items": [
+                {
+                  "text": "38:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obu baahikire Kafaranaumu, abasorooza b'omusoro gw'Enju ya Ruhanga baizira Petero baamukaguza bati: “Omwegesa wanyu taha musoro?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.24",
+            "verseOrgIds": [
+              "MAT.17.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "MAT 17:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yabagarukamu ati: “Aguha.” Petero obu yataahire omu ka, Yesu yabanza kumukaguza ati: “Simooni nooteekereza ki? Abakama ab'omunsi, omusoro n'obusuuru babiihaho bantu ki? Babiihaho abaana baabo rundi abantu abandi?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.25",
+            "verseOrgIds": [
+              "MAT.17.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "MAT 17:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Petero obu yamugarukiremu ati: “Abantu abandi”, nubwo Yesu yamugambira ati: “Nahabweki abaana baabu, ebi tibirukubakwataho. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.26",
+            "verseOrgIds": [
+              "MAT.17.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "MAT 17:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baitu habw'okutabeesiitaza, genda ha nyanja, onagemu irobo, encu ei orabanza kukwasa, ogiihemu; obu orayesamya akanwa kaayo, orasangamu sente;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.27",
+            "verseOrgIds": [
+              "MAT.17.27"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "17:27",
+              "type": "text"
+            },
+            {
+              "text": "Sente niyo shekel. Shekel kikaba kiri kicweka ky'efeeza ekirukwingana siringi nka ina",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ogibasasule, gube musoro gwange n'ogwawe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.17.27",
+            "verseOrgIds": [
+              "MAT.17.27"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MAT.18",
+    "number": "18",
+    "bookId": "MAT"
+  },
+  "previous": {
+    "id": "MAT.16",
+    "number": "16",
+    "bookId": "MAT"
+  }
+}

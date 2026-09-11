@@ -1,0 +1,310 @@
+{
+  "id": "JOL.2",
+  "number": "2",
+  "bookId": "JOL",
+  "reference": "Yow 2",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "JOL 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Abantu nibateerererwa kwegarukamu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "JOL 2:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.29",
+            "verseOrgIds": [
+              "JOL.2.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "JOL 2:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omwiguru n'omunsi, nditaho obumanyiso obw'ekiro eki, esagama, omurro n'enyomyo ez'omwika. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.30",
+            "verseOrgIds": [
+              "JOL.2.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "JOL 2:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.24.29"
+              },
+              "items": [
+                {
+                  "text": "Mat 24:29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.13.24"
+              },
+              "items": [
+                {
+                  "text": "Mar 13:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.13.25"
+              },
+              "items": [
+                {
+                  "text": "25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.21.25"
+              },
+              "items": [
+                {
+                  "text": "Luk 21:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.6.12"
+              },
+              "items": [
+                {
+                  "text": "Kus 6:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.6.13"
+              },
+              "items": [
+                {
+                  "text": "13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekiro kya MUKAMA eky'ekitiinisa, kandi ekinyakutiinisa obu kiriba kitakahikire, izooba liriswekwa omwirima, okwezi kulitukura tuku nk'esagama. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.31",
+            "verseOrgIds": [
+              "JOL.2.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "JOL 2:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.2.17+ACT.2.18+ACT.2.19+ACT.2.20+ACT.2.21"
+              },
+              "items": [
+                {
+                  "text": "Ebik 2:17-21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.10.13"
+              },
+              "items": [
+                {
+                  "text": "Bar 10:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abo boona abalikunga MUKAMA basaagireho, balijunwa, habwokuba nkooku yagambire ati: Abo abaliba batabukireho, baliba ha rusozi Siyoni n'omu rubuga Yerusaalemu, kandi omuli abo, nuho haliba abo, aliba ayesire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.32",
+            "verseOrgIds": [
+              "JOL.2.32"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOL.3",
+    "number": "3",
+    "bookId": "JOL"
+  },
+  "previous": {
+    "id": "JOL.1",
+    "number": "1",
+    "bookId": "JOL"
+  }
+}

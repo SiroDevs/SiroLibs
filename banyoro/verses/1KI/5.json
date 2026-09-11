@@ -1,0 +1,675 @@
+{
+  "id": "1KI.5",
+  "number": "5",
+  "bookId": "1KI",
+  "reference": "1 Bakam 5",
+  "verseCount": 18,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "1KI 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Solomooni naaragaana na Hiramu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1KI 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hiramu omukama wa Taya obu yahuliire Solomooni nkooku aseesirweho amagita g'obukama agaruke omu kiikaro kya ise Daudi, akamutumira abaheereza be; habwokuba Hiramu akaba ali nganjani ya Daudi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.1",
+            "verseOrgIds": [
+              "1KI.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1KI 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Solomooni akatumaho Hiramu naagamba ati: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.2",
+            "verseOrgIds": [
+              "1KI.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1KI 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Omanyire, isenyowe Daudi habw'amalemu agatarasarahoga aga yarwanaga n'ensi ez'abanyanzigwa ezikaba zimwehinguliriize, atasobole kwombekera MUKAMA Ruhanga we enju ey'okumuramizaamu, okuhika obu yakamuhaire okusingura abanyanzigwa be. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.3",
+            "verseOrgIds": [
+              "1KI.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1KI 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baitu nyowe hati, MUKAMA Ruhanga wange ampaire obusinge ha mbaju zoona; tinyina munyanzigwa, tinyina kabi nakati. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.4",
+            "verseOrgIds": [
+              "1KI.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1KI 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2SA.7.12"
+              },
+              "items": [
+                {
+                  "text": "2 Sam 7:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2SA.7.13"
+              },
+              "items": [
+                {
+                  "text": "13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.17.11"
+              },
+              "items": [
+                {
+                  "text": "1 Byok 17:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.17.12"
+              },
+              "items": [
+                {
+                  "text": "12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Habweki, nyina ekiteekerezo eky'okwombekera MUKAMA Ruhanga wange enju, nkooku yagambiire isenyowe ati: mutabani wawe ou ndita ha kitebe ky'obukama omu kiikaro kyawe, nuwe alinyombekera enju.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.5",
+            "verseOrgIds": [
+              "1KI.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1KI 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Habweki, ragira abantu bantemere emikogoto egi eya Lebanoni, abaheereza bange beeteeranize n'abawe, ndaakusasura omuhendo gwona ogu orancwa habw'abaheereza bawe; habwokuba, noomanya, omuli itwe, nkooku hatarumu muntu n'omu anyakumanyire kutema emiti nk'Abasidoni. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.6",
+            "verseOrgIds": [
+              "1KI.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1KI 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hiramu obu yahuliire Solomooni ebi agambire, yasemererwa muno, nukwo kugamba ati: “MUKAMA ayahaire Daudi omwana ow'amagezi aleme ihanga lye, erikooto liti, akugizibwe kiro kya hati.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.7",
+            "verseOrgIds": [
+              "1KI.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1KI 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hiramu yatumaho Solomooni naagamba ati: “Ebigambo byona ebi ondagiire mbihuliire; nyeteekaniize okukora kyona eki orukwenda, nkutungire emikogoto n'emisambya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.8",
+            "verseOrgIds": [
+              "1KI.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1KI 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abaheereza bange nibaija kugiiha Lebanoni bagireete ha nyanja; ninyija kugiboha ebiba nukwo erabe omu nyanja, ehike omu kiikaro eki oligonza, oku nuho eryasizibwamu, nukwo ogitwale; obu olitungira abantu bange ebyokulya, olinsemeza.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.9",
+            "verseOrgIds": [
+              "1KI.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1KI 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aho Hiramu yaha Solomooni embaaho zoona ez'emiti emikogoto, n'ey'emisambya ezi yayenzire, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.10",
+            "verseOrgIds": [
+              "1KI.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1KI 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kandi Solomooni yaha Hiramu ebyokulya eby'abantu be, ebigega by'engano emitwaro ebiri, n'emitwaro ebiri endi ey'amagita aganyakuhonzirwe. Ebintu ebi, Solomooni yabihaga Hiramu buli mwaka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.11",
+            "verseOrgIds": [
+              "1KI.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1KI 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "MUKAMA akaha Solomooni amagezi nkooku yamuraganiize; haabaho obusinge hagati ya Hiramu na Solomooni, abo boombi baakora endagaano.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.12",
+            "verseOrgIds": [
+              "1KI.5.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1KI 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.12",
+            "verseOrgIds": [
+              "1KI.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1KI 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Solomooni akakoma abantu abamu omu Isirairi yoona, ab'okukora emirimo, abaakomerwe bakahika emitwaro esatu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.13",
+            "verseOrgIds": [
+              "1KI.5.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1KI 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1KI.12.18"
+              },
+              "items": [
+                {
+                  "text": "1 Bakam 12:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yabatuma Lebanoni bacwirwemu ebitebe buli kwezi omutwaro gumu; baamaraga okwezi kumu Lebanoni, ameezi abiri bagamale omu ka; Adoniya nuwe yarolerraga abantu abo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.14",
+            "verseOrgIds": [
+              "1KI.5.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1KI 5:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Solomooni kandi akaba aina abeetweki b'emitumba emitwaro musanju, n'abaasi b'amabaale emitwaro munaana, abaikaraga omunsi y'ensozi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.15",
+            "verseOrgIds": [
+              "1KI.5.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1KI 5:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "otabaliiremu abanyoro be abakuru emitwaro esatu n'ebikumi bisatu, abarolerraga omulimo, abarolerraga n'abantu abaagukoraga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.16",
+            "verseOrgIds": [
+              "1KI.5.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1KI 5:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.16",
+            "verseOrgIds": [
+              "1KI.5.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1KI 5:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omukama obu yaragiire, baiha amabaale amakooto ag'okukora omusingi gw'enju ogw'amabaale agabaizirwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.17",
+            "verseOrgIds": [
+              "1KI.5.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1KI 5:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abombeki ba Solomooni n'aba Hiramu, n'abasaija aba Gibali baatema amabaale, baateekaniza embaaho n'amabaale ag'okwombekesa enju.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.5.18",
+            "verseOrgIds": [
+              "1KI.5.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1KI.6",
+    "number": "6",
+    "bookId": "1KI"
+  },
+  "previous": {
+    "id": "1KI.4",
+    "number": "4",
+    "bookId": "1KI"
+  }
+}

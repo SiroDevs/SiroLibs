@@ -1,0 +1,81 @@
+{
+  "id": "JER.10",
+  "number": "10",
+  "bookId": "JER",
+  "reference": "Yer 10",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "JER 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ruhanga ow'Ebisuba na Ruhanga ow'Amazima",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inywe ab'enju ya Isirairi, muhurre ekigambo MUKAMA eki arukubagambira.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.1",
+            "verseOrgIds": [
+              "JER.10.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.11",
+    "number": "11",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.9",
+    "number": "9",
+    "bookId": "JER"
+  }
+}

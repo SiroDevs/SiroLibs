@@ -1,0 +1,119 @@
+{
+  "id": "ISA.41",
+  "number": "41",
+  "bookId": "ISA",
+  "reference": "Is 41",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "41",
+        "style": "c",
+        "sid": "ISA 41"
+      },
+      "items": [
+        {
+          "text": "41",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ruhanga naananura Isirairi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 41:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Muculeere mumpulirize inywe amazinga, leka abantu bagaruke beteekanize: basorrokane hamu okutongana emisango bahebwe omugisa kugamba ebyabo byona. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.41.1",
+            "verseOrgIds": [
+              "ISA.41.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 41:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nooha ogu ayaimukiriize owa Burugaizooba, nukwo asingule hoona haagenda? Amuha kusingura amahanga narubatirra abakama? Abahayo nk'ecuucu hali ekitara kye, nkebisunga ebitwarwa omuyaga ha buta bwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.41.2",
+            "verseOrgIds": [
+              "ISA.41.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "MUKAMA naayendereza embandwa",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.42",
+    "number": "42",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.40",
+    "number": "40",
+    "bookId": "ISA"
+  }
+}

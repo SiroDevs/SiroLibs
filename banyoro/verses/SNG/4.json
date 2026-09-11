@@ -1,0 +1,47 @@
+{
+  "id": "SNG.4",
+  "number": "4",
+  "bookId": "SNG",
+  "reference": "Kiz 4",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "SNG 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Omugole Omusaija naahaisaniza Omugole Omukazi",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "SNG.5",
+    "number": "5",
+    "bookId": "SNG"
+  },
+  "previous": {
+    "id": "SNG.3",
+    "number": "3",
+    "bookId": "SNG"
+  }
+}

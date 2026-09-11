@@ -1,0 +1,884 @@
+{
+  "id": "EXO.3",
+  "number": "3",
+  "bookId": "EXO",
+  "reference": "Kurug 3",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "EXO 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ruhanga naayeta Musa kandi naamutuma kwiha Abaisirairi Misiri",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EXO 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omu kasumi ako, Musa akaba naaliisa igana lya Yesero isezaara, nyakatagara wa Midiani; igana lye yalitwara Bugwaizooba bw'irungu, yahika Holebbu, orusozi rwa Ruhanga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.1",
+            "verseOrgIds": [
+              "EXO.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EXO 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.30+ACT.7.31+ACT.7.32+ACT.7.33+ACT.7.34"
+              },
+              "items": [
+                {
+                  "text": "Ebik 7:30-34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Malaika wa Ruhanga yamubonekera ali omu rulimi rw'omurro, ogukaba guli omu rusaka hagati. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.2",
+            "verseOrgIds": [
+              "EXO.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EXO 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa yagamba ati: “Ka nyirre haihi, ndole ekintu kinu eky'amahano, kiki ekirukutanga orusaka kusiiriira.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.3",
+            "verseOrgIds": [
+              "EXO.3.3"
+            ]
+          }
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.3",
+            "verseOrgIds": [
+              "EXO.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EXO 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "MUKAMA ali omu rusaka obu yarozire Musa nairra haihi kwetegereza, yamweta naagamba ati: “Musa! Musa!” Uwe yayetebuka ati: “Taata.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.4",
+            "verseOrgIds": [
+              "EXO.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EXO 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nubwo Ruhanga yamugamba ati: “Otairra haihi; juura enkaito zaawe omu bigere, habwokuba ekiikaro eki oyemeriireho, kiikaro ekirukwera.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.5",
+            "verseOrgIds": [
+              "EXO.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EXO 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yagaruka yamugamba ati: “Ninyowe Ruhanga wa baaswenkuru, Ruhanga owa Abburahamu kandi owa Yakobbo.” Musa yayeswekerra ha maiso, habwokuba akaba natiina kurora Ruhanga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.6",
+            "verseOrgIds": [
+              "EXO.3.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EXO 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.6",
+            "verseOrgIds": [
+              "EXO.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EXO 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nubwo MUKAMA yagamba ati: “Ndozire omuhito ogw'abantu bange abanyakuli Misiri, mpuliire omukungo gwabo, habw'abo abarukubakozesa emirimo ey'amaani; nyetegeriize okucanda kwabo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.7",
+            "verseOrgIds": [
+              "EXO.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EXO 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Habweki nsirimukire naija kubajuna, mbaihe omunsi egi ei barumu, mbaleete omunsi enungi kandi engazi, ensi enungi ijwire amata n'obwoki, mbaleete omunsi ey'Abakanaani, Abahiiti, Abamooli, Abahiivi n'Abayebusi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.8",
+            "verseOrgIds": [
+              "EXO.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EXO 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mazima kwo mpuliire okutaaga kw'abantu ba Isirairi kandi ndozire nkooku Abanyamisiri barukubakora kubi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.9",
+            "verseOrgIds": [
+              "EXO.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EXO 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hati nu, ija nkutume hali Faraaho, onyihireyo abantu bange, abaana ba Isirairi, baruge Misiri.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.10",
+            "verseOrgIds": [
+              "EXO.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EXO 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baitu Musa yakaguza Ruhanga ati: “Nyowe, ninyowe oha ow'araagenda hali Faraaho, nkaiha abaana ba Isirairi Misiri?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.11",
+            "verseOrgIds": [
+              "EXO.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EXO 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ruhanga yagarukamu ati: “Nyowe ndi hamu na iwe, obu olimara kwiha abantu bange Misiri, olimpongera ha rusozi runu. Kanu nuko k'okurorraho ak'olimanyiraho nkooku nkutumire.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.12",
+            "verseOrgIds": [
+              "EXO.3.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EXO 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.12",
+            "verseOrgIds": [
+              "EXO.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EXO 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.13",
+            "verseOrgIds": [
+              "EXO.3.13"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.6.2"
+              },
+              "items": [
+                {
+                  "text": "Kurug 6:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.6.3"
+              },
+              "items": [
+                {
+                  "text": "3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi Musa yagamba Ruhanga ati: “Obu ndihikaho Abaisirairi nkabagambira nti: ‘Ruhanga owa baisenkuru inywe nuwe antumire hali inywe’, bbo bakankaguza bati: ‘Ibara lye nuwe oha?’ Ndigarukamu ki?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.13",
+            "verseOrgIds": [
+              "EXO.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EXO 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.1.4"
+              },
+              "items": [
+                {
+                  "text": "Kus 1:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.1.8"
+              },
+              "items": [
+                {
+                  "text": "8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ruhanga yagarukamu ati: “Ninyowe ogu ANYAKUBAHO”. Yagaruka yagamba ati: “Kinu nikyo ogambire abaana ba Isirairi oti: ‘Ogu ANYAKUBAHO nuwe antumire hali inywe.’ ” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.14",
+            "verseOrgIds": [
+              "EXO.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EXO 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ruhanga yayongera yagambira Musa ati: “Gambira abaana ba Isirairi oti: ‘MUKAMA Ruhanga owa baisenkuru inywe, Ruhanga ow'Abburahamu owa Isaaka n'owa Yakobbo, nuwe antumire hali inywe.’ Eri niryo ibara lyange erya buli na buli, nukwo ndiikara ninyetwa ntyo ebiro byona. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.15",
+            "verseOrgIds": [
+              "EXO.3.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EXO 3:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Genda osorooze abakuru ab'enganda za Isirairi, obagambire oti: ‘MUKAMA Ruhanga owa baisenkuru inywe, Ruhanga owa Abburahamu na Yakobbo ambonekiire;’ yangamba ati: ‘Nyetegeriize, narora byona ebibarukubakora omunsi Misiri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.16",
+            "verseOrgIds": [
+              "EXO.3.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EXO 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nahabweki, mmaliriire kubaiha omu muhito ogu murukubona omunsi Misiri, mbatwale omunsi ey'Abakanaani, Abahiiti, Abamooli, Abaperezi, Abahiivi, n'Abayebusi, ensi ijwire amata n'obwoki.’ ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.17",
+            "verseOrgIds": [
+              "EXO.3.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EXO 3:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nibaija kuhurra ebi oraabagambira; kandi iwe n'abakuru ab'enganda eza Isirairi, mugende hali omukama wa Misiri mumugambire muti: ‘MUKAMA Ruhanga ow'Abahebburaayo, atutumire naatweta. Hati, tukwesengeriize, otwikirize, tugende, orugendo rw'ebiro bisatu omwirungu tuhongere MUKAMA Ruhanga waitu ekyonzira.’ ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.18",
+            "verseOrgIds": [
+              "EXO.3.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EXO 3:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Niimanya omukama wa Misiri, nkooku ataabaikirize kugenda, rundi buli ahambiriziibwe muno. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.19",
+            "verseOrgIds": [
+              "EXO.3.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EXO 3:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Habweki ninyija kukozesa obusobozi bwange nfubire ensi Misiri, ningikorramu eby'amahano bingi; obu ndimara kukora ebi, alibaikiriza mugende. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.20",
+            "verseOrgIds": [
+              "EXO.3.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "EXO 3:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.12.35"
+              },
+              "items": [
+                {
+                  "text": "Kurug 12:35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.12.36"
+              },
+              "items": [
+                {
+                  "text": "36",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "WIS.10.17"
+              },
+              "items": [
+                {
+                  "text": "Ama 10:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanyamisiri, ndibatamu omwoyo omurungi ogw'okugonza abantu abo, obu muliba nimurugayo, timulirugayo mutaina kantu, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.21",
+            "verseOrgIds": [
+              "EXO.3.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EXO 3:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "baitu buli mukazi, alisaba omukazi omutaahi rundi omukazi anyakuraara omunju ye amuhe amabaale ag'omuhendo, ag'efeeza, n'ag'ezaabbu n'ebyokujwara, mubijweke batabani baanyu na bahara baanyu; Abanyamisiri nukwo mulibanyaga muti.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.22",
+            "verseOrgIds": [
+              "EXO.3.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EXO.4",
+    "number": "4",
+    "bookId": "EXO"
+  },
+  "previous": {
+    "id": "EXO.2",
+    "number": "2",
+    "bookId": "EXO"
+  }
+}

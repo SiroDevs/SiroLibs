@@ -1,0 +1,94 @@
+{
+  "id": "AMO.9",
+  "number": "9",
+  "bookId": "AMO",
+  "reference": "Amos 9",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "9",
+        "style": "c",
+        "sid": "AMO 9"
+      },
+      "items": [
+        {
+          "text": "9",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Okucwerwa Ruhanga omusango okutatabukwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 9:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkarora MUKAMA ayemeriire haihi n'itambiro, yandagira naagamba ati:",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.1",
+            "verseOrgIds": [
+              "AMO.9.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Isirairi Okugarurwaho buhyaaka",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "OBA.intro",
+    "number": "intro",
+    "bookId": "OBA"
+  },
+  "previous": {
+    "id": "AMO.8",
+    "number": "8",
+    "bookId": "AMO"
+  }
+}

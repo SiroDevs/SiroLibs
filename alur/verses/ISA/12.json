@@ -1,0 +1,229 @@
+{
+  "id": "ISA.12",
+  "number": "12",
+  "bookId": "ISA",
+  "reference": "Isaya 12",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "ISA 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man i ceng’ maeca ibiwacu kumae, Abifoi, E Yehova; kum kadok naka ng’ecwiny negi i kuma, ng’ecwiny peri lokre cen, man ijuka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.12.1",
+            "verseOrgIds": [
+              "ISA.12.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 12:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.15.2"
+              },
+              "items": [
+                {
+                  "text": "Ai 15:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.118.14"
+              },
+              "items": [
+                {
+                  "text": "Zab 118:14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Nen, Mungu en e both para; abigeno, man lworo binega ngo: kum Yehova, en e Yehova, en e tegona ku werna; man edoko ni both para. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.12.2",
+            "verseOrgIds": [
+              "ISA.12.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 12:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ka kumeno wubitwomo pi kud i kulo m’atong’a mi both ku mutoro. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.12.3",
+            "verseOrgIds": [
+              "ISA.12.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man i ceng’ maeca wubiwacu kumae, Wufoi Yehova, man wulwong’ nyinge, wuyer pi giratima pare i kind kodhidhanu, wuwac nia nyinge dodre. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.12.4",
+            "verseOrgIds": [
+              "ISA.12.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 12:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wuwer ni Yehova; kum etimo gin ma ber hai: wek maeni ng’eire i ng’om ngung’. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.12.5",
+            "verseOrgIds": [
+              "ISA.12.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lwong’ ma tek man ikoki, in i ng’atu m’ubedo i Sayuni; kum Ng’atu Maleng’ mir Israel e dwong’ i kindi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.12.6",
+            "verseOrgIds": [
+              "ISA.12.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.13",
+    "number": "13",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.11",
+    "number": "11",
+    "bookId": "ISA"
+  }
+}

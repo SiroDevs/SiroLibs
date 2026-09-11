@@ -1,0 +1,784 @@
+{
+  "id": "JOS.12",
+  "number": "12",
+  "bookId": "JOS",
+  "reference": "Yos 12",
+  "verseCount": 24,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "JOS 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Abakama abaasingwirwe Musa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOS 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.1",
+            "verseOrgIds": [
+              "JOS.12.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.21.21+NUM.21.22+NUM.21.23+NUM.21.24+NUM.21.25+NUM.21.26+NUM.21.27+NUM.21.28+NUM.21.29+NUM.21.30+NUM.21.31+NUM.21.32+NUM.21.33+NUM.21.34+NUM.21.35"
+              },
+              "items": [
+                {
+                  "text": "Kubar 21:21-35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "Bir 2:26—3:11.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ganu nugo amabara g'abakama ab'ensi, abantu ba Isirairi ababasingwire kandi baatunga ensi yabo obuseeri bwa Yorudaani oroleeriire Buturukaizooba, kurugirra omukihanga kya Arunooni kuhika harusozi Herumooni na Araba yoona ha bukiizi bwa Buturukaizooba. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.1",
+            "verseOrgIds": [
+              "JOS.12.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JOS 12:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abakama abo nibo, Sihoni omukama w'Abamooni ayaikaraga Hesiboni kandi ayalemaga kuruga Aroheri, orunyakuli ha nsaro y'ekihanga kya Arunooni: kuruga hagati y'ekihanga eki okuhikira kimu ha kisaaru Yabboki, omutaano gw'Abamooni nukwo kugamba kimu kya kabiri kya Giryadi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.2",
+            "verseOrgIds": [
+              "JOS.12.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JOS 12:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agende na Araba okuhika harubaju rwa Buturukaizooba bw'enyanja ya Kineroti obukiizi bwa Besi-Yesimosi okuhika hanyanja ya Araba, enyanja y'ekisura, ha bukiizi bw'obulyo ehika hansi ha nteentebuko ya Pisiga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.3",
+            "verseOrgIds": [
+              "JOS.12.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JOS 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ow'akabiri nuwe Ogi, omukama wa Basani omu ha Balefaimu abaasigaireho, ayaikaraga Asitaroosi na Adereyi ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.4",
+            "verseOrgIds": [
+              "JOS.12.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JOS 12:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi yalemaga orusozi Herumooni, Saleka na Basani yoona okuhika ha mutaano gw'Abagesura n'ogw'Abamakasi kandi n'ekicweka ekya Giryadi okuhika ha mutaano gwa Sihoni omukama wa Hesiboni. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.5",
+            "verseOrgIds": [
+              "JOS.12.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOS 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.32.33"
+              },
+              "items": [
+                {
+                  "text": "Kubar 32:33",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.3.12"
+              },
+              "items": [
+                {
+                  "text": "Bir 3:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abakama abo ababiri bakasingurwa Musa omuheereza wa MUKAMA n'abantu ba Isirairi; kandi Musa omuheereza wa MUKAMA ensi yabo yagiha ab'oruganda rwa Rubbeni nab'oruganda rwa Gaadi n'ekicweka ky'oruganda rwa Manaase ebe nsi yabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.6",
+            "verseOrgIds": [
+              "JOS.12.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Abakama abaasingwirwe Yoswa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOS 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.6",
+            "verseOrgIds": [
+              "JOS.12.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JOS 12:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Banu nibo abakama b'ensi abasingwirwe Yoswa n'abantu ba Isirairi harubaju rwa Bugwaizooba bwa Yorudaani, kuruga Baali-gaadi omukihanga kya Lebbanooni okuhika ha rusozi Haraki, oruroleriire Seyiri, ensi yabo akagiha enganda za Isirairi bube butaka bwabo nkooku baabugabiirwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.7",
+            "verseOrgIds": [
+              "JOS.12.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JOS 12:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ensi enu ekaba netwara ensozi ezitungamire, ensi ya ifo omu masirimuka, omwirungu noomu Negebbu. Ensi ey'Abahiiti, Abamooli, Abanyakanaani, Abaperezi, Abahiivi n'Abayebusi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.8",
+            "verseOrgIds": [
+              "JOS.12.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JOS 12:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yoswa n'abantu ba Isirairi bakasingura abakama b'ensi zinu: Omukama wa Yeriko; omukama wa Ai enyakuherraine Beseri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.9",
+            "verseOrgIds": [
+              "JOS.12.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JOS 12:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omukama wa Yerusaalemu, omukama wa Hebburoni, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.10",
+            "verseOrgIds": [
+              "JOS.12.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JOS 12:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omukama wa Yaramusi, omukama wa Lakisi, omukama wa Egironi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.11",
+            "verseOrgIds": [
+              "JOS.12.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JOS 12:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omukama wa Gezere, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.12",
+            "verseOrgIds": [
+              "JOS.12.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JOS 12:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "omukama wa Debiri, omukama wa Gederi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.13",
+            "verseOrgIds": [
+              "JOS.12.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JOS 12:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omukama wa Horuma, omukama wa Aradi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.14",
+            "verseOrgIds": [
+              "JOS.12.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JOS 12:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "omukama wa Libuna, omukama wa Aduraamu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.15",
+            "verseOrgIds": [
+              "JOS.12.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JOS 12:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omukama wa Makeda, omukama wa Beseri, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.16",
+            "verseOrgIds": [
+              "JOS.12.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JOS 12:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "omukama wa Tapuha, omukama wa Heferi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.17",
+            "verseOrgIds": [
+              "JOS.12.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JOS 12:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "omukama Afeeki, omukama wa Lasaroni. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.18",
+            "verseOrgIds": [
+              "JOS.12.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JOS 12:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omukama wa Madoni, omukama wa Hazora, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.19",
+            "verseOrgIds": [
+              "JOS.12.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "JOS 12:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "omukama wa Simuroni-meroni, omukama wa Akisaafu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.20",
+            "verseOrgIds": [
+              "JOS.12.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "JOS 12:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omukama wa Taanaki, omukama wa Megido, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.21",
+            "verseOrgIds": [
+              "JOS.12.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "JOS 12:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "omukama wa Kedesi, omukama wa Yokinamu enyakuli Karameri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.22",
+            "verseOrgIds": [
+              "JOS.12.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "JOS 12:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omukama wa Dora enyakuli Nafasi-dora, omukama wa Goimu enyakuli Galiraya, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.23",
+            "verseOrgIds": [
+              "JOS.12.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "JOS 12:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "omukama wa Tiriza. Boona hamu, baali bakama asatu n'omu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.12.24",
+            "verseOrgIds": [
+              "JOS.12.24"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOS.13",
+    "number": "13",
+    "bookId": "JOS"
+  },
+  "previous": {
+    "id": "JOS.11",
+    "number": "11",
+    "bookId": "JOS"
+  }
+}

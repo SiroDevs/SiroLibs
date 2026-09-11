@@ -427,44 +427,6 @@
     "info": "SOMALI BIBLE PROTESTANT EDITION ©Bible Society of Kenya,1976,1979, 2018. https://www.bible.com/versions/2934"
   },
   {
-    "name": "Open Luganda Contemporary Bible",
-    "description": "Bayibuli Entukuvu, Endagaano Enkadde n ľEndagaano Empya ekwatiddwa ku katambi‚ĄĘ 2014",
-    "abbreviation": "luganda",
-    "tagline": "",
-    "language": {
-      "id": "lug",
-      "name": "Ganda (Luganda)",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "UG",
-        "name": "Uganda"
-      }
-    ],
-    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
-  },
-  {
-    "name": "Baibuli Erikwera",
-    "description": "Open New Nyakole Translation",
-    "abbreviation": "Nyankole",
-    "tagline": "Nyankole Bible",
-    "language": {
-      "id": "kol",
-      "name": "Nyankole",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "UG",
-        "name": "Uganda"
-      }
-    ],
-    "info": "https://www.bible.com/versions/1434"
-  },
-  {
     "name": "Ebaibuli",
     "description": "Open New Ateso Translation",
     "abbreviation": "Ateso",
@@ -503,6 +465,44 @@
     "info": "https://www.bible.com/versions/559?returnTo"
   },
   {
+    "name": "Open Luganda Contemporary Bible",
+    "description": "Bayibuli Entukuvu, Endagaano Enkadde n ľEndagaano Empya ekwatiddwa ku katambi‚ĄĘ 2014",
+    "abbreviation": "luganda",
+    "tagline": "",
+    "language": {
+      "id": "lug",
+      "name": "Baganda (Luganda)",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "UG",
+        "name": "Uganda"
+      }
+    ],
+    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
+  },
+  {
+    "name": "Baibuli Erikwera",
+    "description": "Open New Nyakole Translation",
+    "abbreviation": "Nyankole",
+    "tagline": "Nyankole Bible",
+    "language": {
+      "id": "kol",
+      "name": "Nyankole",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "UG",
+        "name": "Uganda"
+      }
+    ],
+    "info": "https://www.bible.com/versions/1434"
+  },
+  {
     "name": "Buk ObaŇča Acil Ame OlwoŇčo ni Baibul Ame Ogeo Loko",
     "description": "Buk ObaŇča Acil Ame OlwoŇčo ni Baibul Ame Ogeo Loko I Leb LaŇčo",
     "abbreviation": "Lango",
@@ -539,6 +539,44 @@
       }
     ],
     "info": "https://www.bible.com/versions/1256"
+  },
+  {
+    "name": "Holy Bible In Alur",
+    "description": "Open New Alur Translation",
+    "abbreviation": "alur",
+    "tagline": "Alur Bible",
+    "language": {
+      "id": "alu",
+      "name": "Alur",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "UG",
+        "name": "Uganda"
+      }
+    ],
+    "info": "https://www.bible.com/versions/559?returnTo"
+  },
+  {
+    "name": "Ekitabu Ekirukwera N'Ebitabu Ebyeetwa Deturokanoniko/Apokurifa",
+    "description": "Ekitabu Ekirukwera N'Ebitabu Ebyeetwa Deturokanoniko/Apokurifa",
+    "abbreviation": "banyoro",
+    "tagline": "Runyoro Bible",
+    "language": {
+      "id": "nyo",
+      "name": "Banyoro",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "UG",
+        "name": "Uganda"
+      }
+    ],
+    "info": "https://www.bible.com/versions/559?returnTo"
   },
   {
     "name": "Contemporary Zulu Bible",

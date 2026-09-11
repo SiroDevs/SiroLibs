@@ -1,0 +1,144 @@
+{
+  "id": "JER.8",
+  "number": "8",
+  "bookId": "JER",
+  "reference": "Yer 8",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "8",
+        "style": "c",
+        "sid": "JER 8"
+      },
+      "items": [
+        {
+          "text": "8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 8:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“MUKAMA naagamba ati: Omu kasumi ako, amagufa ag'abakama ba Yuda, ag'abanyoro, aga banyakatagara, ag'abarangi n'ag'abasi aba Yerusaalemu, galiziikurwa omu bituuro byabo; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.8.1",
+            "verseOrgIds": [
+              "JER.8.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JER 8:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "gaalirwe omumaiso g'izooba, ag'okwezi, n'ag'ebintu byona eby'omumwanya ebi baagonzaaga kandi ebi baaherezaaga, ebi baahonderaga, ebi baaserraga kandi ebi baaramyaga; amagufa ago tigalisoroozibwa kandi tigaliziikwa; galiba nk'obusa obunagirwa ha rubungo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.8.2",
+            "verseOrgIds": [
+              "JER.8.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JER 8:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "MUKAMA ow'amahe naagamba ati: abaliba basigaireho ha ruganda oru orubi, omu biikaro byona ebi ndiba mbabingiiremu, balyegomba orufu okukira obwomeezi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.8.3",
+            "verseOrgIds": [
+              "JER.8.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ekibi n'Okucwerwa omusango",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Obujune bw'omurangi",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.9",
+    "number": "9",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.7",
+    "number": "7",
+    "bookId": "JER"
+  }
+}
