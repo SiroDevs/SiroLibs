@@ -1,0 +1,165 @@
+{
+  "id": "AMO.6",
+  "number": "6",
+  "bookId": "AMO",
+  "reference": "Amos 6",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "AMO 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Rerok pa Isiraili",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "AMO 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.6.8",
+            "verseOrgIds": [
+              "AMO.6.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "AMO 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "K'inen nitie cwo apar ma jodoŋ i peco, jobino tho. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.6.9",
+            "verseOrgIds": [
+              "AMO.6.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "AMO 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aka wat pa jacwo m'otho, ŋata waŋo delkwoŋ go, bino tero delkwoŋ go woko ma ot. Wat no bino lwoŋo ŋata nitie i ot ni, “Nitie ŋatiman manitie kodin kenyo?” Dwondi nyatoro bino waco ni, “Be!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.6.10",
+            "verseOrgIds": [
+              "AMO.6.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "AMO 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aka wat no bino waco ni, “Liŋ! Wakiri watuci nyingi Rwoth.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.6.10",
+            "verseOrgIds": [
+              "AMO.6.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.7",
+    "number": "7",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.5",
+    "number": "5",
+    "bookId": "AMO"
+  }
+}

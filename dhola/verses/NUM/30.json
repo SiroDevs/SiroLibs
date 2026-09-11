@@ -1,0 +1,642 @@
+{
+  "id": "NUM.30",
+  "number": "30",
+  "bookId": "NUM",
+  "reference": "Kwan 30",
+  "verseCount": 16,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "30",
+        "style": "c",
+        "sid": "NUM 30"
+      },
+      "items": [
+        {
+          "text": "30",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Cik ma mako kwoŋ timo kwoŋirok",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NUM 30:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa owaco ri jotel nonin ma Isiraili ni: Me apaka Rwoth owodho or. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.1",
+            "verseOrgIds": [
+              "NUM.30.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 30:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ka jacwo otimo cikirok ri Rwoth, kosa okwoŋere gi ciko gimoro, go kiripi turo wac pere. Go ripo timo gima go ociko gi dhoke je.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.2",
+            "verseOrgIds": [
+              "NUM.30.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 30:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.2",
+            "verseOrgIds": [
+              "NUM.30.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NUM 30:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.3",
+            "verseOrgIds": [
+              "NUM.30.3"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.23.22+DEU.23.23+DEU.23.24"
+              },
+              "items": [
+                {
+                  "text": "Cik 23:22-24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.5.33"
+              },
+              "items": [
+                {
+                  "text": "Mat 5:33",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ka dhako otimo cikirok ri Rwoth, kosa okwoŋere gi timo cikirok kareno go nitie i ot pa bamere, i soye pere, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.3",
+            "verseOrgIds": [
+              "NUM.30.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 30:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ka bamere owinjo cikirok pere kosa kwoŋirok pere, to ngoye gima bamere owaco rigo, meno cikirok kodi kwoŋirok pere je cungo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.4",
+            "verseOrgIds": [
+              "NUM.30.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NUM 30:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To ka bamere okwero i hongo ma go owinj'iye, ongoye cikirok pere kosa kwoŋirok pere ma lacungo, aka Rwoth lacwako rigo kwoŋbedo bamere okwero rigo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.5",
+            "verseOrgIds": [
+              "NUM.30.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NUM 30:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.5",
+            "verseOrgIds": [
+              "NUM.30.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NUM 30:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To ka dhako onywomere munyo go otieko timo cikirok ma go oŋeyo kosa oluwere kicar gi dhoke, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.6",
+            "verseOrgIds": [
+              "NUM.30.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NUM 30:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ka cwore owinji to ngoye gima go owaco i hongo ma go owinj'iye, meno cikirok kodi kwoŋirok no cungo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.7",
+            "verseOrgIds": [
+              "NUM.30.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NUM 30:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To ka cwore owinji to kwero rigo i hongo ma cwore owinj'iye, meno cikirok ma dhako no otimo kodi wac ma go oluwo kicar no kicungi, aka Rwoth lacwako rigo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.8",
+            "verseOrgIds": [
+              "NUM.30.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NUM 30:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.8",
+            "verseOrgIds": [
+              "NUM.30.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NUM 30:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To cikirok moro je ma citho kosa dhako m'oeye otimo lacungo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.9",
+            "verseOrgIds": [
+              "NUM.30.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NUM 30:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ka go otimo cikirok no kosa okwoŋere i ot pa cwore, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.10",
+            "verseOrgIds": [
+              "NUM.30.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NUM 30:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "aka cwore owinjo to ngoye gima go owaco rigo meno cikirok pere kodi kwoŋirok pere cungo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.11",
+            "verseOrgIds": [
+              "NUM.30.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NUM 30:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To ka cwore oyido okwero rigo i hongo ma go owinj'iye, meno kisi gima go owaco gi dhoke i cikirok kodi i kwoŋirok pere kicungi. Cwore otieko kwero rigo, aka Rwoth lacwako rigo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.12",
+            "verseOrgIds": [
+              "NUM.30.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NUM 30:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Cikirok moro je kosa kwoŋirok moro je ma dhako timo, cwore nyalo yeyo kosa nyalo kwero. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.13",
+            "verseOrgIds": [
+              "NUM.30.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NUM 30:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To k'ongoye gima cwore owaco rigo i hongo ma go owinj'iye, meno dhako no ripo timo cikirok je kodi kwoŋirok je ma go otimo. Cwore otieko ridho cikirok no munyo go k'okwero. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.14",
+            "verseOrgIds": [
+              "NUM.30.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NUM 30:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To ka cwore okwer rumacen ma hongo moro, meno cwore ama labedo gi banja ka dhako no owey ma k'otimo gima go ociko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.15",
+            "verseOrgIds": [
+              "NUM.30.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NUM 30:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.15",
+            "verseOrgIds": [
+              "NUM.30.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NUM 30:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Me cik ma Rwoth owodho or kwoŋe ri Musa ma mako kwoŋ jacwo kodi dhako pere, kodi nyako kodi bamere ka go fodi thin aka nitie i ot pa bamere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.16",
+            "verseOrgIds": [
+              "NUM.30.16"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NUM.31",
+    "number": "31",
+    "bookId": "NUM"
+  },
+  "previous": {
+    "id": "NUM.29",
+    "number": "29",
+    "bookId": "NUM"
+  }
+}

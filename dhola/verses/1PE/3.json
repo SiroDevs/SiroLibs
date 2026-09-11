@@ -1,0 +1,910 @@
+{
+  "id": "1PE.3",
+  "number": "3",
+  "bookId": "1PE",
+  "reference": "1 Petero 3",
+  "verseCount": 21,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "1PE 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mon gi cwo ma jonywomere",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1PE 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.1",
+            "verseOrgIds": [
+              "1PE.3.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.5.22"
+              },
+              "items": [
+                {
+                  "text": "Efeso 5:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.3.18"
+              },
+              "items": [
+                {
+                  "text": "Kol 3:18",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "I royo acel, win mon wiripo yere gi cwogi win, ŋey ka moro kwoŋ jo jokiyey wac pa Were, kiti mon pajo mabeyo wonyali ywayo jo to joyeyo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.1",
+            "verseOrgIds": [
+              "1PE.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1PE 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kole jobino neno paka kiti win olony aka diwor. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.2",
+            "verseOrgIds": [
+              "1PE.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1PE 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.2.9"
+              },
+              "items": [
+                {
+                  "text": "1 Tim 2:9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ŋono mewin kiripi wok i gigipiny ma wiruko kosa witimo kwoŋ win paka kedo wic, kosa jaŋo kwoŋ win thiwino ma welo, kosa ruko nangin ma welo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.3",
+            "verseOrgIds": [
+              "1PE.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1PE 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kucel ŋono mewin ripo wok kwoŋ adieri ma cuny win, ŋono ma kirere ma cuny mamwol, m'okudere, manitie gi welo madwoŋ ruwaŋ Were. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.4",
+            "verseOrgIds": [
+              "1PE.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1PE 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kole me a royo ma mon maleŋ, ma jogeno Were i ndir macon, joloko gine kwo pajo maŋon, aka jowinjo cwogi jo, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.5",
+            "verseOrgIds": [
+              "1PE.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1PE 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.18.12"
+              },
+              "items": [
+                {
+                  "text": "Cak 18:12",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "paka Sara owinjo Abraham, munyo lwoŋo go ni Rwoth! Aka wibedo nyithindho pere ka witimo gim'otire ma wikibedo gi lworo moro je.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.6",
+            "verseOrgIds": [
+              "1PE.3.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1PE 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.6",
+            "verseOrgIds": [
+              "1PE.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1PE 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.7",
+            "verseOrgIds": [
+              "1PE.3.7"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.5.25"
+              },
+              "items": [
+                {
+                  "text": "Efeso 5:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.3.19"
+              },
+              "items": [
+                {
+                  "text": "Kol 3:19",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ameno bende, cwo bedi win i kwo maber gi mon mewin, munyo wimiyo jo dwoŋ paka cwec manyap, odoko paka joma bende jobino limo kanyacel kodi win, mic pa Were m'obedo kwo. Tim win ameno aka nyaka gimoro k'ogeŋ kwayo mewin.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.7",
+            "verseOrgIds": [
+              "1PE.3.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Candirok ro timo gim'otire",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1PE 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.7",
+            "verseOrgIds": [
+              "1PE.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1PE 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Macowe, wijoje, riwere win i cuny win, bedi win gi wor ri jowoti win, odoko mare win paka wutmere, bedi win gi dewo kodi mwolo ri jowoti win. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.8",
+            "verseOrgIds": [
+              "1PE.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1PE 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wikiri wicul reco gi reco kosa yet gi yet, to cul win gi silwany ayino; kole silwany a gima Were ociko miyo win munyo olwoŋo win. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.9",
+            "verseOrgIds": [
+              "1PE.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1PE 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.34.13+PSA.34.14+PSA.34.15+PSA.34.16+PSA.34.17"
+              },
+              "items": [
+                {
+                  "text": "Zab 34:13-17",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Rupiri paka ndiko waco,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.10",
+            "verseOrgIds": [
+              "1PE.3.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1PE 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.12",
+            "verseOrgIds": [
+              "1PE.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1PE 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To ŋa ma bino timo riwin teko ka wiyikere timo gimaber? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.13",
+            "verseOrgIds": [
+              "1PE.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1PE 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.5.10"
+              },
+              "items": [
+                {
+                  "text": "Mat 5:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.14",
+            "verseOrgIds": [
+              "1PE.3.14"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.8.12+ISA.8.13"
+              },
+              "items": [
+                {
+                  "text": "Isa 8:12-13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Aka kada wicandere ri timo gim'otire, kole je fodi wibino limo silwany. Wikiri wilwor nyatoro, kosa wibwoki. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.14",
+            "verseOrgIds": [
+              "1PE.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1PE 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To i cuny win, wor win Kristo paka Rwoth. Ndiri je yikere win ma dwoko ŋata lwoŋo win tito geno ma winigine. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.15",
+            "verseOrgIds": [
+              "1PE.3.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1PE 3:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To tim win ameno gi mwolo ka wimiyo jo dwoŋ. Kendo kuri win paro ma cuny win maber, aka ŋey joma joluwo marac kwoŋ kiti win maber i Kristo, wiy jo bino kwot kwoŋ gima jowaco. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.16",
+            "verseOrgIds": [
+              "1PE.3.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1PE 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kole ber candirok ro timo bero, k'obedo mito pa Were, loyo candirok ro timo gimarac. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.17",
+            "verseOrgIds": [
+              "1PE.3.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1PE 3:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kole Kristo otho ri reco dicel kicutho, ŋataber, ri joreco, ŋey go wokel win bongi Were. Oneki go i delkwoŋe, to kareno omiy go kwo i cuny, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.18",
+            "verseOrgIds": [
+              "1PE.3.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "1PE 3:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "aka i kwo ma cuny no, go okidho to tito wac kamaler ri cuny m'oketh i twec. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.19",
+            "verseOrgIds": [
+              "1PE.3.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1PE 3:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "Cak 6:1—7:24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Me oyido obedo cuny ma jokwero winjo Were munyo go otemo kuro jo munyo diyo cunye i ndir ma Nowa oyido ger'iye ye. Ji manok ma jobedo i ye; ji aboro kende, ama joboth i pi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.20",
+            "verseOrgIds": [
+              "1PE.3.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "1PE 3:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "aka pi no obedo ranyuth ma cimo batisimo ma pama botho win, ki paka gima lwoko woko cilo ma del t'obedo cikirok m'itimo ri Were gi cuny maber. Gino bothin luwo kwoŋ cerino pa Kristo Yesu, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.21",
+            "verseOrgIds": [
+              "1PE.3.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "1PE 3:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "m'otieko kidho i polo aka onyo nitie yu cingi Were maracuc, aka onyo dhumo jomalaika je kodi meni je kodi adhum je.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.22",
+            "verseOrgIds": [
+              "1PE.3.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1PE.4",
+    "number": "4",
+    "bookId": "1PE"
+  },
+  "previous": {
+    "id": "1PE.2",
+    "number": "2",
+    "bookId": "1PE"
+  }
+}

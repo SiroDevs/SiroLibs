@@ -1,0 +1,147 @@
+{
+  "id": "JOB.3",
+  "number": "3",
+  "bookId": "JOB",
+  "reference": "Yobu 3",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "JOB 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kigeŋisa pa Yobu ri Were",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.3.1",
+            "verseOrgIds": [
+              "JOB.3.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.20.14+JER.20.15+JER.20.16+JER.20.17+JER.20.18"
+              },
+              "items": [
+                {
+                  "text": "Yer 20:14-18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rumacen Yobu oyawo dhoke aka okwoŋo ndelo m'onywol'iye go. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.3.1",
+            "verseOrgIds": [
+              "JOB.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JOB 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yobu owaco ni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.3.2",
+            "verseOrgIds": [
+              "JOB.3.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.4",
+    "number": "4",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.2",
+    "number": "2",
+    "bookId": "JOB"
+  }
+}

@@ -1,0 +1,1610 @@
+{
+  "id": "MRK.1",
+  "number": "1",
+  "bookId": "MRK",
+  "reference": "Mariko 1",
+  "verseCount": 40,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MRK 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Wac pa Yohana Jakibatisa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MRK 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Me a cakirok ma Wac Manyen Maber mapa Yesu Kristo Wod Were paka ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.1",
+            "verseOrgIds": [
+              "MRK.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MRK 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAL.3.1"
+              },
+              "items": [
+                {
+                  "text": "Mal 3:1",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "ondiki i kitawo pa Isaya jatuci wac Were ni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.2",
+            "verseOrgIds": [
+              "MRK.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Batisimo kodi karatem pa Yesu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MRK 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.8",
+            "verseOrgIds": [
+              "MRK.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MRK 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I hongo no ama Yesu owok'iye Nazareth i piny Galili aka Yohana obatisa go i jwom Yordan. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.9",
+            "verseOrgIds": [
+              "MRK.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MRK 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tekin Yesu wok i pi, oneno polo oyawere, to Cuny Maleŋ pie kwoŋe i cal p'akuru. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.10",
+            "verseOrgIds": [
+              "MRK.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MRK 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.22.2"
+              },
+              "items": [
+                {
+                  "text": "Cak 22:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.2.7"
+              },
+              "items": [
+                {
+                  "text": "Zab 2:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.42.1"
+              },
+              "items": [
+                {
+                  "text": "Isa 42:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.3.17"
+              },
+              "items": [
+                {
+                  "text": "Mat 3:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.12.18"
+              },
+              "items": [
+                {
+                  "text": "12:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.9.7"
+              },
+              "items": [
+                {
+                  "text": "Mar 9:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.3.22"
+              },
+              "items": [
+                {
+                  "text": "Luk 3:22",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Aka dwondi jo moro owok i polo ma waco ni, “In i Wodan m'amaro, asangala kodin.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.11",
+            "verseOrgIds": [
+              "MRK.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MRK 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gikenyo Cuny Maleŋ otero Yesu i thim kama d'ogwaŋe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.12",
+            "verseOrgIds": [
+              "MRK.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MRK 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu otieko kenyo ndelo piero aŋwen, munyo Sitan temo go; aka jomalaika jokonyo go.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.13",
+            "verseOrgIds": [
+              "MRK.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MRK 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.13",
+            "verseOrgIds": [
+              "MRK.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MRK 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Munyo otiek mako Yohana otwey go, to Yesu kidho Galili. Kenyo go ofonjo Wac Manyen Maber ma wok bongi Were. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.14",
+            "verseOrgIds": [
+              "MRK.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MRK 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.3.2"
+              },
+              "items": [
+                {
+                  "text": "Mat 3:2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Go owaco ni, “Ndiri otundo, aka Ker pa Were ocore cegin. Ŋuti win reco mewin, aka wiyeyi Wac Manyen Maber.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.15",
+            "verseOrgIds": [
+              "MRK.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu lwoŋo cwo aŋwen ma jokitoga",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MRK 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.15",
+            "verseOrgIds": [
+              "MRK.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MRK 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Munyo Yesu wotho dho thengi wakawaka ma Galili, oneno jokitoga, Simon kodi Andereya omin go, munyo oyido jociko bwo pajo i wakawaka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.16",
+            "verseOrgIds": [
+              "MRK.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MRK 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu owaco rijo ni, “Luwan win abino loko win jokitoga ji.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.17",
+            "verseOrgIds": [
+              "MRK.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MRK 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Piyo piyo no joweyo bwo pajo, to joluwo go. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.18",
+            "verseOrgIds": [
+              "MRK.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MRK 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Munyo owotho nyaka mathin, odoko oneno Yakobo gi Yohana wot Zebedayo m'oyido jonitie i ye pajo joyiko bwo pajo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.19",
+            "verseOrgIds": [
+              "MRK.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MRK 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Piyo no to lwoŋo jo, to joweyo ba gin Zebedayo kodi jotic pere i ye to joluwo go.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.20",
+            "verseOrgIds": [
+              "MRK.1.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Dhano ma jwogi ni kwoŋe",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MRK 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.20",
+            "verseOrgIds": [
+              "MRK.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MRK 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gikenyo Yesu gi jofonjirok pere jokidho Kapernaum; aka i ndelo ma Sabato, Yesu odonjo i kitipa pa jom'oyeyo pa Joyuda to fonjo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.21",
+            "verseOrgIds": [
+              "MRK.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MRK 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.7.28+MAT.7.29"
+              },
+              "items": [
+                {
+                  "text": "Mat 7:28-29",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ji jouro swa, rupiri go ofonjo pa ŋata nigi meni, makiweno paka jondiko. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.22",
+            "verseOrgIds": [
+              "MRK.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MRK 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Piyo piyo no dhano ma cuny m'ocido oyido ni kwoŋe odonjo i kitipa pa jom'oyeyo pa Joyuda ni pil, to cako koko ni, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.23",
+            "verseOrgIds": [
+              "MRK.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "MRK 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Imito timo wan nedi, Yesu Janazareth? Ibino ka reyo wan woko? Aŋeyin, i ŋataleŋ pa Were.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.24",
+            "verseOrgIds": [
+              "MRK.1.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "MRK 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu obwoko go munyo waco ni, “Liŋi, aka woki woko kwoŋ go.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.25",
+            "verseOrgIds": [
+              "MRK.1.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "MRK 1:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gikenyo cuny m'ocido no oyengo ŋato gi meni to wok kwoŋe munyo koko gi derino madwoŋ. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.26",
+            "verseOrgIds": [
+              "MRK.1.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "MRK 1:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gino omiyo ji je dhier tektek to wegi jopenjere kendi gin ni, “To me aŋo? Kole me fonji manyen! Go oro kiri cuny m'ocido wok aka jowinjo go!” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.27",
+            "verseOrgIds": [
+              "MRK.1.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "MRK 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gikenyo nyinge olak iy'adec ma Galili je parom.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.28",
+            "verseOrgIds": [
+              "MRK.1.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu botho ji kweth",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "MRK 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.28",
+            "verseOrgIds": [
+              "MRK.1.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "MRK 1:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tekin jowok i kitipa pa jom'oyeyo pa Joyuda, Yesu kodi Yakobo jokidho kodi Andereya peco pa Simon. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.29",
+            "verseOrgIds": [
+              "MRK.1.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "MRK 1:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Or Simon madhako onwaŋo nitie i kanindo kwoŋe oowere, to jowaco ri Yesu mayot paka dhakodwoŋ no two. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.30",
+            "verseOrgIds": [
+              "MRK.1.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "MRK 1:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu okidho bonge, omako cinge, to dheno ay malo. Ameno two no oweyo go, to go cako rweyo jo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.31",
+            "verseOrgIds": [
+              "MRK.1.31"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "MRK 1:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.31",
+            "verseOrgIds": [
+              "MRK.1.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "MRK 1:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Othieno no, munyo waŋceŋ otieko podho, ji jokelo ri Yesu jotwo je, kodi joma onwaŋo jwogi nikwoŋ gin. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.32",
+            "verseOrgIds": [
+              "MRK.1.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "MRK 1:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ji ma tindi gipi to jowura rigo dhiot. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.33",
+            "verseOrgIds": [
+              "MRK.1.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "MRK 1:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu obotho ji madit m'onwaŋo joramere gi two m'opokere opokere: Go oriemo woko jwogi bende, ma k'oyeyo jo luwo, rupiri oyido joŋeyo go.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.34",
+            "verseOrgIds": [
+              "MRK.1.34"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu fonjo i Galili",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "MRK 1:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.34",
+            "verseOrgIds": [
+              "MRK.1.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "MRK 1:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yawere mere odikin, ma piny fodi k'ocot, Yesu ocew to wok i ot no, to kidho gicen kwayo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.35",
+            "verseOrgIds": [
+              "MRK.1.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "MRK 1:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To Simon gi wadi jowok rango go, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.36",
+            "verseOrgIds": [
+              "MRK.1.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "MRK 1:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "aka munyo jonwaŋo go, jowaco rigo ni, “Dhano je dwarin.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.37",
+            "verseOrgIds": [
+              "MRK.1.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "MRK 1:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu odwoko ni, “Ere wakidhi win i tindi man, afonji korago bende; kole gino ama okelan.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.38",
+            "verseOrgIds": [
+              "MRK.1.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "MRK 1:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.4.23"
+              },
+              "items": [
+                {
+                  "text": "Mat 4:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.9.35"
+              },
+              "items": [
+                {
+                  "text": "9:35",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Owotho Galili munyo fonjo i kitipa pa jom'oyeyo pa Joyuda, kendo munyo riemo woko jwogi kwoŋ ji.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.39",
+            "verseOrgIds": [
+              "MRK.1.39"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu botho jadhowo moro",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "MRK 1:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.39",
+            "verseOrgIds": [
+              "MRK.1.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "MRK 1:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gikenyo jadhowo moro obino bothi Yesu, to guro conge piny, to kwayo go ni, “K'iyeyo, inyalo bothan.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.40",
+            "verseOrgIds": [
+              "MRK.1.40"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "MRK 1:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu omako gine wor, aka ocwayo cinge ogeyo go, to waco ni, “Ayeyo; bothi.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.41",
+            "verseOrgIds": [
+              "MRK.1.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "MRK 1:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gikenyo won, dhowo no oeye kwoŋ ŋato, to kwoŋe cango m'olony. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.42",
+            "verseOrgIds": [
+              "MRK.1.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "MRK 1:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu ociko go teltel munyo sewila go ni, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.43",
+            "verseOrgIds": [
+              "MRK.1.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "MRK 1:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.14.1+LEV.14.2+LEV.14.3+LEV.14.4+LEV.14.5+LEV.14.6+LEV.14.7+LEV.14.8+LEV.14.9+LEV.14.10+LEV.14.11+LEV.14.12+LEV.14.13+LEV.14.14+LEV.14.15+LEV.14.16+LEV.14.17+LEV.14.18+LEV.14.19+LEV.14.20+LEV.14.21+LEV.14.22+LEV.14.23+LEV.14.24+LEV.14.25+LEV.14.26+LEV.14.27+LEV.14.28+LEV.14.29+LEV.14.30+LEV.14.31+LEV.14.32"
+              },
+              "items": [
+                {
+                  "text": "Jolevi 14:1-32",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "“Ikir'iwaci ri nyatoro gime; kidhi inyuthere i waŋ jacway ri Were i wi migam, aka imiy go mic paka Musa oketho i cik, aka dhano je woŋey ni itieko both adieri.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.44",
+            "verseOrgIds": [
+              "MRK.1.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "MRK 1:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To jalo ocako nyayo wac no iye je, m'omiyo Yesu odoko k'onyalo donjo i tindi kamaler, to bedo gicen kama ongoye iye ji, aka kenyo ama ji jobin'iye bonge wok kaman man je.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.45",
+            "verseOrgIds": [
+              "MRK.1.45"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MRK.2",
+    "number": "2",
+    "bookId": "MRK"
+  },
+  "previous": {
+    "id": "MRK.intro",
+    "number": "intro",
+    "bookId": "MRK"
+  }
+}

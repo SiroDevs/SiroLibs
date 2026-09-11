@@ -1,0 +1,47 @@
+{
+  "id": "PSA.22",
+  "number": "22",
+  "bookId": "PSA",
+  "reference": "Zabuli 22",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "22",
+        "style": "c",
+        "sid": "PSA 22"
+      },
+      "items": [
+        {
+          "text": "22",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ywak ma kidamba kodi wer ma pak",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.23",
+    "number": "23",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.21",
+    "number": "21",
+    "bookId": "PSA"
+  }
+}

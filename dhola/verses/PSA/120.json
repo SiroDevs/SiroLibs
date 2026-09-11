@@ -1,0 +1,47 @@
+{
+  "id": "PSA.120",
+  "number": "120",
+  "bookId": "PSA",
+  "reference": "Zabuli 120",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "120",
+        "style": "c",
+        "sid": "PSA 120"
+      },
+      "items": [
+        {
+          "text": "120",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kwayo ri kony",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.121",
+    "number": "121",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.119",
+    "number": "119",
+    "bookId": "PSA"
+  }
+}
