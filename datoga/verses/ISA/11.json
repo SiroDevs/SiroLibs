@@ -1,0 +1,178 @@
+{
+  "id": "ISA.11",
+  "number": "11",
+  "bookId": "ISA",
+  "reference": "Isaya 11",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "11",
+        "style": "c",
+        "sid": "ISA 11"
+      },
+      "items": [
+        {
+          "text": "11",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Sugoocheanduumeeda hoyyoo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Fuga ghayi balak gaygabiigu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 11:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.11.9",
+            "verseOrgIds": [
+              "ISA.11.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 11:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ak eaweecheanji damealeanda Yese ghamiinaada ghoah gwadeagooda aba heeda fugaaschi; ak gaygagasa eemoojiga niny, nea heeda abiita niny gajea ghaambiidaat.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.11.10",
+            "verseOrgIds": [
+              "ISA.11.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 11:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.11.10",
+            "verseOrgIds": [
+              "ISA.11.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 11:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ak eaweecheanji Ng'utamiida gayghoahaakta geadi gicha goodeelu boosteangaaschi mida Ashuru, ea Misri, ea Batirosi, ea Gusi, ea Elamu, ea Shinari, ea Hamati, ea ng'eanyiida mida ghuuta basooda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.11.11",
+            "verseOrgIds": [
+              "ISA.11.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.12",
+    "number": "12",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.10",
+    "number": "10",
+    "bookId": "ISA"
+  }
+}

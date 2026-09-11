@@ -1,0 +1,222 @@
+{
+  "id": "HOS.3",
+  "number": "3",
+  "bookId": "HOS",
+  "reference": "Hosea 3",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "HOS 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omukama akangambira ati, “Oshube ogye ogonze omumalaya aina omugenda. Omugonze nk'okwo nkyagonza Abaisiraeli, n'orwo balikugonza baruhanga abandi, nibahongera n'ebihuuku ezabibu zomire.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.3.1",
+            "verseOrgIds": [
+              "HOS.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "HOS 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kityo omukazi ogwo nkamugaruza esarafu 15 z'efeza n'ekilo 150 z'eshayiri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.3.2",
+            "verseOrgIds": [
+              "HOS.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HOS 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Namugambira nti, “Noragirwa kundeka eibanga lirai otateire bumalaya anga kusiyana; nanye ndakuleka ntyo.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.3.3",
+            "verseOrgIds": [
+              "HOS.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HOS 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuba Abaisiraeli balimara ebiro bingi bataina mukama anga mutwazi, tibalitamba bitambo anga kugira nyomyo ntakatifu ey'amabare. N'efodi na terafimu tibalibigira. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.3.4",
+            "verseOrgIds": [
+              "HOS.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HOS 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ahanyuma balihinduka bagaruke aha Mukama Ruhanga wabo na mwijukuru",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.3.5",
+            "verseOrgIds": [
+              "HOS.3.5"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "3:5",
+              "type": "text"
+            },
+            {
+              "text": "Mwijukuru wa Daudi",
+              "type": "text"
+            },
+            {
+              "text": "Masiha, omuchunguzi alitabuka omu ruganda rwa Daudi.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " wa Daudi omukama wabo. Makiro aga nyuma ago balitina Omukama batungwe n'ebirungibye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.3.5",
+            "verseOrgIds": [
+              "HOS.3.5"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "3:5",
+              "type": "text"
+            },
+            {
+              "text": "N'ebirungibye",
+              "type": "text"
+            },
+            {
+              "text": "Bagarulirwe endimiro zabo n'emizabibu n'emitini.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.4",
+    "number": "4",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.2",
+    "number": "2",
+    "bookId": "HOS"
+  }
+}

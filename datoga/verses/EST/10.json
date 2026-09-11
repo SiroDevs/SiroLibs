@@ -1,0 +1,131 @@
+{
+  "id": "EST.10",
+  "number": "10",
+  "bookId": "EST",
+  "reference": "Esta 10",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "EST 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Hawunda Ahasuero ea Mordekai",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sugoocheanda was Ahasuero ghoang'waay gwaadi aba ng'eanyiisean ea aba ng'eanyiida ghuuta basooda ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.1",
+            "verseOrgIds": [
+              "EST.10.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ak gadiyoojigaaschi sean bea uurda ea meaynata ea ng'asheega sean bea hawunda Mordekai ghayi adaw sugoocheanda niny, miyeeng'oorsa jeeda gitaabooda damanyoojiga bea sugoodiga ng'eanyiida Mediya ea Ajemi? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.2",
+            "verseOrgIds": [
+              "EST.10.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 10:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aba gideaba Mordekai was siida Yahudi bea iyeenya aba hawunda gabassa sugoocheanda was Ahasuero ak ea haw aba jeeda fuga Yahudi, ak ea nalaat aba jeeda fugaaschi duupchi, aba gideaba gagasa fugaaschi gea miyaasiin ea gichea ghaghuyda jeacheangaaschi sean.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.3",
+            "verseOrgIds": [
+              "EST.10.3"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.1",
+    "number": "1",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "EST.9",
+    "number": "9",
+    "bookId": "EST"
+  }
+}

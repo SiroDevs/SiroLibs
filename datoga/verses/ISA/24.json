@@ -1,0 +1,81 @@
+{
+  "id": "ISA.24",
+  "number": "24",
+  "bookId": "ISA",
+  "reference": "Isaya 24",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "24",
+        "style": "c",
+        "sid": "ISA 24"
+      },
+      "items": [
+        {
+          "text": "24",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ng'utamiida gayghwalas uhuuda ng'eanyiida",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 24:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ng'ula, NG'UTAMIIDA ninung' ea manda jeeda ng'eanyiida gil, niyam ak ghang'uda salgheang'da,nea ghoadaarda fuga mida jeeda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.24.1",
+            "verseOrgIds": [
+              "ISA.24.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.25",
+    "number": "25",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.23",
+    "number": "23",
+    "bookId": "ISA"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "PRO.9",
+  "number": "9",
+  "bookId": "PRO",
+  "reference": "Emigani 9",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "9",
+        "style": "c",
+        "sid": "PRO 9"
+      },
+      "items": [
+        {
+          "text": "9",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 9:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bumanyi ayombekire enju aha nyomyo mushanju.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.9.1",
+            "verseOrgIds": [
+              "PRO.9.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.10",
+    "number": "10",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.8",
+    "number": "8",
+    "bookId": "PRO"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "MIC.7",
+  "number": "7",
+  "bookId": "MIC",
+  "reference": "Mika 7",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "7",
+        "style": "c",
+        "sid": "MIC 7"
+      },
+      "items": [
+        {
+          "text": "7",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Seawshooda fuga Israeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "NG'UTAMIIDA gweadu lealeanooda",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Baydeayda NG'UTAMIIDA aba badayda Israeli",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NAM.1",
+    "number": "1",
+    "bookId": "NAM"
+  },
+  "previous": {
+    "id": "MIC.6",
+    "number": "6",
+    "bookId": "MIC"
+  }
+}

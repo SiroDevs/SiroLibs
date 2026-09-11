@@ -1,0 +1,73 @@
+{
+  "id": "PRO.1",
+  "number": "1",
+  "bookId": "PRO",
+  "reference": "Ghwasiildeanga 1",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "PRO 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Giimajeekta ghwasiildeanga",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Girgweaksiinda gheareemanga",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Weaghuumeeda gaguuru",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.2",
+    "number": "2",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PSA.150",
+    "number": "150",
+    "bookId": "PSA"
+  }
+}

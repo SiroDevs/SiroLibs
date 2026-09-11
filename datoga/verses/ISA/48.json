@@ -1,0 +1,107 @@
+{
+  "id": "ISA.48",
+  "number": "48",
+  "bookId": "ISA",
+  "reference": "Isaya 48",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "48",
+        "style": "c",
+        "sid": "ISA 48"
+      },
+      "items": [
+        {
+          "text": "48",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "ASEETA was Ng'utamiida manda muudeanooda gil",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 48:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oaleaydiit fuga gheeh Yakobo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.48.1",
+            "verseOrgIds": [
+              "ISA.48.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Goreshi ghwaloat Ng'utamiida",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Gidamwaal Ng'utamiida aba badayda fugaaschi",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.49",
+    "number": "49",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.47",
+    "number": "47",
+    "bookId": "ISA"
+  }
+}

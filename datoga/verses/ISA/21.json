@@ -1,0 +1,157 @@
+{
+  "id": "ISA.21",
+  "number": "21",
+  "bookId": "ISA",
+  "reference": "Isaya 21",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "21",
+        "style": "c",
+        "sid": "ISA 21"
+      },
+      "items": [
+        {
+          "text": "21",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Geahiimu giibeedeayda Babeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Gisiihiimu aba badayda Edomu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Gisiihiimu aba badayda ng'eanyiida Arabu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ISA 21:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.21.15",
+            "verseOrgIds": [
+              "ISA.21.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ISA 21:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aba gideaba gwayeeshiinean NG'UTAMIIDA, “Aba jeedeaba gwanyagi, nea mayghwanaawda ghana ghoashoay, gaygoosha miyeenooda Gederi; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.21.16",
+            "verseOrgIds": [
+              "ISA.21.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ISA 21:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ak gaygaboos fiisu ng'ay aba jeeda fuga daruuscheew ng'uchi bea Gederi; gearugu NG'UTAMIIDA was ASEETA Israeli.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.21.17",
+            "verseOrgIds": [
+              "ISA.21.17"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.22",
+    "number": "22",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.20",
+    "number": "20",
+    "bookId": "ISA"
+  }
+}

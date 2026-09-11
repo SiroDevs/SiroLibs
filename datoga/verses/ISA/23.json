@@ -1,0 +1,106 @@
+{
+  "id": "ISA.23",
+  "number": "23",
+  "bookId": "ISA",
+  "reference": "Isaya 23",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "23",
+        "style": "c",
+        "sid": "ISA 23"
+      },
+      "items": [
+        {
+          "text": "23",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Fuga Diro ea Sidoni gajeenung' goosha",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 23:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.12",
+            "verseOrgIds": [
+              "ISA.23.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 23:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Fuga Galdayo gil, mii fuga Ashuru, gea siksa diyeanga jarooda ghapka jeeda mujiineeda Diro. Saawa gooneaweesa mujiineedida madoolgweaka ng'ucheeda, ak gwanyarja gealga nyaawa nea ghwanung' ghoah eemeega.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.13",
+            "verseOrgIds": [
+              "ISA.23.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.24",
+    "number": "24",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.22",
+    "number": "22",
+    "bookId": "ISA"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "PSA.88",
+  "number": "88",
+  "bookId": "PSA",
+  "reference": "Ezaburi 88",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "88",
+        "style": "c",
+        "sid": "PSA 88"
+      },
+      "items": [
+        {
+          "text": "88",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 88:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.88.11",
+            "verseOrgIds": [
+              "PSA.88.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 88:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ebitangazo byawe tibimanyika mu mwilima,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.88.12",
+            "verseOrgIds": [
+              "PSA.88.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.89",
+    "number": "89",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.87",
+    "number": "87",
+    "bookId": "PSA"
+  }
+}
