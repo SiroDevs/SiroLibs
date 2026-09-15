@@ -1,0 +1,631 @@
+{
+  "id": "MIC.2",
+  "number": "2",
+  "bookId": "MIC",
+  "reference": "Mika 2",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "MIC 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Maovu ya jamii yashutumiwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.2.1",
+            "verseOrgIds": [
+              "MIC.2.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.3.8"
+              },
+              "items": [
+                {
+                  "text": "Est 3:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.3.9"
+              },
+              "items": [
+                {
+                  "text": "9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.32.7"
+              },
+              "items": [
+                {
+                  "text": "Isa 32:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.7.11+PSA.7.12+PSA.7.13+PSA.7.14"
+              },
+              "items": [
+                {
+                  "text": "Zab 7:11-14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.36.4"
+              },
+              "items": [
+                {
+                  "text": "36:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.7.6"
+              },
+              "items": [
+                {
+                  "text": "Hos 7:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.31.29"
+              },
+              "items": [
+                {
+                  "text": "Mwa 31:29",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Ole wao wakusudiao mambo maovu, na kutenda mabaya vitandani mwao! Kunapopambazuka asubuhi huyafanya, sababu wana uwezo mikononi mwao. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.2.1",
+            "verseOrgIds": [
+              "MIC.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MIC 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao hutamani mashamba, na kuyanyakua; na nyumba pia, nao huzichukua; nao humwonea mtu na nyumba yake, naam, mtu na urithi wake. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.2.2",
+            "verseOrgIds": [
+              "MIC.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MIC 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.8.3"
+              },
+              "items": [
+                {
+                  "text": "Yer 8:3",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Basi BWANA asema hivi, Angalia, nakusudia jambo baya juu ya jamaa hii, ambalo hamtazitoa shingo zenu, wala hamtakwenda kwa kiburi; kwa maana ni wakati mbaya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.2.3",
+            "verseOrgIds": [
+              "MIC.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MIC 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku hiyo watatunga mithali juu yenu, na kuomboleza kwa maombolezo ya huzuni nyingi, na kusema,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.2.4",
+            "verseOrgIds": [
+              "MIC.2.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MIC 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.2.4",
+            "verseOrgIds": [
+              "MIC.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MIC 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.2.5",
+            "verseOrgIds": [
+              "MIC.2.5"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.32.8"
+              },
+              "items": [
+                {
+                  "text": "Kum 32:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.32.9"
+              },
+              "items": [
+                {
+                  "text": "9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Kwa hiyo hamtakuwa na mtu atakayeitupa kamba kwa kura katika mkutano wa BWANA.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.2.5",
+            "verseOrgIds": [
+              "MIC.2.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MIC 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.2.5",
+            "verseOrgIds": [
+              "MIC.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MIC 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Msitabiri, ndivyo watabirivyo; wasiyatabiri mambo haya; lawama hazikomi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.2.6",
+            "verseOrgIds": [
+              "MIC.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MIC 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Je! Litasemwa neno hili, enyi nyumba ya Yakobo, Roho ya BWANA imepunguzwa? Je! Haya ni matendo yake? Je! Maneno yangu hayamfai yeye aendaye kwa unyofu? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.2.7",
+            "verseOrgIds": [
+              "MIC.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MIC 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini siku hizi mmeinuka kama adui za watu wangu; mnawapokonya joho lililo juu ya nguo za hao wapitao salama bila kutarajia vita. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.2.8",
+            "verseOrgIds": [
+              "MIC.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wanawake wa watu wangu mnawatupa nje ya nyumba zao nzuri; watoto wao wachanga mnawanyang'anya utukufu wangu milele. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.2.9",
+            "verseOrgIds": [
+              "MIC.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MIC 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.12.9"
+              },
+              "items": [
+                {
+                  "text": "Kum 12:9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Ondokeni, mwende zenu; maana hapa sipo mahali pa raha yenu; kwa sababu ya uchafu mtaangamizwa, naam, kwa maangamizo makubwa sana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.2.10",
+            "verseOrgIds": [
+              "MIC.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MIC 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mtu akienda kwa roho ya uongo, akinena maneno ya uongo, akisema, Nitakutabiria habari ya mvinyo na kileo; mtu huyu atakuwa nabii wao watu hawa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.2.11",
+            "verseOrgIds": [
+              "MIC.2.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ahadi kwa mabaki wa Israeli",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.3",
+    "number": "3",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.1",
+    "number": "1",
+    "bookId": "MIC"
+  }
+}

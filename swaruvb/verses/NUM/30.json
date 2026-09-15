@@ -1,0 +1,1019 @@
+{
+  "id": "NUM.30",
+  "number": "30",
+  "bookId": "NUM",
+  "reference": "Hesabu 30",
+  "verseCount": 16,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "30",
+        "style": "c",
+        "sid": "NUM 30"
+      },
+      "items": [
+        {
+          "text": "30",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Nadhiri zilizofanywa na wanawake",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NUM 30:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.1",
+            "verseOrgIds": [
+              "NUM.30.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.1.4"
+              },
+              "items": [
+                {
+                  "text": "Hes 1:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.1.16"
+              },
+              "items": [
+                {
+                  "text": "16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.7.2"
+              },
+              "items": [
+                {
+                  "text": "7:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.1.13"
+              },
+              "items": [
+                {
+                  "text": "Kum 1:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.1.17"
+              },
+              "items": [
+                {
+                  "text": "17",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Kisha Musa akanena na wale vichwa vya makabila ya wana wa Israeli, na kuwaambia, Neno hili ndilo aliloliagiza BWANA. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.1",
+            "verseOrgIds": [
+              "NUM.30.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 30:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.23.21+DEU.23.22+DEU.23.23"
+              },
+              "items": [
+                {
+                  "text": "Kum 23:21-23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.5.33"
+              },
+              "items": [
+                {
+                  "text": "Mt 5:33",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.28.20"
+              },
+              "items": [
+                {
+                  "text": "Mwa 28:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.27.2"
+              },
+              "items": [
+                {
+                  "text": "Law 27:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.11.30"
+              },
+              "items": [
+                {
+                  "text": "Amu 11:30",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.11.35"
+              },
+              "items": [
+                {
+                  "text": "35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.56.12"
+              },
+              "items": [
+                {
+                  "text": "Zab 56:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.119.106"
+              },
+              "items": [
+                {
+                  "text": "119:106",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.20.25"
+              },
+              "items": [
+                {
+                  "text": "Mit 20:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ECC.5.4"
+              },
+              "items": [
+                {
+                  "text": "Mhu 5:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.5.4"
+              },
+              "items": [
+                {
+                  "text": "Law 5:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.14.9"
+              },
+              "items": [
+                {
+                  "text": "Mt 14:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.23.14"
+              },
+              "items": [
+                {
+                  "text": "Mdo 23:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.22.27"
+              },
+              "items": [
+                {
+                  "text": "Ayu 22:27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.22.25"
+              },
+              "items": [
+                {
+                  "text": "Zab 22:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.50.14"
+              },
+              "items": [
+                {
+                  "text": "50:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NAM.1.15"
+              },
+              "items": [
+                {
+                  "text": "Nah 1:15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Mtu atakapomwekea BWANA nadhiri, au, atakapoapa kiapo ili kufunga nafsi yake kwa ahadi, asilitangue neno lake; atafanya sawasawa na hayo yote yamtokayo kinywani mwake. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.2",
+            "verseOrgIds": [
+              "NUM.30.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NUM 30:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tena mwanamke atakapomwekea BWANA nadhiri, na kufunga nafsi yake kwa kifungo, naye aishi katika nyumba ya babaye, katika ujana wake; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.3",
+            "verseOrgIds": [
+              "NUM.30.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 30:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "babaye naye akasikia nadhiri yake, na kile kifungo chake alichofungia nafsi yake, na babaye akamnyamazia; ndipo nadhiri zake zote zitathibitika, na kila kifungo alichofungia nafsi yake kitathibitika.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.4",
+            "verseOrgIds": [
+              "NUM.30.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 30:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.4",
+            "verseOrgIds": [
+              "NUM.30.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NUM 30:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini kama huyo babaye akimkataza siku hiyo aliyosikia; nadhiri zake ziwazo zote, wala vifungo vyake alivyoifungia nafsi yake havitathibitika; na BWANA atamsamehe, kwa kuwa babaye alimkataza. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.5",
+            "verseOrgIds": [
+              "NUM.30.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NUM 30:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tena kama amekwisha kuolewa na mume, wakati huo wa nadhiri zake, au wa neno hilo alilolitamka kwa midomo yake pasipo kufikiri, alilojifungia; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.6",
+            "verseOrgIds": [
+              "NUM.30.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NUM 30:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na mumewe akasikia, naye akamnyamazia siku hiyo aliyosikia neno hilo; ndipo nadhiri zake zitathibitika, na vile vifungo ambavyo ameifunga nafsi yake vitathibitika. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.7",
+            "verseOrgIds": [
+              "NUM.30.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NUM 30:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.3.16"
+              },
+              "items": [
+                {
+                  "text": "Mwa 3:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.7.4"
+              },
+              "items": [
+                {
+                  "text": "1 Kor 7:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.14.34"
+              },
+              "items": [
+                {
+                  "text": "14:34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.5.22+EPH.5.23+EPH.5.24"
+              },
+              "items": [
+                {
+                  "text": "Efe 5:22-24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.3.18"
+              },
+              "items": [
+                {
+                  "text": "Kol 3:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.3.1"
+              },
+              "items": [
+                {
+                  "text": "1 Pet 3:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.2.11"
+              },
+              "items": [
+                {
+                  "text": "1 Tim 2:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.2.12"
+              },
+              "items": [
+                {
+                  "text": "12",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Lakini kama mumewe akimkataza siku hiyo aliyolisikia; ndipo ataitangua nadhiri yake iliyo juu yake na neno alilolitamka kwa midomo yake pasipo kufikiri, alilojifungia; na BWANA atamsamehe ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.8",
+            "verseOrgIds": [
+              "NUM.30.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NUM 30:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.21.7"
+              },
+              "items": [
+                {
+                  "text": "Law 21:7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Lakini nadhiri ya mjane, au ya mwanamke aliyetalikiwa, kila neno ambalo ameifunga nafsi yake kwalo, litathibitika juu yake. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.9",
+            "verseOrgIds": [
+              "NUM.30.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NUM 30:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tena kama aliweka nadhiri nyumbani mwa mumewe, au kama aliifunga nafsi yake kwa kifungo pamoja na kiapo, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.10",
+            "verseOrgIds": [
+              "NUM.30.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NUM 30:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na mumewe alisikia akamnyamazia, wala hakumkataza; ndipo nadhiri zake zote zitathibitika, na kila kifungo alichojifungia kitathibitika. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.11",
+            "verseOrgIds": [
+              "NUM.30.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NUM 30:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini kama mumewe alizibatilisha na kuzitangua siku hiyo aliyozisikia, ndipo kila neno lililotoka midomoni mwake katika hizo nadhiri zake, au katika kile kifungo cha nafsi yake, halitathibitika; huyo mumewe amezitangua; na BWANA atamsamehe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.12",
+            "verseOrgIds": [
+              "NUM.30.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NUM 30:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kila nadhiri, na kila kiapo kifungacho, ili kuitaabisha nafsi",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.13",
+            "verseOrgIds": [
+              "NUM.30.13"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "30:13",
+              "type": "text"
+            },
+            {
+              "text": "Au kufunga.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ya mwanamke mumewe aweza kuthibitisha, au mumewe aweza kutangua. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.13",
+            "verseOrgIds": [
+              "NUM.30.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NUM 30:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini mumewe akimnyamazia mkewe kabisa siku hata siku",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.14",
+            "verseOrgIds": [
+              "NUM.30.14"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "30:14",
+              "type": "text"
+            },
+            {
+              "text": "au ‘kabisa siku hadi siku nyingine’.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ndipo azithibitisha nadhiri zote za mkewe, au vifungo vyake vyote vilivyo juu yake; yeye amezithibitisha, kwa kuwa alimnyamazia mkewe siku hiyo aliyozisikia nadhiri zake. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.14",
+            "verseOrgIds": [
+              "NUM.30.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NUM 30:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini akizibatilisha na kuzitangua baada ya kuzisikia; ndipo yeye atachukua uovu wa mkewe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.15",
+            "verseOrgIds": [
+              "NUM.30.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NUM 30:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hizi ndizo amri, ambazo BWANA alimwagiza Musa, kati ya mtu mume na mkewe, kati ya baba na binti yake, katika ujana wake, akiwa nyumbani mwa babaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.30.16",
+            "verseOrgIds": [
+              "NUM.30.16"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NUM.31",
+    "number": "31",
+    "bookId": "NUM"
+  },
+  "previous": {
+    "id": "NUM.29",
+    "number": "29",
+    "bookId": "NUM"
+  }
+}

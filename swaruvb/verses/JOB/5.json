@@ -1,0 +1,47 @@
+{
+  "id": "JOB.5",
+  "number": "5",
+  "bookId": "JOB",
+  "reference": "Ayubu 5",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "JOB 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ayubu akosolewa na Mungu",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.6",
+    "number": "6",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.4",
+    "number": "4",
+    "bookId": "JOB"
+  }
+}

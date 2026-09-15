@@ -1,0 +1,673 @@
+{
+  "id": "EST.7",
+  "number": "7",
+  "bookId": "EST",
+  "reference": "Esta 7",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "7",
+        "style": "c",
+        "sid": "EST 7"
+      },
+      "items": [
+        {
+          "text": "7",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 7:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi mfalme na Hamani walikwenda kula karamu pamoja na malkia Esta. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.1",
+            "verseOrgIds": [
+              "EST.7.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 7:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.5.6"
+              },
+              "items": [
+                {
+                  "text": "Est 5:6",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Mfalme akamwambia Esta tena siku ya pili pale pale penye karamu ya divai, Malkia Esta, dua yako ni nini? Nawe utapewa; na haja yako ni nini? Hata nusu ya ufalme utatimiziwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.2",
+            "verseOrgIds": [
+              "EST.7.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 7:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo malkia Esta alipojibu, akasema, Ikiwa nimepata kibali machoni pako, Ewe Mfalme, na ikimpendeza mfalme, hebu nipewe maisha yangu kwa ombi langu, na watu wangu kwa maombi yangu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.3",
+            "verseOrgIds": [
+              "EST.7.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 7:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.22.23"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 22:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.3.9"
+              },
+              "items": [
+                {
+                  "text": "Est 3:9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Maana tumeuzwa, mimi na watu wangu, ili tuharibiwe, na kuuawa, na kuangamia. Kama tungaliuzwa kuwa watumwa na wajakazi, ningalinyamaza; japo hata hivyo adui asingeweza kufidia hasara ya mfalme. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.4",
+            "verseOrgIds": [
+              "EST.7.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EST 7:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo mfalme Ahasuero aliponena, akamwambia malkia Esta, Ni nani huyu, tena yuko wapi, ambaye moyoni mwake alithubutu kufanya hivi? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.5",
+            "verseOrgIds": [
+              "EST.7.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EST 7:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Esta akasema, Ni mtesi, tena ni adui, ndiye huyu Hamani, mtu mbaya kabisa. Mara Hamani akaingiwa na hofu mbele ya mfalme na malkia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.6",
+            "verseOrgIds": [
+              "EST.7.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EST 7:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.6",
+            "verseOrgIds": [
+              "EST.7.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EST 7:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.7",
+            "verseOrgIds": [
+              "EST.7.7"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.14.19"
+              },
+              "items": [
+                {
+                  "text": "Mit 14:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Mfalme akaondoka kwa ghadhabu kutoka kwenye karamu ya divai, akaingia bustani ya ngome. Hamani naye akasimama ili ajitakie maisha yake kwa malkia Esta; kwa kuwa aliona ya kwamba amekusudiwa madhara na mfalme. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.7",
+            "verseOrgIds": [
+              "EST.7.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EST 7:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.1.6"
+              },
+              "items": [
+                {
+                  "text": "Est 1:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.9.24"
+              },
+              "items": [
+                {
+                  "text": "Ayu 9:24",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Kisha mfalme akarudi kutoka katika bustani ya ngome hadi mahali pa karamu ya divai. Ikawa Hamani amejitupa chini penye kitanda alipokuwapo Esta. Mfalme akasema, Namna gani! Je! Atamfanyia malkia jeuri hata machoni pangu nyumbani mwangu? Na neno lilipotoka kinywani mwa mfalme, wakamfunika uso Hamani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.8",
+            "verseOrgIds": [
+              "EST.7.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 7:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.1.10"
+              },
+              "items": [
+                {
+                  "text": "Est 1:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.5.14"
+              },
+              "items": [
+                {
+                  "text": "5:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.9.24"
+              },
+              "items": [
+                {
+                  "text": "Ayu 9:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.22.17"
+              },
+              "items": [
+                {
+                  "text": "Isa 22:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.7.16"
+              },
+              "items": [
+                {
+                  "text": "Zab 7:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.11.5"
+              },
+              "items": [
+                {
+                  "text": "Mit 11:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.11.6"
+              },
+              "items": [
+                {
+                  "text": "6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.2.21+EST.2.22+EST.2.23"
+              },
+              "items": [
+                {
+                  "text": "Est 2:21-23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.27.20+JOB.27.21+JOB.27.22+JOB.27.23"
+              },
+              "items": [
+                {
+                  "text": "Ayu 27:20-23",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Ndipo aliposema Harbona, towashi mmojawapo wa wale waliohudumu mbele ya mfalme, Tazama, basi, mti wa mikono hamsini urefu wake, Hamani aliomwekea tayari Mordekai, ambaye alinena vema kwa ajili ya mfalme, upo umesimamishwa nyumbani kwa Hamani. Mfalme akasema, Mtundikeni juu yake. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.9",
+            "verseOrgIds": [
+              "EST.7.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EST 7:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.9.25"
+              },
+              "items": [
+                {
+                  "text": "Est 9:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.6.24"
+              },
+              "items": [
+                {
+                  "text": "Dan 6:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.7.15"
+              },
+              "items": [
+                {
+                  "text": "Zab 7:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.9.15"
+              },
+              "items": [
+                {
+                  "text": "9:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.9.16"
+              },
+              "items": [
+                {
+                  "text": "16",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Basi wakamtundika Hamani juu ya mti aliomwekea tayari Mordekai. Ghadhabu ya mfalme ikatulia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.10",
+            "verseOrgIds": [
+              "EST.7.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EST.8",
+    "number": "8",
+    "bookId": "EST"
+  },
+  "previous": {
+    "id": "EST.6",
+    "number": "6",
+    "bookId": "EST"
+  }
+}

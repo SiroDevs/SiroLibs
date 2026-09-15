@@ -1,0 +1,828 @@
+{
+  "id": "EST.6",
+  "number": "6",
+  "bookId": "EST",
+  "reference": "Esta 6",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "EST 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mfalme Amtunza Mordekai",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.1",
+            "verseOrgIds": [
+              "EST.6.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.2.23"
+              },
+              "items": [
+                {
+                  "text": "Est 2:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Usiku ule mfalme hakupata usingizi; akaamuru aletewe kitabu cha kumbukumbu nacho kikasomwa mbele ya mfalme. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.1",
+            "verseOrgIds": [
+              "EST.6.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 6:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ikaonekana kuwa imeandikwa ya kwamba Mordekai aliwasema Bigthana na Tereshi, wasimamizi wawili wa mfalme, katika hao waliolinda mlango, waliotaka kumwua",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.2",
+            "verseOrgIds": [
+              "EST.6.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "6:2",
+              "type": "text"
+            },
+            {
+              "text": "Katika Kiebrania ni ‘kumtia mikono’.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " mfalme Ahasuero. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.2",
+            "verseOrgIds": [
+              "EST.6.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 6:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GAL.6.9"
+              },
+              "items": [
+                {
+                  "text": "Gal 6:9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Mfalme akasema, Je! Ni heshima gani au hadhi gani Mordekai aliyofanyiwa kwa ajili ya hayo? Watumishi wa mfalme waliomhudumia wakamwambia, Hakuna alilofanyiwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.3",
+            "verseOrgIds": [
+              "EST.6.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 6:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.5.1"
+              },
+              "items": [
+                {
+                  "text": "Est 5:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.5.14"
+              },
+              "items": [
+                {
+                  "text": "14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.5.13"
+              },
+              "items": [
+                {
+                  "text": "Ayu 5:13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Mfalme akasema, Yupo nani behewani? Ikawa Hamani alikuwa ameingia katika ua wa nje wa nyumba ya mfalme, aseme na mfalme, ili kumtundika Mordekai juu ya mti ule aliomwandalia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.4",
+            "verseOrgIds": [
+              "EST.6.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EST 6:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi watumishi wa mfalme wakamwambia, Tazama, Hamani yupo, amesimama behewani. Mfalme akasema, Na aingie. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.5",
+            "verseOrgIds": [
+              "EST.6.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EST 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi Hamani akaingia. Mfalme akamwambia, Afanyiwe nini yule ambaye mfalme apenda kumheshimu? Hamani akasema moyoni mwake, Ni nani ambaye mfalme apenda kumheshimu kuliko mimi? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.6",
+            "verseOrgIds": [
+              "EST.6.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EST 6:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi Hamani akamwambia mfalme, Yule ambaye mfalme apenda kumheshimu, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.7",
+            "verseOrgIds": [
+              "EST.6.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EST 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1KI.1.33"
+              },
+              "items": [
+                {
+                  "text": "1 Fal 1:33",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " na aletewe mavazi ya kifalme ambayo mfalme amezoea kuyavaa, na farasi ambaye mfalme humpanda mwenyewe, ambaye ametiwa taji la kifalme kichwani; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.8",
+            "verseOrgIds": [
+              "EST.6.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.41.43"
+              },
+              "items": [
+                {
+                  "text": "Mwa 41:43",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " na yale mavazi na yule farasi akabidhiwe mkononi mmojawapo wa wakuu wa mfalme aliye mstahiki; ili makusudi amvike yule ambaye mfalme apenda kumheshimu, na kumpandisha juu ya farasi na kumtembeza kupitia njia kuu ya mjini, na kupiga mbiu mbele yake, kusema, Hivyo ndivyo atakavyofanyiwa mtu yule ambaye mfalme apenda kumheshimu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.9",
+            "verseOrgIds": [
+              "EST.6.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.9",
+            "verseOrgIds": [
+              "EST.6.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EST 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.10",
+            "verseOrgIds": [
+              "EST.6.10"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.5.11"
+              },
+              "items": [
+                {
+                  "text": "Ayu 5:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.5.13"
+              },
+              "items": [
+                {
+                  "text": "13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.14.11"
+              },
+              "items": [
+                {
+                  "text": "Lk 14:11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Basi mfalme akamwambia Hamani, Hima! Twaa mavazi na farasi kama ulivyosema, ukamfanyie vivyo hivyo Mordekai, Myahudi, aketiye mlangoni pa mfalme; lisipungue neno lolote katika yote uliyoyasema. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.10",
+            "verseOrgIds": [
+              "EST.6.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EST 6:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo Hamani alipoyatwaa mavazi na farasi, akamvika Mordekai yale mavazi, akampandisha juu ya farasi na kumtembeza kupitia njia kuu ya mjini, akapiga mbiu mbele yake, Hivyo ndivyo atakavyofanyiwa mtu yule ambaye mfalme apenda kumheshimu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.11",
+            "verseOrgIds": [
+              "EST.6.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EST 6:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.2.19"
+              },
+              "items": [
+                {
+                  "text": "Est 2:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.131.1"
+              },
+              "items": [
+                {
+                  "text": "Zab 131:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2SA.15.30"
+              },
+              "items": [
+                {
+                  "text": "2 Sam 15:30",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Kisha Mordekai akarudi kwenye lango la mfalme. Bali Hamani akaenda mbio nyumbani kwake, akiomboleza na kichwa chake kimefunikwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.12",
+            "verseOrgIds": [
+              "EST.6.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EST 6:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.12",
+            "verseOrgIds": [
+              "EST.6.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EST 6:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi Hamani akawasimulia Zereshi mkewe na marafiki zake wote kila neno lililompata. Kisha watu wake wenye hekima na Zereshi mkewe wakamwambia, Ikiwa huyu Mordekai, ambaye umeanza kuanguka mbele yake, ni wa uzao wa Wayahudi, wewe hutamweza, bali kuanguka utaanguka mbele yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.13",
+            "verseOrgIds": [
+              "EST.6.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Hamani auawa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EST 6:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.13",
+            "verseOrgIds": [
+              "EST.6.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EST 6:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Walipokuwa wangali wakisema naye, matowashi wa mfalme walifika, wakahimiza kumleta Hamani katika karamu ile aliyoiandaa Esta.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.14",
+            "verseOrgIds": [
+              "EST.6.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EST.7",
+    "number": "7",
+    "bookId": "EST"
+  },
+  "previous": {
+    "id": "EST.5",
+    "number": "5",
+    "bookId": "EST"
+  }
+}

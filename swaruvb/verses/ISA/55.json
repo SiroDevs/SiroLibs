@@ -1,0 +1,456 @@
+{
+  "id": "ISA.55",
+  "number": "55",
+  "bookId": "ISA",
+  "reference": "Isaya 55",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "55",
+        "style": "c",
+        "sid": "ISA 55"
+      },
+      "items": [
+        {
+          "text": "55",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mwaliko wa maisha mema",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 55:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.3",
+            "verseOrgIds": [
+              "ISA.55.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 55:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.4",
+            "verseOrgIds": [
+              "ISA.55.4"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAL.3.5"
+              },
+              "items": [
+                {
+                  "text": "Mal 3:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.6.13"
+              },
+              "items": [
+                {
+                  "text": "1 Tim 6:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.1.5"
+              },
+              "items": [
+                {
+                  "text": "Ufu 1:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.34.23"
+              },
+              "items": [
+                {
+                  "text": "Eze 34:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.9.25"
+              },
+              "items": [
+                {
+                  "text": "Dan 9:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.2.10"
+              },
+              "items": [
+                {
+                  "text": "Ebr 2:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Angalieni, nimemweka kuwa shahidi kwa makabila ya watu; kuwa kiongozi na jemadari kwa makabila ya watu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.4",
+            "verseOrgIds": [
+              "ISA.55.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 55:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.52.15"
+              },
+              "items": [
+                {
+                  "text": "Isa 52:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.2.11"
+              },
+              "items": [
+                {
+                  "text": "Efe 2:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.2.12"
+              },
+              "items": [
+                {
+                  "text": "12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.3.13"
+              },
+              "items": [
+                {
+                  "text": "Mdo 3:13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Tazama, utaita taifa usilolijua, na taifa lisilokujua wewe litakukimbilia, kwa sababu ya BWANA, Mungu wako, na kwa ajili yake Mtakatifu wa Israeli; maana amekutukuza.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.5",
+            "verseOrgIds": [
+              "ISA.55.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 55:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.7",
+            "verseOrgIds": [
+              "ISA.55.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 55:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maana mawazo yangu si mawazo yenu, wala njia zenu si njia zangu; asema BWANA. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.8",
+            "verseOrgIds": [
+              "ISA.55.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 55:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa maana kama vile mbingu zilivyo juu sana kuliko nchi, ndivyo njia zangu zilivyo juu sana kuliko njia zenu, na mawazo yangu kuliko mawazo yenu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.9",
+            "verseOrgIds": [
+              "ISA.55.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 55:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CO.9.10"
+              },
+              "items": [
+                {
+                  "text": "2 Kor 9:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Maana kama vile mvua ishukavyo, na theluji, kutoka mbinguni, wala hairudi huko; bali huinywesha ardhi, na kuizalisha na kuichipuza, ikampa mtu apandaye mbegu, na mtu alaye chakula; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.10",
+            "verseOrgIds": [
+              "ISA.55.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 55:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ndivyo litakavyokuwa neno langu, litokalo katika kinywa changu; halitanirudia bure, bali litatimiza mapenzi yangu, nalo litafanikiwa katika mambo yale niliyolituma.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.11",
+            "verseOrgIds": [
+              "ISA.55.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.56",
+    "number": "56",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.54",
+    "number": "54",
+    "bookId": "ISA"
+  }
+}

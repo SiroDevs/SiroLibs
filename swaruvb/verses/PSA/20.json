@@ -1,0 +1,47 @@
+{
+  "id": "PSA.20",
+  "number": "20",
+  "bookId": "PSA",
+  "reference": "Zaburi 20",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "20",
+        "style": "c",
+        "sid": "PSA 20"
+      },
+      "items": [
+        {
+          "text": "20",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Sala ya ushindi",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.21",
+    "number": "21",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.19",
+    "number": "19",
+    "bookId": "PSA"
+  }
+}

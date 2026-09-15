@@ -1,0 +1,944 @@
+{
+  "id": "1SA.5",
+  "number": "5",
+  "bookId": "1SA",
+  "reference": "1 Samweli 5",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "1SA 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Wafilisti na sanduku la Agano",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1SA 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi Wafilisti walikuwa wamelichukua sanduku la Mungu, wakaenda nalo kutoka Ebenezeri hadi Ashdodi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.1",
+            "verseOrgIds": [
+              "1SA.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1SA 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wafilisti wakalichukua sanduku la Mungu, wakalitia katika nyumba ya Dagoni, wakaliweka karibu na Dagoni. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.2",
+            "verseOrgIds": [
+              "1SA.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1SA 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.12.12"
+              },
+              "items": [
+                {
+                  "text": "Kut 12:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.18.11"
+              },
+              "items": [
+                {
+                  "text": "18:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.16.23"
+              },
+              "items": [
+                {
+                  "text": "Amu 16:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.16.24+1CH.16.25+1CH.16.26"
+              },
+              "items": [
+                {
+                  "text": "1 Nya 16:24-26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.95.3"
+              },
+              "items": [
+                {
+                  "text": "Zab 95:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.97.9"
+              },
+              "items": [
+                {
+                  "text": "97:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.19.1"
+              },
+              "items": [
+                {
+                  "text": "Isa 19:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.46.1"
+              },
+              "items": [
+                {
+                  "text": "46:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.46.2"
+              },
+              "items": [
+                {
+                  "text": "2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.46.7"
+              },
+              "items": [
+                {
+                  "text": "7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NAM.1.14"
+              },
+              "items": [
+                {
+                  "text": "Nah 1:14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Na watu wa Ashdodi, walipoamka alfajiri siku ya pili, kumbe! Dagoni imeanguka chini kifudifudi, mbele ya sanduku la BWANA. Wakaitwaa Dagoni, wakaisimamisha mahali pake tena. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.3",
+            "verseOrgIds": [
+              "1SA.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1SA 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.40.18"
+              },
+              "items": [
+                {
+                  "text": "Isa 40:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.50.2"
+              },
+              "items": [
+                {
+                  "text": "Yer 50:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.6.4"
+              },
+              "items": [
+                {
+                  "text": "Eze 6:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.6.6"
+              },
+              "items": [
+                {
+                  "text": "6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MIC.1.7"
+              },
+              "items": [
+                {
+                  "text": "Mik 1:7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Hata walipoamka kesho yake asubuhi, kumbe! Dagoni ilikuwa imeanguka chini kifudifudi, mbele ya sanduku la BWANA; na kichwa chake Dagoni na vitanga vyote viwili vya mikono yake vimekatika, na kulazwa kizingitini; Dagoni ikasalia kiwiliwili chake tu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.4",
+            "verseOrgIds": [
+              "1SA.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1SA 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEP.1.9"
+              },
+              "items": [
+                {
+                  "text": "Sef 1:9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Kwa hiyo makuhani wa Dagoni, na mtu yeyote aingiaye nyumbani mwa Dagoni, hawakanyagi kizingiti cha nyumba ya Dagoni huko Ashdodi, hata leo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.5",
+            "verseOrgIds": [
+              "1SA.5.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1SA 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.5",
+            "verseOrgIds": [
+              "1SA.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1SA 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.6",
+            "verseOrgIds": [
+              "1SA.5.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.9.3"
+              },
+              "items": [
+                {
+                  "text": "Kut 9:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.7.11"
+              },
+              "items": [
+                {
+                  "text": "Zab 7:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.9.17"
+              },
+              "items": [
+                {
+                  "text": "9:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.32.4"
+              },
+              "items": [
+                {
+                  "text": "32:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.31.3"
+              },
+              "items": [
+                {
+                  "text": "Isa 31:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.4.35"
+              },
+              "items": [
+                {
+                  "text": "Dan 4:35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.13.11"
+              },
+              "items": [
+                {
+                  "text": "Mdo 13:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.6.5"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 6:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.28.27"
+              },
+              "items": [
+                {
+                  "text": "Kum 28:27",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Lakini mkono wa BWANA ulikuwa mzito juu ya watu wa Ashdodi, akawaangamiza, akawapiga kwa majipu, huko Ashdodi na mipakani mwake. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.6",
+            "verseOrgIds": [
+              "1SA.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1SA 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha hao watu wa Ashdodi, walipoona ilivyokuwa, walisema, Hilo sanduku la Mungu wa Israeli halitakaa kwetu; kwa maana mkono wake ni mzito juu yetu, na juu ya Dagoni, mungu wetu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.7",
+            "verseOrgIds": [
+              "1SA.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1SA 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi wakatuma watu waende kuwakusanya kwao wakuu wote wa Wafilisti, wakasema, Tulifanyieje sanduku la Mungu wa Israeli? Nao wakajibu, Sanduku la Mungu wa Israeli na lihamishwe liende Gathi. Wakalihamisha sanduku la Mungu wa Israeli. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.8",
+            "verseOrgIds": [
+              "1SA.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1SA 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.2.15"
+              },
+              "items": [
+                {
+                  "text": "Kum 2:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.7.13"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 7:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.12.15"
+              },
+              "items": [
+                {
+                  "text": "12:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.78.66"
+              },
+              "items": [
+                {
+                  "text": "Zab 78:66",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Ikawa, walipolihamisha, mkono wa BWANA ulikuwa juu ya mji huo, kwa kuwafadhaisha sana; akawapiga watu wa mjini, wadogo kwa wakubwa, wakapatwa na majipu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.9",
+            "verseOrgIds": [
+              "1SA.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1SA 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi, wakalipeleka sanduku la Mungu mpaka Ekroni. Ikawa, sanduku la Mungu lilipofika Ekroni, watu wa Ekroni walipiga kelele, wakasema, Wamelileta hilo sanduku la Mungu wa Israeli kwetu, ili kutuua sisi na watu wetu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.10",
+            "verseOrgIds": [
+              "1SA.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1SA 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa hiyo wakatuma watu waende kuwakusanya wakuu wote wa Wafilisti, wakasema, Liondoeni hilo sanduku la Mungu wa Israeli, liende tena mahali pake, ili lisituue sisi, wala watu wetu; kwa sababu kulikuwa na fadhaa kubwa sana mjini kote; mkono wa Mungu ulikuwa mzito mno huko. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.11",
+            "verseOrgIds": [
+              "1SA.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1SA 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.11.6"
+              },
+              "items": [
+                {
+                  "text": "Kut 11:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.21.13"
+              },
+              "items": [
+                {
+                  "text": "Mit 21:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.15.3"
+              },
+              "items": [
+                {
+                  "text": "Isa 15:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.25.34"
+              },
+              "items": [
+                {
+                  "text": "Yer 25:34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.5.17"
+              },
+              "items": [
+                {
+                  "text": "Amo 5:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JAS.2.13"
+              },
+              "items": [
+                {
+                  "text": "Yak 2:13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Na wale wasiokufa walipigwa kwa yale majipu; na kilio cha mji kikafika mbinguni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.12",
+            "verseOrgIds": [
+              "1SA.5.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1SA.6",
+    "number": "6",
+    "bookId": "1SA"
+  },
+  "previous": {
+    "id": "1SA.4",
+    "number": "4",
+    "bookId": "1SA"
+  }
+}

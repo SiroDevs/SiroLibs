@@ -1,0 +1,974 @@
+{
+  "id": "DAN.12",
+  "number": "12",
+  "bookId": "DAN",
+  "reference": "Danieli 12",
+  "verseCount": 13,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "DAN 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kufufuka kwa wafu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DAN 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.1",
+            "verseOrgIds": [
+              "DAN.12.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.16.18"
+              },
+              "items": [
+                {
+                  "text": "Ufu 16:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.11.11"
+              },
+              "items": [
+                {
+                  "text": "Isa 11:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.30.7"
+              },
+              "items": [
+                {
+                  "text": "Yer 30:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.3.5"
+              },
+              "items": [
+                {
+                  "text": "Hos 3:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOL.3.16"
+              },
+              "items": [
+                {
+                  "text": "Yoe 3:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.11.26"
+              },
+              "items": [
+                {
+                  "text": "Rum 11:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.32.32"
+              },
+              "items": [
+                {
+                  "text": "Kut 32:32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.4.3"
+              },
+              "items": [
+                {
+                  "text": "Isa 4:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.13.9"
+              },
+              "items": [
+                {
+                  "text": "Eze 13:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.10.20"
+              },
+              "items": [
+                {
+                  "text": "Lk 10:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.24.21"
+              },
+              "items": [
+                {
+                  "text": "Mt 24:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.13.19"
+              },
+              "items": [
+                {
+                  "text": "Mk 13:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.7.14"
+              },
+              "items": [
+                {
+                  "text": "Ufu 7:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.12.7"
+              },
+              "items": [
+                {
+                  "text": "12:7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Wakati huo Mikaeli atasimama, jemadari mkuu, asimamaye upande wa wana wa watu wako; na kutakuwa na wakati wa taabu, mfano wake haukuwapo tangu lilipoanza kuwapo taifa hata wakati huo huo; na wakati huo watu wako wataokolewa; kila mmoja atakayeonekana ameandikwa katika kitabu kile. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.1",
+            "verseOrgIds": [
+              "DAN.12.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DAN 12:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.26.19"
+              },
+              "items": [
+                {
+                  "text": "Isa 26:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.25.46"
+              },
+              "items": [
+                {
+                  "text": "Mt 25:46",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.5.29"
+              },
+              "items": [
+                {
+                  "text": "Yn 5:29",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Tena, wengi wa hao wanaolala katika mavumbi ya nchi wataamka, wengine wapate uzima wa milele, wengine aibu na kudharauliwa milele. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.2",
+            "verseOrgIds": [
+              "DAN.12.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "DAN 12:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.15.41"
+              },
+              "items": [
+                {
+                  "text": "1 Kor 15:41",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Na walio na hekima watang'aa kama mwangaza wa anga; na hao waongozao wengi kutenda haki watang'aa kama nyota milele na milele. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.3",
+            "verseOrgIds": [
+              "DAN.12.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DAN 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.22.10"
+              },
+              "items": [
+                {
+                  "text": "Ufu 22:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Lakini wewe, Ee Danieli, yafunge maneno haya, ukakitie mhuri kitabu, hata wakati wa mwisho; wengi wataenda mbio huku na huko, na maarifa yataongezeka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.4",
+            "verseOrgIds": [
+              "DAN.12.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DAN 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.4",
+            "verseOrgIds": [
+              "DAN.12.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "DAN 12:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo mimi, Danieli, nikatazama, na kumbe, wamesimama wengine wawili, mmoja ukingoni mwa mto upande huu, na mmoja ukingoni mwa mto upande wa pili. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.5",
+            "verseOrgIds": [
+              "DAN.12.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DAN 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.74.9"
+              },
+              "items": [
+                {
+                  "text": "Zab 74:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.1.12"
+              },
+              "items": [
+                {
+                  "text": "1 Pet 1:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.6.10"
+              },
+              "items": [
+                {
+                  "text": "Ufu 6:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Na mmoja akamwuliza yule mtu aliyevikwa nguo za kitani, aliyekuwa juu ya maji ya mto, Je! Itakuwa muda wa miaka mingapi hata mwisho wa mambo haya ya ajabu? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.6",
+            "verseOrgIds": [
+              "DAN.12.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "DAN 12:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.7.25"
+              },
+              "items": [
+                {
+                  "text": "Dan 7:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.21.24"
+              },
+              "items": [
+                {
+                  "text": "Lk 21:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.10.5"
+              },
+              "items": [
+                {
+                  "text": "Ufu 10:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.12.14"
+              },
+              "items": [
+                {
+                  "text": "12:14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Nami nikamsikia yule mtu aliyevikwa nguo za kitani, aliyekuwa juu ya maji ya mto, hapo alipoinua mkono wake wa kulia na mkono wake wa kushoto kuelekea mbinguni; akaapa kwa yeye aliye hai milele na milele, ya kwamba itakuwa nyakati tatu na nusu; tena watakapokuwa wamekwisha kuvunja nguvu za hao watu watakatifu, ndipo mambo hayo yote yatakapotimizwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.7",
+            "verseOrgIds": [
+              "DAN.12.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DAN 12:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nami nikasikia, lakini sikuelewa; ndipo nikasema, Ee Bwana wangu, mwisho wa mambo haya utakuwaje? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.8",
+            "verseOrgIds": [
+              "DAN.12.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "DAN 12:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akasema, Nenda zako, Danieli; maana maneno haya yamefungwa, na kutiwa mhuri, hata wakati wa mwisho. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.9",
+            "verseOrgIds": [
+              "DAN.12.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DAN 12:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.13.9"
+              },
+              "items": [
+                {
+                  "text": "Zek 13:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.7.17"
+              },
+              "items": [
+                {
+                  "text": "Yn 7:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.22.11"
+              },
+              "items": [
+                {
+                  "text": "Ufu 22:11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Wengi watajitakasa, na kujifanya weupe, na kusafika; bali wabaya watatenda mabaya; wala hataelewa mtu mbaya awaye yote; bali wao walio na hekima ndio watakaoelewa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.10",
+            "verseOrgIds": [
+              "DAN.12.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "DAN 12:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.9.27"
+              },
+              "items": [
+                {
+                  "text": "Dan 9:27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.11.31"
+              },
+              "items": [
+                {
+                  "text": "11:31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.24.15"
+              },
+              "items": [
+                {
+                  "text": "Mt 24:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.13.14"
+              },
+              "items": [
+                {
+                  "text": "Mk 13:14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Na tangu wakati ule ambapo sadaka ya kuteketezwa ya daima itaondolewa, na hilo chukizo la uharibifu litakaposimamishwa, itapata siku elfu na mia mbili na tisini. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.11",
+            "verseOrgIds": [
+              "DAN.12.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DAN 12:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Heri angojaye, na kuzifikia siku hizo elfu na mia tatu na thelathini na tano. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.12",
+            "verseOrgIds": [
+              "DAN.12.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "DAN 12:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.57.2"
+              },
+              "items": [
+                {
+                  "text": "Isa 57:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.1.5"
+              },
+              "items": [
+                {
+                  "text": "Zab 1:5",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Lakini nenda zako hata utakapokuwa mwisho ule; maana wewe utastarehe, nawe utaamka katika kura yako mwisho wa siku hizo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.13",
+            "verseOrgIds": [
+              "DAN.12.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.intro",
+    "number": "intro",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "DAN.11",
+    "number": "11",
+    "bookId": "DAN"
+  }
+}

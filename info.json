@@ -77,12 +77,35 @@
     "info": "About Biblica"
   },
   {
-    "name": "Biblia Takatifu",
-    "description": "Open Kiswahili Contemporary Version (Neno) 2015",
+    "name": "Swahili Revised Union Version Bible",
+    "description": "Swahili Revised Union Version Bible 2005",
+    "abbreviation": "swaruvb",
+    "tagline": "",
+    "language": {
+      "id": "swa",
+      "name": "Kiswahili",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      },
+      {
+        "id": "TZ",
+        "name": "Tanzania"
+      }
+    ],
+    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us."
+  },
+  {
+    "name": "Neno: Maandiko Matakatifu",
+    "description": "Biblica® Open Kiswahili Contemporary Version (Neno) 2015 (ONEN)",
     "abbreviation": "swahili",
     "tagline": "",
     "language": {
-      "id": "swh",
+      "id": "swa",
       "name": "Kiswahili",
       "script": "Latin",
       "scriptDirection": "LTR"

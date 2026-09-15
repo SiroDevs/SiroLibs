@@ -1,0 +1,60 @@
+{
+  "id": "PSA.41",
+  "number": "41",
+  "bookId": "PSA",
+  "reference": "Zaburi 41",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "41",
+        "style": "c",
+        "sid": "PSA 41"
+      },
+      "items": [
+        {
+          "text": "41",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Hakikisho la msaada wa Mungu na ombi la uponyaji",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "* * *",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.42",
+    "number": "42",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.40",
+    "number": "40",
+    "bookId": "PSA"
+  }
+}

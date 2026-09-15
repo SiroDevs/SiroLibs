@@ -1,0 +1,905 @@
+{
+  "id": "JOS.20",
+  "number": "20",
+  "bookId": "JOS",
+  "reference": "Yoshua 20",
+  "verseCount": 9,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "20",
+        "style": "c",
+        "sid": "JOS 20"
+      },
+      "items": [
+        {
+          "text": "20",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Miji ya makimbilio",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOS 20:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.1",
+            "verseOrgIds": [
+              "JOS.20.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.35.6+NUM.35.7+NUM.35.8+NUM.35.9+NUM.35.10+NUM.35.11+NUM.35.12+NUM.35.13+NUM.35.14+NUM.35.15+NUM.35.16+NUM.35.17+NUM.35.18+NUM.35.19+NUM.35.20+NUM.35.21+NUM.35.22+NUM.35.23+NUM.35.24+NUM.35.25+NUM.35.26+NUM.35.27+NUM.35.28+NUM.35.29+NUM.35.30+NUM.35.31+NUM.35.32"
+              },
+              "items": [
+                {
+                  "text": "Hes 35:6-32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.4.41+DEU.4.42+DEU.4.43"
+              },
+              "items": [
+                {
+                  "text": "Kum 4:41-43",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.19.1+DEU.19.2+DEU.19.3+DEU.19.4+DEU.19.5+DEU.19.6+DEU.19.7+DEU.19.8+DEU.19.9+DEU.19.10+DEU.19.11+DEU.19.12+DEU.19.13"
+              },
+              "items": [
+                {
+                  "text": "19:1-13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Kisha BWANA akanena na Yoshua, na kumwambia, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.1",
+            "verseOrgIds": [
+              "JOS.20.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JOS 20:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.21.13"
+              },
+              "items": [
+                {
+                  "text": "Kut 21:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.35.6+NUM.35.7+NUM.35.8+NUM.35.9+NUM.35.10+NUM.35.11+NUM.35.12+NUM.35.13+NUM.35.14"
+              },
+              "items": [
+                {
+                  "text": "Hes 35:6-14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.4.41+DEU.4.42+DEU.4.43"
+              },
+              "items": [
+                {
+                  "text": "Kum 4:41-43",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.19.2"
+              },
+              "items": [
+                {
+                  "text": "19:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.19.9"
+              },
+              "items": [
+                {
+                  "text": "9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.8.1"
+              },
+              "items": [
+                {
+                  "text": "Rum 8:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.8.33"
+              },
+              "items": [
+                {
+                  "text": "33",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.8.34"
+              },
+              "items": [
+                {
+                  "text": "34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.6.18"
+              },
+              "items": [
+                {
+                  "text": "Ebr 6:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.6.19"
+              },
+              "items": [
+                {
+                  "text": "19",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Nena wewe na wana wa Israeli, uwaambie, Haya, toeni hiyo miji ya makimbilio, ambayo niliwaambia habari zake kwa mkono wa Musa; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.2",
+            "verseOrgIds": [
+              "JOS.20.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JOS 20:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ili kwamba mwenye kuua mtu, aliyemwua mtu yeyote pasipo kukusudia, na pasipo kujua, apate kukimbilia huko; nayo itakuwa ni mahali pa kukimbilia kwenu, kumkimbia huyo ajilipizaye kisasi cha damu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.3",
+            "verseOrgIds": [
+              "JOS.20.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JOS 20:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.21.19"
+              },
+              "items": [
+                {
+                  "text": "Kum 21:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "RUT.4.1"
+              },
+              "items": [
+                {
+                  "text": "Rut 4:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "RUT.4.2"
+              },
+              "items": [
+                {
+                  "text": "2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.5.4"
+              },
+              "items": [
+                {
+                  "text": "Ayu 5:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.38.7"
+              },
+              "items": [
+                {
+                  "text": "Yer 38:7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Naye ataikimbilia miji hiyo mmojawapo, naye atasimama hapo penye maingilio ya lango la huo mji, kisha atanena neno lake masikioni mwa wazee wa mji; nao watamtia kwao ndani ya mji, na kumpa mahali, ili apate kukaa kati yao. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.4",
+            "verseOrgIds": [
+              "JOS.20.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JOS 20:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.35.12"
+              },
+              "items": [
+                {
+                  "text": "Hes 35:12",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Na kama huyo mwenye kujilipiza kisasi cha damu akimfuatia, ndipo hawatamtoa huyo mwuaji kumtia mkononi mwake huyo; kwa sababu alimpiga mwenziwe naye hakujua, wala hakumchukia tangu hapo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.5",
+            "verseOrgIds": [
+              "JOS.20.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOS 20:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.35.12"
+              },
+              "items": [
+                {
+                  "text": "Hes 35:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.35.25"
+              },
+              "items": [
+                {
+                  "text": "25",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Naye atakaa katika mji huo, hadi hapo atakaposimama mbele ya mkutano kuhukumiwa, hadi kifo chake kuhani mkuu mwenye kuwapo siku hizo; ndipo yule mwuaji atarudi, na kuuendea mji wake mwenyewe, na nyumba yake mwenyewe, hadi mji huo alioutoka hapo alipokimbia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.6",
+            "verseOrgIds": [
+              "JOS.20.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JOS 20:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.21.32"
+              },
+              "items": [
+                {
+                  "text": "Yos 21:32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.6.76"
+              },
+              "items": [
+                {
+                  "text": "1 Nya 6:76",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.33.18"
+              },
+              "items": [
+                {
+                  "text": "Mwa 33:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.33.19"
+              },
+              "items": [
+                {
+                  "text": "19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.21.21"
+              },
+              "items": [
+                {
+                  "text": "Yos 21:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.10.1"
+              },
+              "items": [
+                {
+                  "text": "2 Nya 10:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.14.15"
+              },
+              "items": [
+                {
+                  "text": "Yos 14:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.21.11"
+              },
+              "items": [
+                {
+                  "text": "21:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.21.13"
+              },
+              "items": [
+                {
+                  "text": "13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.39"
+              },
+              "items": [
+                {
+                  "text": "Lk 1:39",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Nao wakaweka Kedeshi katika Galilaya katika nchi ya vilima ya Naftali, na Shekemu katika nchi ya vilima ya Efraimu, na Kiriath-arba (ndio Hebroni) katika nchi ya vilima ya Yuda. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.7",
+            "verseOrgIds": [
+              "JOS.20.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JOS 20:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.4.43"
+              },
+              "items": [
+                {
+                  "text": "Kum 4:43",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.21.36"
+              },
+              "items": [
+                {
+                  "text": "Yos 21:36",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.21.38"
+              },
+              "items": [
+                {
+                  "text": "38",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.6.78"
+              },
+              "items": [
+                {
+                  "text": "1 Nya 6:78",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1KI.22.3"
+              },
+              "items": [
+                {
+                  "text": "1 Fal 22:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.21.27"
+              },
+              "items": [
+                {
+                  "text": "Yos 21:27",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Tena ng'ambo ya pili ya Yordani pande za Yeriko upande wa kuelekea mashariki wakaweka Bezeri ulioko nyikani, katika nchi tambarare ya kabila la Reubeni, na Ramothi katika Gileadi katika kabila la Gadi, na Golani katika Bashani katika kabila la Manase. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.8",
+            "verseOrgIds": [
+              "JOS.20.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JOS 20:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.35.15"
+              },
+              "items": [
+                {
+                  "text": "Hes 35:15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Miji hiyo ndiyo miji iliyoamriwa kwa ajili ya wana wa Israeli wote, na kwa ajili ya mgeni akaaye kati yao ugenini, ili kwamba mtu yeyote atakayemwua mtu pasipo kukusudia apate kimbilia huko, asife kwa mkono wa mwenye kujilipiza kisasi cha damu, hadi hapo atakapokuwa amekwisha simama mbele ya mkutano.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.9",
+            "verseOrgIds": [
+              "JOS.20.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOS.21",
+    "number": "21",
+    "bookId": "JOS"
+  },
+  "previous": {
+    "id": "JOS.19",
+    "number": "19",
+    "bookId": "JOS"
+  }
+}

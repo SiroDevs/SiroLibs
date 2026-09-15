@@ -1,0 +1,1342 @@
+{
+  "id": "1PE.5",
+  "number": "5",
+  "bookId": "1PE",
+  "reference": "1 Petro 5",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "1PE 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kuchunga kundi la Mungu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1PE 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.1",
+            "verseOrgIds": [
+              "1PE.5.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2JN.1.1"
+              },
+              "items": [
+                {
+                  "text": "2 Yoh 1:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "3JN.1.1"
+              },
+              "items": [
+                {
+                  "text": "3 Yoh 1:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.8.17"
+              },
+              "items": [
+                {
+                  "text": "Rum 8:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.1.9"
+              },
+              "items": [
+                {
+                  "text": "Ufu 1:9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Nawasihi wazee walio kwenu, mimi niliye mzee, mwenzi wao, na shahidi wa mateso ya Kristo, na mshirika wa utukufu utakaofunuliwa baadaye; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.1",
+            "verseOrgIds": [
+              "1PE.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1PE 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.10.12"
+              },
+              "items": [
+                {
+                  "text": "Yn 10:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.21.15+JHN.21.16+JHN.21.17"
+              },
+              "items": [
+                {
+                  "text": "21:15-17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PHM.1.14"
+              },
+              "items": [
+                {
+                  "text": "Flm 1:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "TIT.1.11"
+              },
+              "items": [
+                {
+                  "text": "Tit 1:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.20.28"
+              },
+              "items": [
+                {
+                  "text": "Mdo 20:28",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.3.2+1TI.3.3+1TI.3.4+1TI.3.5+1TI.3.6+1TI.3.7"
+              },
+              "items": [
+                {
+                  "text": "1 Tim 3:2-7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " lichungeni kundi la Mungu lililo kwenu, na kulisimamia, si kwa kulazimishwa, bali kwa hiari kama Mungu atakavyo; si kwa kutaka fedha ya aibu, bali kwa moyo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.2",
+            "verseOrgIds": [
+              "1PE.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1PE 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CO.1.24"
+              },
+              "items": [
+                {
+                  "text": "2 Kor 1:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "TIT.2.7"
+              },
+              "items": [
+                {
+                  "text": "Tit 2:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PHP.3.17"
+              },
+              "items": [
+                {
+                  "text": "Flp 3:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TH.1.7"
+              },
+              "items": [
+                {
+                  "text": "1 The 1:7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Wala si kama wajifanyao mabwana wa wale walio chini ya utunzaji wao, bali iweni mifano kwa lile kundi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.3",
+            "verseOrgIds": [
+              "1PE.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1PE 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.2.25"
+              },
+              "items": [
+                {
+                  "text": "1 Pet 2:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.13.20"
+              },
+              "items": [
+                {
+                  "text": "Ebr 13:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.9.25"
+              },
+              "items": [
+                {
+                  "text": "1 Kor 9:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2TI.4.8"
+              },
+              "items": [
+                {
+                  "text": "2 Tim 4:8",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Na Mchungaji mkuu atakapodhihirishwa, mtalipokea taji la utukufu, lile lisilokauka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.4",
+            "verseOrgIds": [
+              "1PE.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1PE 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.3.34"
+              },
+              "items": [
+                {
+                  "text": "Mit 3:34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.5.21"
+              },
+              "items": [
+                {
+                  "text": "Efe 5:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.23.12"
+              },
+              "items": [
+                {
+                  "text": "Mt 23:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.13.4"
+              },
+              "items": [
+                {
+                  "text": "Yn 13:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.13.14"
+              },
+              "items": [
+                {
+                  "text": "14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JAS.4.6"
+              },
+              "items": [
+                {
+                  "text": "Yak 4:6",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Vivyo hivyo ninyi vijana, watiini wazee. Naam, ninyi nyote jifungeni unyenyekevu, mpate kuhudumiana; kwa sababu Mungu huwapinga wenye kiburi, lakini huwapa wanyenyekevu neema.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.5",
+            "verseOrgIds": [
+              "1PE.5.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1PE 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.5",
+            "verseOrgIds": [
+              "1PE.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1PE 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.6",
+            "verseOrgIds": [
+              "1PE.5.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.23.12"
+              },
+              "items": [
+                {
+                  "text": "Mt 23:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.14.11"
+              },
+              "items": [
+                {
+                  "text": "Lk 14:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.18.14"
+              },
+              "items": [
+                {
+                  "text": "18:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.22.29"
+              },
+              "items": [
+                {
+                  "text": "Ayu 22:29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JAS.4.10"
+              },
+              "items": [
+                {
+                  "text": "Yak 4:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Basi nyenyekeeni chini ya mkono wa Mungu ulio hodari, ili awakweze kwa wakati wake; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.6",
+            "verseOrgIds": [
+              "1PE.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1PE 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.55.22"
+              },
+              "items": [
+                {
+                  "text": "Zab 55:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.6.25"
+              },
+              "items": [
+                {
+                  "text": "Mt 6:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PHP.4.6"
+              },
+              "items": [
+                {
+                  "text": "Flp 4:6",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " huku mkimtwika yeye fadhaa zenu zote, kwa maana yeye hujishughulisha sana kwa mambo yenu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.7",
+            "verseOrgIds": [
+              "1PE.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1PE 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TH.5.6"
+              },
+              "items": [
+                {
+                  "text": "1 The 5:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.18.3"
+              },
+              "items": [
+                {
+                  "text": "Lk 18:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JAS.4.7"
+              },
+              "items": [
+                {
+                  "text": "Yak 4:7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Muwe na kiasi na kukesha; kwa kuwa mshitaki wenu Ibilisi, kama simba angurumaye, huzunguka zunguka, akitafuta mtu ammeze. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.8",
+            "verseOrgIds": [
+              "1PE.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1PE 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.6.11+EPH.6.12+EPH.6.13"
+              },
+              "items": [
+                {
+                  "text": "Efe 6:11-13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Nanyi mpingeni huyo, mkiwa thabiti katika imani, mkijua ya kuwa mateso yale yale yanatimizwa kwa ndugu zenu kote duniani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.9",
+            "verseOrgIds": [
+              "1PE.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1PE 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.1.6"
+              },
+              "items": [
+                {
+                  "text": "1 Pet 1:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TH.2.12"
+              },
+              "items": [
+                {
+                  "text": "1 The 2:12",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Na Mungu wa neema yote, aliyewaita kuingia katika utukufu wake wa milele katika Kristo, mkiisha kuteswa kwa muda kidogo, yeye mwenyewe atawaimarisha, atawathibitisha, atawatia nguvu na kuwapa msingi imara. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.10",
+            "verseOrgIds": [
+              "1PE.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1PE 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uweza una yeye hata milele na milele. Amina.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.11",
+            "verseOrgIds": [
+              "1PE.5.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Salamu za mwisho na baraka",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1PE 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.11",
+            "verseOrgIds": [
+              "1PE.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1PE 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.12",
+            "verseOrgIds": [
+              "1PE.5.12"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.15.22"
+              },
+              "items": [
+                {
+                  "text": "Mdo 15:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.15.40"
+              },
+              "items": [
+                {
+                  "text": "40",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.13.22"
+              },
+              "items": [
+                {
+                  "text": "Ebr 13:22",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Kwa mkono wa Silwano, ndugu mwaminifu kama nijuavyo, nimewaandikia kwa maneno machache, kuonya na kushuhudia ya kuwa hii ndiyo neema ya kweli ya Mungu. Simameni imara katika hiyo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.12",
+            "verseOrgIds": [
+              "1PE.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1PE 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.12.12"
+              },
+              "items": [
+                {
+                  "text": "Mdo 12:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.12.25"
+              },
+              "items": [
+                {
+                  "text": "25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.13.13"
+              },
+              "items": [
+                {
+                  "text": "13:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.15.37+ACT.15.38+ACT.15.39"
+              },
+              "items": [
+                {
+                  "text": "15:37-39",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.4.10"
+              },
+              "items": [
+                {
+                  "text": "Kol 4:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PHM.1.24"
+              },
+              "items": [
+                {
+                  "text": "Flm 1:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2TI.4.11"
+              },
+              "items": [
+                {
+                  "text": "2 Tim 4:11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Mwenzenu mteule hapa Babeli awasalimu, na Marko mwanangu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.13",
+            "verseOrgIds": [
+              "1PE.5.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1PE 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.16.20"
+              },
+              "items": [
+                {
+                  "text": "1 Kor 16:20",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Salimianeni kwa busu la upendo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.14",
+            "verseOrgIds": [
+              "1PE.5.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1PE 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amani na iwe kwenu nyote, mlio katika Kristo. Amina.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.14",
+            "verseOrgIds": [
+              "1PE.5.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2PE.intro",
+    "number": "intro",
+    "bookId": "2PE"
+  },
+  "previous": {
+    "id": "1PE.4",
+    "number": "4",
+    "bookId": "1PE"
+  }
+}
