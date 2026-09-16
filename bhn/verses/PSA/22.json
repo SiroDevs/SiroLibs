@@ -1,0 +1,175 @@
+{
+  "id": "PSA.22",
+  "number": "22",
+  "bookId": "PSA",
+  "reference": "Zaburi 22",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "22",
+        "style": "c",
+        "sid": "PSA 22"
+      },
+      "items": [
+        {
+          "text": "22",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 22:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.1",
+            "verseOrgIds": [
+              "PSA.22.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "Taz Mat 27:46; Marko 15:34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Mungu wangu, Mungu wangu, mbona umeniacha?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.1",
+            "verseOrgIds": [
+              "PSA.22.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "PSA 22:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.21",
+            "verseOrgIds": [
+              "PSA.22.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "PSA 22:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.22",
+            "verseOrgIds": [
+              "PSA.22.22"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "Taz Ebr 2:12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Nitawasimulia ndugu zangu matendo yako;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.22",
+            "verseOrgIds": [
+              "PSA.22.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.23",
+    "number": "23",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.21",
+    "number": "21",
+    "bookId": "PSA"
+  }
+}

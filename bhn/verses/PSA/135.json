@@ -1,0 +1,68 @@
+{
+  "id": "PSA.135",
+  "number": "135",
+  "bookId": "PSA",
+  "reference": "Zaburi 135",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "135",
+        "style": "c",
+        "sid": "PSA 135"
+      },
+      "items": [
+        {
+          "text": "135",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 135:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Msifuni Mwenyezi-Mungu!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.135.1",
+            "verseOrgIds": [
+              "PSA.135.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.136",
+    "number": "136",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.134",
+    "number": "134",
+    "bookId": "PSA"
+  }
+}

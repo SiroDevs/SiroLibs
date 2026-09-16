@@ -1,0 +1,248 @@
+{
+  "id": "SNG.1",
+  "number": "1",
+  "bookId": "SNG",
+  "reference": "Wimbo Ulio Bora 1",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "SNG 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "SNG 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.1.1",
+            "verseOrgIds": [
+              "SNG.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "Taz 1Fal 4:32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Wimbo wa Solomoni",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.1.1",
+            "verseOrgIds": [
+              "SNG.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:1",
+              "type": "text"
+            },
+            {
+              "text": "wa Solomoni:",
+              "type": "text"
+            },
+            {
+              "text": "Au Kwa heshima ya Solomoni, au juu ya Solomoni.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ulio bora kuliko nyimbo zote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.1.1",
+            "verseOrgIds": [
+              "SNG.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Bibi arusi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "SNG 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.1.1",
+            "verseOrgIds": [
+              "SNG.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "SNG 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Heri midomo yako inibusu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.1.2",
+            "verseOrgIds": [
+              "SNG.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Bwana arusi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Bibi arusi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Bwana arusi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Bibi arusi",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "SNG.2",
+    "number": "2",
+    "bookId": "SNG"
+  },
+  "previous": {
+    "id": "SNG.intro",
+    "number": "intro",
+    "bookId": "SNG"
+  }
+}

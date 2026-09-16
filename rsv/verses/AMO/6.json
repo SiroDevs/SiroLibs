@@ -1,0 +1,160 @@
+{
+  "id": "AMO.6",
+  "number": "6",
+  "bookId": "AMO",
+  "reference": "Amos 6",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "AMO 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "AMO 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.6.8",
+            "verseOrgIds": [
+              "AMO.6.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "AMO 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And if ten men remain in one house, they shall die. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.6.9",
+            "verseOrgIds": [
+              "AMO.6.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "AMO 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And when a man's kinsman, he who burns him,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.6.10",
+            "verseOrgIds": [
+              "AMO.6.10"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "6.10",
+              "type": "text"
+            },
+            {
+              "text": "Or",
+              "type": "text"
+            },
+            {
+              "text": "who makes a burning for him",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " shall take him up to bring the bones out of the house, and shall say to him who is in the innermost parts of the house, “Is there still any one with you?” he shall say, “No”; and he shall say, “Hush! We must not mention the name of the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.6.10",
+            "verseOrgIds": [
+              "AMO.6.10"
+            ]
+          }
+        },
+        {
+          "text": ".”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.6.10",
+            "verseOrgIds": [
+              "AMO.6.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.7",
+    "number": "7",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.5",
+    "number": "5",
+    "bookId": "AMO"
+  }
+}

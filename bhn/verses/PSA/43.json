@@ -1,0 +1,68 @@
+{
+  "id": "PSA.43",
+  "number": "43",
+  "bookId": "PSA",
+  "reference": "Zaburi 43",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "43",
+        "style": "c",
+        "sid": "PSA 43"
+      },
+      "items": [
+        {
+          "text": "43",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 43:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Onesha kuwa sina hatia ee Mungu;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.43.1",
+            "verseOrgIds": [
+              "PSA.43.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.44",
+    "number": "44",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.42",
+    "number": "42",
+    "bookId": "PSA"
+  }
+}

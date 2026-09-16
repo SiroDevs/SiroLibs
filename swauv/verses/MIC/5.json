@@ -1,0 +1,1028 @@
+{
+  "id": "MIC.5",
+  "number": "5",
+  "bookId": "MIC",
+  "reference": "Mik 5",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "MIC 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mtawala kutoka Bethlehemu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.1",
+            "verseOrgIds": [
+              "MIC.5.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.16.10"
+              },
+              "items": [
+                {
+                  "text": "Ayu 16:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LAM.3.30"
+              },
+              "items": [
+                {
+                  "text": "Omb 3:30",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.27.30"
+              },
+              "items": [
+                {
+                  "text": "Mt 27:30",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Sasa utajikusanya vikosi vikosi, Ee binti wa vikosi; yeye amemhusuru; watampiga mwamuzi wa Israeli shavuni mwake kwa fimbo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.1",
+            "verseOrgIds": [
+              "MIC.5.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.1",
+            "verseOrgIds": [
+              "MIC.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MIC 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.2",
+            "verseOrgIds": [
+              "MIC.5.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.35.19"
+              },
+              "items": [
+                {
+                  "text": "Mwa 35:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.49.10"
+              },
+              "items": [
+                {
+                  "text": "49:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.132.6"
+              },
+              "items": [
+                {
+                  "text": "Zab 132:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.9.6"
+              },
+              "items": [
+                {
+                  "text": "Isa 9:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.90.2"
+              },
+              "items": [
+                {
+                  "text": "Zab 90:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.8.22"
+              },
+              "items": [
+                {
+                  "text": "Mit 8:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.1"
+              },
+              "items": [
+                {
+                  "text": "Yn 1:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.2.6"
+              },
+              "items": [
+                {
+                  "text": "Mt 2:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.7.42"
+              },
+              "items": [
+                {
+                  "text": "Yn 7:42",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Bali wewe, Bethlehemu Efrata, uliye mdogo kuwa miongoni mwa elfu za Yuda; kutoka kwako wewe atanitokea mmoja atakayekuwa mtawala katika Israeli; ambaye matokeo yake yamekuwa tangu zamani za kale, tangu milele. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.2",
+            "verseOrgIds": [
+              "MIC.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MIC 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa sababu hiyo atawatoa, hata wakati wa kuzaa kwake aliye na utungu; ndipo hayo mabaki ya nduguze watawarudia wana wa Israeli. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.3",
+            "verseOrgIds": [
+              "MIC.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MIC 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.72.8"
+              },
+              "items": [
+                {
+                  "text": "Zab 72:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.52.13"
+              },
+              "items": [
+                {
+                  "text": "Isa 52:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.9.10"
+              },
+              "items": [
+                {
+                  "text": "Zek 9:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.32"
+              },
+              "items": [
+                {
+                  "text": "Lk 1:32",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Naye atasimama, na kulisha kundi lake kwa nguvu za BWANA, kwa enzi ya jina la BWANA, Mungu wake; nao watakaa; maana sasa atakuwa mkuu hata miisho ya dunia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.4",
+            "verseOrgIds": [
+              "MIC.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MIC 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.9.6"
+              },
+              "items": [
+                {
+                  "text": "Isa 9:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.2.14"
+              },
+              "items": [
+                {
+                  "text": "Lk 2:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.2.14"
+              },
+              "items": [
+                {
+                  "text": "Efe 2:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.1.20"
+              },
+              "items": [
+                {
+                  "text": "Kol 1:20",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Na mtu huyu atakuwa amani yetu; wakati Mwashuri atakapoingia katika nchi yetu, na kuyakanyaga majumba yetu, hapo mtaondokesha wachungaji saba juu yake, na wakuu wanane. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.5",
+            "verseOrgIds": [
+              "MIC.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MIC 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.71"
+              },
+              "items": [
+                {
+                  "text": "Lk 1:71",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.10.8+GEN.10.9+GEN.10.10+GEN.10.11"
+              },
+              "items": [
+                {
+                  "text": "Mwa 10:8-11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Nao wataiharibu nchi ya Ashuru kwa upanga, na nchi ya Nimrodi katika malango yake; naye atatuokoa na Mwashuri, atakapoingia katika nchi yetu, na kukanyaga ndani ya mipaka yetu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.6",
+            "verseOrgIds": [
+              "MIC.5.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Wajibu wa Mabaki",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MIC 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.6",
+            "verseOrgIds": [
+              "MIC.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MIC 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.7",
+            "verseOrgIds": [
+              "MIC.5.7"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.110.3"
+              },
+              "items": [
+                {
+                  "text": "Zab 110:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na hayo mabaki ya Yakobo yatakuwa kati ya kabila nyingi mfano wa umande utokao kwa BWANA, mfano wa manyunyu katika manyasi; yasiyomngojea mtu, wala kuwakawilia wanadamu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.7",
+            "verseOrgIds": [
+              "MIC.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MIC 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na hayo mabaki ya Yakobo yatakuwa kati ya mataifa, kati ya kabila nyingi, mfano wa simba kati ya wanyama wa msituni, kama mwana-simba kati ya makundi ya kondoo, ambaye, akiwa anapita katikati, hukanyaga-kanyaga na kurarua-rarua, wala hakuna wa kuokoa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.8",
+            "verseOrgIds": [
+              "MIC.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mkono wako na uinuliwe juu ya adui zako, na adui zako wote wakauliwe mbali.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.9",
+            "verseOrgIds": [
+              "MIC.5.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.9",
+            "verseOrgIds": [
+              "MIC.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MIC 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.10",
+            "verseOrgIds": [
+              "MIC.5.10"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.9.10"
+              },
+              "items": [
+                {
+                  "text": "Zek 9:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha itakuwa katika siku hiyo, asema BWANA, nitawakatilia mbali farasi zako watoke kati yako, nami nitayaharibu magari yako ya vita; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.10",
+            "verseOrgIds": [
+              "MIC.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MIC 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nami nitaikatilia mbali miji ya nchi yako, na ngome zako zote nitaziangusha; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.11",
+            "verseOrgIds": [
+              "MIC.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MIC 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nami nitakatilia mbali uchawi, usiwe mkononi mwako; wala hutakuwa tena na watu wenye kutabana; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.12",
+            "verseOrgIds": [
+              "MIC.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MIC 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.13.2"
+              },
+              "items": [
+                {
+                  "text": "Zek 13:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.2.8"
+              },
+              "items": [
+                {
+                  "text": "Isa 2:8",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "nami nitakatilia mbali sanamu zako na nguzo zako, zitoke kati yako; wala hutaiabudu tena kazi ya mikono yako. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.13",
+            "verseOrgIds": [
+              "MIC.5.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MIC 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nami nitayang’oa maashera yenu, yasiwe kati yako; nami nitaiangamiza miji yako. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.14",
+            "verseOrgIds": [
+              "MIC.5.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MIC 5:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nami nitajilipiza kisasi katika hasira na ghadhabu juu ya mataifa wasiosikiliza.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.15",
+            "verseOrgIds": [
+              "MIC.5.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.6",
+    "number": "6",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.4",
+    "number": "4",
+    "bookId": "MIC"
+  }
+}

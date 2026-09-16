@@ -1,0 +1,81 @@
+{
+  "id": "JOB.10",
+  "number": "10",
+  "bookId": "JOB",
+  "reference": "Ayu 10",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "JOB 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Nayachukia Maisha Yangu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nafsi yangu inachoka na maisha yangu;",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.10.1",
+            "verseOrgIds": [
+              "JOB.10.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.11",
+    "number": "11",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.9",
+    "number": "9",
+    "bookId": "JOB"
+  }
+}

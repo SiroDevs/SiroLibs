@@ -1,0 +1,127 @@
+{
+  "id": "ISA.58",
+  "number": "58",
+  "bookId": "ISA",
+  "reference": "Isaya 58",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "58",
+        "style": "c",
+        "sid": "ISA 58"
+      },
+      "items": [
+        {
+          "text": "58",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 58:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwenyezi-Mungu asema:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.1",
+            "verseOrgIds": [
+              "ISA.58.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 58:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.12",
+            "verseOrgIds": [
+              "ISA.58.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 58:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Kama ukiacha kufanya kazi siku ya Sabato,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.13",
+            "verseOrgIds": [
+              "ISA.58.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.59",
+    "number": "59",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.57",
+    "number": "57",
+    "bookId": "ISA"
+  }
+}

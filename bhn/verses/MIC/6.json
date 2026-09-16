@@ -1,0 +1,186 @@
+{
+  "id": "MIC.6",
+  "number": "6",
+  "bookId": "MIC",
+  "reference": "Mika 6",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "MIC 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sikilizeni anachosema Mwenyezi-Mungu:",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.6.1",
+            "verseOrgIds": [
+              "MIC.6.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MIC 6:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.6.5",
+            "verseOrgIds": [
+              "MIC.6.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MIC 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nimwendee Mwenyezi-Mungu na kitu gani,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.6.6",
+            "verseOrgIds": [
+              "MIC.6.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MIC 6:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.6.7",
+            "verseOrgIds": [
+              "MIC.6.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MIC 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mungu amekuonesha yaliyo mema, ewe mtu;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.6.8",
+            "verseOrgIds": [
+              "MIC.6.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.7",
+    "number": "7",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.5",
+    "number": "5",
+    "bookId": "MIC"
+  }
+}

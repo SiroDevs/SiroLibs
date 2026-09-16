@@ -1,0 +1,598 @@
+{
+  "id": "ECC.6",
+  "number": "6",
+  "bookId": "ECC",
+  "reference": "Mhu 6",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "ECC 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kukatishwa Tamaa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ECC 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuna baa nililoliona mimi chini ya jua, nalo linawalemea wanadamu kwa uzito; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.1",
+            "verseOrgIds": [
+              "ECC.6.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ECC 6:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.8.7+DEU.8.8+DEU.8.9+DEU.8.10"
+              },
+              "items": [
+                {
+                  "text": "Kum 8:7-10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.18.10"
+              },
+              "items": [
+                {
+                  "text": "Amu 18:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.21.10"
+              },
+              "items": [
+                {
+                  "text": "Ayu 21:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.17.14"
+              },
+              "items": [
+                {
+                  "text": "Zab 17:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.12.19"
+              },
+              "items": [
+                {
+                  "text": "Lk 12:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.12.20"
+              },
+              "items": [
+                {
+                  "text": "20",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "mtu aliyepewa na Mungu mali, ukwasi, na heshima, hata asipungukiwe na kitu cho chote kwa nafsi yake, katika yote anayoyatamani walakini Mungu hamwezeshi kula katika hizo; bali mgeni hula. Hayo ndiyo ubatili hasa, nayo ni ugonjwa mbaya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.2",
+            "verseOrgIds": [
+              "ECC.6.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ECC 6:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.9.35"
+              },
+              "items": [
+                {
+                  "text": "2 Fal 9:35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.7.10"
+              },
+              "items": [
+                {
+                  "text": "Est 7:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.14.19"
+              },
+              "items": [
+                {
+                  "text": "Isa 14:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.3.16"
+              },
+              "items": [
+                {
+                  "text": "Ayu 3:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.58.8"
+              },
+              "items": [
+                {
+                  "text": "Zab 58:8",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mtu akizaa watoto mia, akaishi miaka mingi, nazo siku za maisha yake ni nyingi, lakini nafsi yake haikushiba mema; tena ikiwa, zaidi ya hayo, amekosa maziko; mimi nasema, Heri mimba iliyoharibika kuliko huyo; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.3",
+            "verseOrgIds": [
+              "ECC.6.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ECC 6:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "yaani, hiyo huja katika ubatili, na huenda gizani, nalo jina lake limefunikwa giza; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.4",
+            "verseOrgIds": [
+              "ECC.6.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ECC 6:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "tena, haikuliona jua wala kulifahamu; basi, hii imepata kustarehe kuliko yule; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.5",
+            "verseOrgIds": [
+              "ECC.6.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ECC 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "naam, ajapoishi miaka elfu mara mbili, asijiburudishe kwa mema; je! Wote hawaendi mahali pamoja?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.6",
+            "verseOrgIds": [
+              "ECC.6.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ECC 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.9",
+            "verseOrgIds": [
+              "ECC.6.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ECC 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.10",
+            "verseOrgIds": [
+              "ECC.6.10"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.9.32"
+              },
+              "items": [
+                {
+                  "text": "Ayu 9:32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.45.9"
+              },
+              "items": [
+                {
+                  "text": "Isa 45:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.9.19"
+              },
+              "items": [
+                {
+                  "text": "Rum 9:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.9.20"
+              },
+              "items": [
+                {
+                  "text": "20",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Na awe kitu cho chote, aliitwa jina lake zamani za kale, naye amejulikana kuwa ndiye mwanadamu; wala hawezi kabisa kushindana na yeye aliye na uwezo kuliko yeye mwenyewe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.10",
+            "verseOrgIds": [
+              "ECC.6.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ECC 6:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi, kwa kuwa kuna mambo mengi yaongezayo ubatili, mwanadamu hufaidiwa nini? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.11",
+            "verseOrgIds": [
+              "ECC.6.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ECC 6:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JAS.4.14"
+              },
+              "items": [
+                {
+                  "text": "Yak 4:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.39.6"
+              },
+              "items": [
+                {
+                  "text": "Zab 39:6",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Kwa maana ni nani ajuaye yaliyo mema ya mwanadamu katika maisha yake, siku zote za maisha yake ya ubatili, anayoishi kama kivuli? Kwa maana ni nani awezaye kumweleza mwanadamu mambo yatakayofuata baada yake chini ya jua?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.12",
+            "verseOrgIds": [
+              "ECC.6.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.7",
+    "number": "7",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "ECC.5",
+    "number": "5",
+    "bookId": "ECC"
+  }
+}

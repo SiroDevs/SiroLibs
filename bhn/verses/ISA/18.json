@@ -1,0 +1,127 @@
+{
+  "id": "ISA.18",
+  "number": "18",
+  "bookId": "ISA",
+  "reference": "Isaya 18",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "18",
+        "style": "c",
+        "sid": "ISA 18"
+      },
+      "items": [
+        {
+          "text": "18",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 18:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ole, wake nchi iliyojaa mvumo wa mabawa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.18.1",
+            "verseOrgIds": [
+              "ISA.18.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 18:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.18.6",
+            "verseOrgIds": [
+              "ISA.18.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 18:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakati huo, Mwenyezi-Mungu wa majeshi ataletewa tambiko kutoka kwa watu warefu wenye ngozi laini, watu watishao karibu na mbali, taifa la watu wenye nguvu na ushindi, ambalo ardhi yake imegawanywa na mito. Ataletewa tambiko hizo mlimani Siyoni anapoabudiwa yeye Mwenyezi-Mungu wa majeshi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.18.7",
+            "verseOrgIds": [
+              "ISA.18.7"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.19",
+    "number": "19",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.17",
+    "number": "17",
+    "bookId": "ISA"
+  }
+}

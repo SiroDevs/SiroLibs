@@ -1,0 +1,92 @@
+{
+  "id": "PSA.32",
+  "number": "32",
+  "bookId": "PSA",
+  "reference": "Zaburi 32",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "32",
+        "style": "c",
+        "sid": "PSA 32"
+      },
+      "items": [
+        {
+          "text": "32",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 32:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.1",
+            "verseOrgIds": [
+              "PSA.32.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "Taz Rom 4:7-8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Heri yake mtu aliyesamehewa kosa lake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.1",
+            "verseOrgIds": [
+              "PSA.32.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.33",
+    "number": "33",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.31",
+    "number": "31",
+    "bookId": "PSA"
+  }
+}

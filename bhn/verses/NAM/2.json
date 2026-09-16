@@ -1,0 +1,127 @@
+{
+  "id": "NAM.2",
+  "number": "2",
+  "bookId": "NAM",
+  "reference": "Nahumu 2",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "NAM 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NAM 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwangamizi amekuja kukushambulia ee Ninewi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.2.1",
+            "verseOrgIds": [
+              "NAM.2.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NAM 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.2.12",
+            "verseOrgIds": [
+              "NAM.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NAM 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tazama, mimi Mwenyezi-Mungu wa majeshi nitapambana nawe: Nitayateketeza kwa moto magari yako ya farasi, nitawamaliza kwa upanga hao simba wako vijana, nyara ulizoteka nitazitokomeza kutoka nchini, na sauti ya wajumbe wako haitasikika tena.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.2.13",
+            "verseOrgIds": [
+              "NAM.2.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NAM.3",
+    "number": "3",
+    "bookId": "NAM"
+  },
+  "previous": {
+    "id": "NAM.1",
+    "number": "1",
+    "bookId": "NAM"
+  }
+}

@@ -1,0 +1,600 @@
+{
+  "id": "1CO.2",
+  "number": "2",
+  "bookId": "1CO",
+  "reference": "1 Kor 2",
+  "verseCount": 9,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "1CO 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kumtangaza Kristo Aliyesulubiwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1CO 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.2.1",
+            "verseOrgIds": [
+              "1CO.2.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.1.17"
+              },
+              "items": [
+                {
+                  "text": "1 Kor 1:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi, ndugu zangu, mimi nilipokuja kwenu, sikuja niwahubiri siri ya Mungu kwa ufasaha wa maneno, wala kwa hekima. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.2.1",
+            "verseOrgIds": [
+              "1CO.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1CO 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GAL.6.14"
+              },
+              "items": [
+                {
+                  "text": "Gal 6:14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Maana naliazimu nisijue neno lo lote kwenu ila Yesu Kristo, naye amesulibiwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.2.2",
+            "verseOrgIds": [
+              "1CO.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1CO 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.18.9"
+              },
+              "items": [
+                {
+                  "text": "Mdo 18:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CO.10.1"
+              },
+              "items": [
+                {
+                  "text": "2 Kor 10:1",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Nami nalikuwako kwenu katika hali ya udhaifu na hofu na matetemeko mengi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.2.3",
+            "verseOrgIds": [
+              "1CO.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1CO 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na neno langu na kuhubiri kwangu hakukuwa kwa maneno ya hekima yenye kushawishi akili za watu, bali kwa dalili za Roho na za nguvu, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.2.4",
+            "verseOrgIds": [
+              "1CO.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1CO 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.1.17"
+              },
+              "items": [
+                {
+                  "text": "Efe 1:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TH.1.5"
+              },
+              "items": [
+                {
+                  "text": "1 The 1:5",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "ili imani yenu isiwe katika hekima ya wanadamu, bali katika nguvu za Mungu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.2.5",
+            "verseOrgIds": [
+              "1CO.2.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Hekima ya Kweli ya Mungu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1CO 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.2.5",
+            "verseOrgIds": [
+              "1CO.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1CO 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.2.6",
+            "verseOrgIds": [
+              "1CO.2.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PHP.3.15"
+              },
+              "items": [
+                {
+                  "text": "Flp 3:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Walakini iko hekima tusemayo kati ya wakamilifu; ila si hekima ya dunia hii, wala ya hao wanaoitawala dunia hii, wanaobatilika; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.2.6",
+            "verseOrgIds": [
+              "1CO.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1CO 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.16.25"
+              },
+              "items": [
+                {
+                  "text": "Rum 16:25",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "bali twanena hekima ya Mungu katika siri, ile hekima iliyofichwa, ambayo Mungu aliiazimu tangu milele, kwa utukufu wetu; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.2.7",
+            "verseOrgIds": [
+              "1CO.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1CO 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.23.34"
+              },
+              "items": [
+                {
+                  "text": "Lk 23:34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JAS.2.1"
+              },
+              "items": [
+                {
+                  "text": "Yak 2:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.1.26"
+              },
+              "items": [
+                {
+                  "text": "Kol 1:26",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "ambayo wenye kuitawala dunia hii hawaijui hata mmoja; maana kama wangaliijua, wasingalimsulibisha Bwana wa utukufu; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.2.8",
+            "verseOrgIds": [
+              "1CO.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1CO 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.64.4"
+              },
+              "items": [
+                {
+                  "text": "Isa 64:4",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "lakini, kama ilivyoandikwa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.2.9",
+            "verseOrgIds": [
+              "1CO.2.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1CO.3",
+    "number": "3",
+    "bookId": "1CO"
+  },
+  "previous": {
+    "id": "1CO.1",
+    "number": "1",
+    "bookId": "1CO"
+  }
+}

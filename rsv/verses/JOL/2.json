@@ -1,0 +1,237 @@
+{
+  "id": "JOL.2",
+  "number": "2",
+  "bookId": "JOL",
+  "reference": "Joel 2",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "JOL 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "JOL 2:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.29",
+            "verseOrgIds": [
+              "JOL.2.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "JOL 2:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“And I will give portents in the heavens and on the earth, blood and fire and columns of smoke. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.30",
+            "verseOrgIds": [
+              "JOL.2.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "JOL 2:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.6.12"
+              },
+              "items": [
+                {
+                  "text": "Rev 6.12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " The sun shall be turned to darkness, and the moon to blood, before the great and terrible day of the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.31",
+            "verseOrgIds": [
+              "JOL.2.31"
+            ]
+          }
+        },
+        {
+          "text": " comes. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.31",
+            "verseOrgIds": [
+              "JOL.2.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "JOL 2:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.10.13"
+              },
+              "items": [
+                {
+                  "text": "Rom 10.13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " And it shall come to pass that all who call upon the name of the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.32",
+            "verseOrgIds": [
+              "JOL.2.32"
+            ]
+          }
+        },
+        {
+          "text": " shall be delivered; for in Mount Zion and in Jerusalem there shall be those who escape, as the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.32",
+            "verseOrgIds": [
+              "JOL.2.32"
+            ]
+          }
+        },
+        {
+          "text": " has said, and among the survivors shall be those whom the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.32",
+            "verseOrgIds": [
+              "JOL.2.32"
+            ]
+          }
+        },
+        {
+          "text": " calls.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.2.32",
+            "verseOrgIds": [
+              "JOL.2.32"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOL.3",
+    "number": "3",
+    "bookId": "JOL"
+  },
+  "previous": {
+    "id": "JOL.1",
+    "number": "1",
+    "bookId": "JOL"
+  }
+}

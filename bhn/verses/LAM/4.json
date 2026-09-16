@@ -1,0 +1,68 @@
+{
+  "id": "LAM.4",
+  "number": "4",
+  "bookId": "LAM",
+  "reference": "Maombolezo 4",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "LAM 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "LAM 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jinsi gani dhahabu yetu ilivyochujuka,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.4.1",
+            "verseOrgIds": [
+              "LAM.4.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "LAM.5",
+    "number": "5",
+    "bookId": "LAM"
+  },
+  "previous": {
+    "id": "LAM.3",
+    "number": "3",
+    "bookId": "LAM"
+  }
+}

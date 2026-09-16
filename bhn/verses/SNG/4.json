@@ -1,0 +1,94 @@
+{
+  "id": "SNG.4",
+  "number": "4",
+  "bookId": "SNG",
+  "reference": "Wimbo Ulio Bora 4",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "SNG 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Bwana arusi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "SNG 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hakika u mzuri ewe mpenzi wangu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.4.1",
+            "verseOrgIds": [
+              "SNG.4.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Bibi arusi",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "SNG.5",
+    "number": "5",
+    "bookId": "SNG"
+  },
+  "previous": {
+    "id": "SNG.3",
+    "number": "3",
+    "bookId": "SNG"
+  }
+}

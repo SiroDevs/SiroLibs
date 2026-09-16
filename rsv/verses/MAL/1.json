@@ -1,0 +1,895 @@
+{
+  "id": "MAL.1",
+  "number": "1",
+  "bookId": "MAL",
+  "reference": "Malachi 1",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MAL 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAL 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The oracle of the word of the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.1",
+            "verseOrgIds": [
+              "MAL.1.1"
+            ]
+          }
+        },
+        {
+          "text": " to Israel by Malachi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.1",
+            "verseOrgIds": [
+              "MAL.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1.1",
+              "type": "text"
+            },
+            {
+              "text": "Or",
+              "type": "text"
+            },
+            {
+              "text": "my messenger",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAL 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.1",
+            "verseOrgIds": [
+              "MAL.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAL 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.2",
+            "verseOrgIds": [
+              "MAL.1.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.9.13"
+              },
+              "items": [
+                {
+                  "text": "Rom 9.13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.2",
+            "verseOrgIds": [
+              "MAL.1.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.34"
+              },
+              "items": [
+                {
+                  "text": "Is 34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.63.1+ISA.63.2+ISA.63.3+ISA.63.4+ISA.63.5+ISA.63.6"
+              },
+              "items": [
+                {
+                  "text": "63.1-6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.49.7+JER.49.8+JER.49.9+JER.49.10+JER.49.11+JER.49.12+JER.49.13+JER.49.14+JER.49.15+JER.49.16+JER.49.17+JER.49.18+JER.49.19+JER.49.20+JER.49.21+JER.49.22"
+              },
+              "items": [
+                {
+                  "text": "Jer 49.7-22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.25.12+EZK.25.13+EZK.25.14"
+              },
+              "items": [
+                {
+                  "text": "Ezek 25.12-14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.35"
+              },
+              "items": [
+                {
+                  "text": "35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.11+AMO.1.12"
+              },
+              "items": [
+                {
+                  "text": "Amos 1.11-12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "OBA.1"
+              },
+              "items": [
+                {
+                  "text": "Obad",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " “I have loved you,” says the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.2",
+            "verseOrgIds": [
+              "MAL.1.2"
+            ]
+          }
+        },
+        {
+          "text": ". But you say, “How hast thou loved us?” “Is not Esau Jacob's brother?” says the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.2",
+            "verseOrgIds": [
+              "MAL.1.2"
+            ]
+          }
+        },
+        {
+          "text": ". “Yet I have loved Jacob ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.2",
+            "verseOrgIds": [
+              "MAL.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAL 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "but I have hated Esau; I have laid waste his hill country and left his heritage to jackals of the desert.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.3",
+            "verseOrgIds": [
+              "MAL.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAL 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "If Edom says, “We are shattered but we will rebuild the ruins,” the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.4",
+            "verseOrgIds": [
+              "MAL.1.4"
+            ]
+          }
+        },
+        {
+          "text": " of hosts says, “They may build, but I will tear down, till they are called the wicked country, the people with whom the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.4",
+            "verseOrgIds": [
+              "MAL.1.4"
+            ]
+          }
+        },
+        {
+          "text": " is angry for ever.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.4",
+            "verseOrgIds": [
+              "MAL.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAL 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Your own eyes shall see this, and you shall say, “Great is the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.5",
+            "verseOrgIds": [
+              "MAL.1.5"
+            ]
+          }
+        },
+        {
+          "text": ", beyond the border of Israel!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.5",
+            "verseOrgIds": [
+              "MAL.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAL 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.5",
+            "verseOrgIds": [
+              "MAL.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAL 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“A son honors his father, and a servant his master. If then I am a father, where is my honor? And if I am a master, where is my fear? says the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.6",
+            "verseOrgIds": [
+              "MAL.1.6"
+            ]
+          }
+        },
+        {
+          "text": " of hosts to you, O priests, who despise my name. You say, ‘How have we despised thy name?’ ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.6",
+            "verseOrgIds": [
+              "MAL.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MAL 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "By offering polluted food upon my altar. And you say, ‘How have we polluted it?’",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.7",
+            "verseOrgIds": [
+              "MAL.1.7"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1.7",
+              "type": "text"
+            },
+            {
+              "text": "Gk: Heb",
+              "type": "text"
+            },
+            {
+              "text": "thee",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " By thinking that the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.7",
+            "verseOrgIds": [
+              "MAL.1.7"
+            ]
+          }
+        },
+        {
+          "text": "'s table may be despised. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.7",
+            "verseOrgIds": [
+              "MAL.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAL 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When you offer blind animals in sacrifice, is that no evil? And when you offer those that are lame or sick, is that no evil? Present that to your governor; will he be pleased with you or show you favor? says the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.8",
+            "verseOrgIds": [
+              "MAL.1.8"
+            ]
+          }
+        },
+        {
+          "text": " of hosts. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.8",
+            "verseOrgIds": [
+              "MAL.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MAL 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "‘And now entreat the favor of God, that he may be gracious to us.’ With such a gift from your hand, will he show favor to any of you? says the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.9",
+            "verseOrgIds": [
+              "MAL.1.9"
+            ]
+          }
+        },
+        {
+          "text": " of hosts. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.9",
+            "verseOrgIds": [
+              "MAL.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MAL 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oh, that there were one among you who would shut the doors, that you might not kindle fire upon my altar in vain! I have no pleasure in you, says the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.10",
+            "verseOrgIds": [
+              "MAL.1.10"
+            ]
+          }
+        },
+        {
+          "text": " of hosts, and I will not accept an offering from your hand. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.10",
+            "verseOrgIds": [
+              "MAL.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAL 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For from the rising of the sun to its setting my name is great among the nations, and in every place incense is offered to my name, and a pure offering; for my name is great among the nations, says the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.11",
+            "verseOrgIds": [
+              "MAL.1.11"
+            ]
+          }
+        },
+        {
+          "text": " of hosts. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.11",
+            "verseOrgIds": [
+              "MAL.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MAL 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But you profane it when you say that the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.12",
+            "verseOrgIds": [
+              "MAL.1.12"
+            ]
+          }
+        },
+        {
+          "text": "'s table is polluted, and the food for it",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.12",
+            "verseOrgIds": [
+              "MAL.1.12"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1.12",
+              "type": "text"
+            },
+            {
+              "text": "Heb",
+              "type": "text"
+            },
+            {
+              "text": "its fruit, its food",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " may be despised. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.12",
+            "verseOrgIds": [
+              "MAL.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAL 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "‘What a weariness this is,’ you say, and you sniff at me,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.13",
+            "verseOrgIds": [
+              "MAL.1.13"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1.13",
+              "type": "text"
+            },
+            {
+              "text": "Another reading is",
+              "type": "text"
+            },
+            {
+              "text": "it",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " says the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.13",
+            "verseOrgIds": [
+              "MAL.1.13"
+            ]
+          }
+        },
+        {
+          "text": " of hosts. You bring what has been taken by violence or is lame or sick, and this you bring as your offering! Shall I accept that from your hand? says the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.13",
+            "verseOrgIds": [
+              "MAL.1.13"
+            ]
+          }
+        },
+        {
+          "text": ". ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.13",
+            "verseOrgIds": [
+              "MAL.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MAL 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Cursed be the cheat who has a male in his flock, and vows it, and yet sacrifices to the Lord what is blemished; for I am a great King, says the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.14",
+            "verseOrgIds": [
+              "MAL.1.14"
+            ]
+          }
+        },
+        {
+          "text": " of hosts, and my name is feared among the nations.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.14",
+            "verseOrgIds": [
+              "MAL.1.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MAL.2",
+    "number": "2",
+    "bookId": "MAL"
+  },
+  "previous": {
+    "id": "ZEC.14",
+    "number": "14",
+    "bookId": "ZEC"
+  }
+}

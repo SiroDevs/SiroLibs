@@ -1,0 +1,47 @@
+{
+  "id": "PSA.121",
+  "number": "121",
+  "bookId": "PSA",
+  "reference": "Zab 121",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "121",
+        "style": "c",
+        "sid": "PSA 121"
+      },
+      "items": [
+        {
+          "text": "121",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Hakikisho la Ulinzi wa Mungu",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.122",
+    "number": "122",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.120",
+    "number": "120",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "ISA.13",
+  "number": "13",
+  "bookId": "ISA",
+  "reference": "Isaya 13",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "13",
+        "style": "c",
+        "sid": "ISA 13"
+      },
+      "items": [
+        {
+          "text": "13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 13:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.13.1",
+            "verseOrgIds": [
+              "ISA.13.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "13:1--14:23 Taz Isa 47:1-15; Yer 50:1--51:64",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Kauli ya Mungu dhidi ya Babuloni ambayo Isaya, mwana wa Amozi, alipewa katika maono:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.13.1",
+            "verseOrgIds": [
+              "ISA.13.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.14",
+    "number": "14",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.12",
+    "number": "12",
+    "bookId": "ISA"
+  }
+}

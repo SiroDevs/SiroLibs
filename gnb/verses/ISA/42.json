@@ -1,0 +1,336 @@
+{
+  "id": "ISA.42",
+  "number": "42",
+  "bookId": "ISA",
+  "reference": "Isaiah 42",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "42",
+        "style": "c",
+        "sid": "ISA 42"
+      },
+      "items": [
+        {
+          "text": "42",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 42:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.1",
+            "verseOrgIds": [
+              "ISA.42.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.3.17"
+              },
+              "items": [
+                {
+                  "text": "Mt 3.17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.17.5"
+              },
+              "items": [
+                {
+                  "text": "17.5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.1.11"
+              },
+              "items": [
+                {
+                  "text": "Mk 1.11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.3.22"
+              },
+              "items": [
+                {
+                  "text": "Lk 3.22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.9.35"
+              },
+              "items": [
+                {
+                  "text": "9.35",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.1",
+            "verseOrgIds": [
+              "ISA.42.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.12.18+MAT.12.19+MAT.12.20+MAT.12.21"
+              },
+              "items": [
+                {
+                  "text": "Mt 12.18–21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.1",
+            "verseOrgIds": [
+              "ISA.42.1"
+            ]
+          }
+        },
+        {
+          "text": " says,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.1",
+            "verseOrgIds": [
+              "ISA.42.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 42:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.13",
+            "verseOrgIds": [
+              "ISA.42.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ISA 42:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "God says,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.14",
+            "verseOrgIds": [
+              "ISA.42.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ISA 42:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.17",
+            "verseOrgIds": [
+              "ISA.42.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ISA 42:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.18",
+            "verseOrgIds": [
+              "ISA.42.18"
+            ]
+          }
+        },
+        {
+          "text": " says,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.18",
+            "verseOrgIds": [
+              "ISA.42.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.43",
+    "number": "43",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.41",
+    "number": "41",
+    "bookId": "ISA"
+  }
+}

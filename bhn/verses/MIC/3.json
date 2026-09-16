@@ -1,0 +1,68 @@
+{
+  "id": "MIC.3",
+  "number": "3",
+  "bookId": "MIC",
+  "reference": "Mika 3",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "MIC 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sasa sikilizeni enyi wakuu wa wazawa wa Yakobo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.1",
+            "verseOrgIds": [
+              "MIC.3.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.4",
+    "number": "4",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.2",
+    "number": "2",
+    "bookId": "MIC"
+  }
+}

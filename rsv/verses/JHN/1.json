@@ -1,0 +1,3384 @@
+{
+  "id": "JHN.1",
+  "number": "1",
+  "bookId": "JHN",
+  "reference": "John 1",
+  "verseCount": 51,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "JHN 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JHN 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.1",
+            "verseOrgIds": [
+              "JHN.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.1.1"
+              },
+              "items": [
+                {
+                  "text": "Gen 1.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1JN.1.1"
+              },
+              "items": [
+                {
+                  "text": "1 Jn 1.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.19.13"
+              },
+              "items": [
+                {
+                  "text": "Rev 19.13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.17.5"
+              },
+              "items": [
+                {
+                  "text": "Jn 17.5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " In the beginning was the Word, and the Word was with God, and the Word was God. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.1",
+            "verseOrgIds": [
+              "JHN.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JHN 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He was in the beginning with God; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.2",
+            "verseOrgIds": [
+              "JHN.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JHN 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.1.16"
+              },
+              "items": [
+                {
+                  "text": "Col 1.16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.8.6"
+              },
+              "items": [
+                {
+                  "text": "1 Cor 8.6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.1.2"
+              },
+              "items": [
+                {
+                  "text": "Heb 1.2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " all things were made through him, and without him was not anything made that was made. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.3",
+            "verseOrgIds": [
+              "JHN.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JHN 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.5.26"
+              },
+              "items": [
+                {
+                  "text": "Jn 5.26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.11.25"
+              },
+              "items": [
+                {
+                  "text": "11.25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.14.6"
+              },
+              "items": [
+                {
+                  "text": "14.6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " In him was life,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.4",
+            "verseOrgIds": [
+              "JHN.1.4"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1.4",
+              "type": "text"
+            },
+            {
+              "text": "Or",
+              "type": "text"
+            },
+            {
+              "text": "was not anything made. That which has been made was life in him",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " and the life was the light of men. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.4",
+            "verseOrgIds": [
+              "JHN.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JHN 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.9.5"
+              },
+              "items": [
+                {
+                  "text": "Jn 9.5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.12.46"
+              },
+              "items": [
+                {
+                  "text": "12.46",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " The light shines in the darkness, and the darkness has not overcome it.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.5",
+            "verseOrgIds": [
+              "JHN.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JHN 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.5",
+            "verseOrgIds": [
+              "JHN.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JHN 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.6",
+            "verseOrgIds": [
+              "JHN.1.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.1.4"
+              },
+              "items": [
+                {
+                  "text": "Mk 1.4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.3.1"
+              },
+              "items": [
+                {
+                  "text": "Mt 3.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.3.3"
+              },
+              "items": [
+                {
+                  "text": "Lk 3.3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.19+JHN.1.20+JHN.1.21+JHN.1.22+JHN.1.23"
+              },
+              "items": [
+                {
+                  "text": "Jn 1.19-23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " There was a man sent from God, whose name was John. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.6",
+            "verseOrgIds": [
+              "JHN.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JHN 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He came for testimony, to bear witness to the light, that all might believe through him. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.7",
+            "verseOrgIds": [
+              "JHN.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JHN 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He was not the light, but came to bear witness to the light.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.8",
+            "verseOrgIds": [
+              "JHN.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JHN 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.8",
+            "verseOrgIds": [
+              "JHN.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JHN 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.9",
+            "verseOrgIds": [
+              "JHN.1.9"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1JN.2.8"
+              },
+              "items": [
+                {
+                  "text": "1 Jn 2.8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " The true light that enlightens every man was coming into the world. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.9",
+            "verseOrgIds": [
+              "JHN.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JHN 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He was in the world, and the world was made through him, yet the world knew him not. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.10",
+            "verseOrgIds": [
+              "JHN.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JHN 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He came to his own home, and his own people received him not. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.11",
+            "verseOrgIds": [
+              "JHN.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JHN 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GAL.3.26"
+              },
+              "items": [
+                {
+                  "text": "Gal 3.26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.3.18"
+              },
+              "items": [
+                {
+                  "text": "Jn 3.18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1JN.5.13"
+              },
+              "items": [
+                {
+                  "text": "1 Jn 5.13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " But to all who received him, who believed in his name, he gave power to become children of God; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.12",
+            "verseOrgIds": [
+              "JHN.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JHN 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.3.5"
+              },
+              "items": [
+                {
+                  "text": "Jn 3.5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.1.23"
+              },
+              "items": [
+                {
+                  "text": "1 Pet 1.23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JAS.1.18"
+              },
+              "items": [
+                {
+                  "text": "Jas 1.18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1JN.3.9"
+              },
+              "items": [
+                {
+                  "text": "1 Jn 3.9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.13",
+            "verseOrgIds": [
+              "JHN.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JHN 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.13",
+            "verseOrgIds": [
+              "JHN.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JHN 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.14",
+            "verseOrgIds": [
+              "JHN.1.14"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.1.3"
+              },
+              "items": [
+                {
+                  "text": "Rom 1.3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GAL.4.4"
+              },
+              "items": [
+                {
+                  "text": "Gal 4.4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PHP.2.7"
+              },
+              "items": [
+                {
+                  "text": "Phil 2.7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.3.16"
+              },
+              "items": [
+                {
+                  "text": "1 Tim 3.16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.2.14"
+              },
+              "items": [
+                {
+                  "text": "Heb 2.14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1JN.4.2"
+              },
+              "items": [
+                {
+                  "text": "1 Jn 4.2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " And the Word became flesh and dwelt among us, full of grace and truth; we have beheld his glory, glory as of the only Son from the Father. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.14",
+            "verseOrgIds": [
+              "JHN.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JHN 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.30"
+              },
+              "items": [
+                {
+                  "text": "Jn 1.30",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " (John bore witness to him, and cried, “This was he of whom I said, ‘He who comes after me ranks before me, for he was before me.’ ”) ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.15",
+            "verseOrgIds": [
+              "JHN.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JHN 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.1.19"
+              },
+              "items": [
+                {
+                  "text": "Col 1.19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.2.9"
+              },
+              "items": [
+                {
+                  "text": "2.9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.1.23"
+              },
+              "items": [
+                {
+                  "text": "Eph 1.23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.5.21"
+              },
+              "items": [
+                {
+                  "text": "Rom 5.21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " And from his fulness have we all received, grace upon grace. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.16",
+            "verseOrgIds": [
+              "JHN.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JHN 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.7.19"
+              },
+              "items": [
+                {
+                  "text": "Jn 7.19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " For the law was given through Moses; grace and truth came through Jesus Christ. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.17",
+            "verseOrgIds": [
+              "JHN.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JHN 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.33.20"
+              },
+              "items": [
+                {
+                  "text": "Ex 33.20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.6.26"
+              },
+              "items": [
+                {
+                  "text": "Jn 6.26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1JN.4.12"
+              },
+              "items": [
+                {
+                  "text": "1 Jn 4.12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.3.11"
+              },
+              "items": [
+                {
+                  "text": "Jn 3.11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " No one has ever seen God; the only Son,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.18",
+            "verseOrgIds": [
+              "JHN.1.18"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1.18",
+              "type": "text"
+            },
+            {
+              "text": "Other ancient authorities read",
+              "type": "text"
+            },
+            {
+              "text": "God",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " who is in the bosom of the Father, he has made him known.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.18",
+            "verseOrgIds": [
+              "JHN.1.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JHN 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.18",
+            "verseOrgIds": [
+              "JHN.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JHN 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.19",
+            "verseOrgIds": [
+              "JHN.1.19"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.6"
+              },
+              "items": [
+                {
+                  "text": "Jn 1.6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " And this is the testimony of John, when the Jews sent priests and Levites from Jerusalem to ask him, “Who are you?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.19",
+            "verseOrgIds": [
+              "JHN.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "JHN 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.3.28"
+              },
+              "items": [
+                {
+                  "text": "Jn 3.28",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " He confessed, he did not deny, but confessed, “I am not the Christ.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.20",
+            "verseOrgIds": [
+              "JHN.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "JHN 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.11.14"
+              },
+              "items": [
+                {
+                  "text": "Mt 11.14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.16.14"
+              },
+              "items": [
+                {
+                  "text": "16.14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.9.13"
+              },
+              "items": [
+                {
+                  "text": "Mk 9.13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.17.13"
+              },
+              "items": [
+                {
+                  "text": "Mt 17.13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.18.15"
+              },
+              "items": [
+                {
+                  "text": "Deut 18.15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.18.18"
+              },
+              "items": [
+                {
+                  "text": "18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " And they asked him, “What then? Are you Elijah?” He said, “I am not.” “Are you the prophet?” And he answered, “No.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.21",
+            "verseOrgIds": [
+              "JHN.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "JHN 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They said to him then, “Who are you? Let us have an answer for those who sent us. What do you say about yourself?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.22",
+            "verseOrgIds": [
+              "JHN.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "JHN 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.40.3"
+              },
+              "items": [
+                {
+                  "text": "Is 40.3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.1.3"
+              },
+              "items": [
+                {
+                  "text": "Mk 1.3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.3.3"
+              },
+              "items": [
+                {
+                  "text": "Mt 3.3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.3.4"
+              },
+              "items": [
+                {
+                  "text": "Lk 3.4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " He said, “I am the voice of one crying in the wilderness, ‘Make straight the way of the Lord,’ as the prophet Isaiah said.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.23",
+            "verseOrgIds": [
+              "JHN.1.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "JHN 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.23",
+            "verseOrgIds": [
+              "JHN.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "JHN 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Now they had been sent from the Pharisees. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.24",
+            "verseOrgIds": [
+              "JHN.1.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "JHN 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They asked him, “Then why are you baptizing, if you are neither the Christ, nor Elijah, nor the prophet?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.25",
+            "verseOrgIds": [
+              "JHN.1.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "JHN 1:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.1.7+MRK.1.8"
+              },
+              "items": [
+                {
+                  "text": "Mk 1.7-8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.3.11"
+              },
+              "items": [
+                {
+                  "text": "Mt 3.11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.3.16"
+              },
+              "items": [
+                {
+                  "text": "Lk 3.16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " John answered them, “I baptize with water; but among you stands one whom you do not know, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.26",
+            "verseOrgIds": [
+              "JHN.1.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "JHN 1:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "even he who comes after me, the thong of whose sandal I am not worthy to untie.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.27",
+            "verseOrgIds": [
+              "JHN.1.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "JHN 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.3.26"
+              },
+              "items": [
+                {
+                  "text": "Jn 3.26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.10.40"
+              },
+              "items": [
+                {
+                  "text": "10.40",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " This took place in Bethany beyond the Jordan, where John was baptizing.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.28",
+            "verseOrgIds": [
+              "JHN.1.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "JHN 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.28",
+            "verseOrgIds": [
+              "JHN.1.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "JHN 1:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.29",
+            "verseOrgIds": [
+              "JHN.1.29"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.36"
+              },
+              "items": [
+                {
+                  "text": "Jn 1.36",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.53.7"
+              },
+              "items": [
+                {
+                  "text": "Is 53.7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.8.32"
+              },
+              "items": [
+                {
+                  "text": "Acts 8.32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.1.19"
+              },
+              "items": [
+                {
+                  "text": "1 Pet 1.19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.5.6"
+              },
+              "items": [
+                {
+                  "text": "Rev 5.6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1JN.3.5"
+              },
+              "items": [
+                {
+                  "text": "1 Jn 3.5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " The next day he saw Jesus coming toward him, and said, “Behold, the Lamb of God, who takes away the sin of the world! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.29",
+            "verseOrgIds": [
+              "JHN.1.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "JHN 1:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.15"
+              },
+              "items": [
+                {
+                  "text": "Jn 1.15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " This is he of whom I said, ‘After me comes a man who ranks before me, for he was before me.’ ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.30",
+            "verseOrgIds": [
+              "JHN.1.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "JHN 1:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I myself did not know him; but for this I came baptizing with water, that he might be revealed to Israel.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.31",
+            "verseOrgIds": [
+              "JHN.1.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "JHN 1:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.1.10"
+              },
+              "items": [
+                {
+                  "text": "Mk 1.10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.3.16"
+              },
+              "items": [
+                {
+                  "text": "Mt 3.16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.3.22"
+              },
+              "items": [
+                {
+                  "text": "Lk 3.22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " And John bore witness, “I saw the Spirit descend as a dove from heaven, and it remained on him. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.32",
+            "verseOrgIds": [
+              "JHN.1.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "JHN 1:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I myself did not know him; but he who sent me to baptize with water said to me, ‘He on whom you see the Spirit descend and remain, this is he who baptizes with the Holy Spirit.’ ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.33",
+            "verseOrgIds": [
+              "JHN.1.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "JHN 1:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And I have seen and have borne witness that this is the Son of God.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.34",
+            "verseOrgIds": [
+              "JHN.1.34"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "JHN 1:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.34",
+            "verseOrgIds": [
+              "JHN.1.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "JHN 1:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.35",
+            "verseOrgIds": [
+              "JHN.1.35"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.7.18"
+              },
+              "items": [
+                {
+                  "text": "Lk 7.18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " The next day again John was standing with two of his disciples; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.35",
+            "verseOrgIds": [
+              "JHN.1.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "JHN 1:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "and he looked at Jesus as he walked, and said, “Behold, the Lamb of God!” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.36",
+            "verseOrgIds": [
+              "JHN.1.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "JHN 1:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The two disciples heard him say this, and they followed Jesus. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.37",
+            "verseOrgIds": [
+              "JHN.1.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "JHN 1:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jesus turned, and saw them following, and said to them, “What do you seek?” And they said to him, “Rabbi” (which means Teacher), “where are you staying?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.38",
+            "verseOrgIds": [
+              "JHN.1.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "JHN 1:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He said to them, “Come and see.” They came and saw where he was staying; and they stayed with him that day, for it was about the tenth hour. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.39",
+            "verseOrgIds": [
+              "JHN.1.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "JHN 1:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.4.18+MAT.4.19+MAT.4.20+MAT.4.21+MAT.4.22"
+              },
+              "items": [
+                {
+                  "text": "Mt 4.18-22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.1.16+MRK.1.17+MRK.1.18+MRK.1.19+MRK.1.20"
+              },
+              "items": [
+                {
+                  "text": "Mk 1.16-20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.5.2+LUK.5.3+LUK.5.4+LUK.5.5+LUK.5.6+LUK.5.7+LUK.5.8+LUK.5.9+LUK.5.10+LUK.5.11"
+              },
+              "items": [
+                {
+                  "text": "Lk 5.2-11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " One of the two who heard John speak, and followed him, was Andrew, Simon Peter's brother. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.40",
+            "verseOrgIds": [
+              "JHN.1.40"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "JHN 1:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.9.25"
+              },
+              "items": [
+                {
+                  "text": "Dan 9.25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.4.25"
+              },
+              "items": [
+                {
+                  "text": "Jn 4.25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " He first found his brother Simon, and said to him, “We have found the Messiah” (which means Christ). ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.41",
+            "verseOrgIds": [
+              "JHN.1.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "JHN 1:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.21.15+JHN.21.16+JHN.21.17"
+              },
+              "items": [
+                {
+                  "text": "Jn 21.15-17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.15.5"
+              },
+              "items": [
+                {
+                  "text": "1 Cor 15.5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.16.18"
+              },
+              "items": [
+                {
+                  "text": "Mt 16.18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " He brought him to Jesus. Jesus looked at him, and said, “So you are Simon the son of John? You shall be called Cephas” (which means Peter",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.42",
+            "verseOrgIds": [
+              "JHN.1.42"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1.42",
+              "type": "text"
+            },
+            {
+              "text": "From the word for",
+              "type": "text"
+            },
+            {
+              "text": "rock",
+              "type": "text"
+            },
+            {
+              "text": "in Aramaic and Greek, respectively",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ").",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.42",
+            "verseOrgIds": [
+              "JHN.1.42"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "JHN 1:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.42",
+            "verseOrgIds": [
+              "JHN.1.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "JHN 1:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.43",
+            "verseOrgIds": [
+              "JHN.1.43"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.10.3"
+              },
+              "items": [
+                {
+                  "text": "Mt 10.3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.6.5"
+              },
+              "items": [
+                {
+                  "text": "Jn 6.5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.12.21"
+              },
+              "items": [
+                {
+                  "text": "12.21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.14.8"
+              },
+              "items": [
+                {
+                  "text": "14.8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " The next day Jesus decided to go to Galilee. And he found Philip and said to him, “Follow me.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.43",
+            "verseOrgIds": [
+              "JHN.1.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "JHN 1:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Now Philip was from Beth-saida, the city of Andrew and Peter. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.44",
+            "verseOrgIds": [
+              "JHN.1.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "JHN 1:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.24.27"
+              },
+              "items": [
+                {
+                  "text": "Lk 24.27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Philip found Nathana-el, and said to him, “We have found him of whom Moses in the law and also the prophets wrote, Jesus of Nazareth, the son of Joseph.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.45",
+            "verseOrgIds": [
+              "JHN.1.45"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "46",
+            "style": "v",
+            "sid": "JHN 1:46"
+          },
+          "items": [
+            {
+              "text": "46",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.7.41"
+              },
+              "items": [
+                {
+                  "text": "Jn 7.41",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.6.2"
+              },
+              "items": [
+                {
+                  "text": "Mk 6.2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Nathana-el said to him, “Can anything good come out of Nazareth?” Philip said to him, “Come and see.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.46",
+            "verseOrgIds": [
+              "JHN.1.46"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "47",
+            "style": "v",
+            "sid": "JHN 1:47"
+          },
+          "items": [
+            {
+              "text": "47",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jesus saw Nathana-el coming to him, and said of him, “Behold, an Israelite indeed, in whom is no guile!” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.47",
+            "verseOrgIds": [
+              "JHN.1.47"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "48",
+            "style": "v",
+            "sid": "JHN 1:48"
+          },
+          "items": [
+            {
+              "text": "48",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nathana-el said to him, “How do you know me?” Jesus answered him, “Before Philip called you, when you were under the fig tree, I saw you.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.48",
+            "verseOrgIds": [
+              "JHN.1.48"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "49",
+            "style": "v",
+            "sid": "JHN 1:49"
+          },
+          "items": [
+            {
+              "text": "49",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.2.7"
+              },
+              "items": [
+                {
+                  "text": "Ps 2.7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.15.32"
+              },
+              "items": [
+                {
+                  "text": "Mk 15.32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.12.13"
+              },
+              "items": [
+                {
+                  "text": "Jn 12.13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Nathana-el answered him, “Rabbi, you are the Son of God! You are the King of Israel!” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.49",
+            "verseOrgIds": [
+              "JHN.1.49"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "50",
+            "style": "v",
+            "sid": "JHN 1:50"
+          },
+          "items": [
+            {
+              "text": "50",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jesus answered him, “Because I said to you, I saw you under the fig tree, do you believe? You shall see greater things than these.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.50",
+            "verseOrgIds": [
+              "JHN.1.50"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "51",
+            "style": "v",
+            "sid": "JHN 1:51"
+          },
+          "items": [
+            {
+              "text": "51",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.3.21"
+              },
+              "items": [
+                {
+                  "text": "Lk 3.21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.28.12"
+              },
+              "items": [
+                {
+                  "text": "Gen 28.12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " And he said to him, “Truly, truly, I say to you, you will see heaven opened, and the angels of God ascending and descending upon the Son of man.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.1.51",
+            "verseOrgIds": [
+              "JHN.1.51"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JHN.2",
+    "number": "2",
+    "bookId": "JHN"
+  },
+  "previous": {
+    "id": "LUK.24",
+    "number": "24",
+    "bookId": "LUK"
+  }
+}

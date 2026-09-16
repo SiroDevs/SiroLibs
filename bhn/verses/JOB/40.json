@@ -1,0 +1,68 @@
+{
+  "id": "JOB.40",
+  "number": "40",
+  "bookId": "JOB",
+  "reference": "Yobu 40",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "40",
+        "style": "c",
+        "sid": "JOB 40"
+      },
+      "items": [
+        {
+          "text": "40",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 40:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwenyezi-Mungu akaendelea kumwambia Yobu:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.40.1",
+            "verseOrgIds": [
+              "JOB.40.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.41",
+    "number": "41",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.39",
+    "number": "39",
+    "bookId": "JOB"
+  }
+}

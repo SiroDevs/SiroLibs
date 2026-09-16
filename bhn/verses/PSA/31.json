@@ -1,0 +1,68 @@
+{
+  "id": "PSA.31",
+  "number": "31",
+  "bookId": "PSA",
+  "reference": "Zaburi 31",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "31",
+        "style": "c",
+        "sid": "PSA 31"
+      },
+      "items": [
+        {
+          "text": "31",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 31:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwako, ee Mwenyezi-Mungu, nakimbilia usalama,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.31.1",
+            "verseOrgIds": [
+              "PSA.31.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.32",
+    "number": "32",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.30",
+    "number": "30",
+    "bookId": "PSA"
+  }
+}

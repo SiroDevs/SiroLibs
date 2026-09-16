@@ -1,0 +1,576 @@
+{
+  "id": "HAG.1",
+  "number": "1",
+  "bookId": "HAG",
+  "reference": "Hagai 1",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "HAG 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HAG 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.1",
+            "verseOrgIds": [
+              "HAG.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "Taz Ezra 4:24–5:2; 6:14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Siku ya kwanza ya mwezi wa sita mwaka wa pili wa utawala wa mfalme Dario wa Persia, Mwenyezi-Mungu alimpa Hagai ujumbe aupeleke kwa Zerubabeli mwana wa Shealtieli, mkuu wa Yuda, na kuhani mkuu Yoshua mwana wa Yehosadaki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.1",
+            "verseOrgIds": [
+              "HAG.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HAG 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.1",
+            "verseOrgIds": [
+              "HAG.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "HAG 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hagai akasema: “Mwenyezi-Mungu wa majeshi asema hivi: Watu hawa wanasema kwamba wakati wa kulijenga upya hekalu langu haujafika.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.2",
+            "verseOrgIds": [
+              "HAG.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HAG 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini Mwenyezi-Mungu ameniambia mimi nabii Hagai, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.3",
+            "verseOrgIds": [
+              "HAG.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HAG 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Je, ni sawa kwenu kukaa katika majumba yenu ya fahari hali hekalu langu ni magofu matupu?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.4",
+            "verseOrgIds": [
+              "HAG.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HAG 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sasa, asema hivi Mwenyezi-Mungu: “Fikirini kama mnafanya sawa! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.5",
+            "verseOrgIds": [
+              "HAG.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "HAG 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyinyi mmepanda mbegu kwa wingi, lakini mmevuna kidogo; mnakula, lakini hamshibi; mnakunywa divai, lakini hamtosheki; mnavaa nguo, lakini bado mnasikia baridi; mfanyakazi mshahara wake huwa kama umetumbukizwa katika mfuko uliotoboka.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.6",
+            "verseOrgIds": [
+              "HAG.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "HAG 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwenyezi-Mungu wa majeshi asema hivi: “Fikirini kama mnafanya sawa! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.7",
+            "verseOrgIds": [
+              "HAG.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "HAG 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sasa, basi, nendeni milimani mkalete miti, mlijenge upya hilo hekalu, nipate kulifurahia na kutukuzwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.8",
+            "verseOrgIds": [
+              "HAG.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "HAG 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.8",
+            "verseOrgIds": [
+              "HAG.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "HAG 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Mlitazamia mavuno mengi, lakini mlipata kidogo tu. Na mlipoyaleta nyumbani, niliyapeperusha mbali. Kwa nini? Kwa sababu hekalu langu ni magofu matupu hali kila mmoja wenu anashughulikia nyumba yake. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.9",
+            "verseOrgIds": [
+              "HAG.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "HAG 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndio maana mbingu zimeacha kunyesha mvua, nayo ardhi haioteshi mavuno. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.10",
+            "verseOrgIds": [
+              "HAG.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "HAG 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nimeleta ukame nchini, ukaathiri vilima na mashamba ya nafaka, mashamba ya mizabibu na mashamba ya mizeituni na kila mmea, watu na wanyama, na chochote mlichotolea jasho.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.11",
+            "verseOrgIds": [
+              "HAG.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "HAG 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.11",
+            "verseOrgIds": [
+              "HAG.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "HAG 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo Zerubabeli mwana wa Shealtieli, na kuhani mkuu Yoshua mwana wa Yehosadaki, pamoja na watu wote waliokuwa wamerudi kutoka uhamishoni",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.12",
+            "verseOrgIds": [
+              "HAG.1.12"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:12",
+              "type": "text"
+            },
+            {
+              "text": "waliokuwa wamerudi kutoka uhamishoni:",
+              "type": "text"
+            },
+            {
+              "text": "Au waliokuwa wamebaki nchini.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " wakafanya kama Mwenyezi-Mungu, Mungu wao alivyowaambia na kama walivyoambiwa na nabii Hagai, kama alivyotumwa na Mwenyezi-Mungu, Mungu wao. Watu wakamcha Mwenyezi-Mungu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.12",
+            "verseOrgIds": [
+              "HAG.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "HAG 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha Hagai, mjumbe wa Mwenyezi-Mungu, akawapa watu ujumbe ufuatao kutoka kwa Mwenyezi-Mungu: Mwenyezi-Mungu asema: “Mimi nipo pamoja nanyi.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.13",
+            "verseOrgIds": [
+              "HAG.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "HAG 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi, Mwenyezi-Mungu akawapa moyo Zerubabeli mkuu wa Yuda, kuhani mkuu Yoshua na watu wote waliokuwa wamerudi kutoka uhamishoni, walishughulikie hekalu. Walianza kazi hiyo ya kulijenga upya hekalu la Mwenyezi-Mungu wa majeshi, Mungu wao, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.14",
+            "verseOrgIds": [
+              "HAG.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "HAG 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mnamo siku ya ishirini na nne ya mwezi wa sita, mwaka wa pili wa utawala wa mfalme Dario.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.15",
+            "verseOrgIds": [
+              "HAG.1.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAG.2",
+    "number": "2",
+    "bookId": "HAG"
+  },
+  "previous": {
+    "id": "HAG.intro",
+    "number": "intro",
+    "bookId": "HAG"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "JOB.22",
+  "number": "22",
+  "bookId": "JOB",
+  "reference": "Ayu 22",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "22",
+        "style": "c",
+        "sid": "JOB 22"
+      },
+      "items": [
+        {
+          "text": "22",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Elifazi anena: Uovu wa Ayubu ni Mkuu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 22:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo huyo Elifazi Mtemani akajibu, na kusema,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.22.1",
+            "verseOrgIds": [
+              "JOB.22.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.23",
+    "number": "23",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.21",
+    "number": "21",
+    "bookId": "JOB"
+  }
+}

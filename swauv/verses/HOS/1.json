@@ -1,0 +1,787 @@
+{
+  "id": "HOS.1",
+  "number": "1",
+  "bookId": "HOS",
+  "reference": "Hos 1",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "HOS 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.1",
+            "verseOrgIds": [
+              "HOS.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2PE.1.21"
+              },
+              "items": [
+                {
+                  "text": "2 Pet 1:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.14.23+2KI.14.24+2KI.14.25+2KI.14.26+2KI.14.27+2KI.14.28+2KI.14.29"
+              },
+              "items": [
+                {
+                  "text": "2 Fal 14:23-29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.15.1+2KI.15.2+2KI.15.3+2KI.15.4+2KI.15.5+2KI.15.6+2KI.15.7"
+              },
+              "items": [
+                {
+                  "text": "15:1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.15.32+2KI.15.33+2KI.15.34+2KI.15.35+2KI.15.36+2KI.15.37+2KI.15.38"
+              },
+              "items": [
+                {
+                  "text": "32-38",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.16.1+2KI.16.2+2KI.16.3+2KI.16.4+2KI.16.5+2KI.16.6+2KI.16.7+2KI.16.8+2KI.16.9+2KI.16.10+2KI.16.11+2KI.16.12+2KI.16.13+2KI.16.14+2KI.16.15+2KI.16.16+2KI.16.17+2KI.16.18+2KI.16.19+2KI.16.20"
+              },
+              "items": [
+                {
+                  "text": "16:1-20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "18:1—20:21; 2 Nya 26:1—27:8; 28:1—32:33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hili ndilo neno la BWANA lililomjia Hosea, mwana wa Beeri, siku za Uzia, na Yothamu, na Ahazi, na Hezekia, wafalme wa Yuda; na siku za Yeroboamu, mwana wa Yoashi, mfalme wa Israeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.1",
+            "verseOrgIds": [
+              "HOS.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Familia ya Hosea",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.1",
+            "verseOrgIds": [
+              "HOS.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "HOS 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.2",
+            "verseOrgIds": [
+              "HOS.1.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.31.16"
+              },
+              "items": [
+                {
+                  "text": "Kum 31:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.2.17"
+              },
+              "items": [
+                {
+                  "text": "Amu 2:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.73.27"
+              },
+              "items": [
+                {
+                  "text": "Zab 73:27",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Hapo kwanza BWANA aliponena kwa kinywa cha Hosea, BWANA alimwambia Hosea, Enenda ukatwae mke wa uzinzi, na watoto wa uzinzi; kwa maana nchi hii inafanya uzinzi mwingi, kwa kumwacha BWANA. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.2",
+            "verseOrgIds": [
+              "HOS.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HOS 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi akaenda akamwoa Gomeri, binti Diblaimu; naye akachukua mimba, akamzalia mtoto mwanamume. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.3",
+            "verseOrgIds": [
+              "HOS.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HOS 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.10.11"
+              },
+              "items": [
+                {
+                  "text": "2 Fal 10:11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "BWANA akamwambia, Mwite jina lake Yezreeli; kwa maana bado kitambo kidogo, nitaipatiliza nyumba ya Yehu damu ya Yezreeli, na kuukomesha ufalme wa nyumba ya Israeli. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.4",
+            "verseOrgIds": [
+              "HOS.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HOS 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tena itakuwa siku ile, nitauvunja upinde wa Israeli katika bonde la Yezreeli. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.5",
+            "verseOrgIds": [
+              "HOS.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "HOS 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akachukua mimba tena, akazaa mtoto mwanamke. BWANA akamwambia, Mwite jina lake Lo-ruhama",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.6",
+            "verseOrgIds": [
+              "HOS.1.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:6",
+              "type": "text"
+            },
+            {
+              "text": "Lo-ruhama",
+              "type": "text"
+            },
+            {
+              "text": "maana yake ni Asiyehurumiwa.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "; kwa maana sitairehemu nyumba ya Israeli tena, nisije nikawasamehe kwa njia yo yote. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.6",
+            "verseOrgIds": [
+              "HOS.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "HOS 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini nitairehemu nyumba ya Yuda; nitawaokoa kwa BWANA, Mungu wao; wala sitawaokoa kwa upinde, wala kwa upanga, wala kwa silaha, wala kwa farasi, wala kwa wapanda farasi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.7",
+            "verseOrgIds": [
+              "HOS.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "HOS 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi, akiisha kumwachisha Lo-ruhama, akachukua mimba, akazaa mtoto mwanamume. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.8",
+            "verseOrgIds": [
+              "HOS.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "HOS 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "BWANA akasema, Mwite jina lake Lo-ami",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.9",
+            "verseOrgIds": [
+              "HOS.1.9"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:9",
+              "type": "text"
+            },
+            {
+              "text": "Lo-ami",
+              "type": "text"
+            },
+            {
+              "text": "maana yake ni Si watu wangu.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "; kwa maana ninyi si watu wangu, wala mimi sitakuwa Mungu wenu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.9",
+            "verseOrgIds": [
+              "HOS.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Matengenezo ya Israeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "HOS 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.9",
+            "verseOrgIds": [
+              "HOS.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "HOS 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.10",
+            "verseOrgIds": [
+              "HOS.1.10"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.26.4"
+              },
+              "items": [
+                {
+                  "text": "Mwa 26:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.32.13"
+              },
+              "items": [
+                {
+                  "text": "Kut 32:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.23.10"
+              },
+              "items": [
+                {
+                  "text": "Hes 23:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.1.10"
+              },
+              "items": [
+                {
+                  "text": "Kum 1:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1KI.3.8"
+              },
+              "items": [
+                {
+                  "text": "1 Fal 3:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.27.23"
+              },
+              "items": [
+                {
+                  "text": "1 Nya 27:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.12"
+              },
+              "items": [
+                {
+                  "text": "Yn 1:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.9.26"
+              },
+              "items": [
+                {
+                  "text": "Rum 9:26",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Tena itakuwa ya kwamba hesabu ya wana wa Israeli itafanana na mchanga wa bahari, usioweza kupimwa wala kuhesabiwa; tena itakuwa, badala ya kuambiwa, Ninyi si watu wangu, wataambiwa, Ninyi ndio wana wa Mungu aliye hai. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.10",
+            "verseOrgIds": [
+              "HOS.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "HOS 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na wana wa Yuda na wana wa Israeli watakusanyika pamoja, nao watajiwekea kichwa kimoja, nao watakwea watoke katika nchi hii; kwa maana siku ya Yezreeli itakuwa kuu sana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.11",
+            "verseOrgIds": [
+              "HOS.1.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.2",
+    "number": "2",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.intro",
+    "number": "intro",
+    "bookId": "HOS"
+  }
+}

@@ -1,0 +1,546 @@
+{
+  "id": "NUM.1",
+  "number": "1",
+  "bookId": "NUM",
+  "reference": "Numbers 1",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "NUM 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NUM 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.1",
+            "verseOrgIds": [
+              "NUM.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.26.1+NUM.26.2+NUM.26.3+NUM.26.4+NUM.26.5+NUM.26.6+NUM.26.7+NUM.26.8+NUM.26.9+NUM.26.10+NUM.26.11+NUM.26.12+NUM.26.13+NUM.26.14+NUM.26.15+NUM.26.16+NUM.26.17+NUM.26.18+NUM.26.19+NUM.26.20+NUM.26.21+NUM.26.22+NUM.26.23+NUM.26.24+NUM.26.25+NUM.26.26+NUM.26.27+NUM.26.28+NUM.26.29+NUM.26.30+NUM.26.31+NUM.26.32+NUM.26.33+NUM.26.34+NUM.26.35+NUM.26.36+NUM.26.37+NUM.26.38+NUM.26.39+NUM.26.40+NUM.26.41+NUM.26.42+NUM.26.43+NUM.26.44+NUM.26.45+NUM.26.46+NUM.26.47+NUM.26.48+NUM.26.49+NUM.26.50+NUM.26.51"
+              },
+              "items": [
+                {
+                  "text": "Num 26.1–51",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "On the first day of the second month in the second year after the people of Israel left Egypt, the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.1",
+            "verseOrgIds": [
+              "NUM.1.1"
+            ]
+          }
+        },
+        {
+          "text": " spoke to Moses there in the Tent of his presence in the Sinai Desert. He said, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.1",
+            "verseOrgIds": [
+              "NUM.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“You and Aaron are to take a census of the people of Israel by clans and families. List the names of all the men ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.2",
+            "verseOrgIds": [
+              "NUM.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NUM 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "twenty years old or older who are fit for military service. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.3",
+            "verseOrgIds": [
+              "NUM.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ask one clan chief from each tribe to help you.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.4",
+            "verseOrgIds": [
+              "NUM.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NUM 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "These are the men, leaders within their tribes, who were chosen from the community for this work:",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.5+NUM.1.6+NUM.1.7+NUM.1.8+NUM.1.9+NUM.1.10+NUM.1.11+NUM.1.12+NUM.1.13+NUM.1.14+NUM.1.15+NUM.1.16",
+            "verseOrgIds": [
+              "NUM.1.5",
+              "NUM.1.6",
+              "NUM.1.7",
+              "NUM.1.8",
+              "NUM.1.9",
+              "NUM.1.10",
+              "NUM.1.11",
+              "NUM.1.12",
+              "NUM.1.13",
+              "NUM.1.14",
+              "NUM.1.15",
+              "NUM.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "NUM 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.20+NUM.1.21+NUM.1.22+NUM.1.23+NUM.1.24+NUM.1.25+NUM.1.26+NUM.1.27+NUM.1.28+NUM.1.29+NUM.1.30+NUM.1.31+NUM.1.32+NUM.1.33+NUM.1.34+NUM.1.35+NUM.1.36+NUM.1.37+NUM.1.38+NUM.1.39+NUM.1.40+NUM.1.41+NUM.1.42+NUM.1.43+NUM.1.44+NUM.1.45+NUM.1.46",
+            "verseOrgIds": [
+              "NUM.1.20",
+              "NUM.1.21",
+              "NUM.1.22",
+              "NUM.1.23",
+              "NUM.1.24",
+              "NUM.1.25",
+              "NUM.1.26",
+              "NUM.1.27",
+              "NUM.1.28",
+              "NUM.1.29",
+              "NUM.1.30",
+              "NUM.1.31",
+              "NUM.1.32",
+              "NUM.1.33",
+              "NUM.1.34",
+              "NUM.1.35",
+              "NUM.1.36",
+              "NUM.1.37",
+              "NUM.1.38",
+              "NUM.1.39",
+              "NUM.1.40",
+              "NUM.1.41",
+              "NUM.1.42",
+              "NUM.1.43",
+              "NUM.1.44",
+              "NUM.1.45",
+              "NUM.1.46"
+            ]
+          }
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.20+NUM.1.21+NUM.1.22+NUM.1.23+NUM.1.24+NUM.1.25+NUM.1.26+NUM.1.27+NUM.1.28+NUM.1.29+NUM.1.30+NUM.1.31+NUM.1.32+NUM.1.33+NUM.1.34+NUM.1.35+NUM.1.36+NUM.1.37+NUM.1.38+NUM.1.39+NUM.1.40+NUM.1.41+NUM.1.42+NUM.1.43+NUM.1.44+NUM.1.45+NUM.1.46",
+            "verseOrgIds": [
+              "NUM.1.20",
+              "NUM.1.21",
+              "NUM.1.22",
+              "NUM.1.23",
+              "NUM.1.24",
+              "NUM.1.25",
+              "NUM.1.26",
+              "NUM.1.27",
+              "NUM.1.28",
+              "NUM.1.29",
+              "NUM.1.30",
+              "NUM.1.31",
+              "NUM.1.32",
+              "NUM.1.33",
+              "NUM.1.34",
+              "NUM.1.35",
+              "NUM.1.36",
+              "NUM.1.37",
+              "NUM.1.38",
+              "NUM.1.39",
+              "NUM.1.40",
+              "NUM.1.41",
+              "NUM.1.42",
+              "NUM.1.43",
+              "NUM.1.44",
+              "NUM.1.45",
+              "NUM.1.46"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "47",
+            "style": "v",
+            "sid": "NUM 1:47"
+          },
+          "items": [
+            {
+              "text": "47",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The Levites were not registered with the other tribes, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.47",
+            "verseOrgIds": [
+              "NUM.1.47"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "48",
+            "style": "v",
+            "sid": "NUM 1:48"
+          },
+          "items": [
+            {
+              "text": "48",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "because the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.48",
+            "verseOrgIds": [
+              "NUM.1.48"
+            ]
+          }
+        },
+        {
+          "text": " had said to Moses, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.48",
+            "verseOrgIds": [
+              "NUM.1.48"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "49",
+            "style": "v",
+            "sid": "NUM 1:49"
+          },
+          "items": [
+            {
+              "text": "49",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“When you take a census of the men fit for military service, do not include the tribe of Levi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.49",
+            "verseOrgIds": [
+              "NUM.1.49"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "50",
+            "style": "v",
+            "sid": "NUM 1:50"
+          },
+          "items": [
+            {
+              "text": "50",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Instead, put the Levites in charge of the Tent of my presence and all its equipment. They shall carry it and its equipment, serve in it, and set up their camp round it. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.50",
+            "verseOrgIds": [
+              "NUM.1.50"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "51",
+            "style": "v",
+            "sid": "NUM 1:51"
+          },
+          "items": [
+            {
+              "text": "51",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Whenever you move your camp, the Levites shall take the Tent down and set it up again at each new camping place. Anyone else who comes near the Tent shall be put to death. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.51",
+            "verseOrgIds": [
+              "NUM.1.51"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "52",
+            "style": "v",
+            "sid": "NUM 1:52"
+          },
+          "items": [
+            {
+              "text": "52",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The rest of the Israelites shall set up camp, company by company, each man with his own group and under his own banner. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.52",
+            "verseOrgIds": [
+              "NUM.1.52"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "53",
+            "style": "v",
+            "sid": "NUM 1:53"
+          },
+          "items": [
+            {
+              "text": "53",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But the Levites shall camp round the Tent to guard it, so that no one may come near and cause my anger to strike the community of Israel.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.53",
+            "verseOrgIds": [
+              "NUM.1.53"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "54",
+            "style": "v",
+            "sid": "NUM 1:54"
+          },
+          "items": [
+            {
+              "text": "54",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "So the people of Israel did everything that the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.54",
+            "verseOrgIds": [
+              "NUM.1.54"
+            ]
+          }
+        },
+        {
+          "text": " had commanded Moses.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.1.54",
+            "verseOrgIds": [
+              "NUM.1.54"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NUM.2",
+    "number": "2",
+    "bookId": "NUM"
+  },
+  "previous": {
+    "id": "NUM.intro",
+    "number": "intro",
+    "bookId": "NUM"
+  }
+}

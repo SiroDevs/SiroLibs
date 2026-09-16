@@ -1,0 +1,151 @@
+{
+  "id": "NAM.1",
+  "number": "1",
+  "bookId": "NAM",
+  "reference": "Nahumu 1",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "NAM 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NAM 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.1",
+            "verseOrgIds": [
+              "NAM.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "Taz Isa 10:5-34; 14:24-27; Sef 2:13-15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Kauli ya Mungu juu ya Ninewi. Kitabu cha maono ya Nahumu wa Elkoshi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.1",
+            "verseOrgIds": [
+              "NAM.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NAM 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.1",
+            "verseOrgIds": [
+              "NAM.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NAM 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwenyezi-Mungu ni Mungu mwenye wivu, mlipiza kisasi;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.2",
+            "verseOrgIds": [
+              "NAM.1.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NAM.2",
+    "number": "2",
+    "bookId": "NAM"
+  },
+  "previous": {
+    "id": "NAM.intro",
+    "number": "intro",
+    "bookId": "NAM"
+  }
+}

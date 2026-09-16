@@ -1,0 +1,68 @@
+{
+  "id": "PSA.142",
+  "number": "142",
+  "bookId": "PSA",
+  "reference": "Zaburi 142",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "142",
+        "style": "c",
+        "sid": "PSA 142"
+      },
+      "items": [
+        {
+          "text": "142",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 142:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Namlilia Mwenyezi-Mungu kwa sauti,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.1",
+            "verseOrgIds": [
+              "PSA.142.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.143",
+    "number": "143",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.141",
+    "number": "141",
+    "bookId": "PSA"
+  }
+}

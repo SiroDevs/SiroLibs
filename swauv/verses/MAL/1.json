@@ -1,0 +1,1023 @@
+{
+  "id": "MAL.1",
+  "number": "1",
+  "bookId": "MAL",
+  "reference": "Mal 1",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MAL 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Israeli Wapendwa kuliko Edomu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAL 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ufunuo wa neno la BWANA kwa Israeli kwa mkono wa Malaki ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.1",
+            "verseOrgIds": [
+              "MAL.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAL 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.25.23"
+              },
+              "items": [
+                {
+                  "text": "Mwa 25:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.28.13"
+              },
+              "items": [
+                {
+                  "text": "28:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.9.13"
+              },
+              "items": [
+                {
+                  "text": "Rum 9:13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.34.5+ISA.34.6+ISA.34.7+ISA.34.8+ISA.34.9+ISA.34.10+ISA.34.11+ISA.34.12+ISA.34.13+ISA.34.14+ISA.34.15+ISA.34.16+ISA.34.17"
+              },
+              "items": [
+                {
+                  "text": "Isa 34:5-17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.63.1+ISA.63.2+ISA.63.3+ISA.63.4+ISA.63.5+ISA.63.6"
+              },
+              "items": [
+                {
+                  "text": "63:1-6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.49.7+JER.49.8+JER.49.9+JER.49.10+JER.49.11+JER.49.12+JER.49.13+JER.49.14+JER.49.15+JER.49.16+JER.49.17+JER.49.18+JER.49.19+JER.49.20+JER.49.21+JER.49.22"
+              },
+              "items": [
+                {
+                  "text": "Yer 49:7-22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.25.12+EZK.25.13+EZK.25.14"
+              },
+              "items": [
+                {
+                  "text": "Eze 25:12-14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.35.1+EZK.35.2+EZK.35.3+EZK.35.4+EZK.35.5+EZK.35.6+EZK.35.7+EZK.35.8+EZK.35.9+EZK.35.10+EZK.35.11+EZK.35.12+EZK.35.13+EZK.35.14+EZK.35.15"
+              },
+              "items": [
+                {
+                  "text": "35:1-15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.11+AMO.1.12"
+              },
+              "items": [
+                {
+                  "text": "Amo 1:11-12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "OBA.1.1+OBA.1.2+OBA.1.3+OBA.1.4+OBA.1.5+OBA.1.6+OBA.1.7+OBA.1.8+OBA.1.9+OBA.1.10+OBA.1.11+OBA.1.12+OBA.1.13+OBA.1.14"
+              },
+              "items": [
+                {
+                  "text": "Oba 1-14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Nimewapenda ninyi, asema BWANA. Lakini ninyi mwasema, Umetupendaje? Je! Esau siye ndugu yake Yakobo? Asema BWANA; ila nimempenda Yakobo; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.2",
+            "verseOrgIds": [
+              "MAL.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAL 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "bali Esau nimemchukia na kuifanya milima yake kuwa ukiwa, na urithi wake nimewapa mbweha wa nyikani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.3",
+            "verseOrgIds": [
+              "MAL.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAL 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ijapokuwa Edomu asema, Tumepondwa-pondwa, lakini tutarudi na kupajenga mahali palipoachwa hali ya ukiwa; BWANA wa majeshi asema hivi, Wao watajenga, bali mimi nitaangusha; na watu watawaita, Mpaka wa uovu, na, Watu ambao BWANA anawaghadhabikia milele. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.4",
+            "verseOrgIds": [
+              "MAL.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAL 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.35.27"
+              },
+              "items": [
+                {
+                  "text": "Zab 35:27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.83.18"
+              },
+              "items": [
+                {
+                  "text": "83:18",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Na macho yenu ninyi yataona, nanyi mtasema, BWANA ndiye mkuu kupita mpaka wa Israeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.5",
+            "verseOrgIds": [
+              "MAL.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Uoza wa Ukuhani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAL 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.5",
+            "verseOrgIds": [
+              "MAL.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAL 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.6",
+            "verseOrgIds": [
+              "MAL.1.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.20.12"
+              },
+              "items": [
+                {
+                  "text": "Kut 20:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.5.16"
+              },
+              "items": [
+                {
+                  "text": "Kum 5:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.15.4"
+              },
+              "items": [
+                {
+                  "text": "Mt 15:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.6.2"
+              },
+              "items": [
+                {
+                  "text": "Efe 6:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.18.20"
+              },
+              "items": [
+                {
+                  "text": "Lk 18:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.6.46"
+              },
+              "items": [
+                {
+                  "text": "6:46",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mwana humheshimu baba yake, na mtumishi humcha bwana wake; basi, kama mimi ni baba yenu, heshima yangu iko wapi? Na kama mimi ni bwana wenu, kicho changu ki wapi? BWANA wa majeshi awauliza ninyi, enyi makuhani, mnaolidharau jina langu. Nanyi mwasema, Tumelidharau jina lako kwa jinsi gani? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.6",
+            "verseOrgIds": [
+              "MAL.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MAL 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.41.22"
+              },
+              "items": [
+                {
+                  "text": "Eze 41:22",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mnatoa chakula kilichotiwa unajisi juu ya madhabahu yangu Nanyi mwasema, Sisi tumekutia unajisi kwa jinsi gani? Kwa sababu mwasema, Meza ya BWANA ni kitu cha kudharauliwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.7",
+            "verseOrgIds": [
+              "MAL.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAL 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.42.8"
+              },
+              "items": [
+                {
+                  "text": "Ayu 42:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.15.21"
+              },
+              "items": [
+                {
+                  "text": "Kum 15:21",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Tena mtoapo sadaka aliye kipofu, si vibaya? Na mtoapo sadaka walio vilema na wagonjwa, si vibaya? Haya! Mtolee liwali wako; je! Atakuwa radhi nawe? Au atakukubali nafsi yako? Asema BWANA wa majeshi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.8",
+            "verseOrgIds": [
+              "MAL.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MAL 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.13.9"
+              },
+              "items": [
+                {
+                  "text": "Hos 13:9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Na sasa, nawasihi, ombeni fadhili za Mungu, ili atupe neema; ikiwa jambo hili limetoka katika mikono yenu; je! Atawakubali nafsi zenu? Asema BWANA wa majeshi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.9",
+            "verseOrgIds": [
+              "MAL.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MAL 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.9.13"
+              },
+              "items": [
+                {
+                  "text": "1 Kor 9:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PHP.3.18"
+              },
+              "items": [
+                {
+                  "text": "Flp 3:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PHP.3.19"
+              },
+              "items": [
+                {
+                  "text": "19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.1.11"
+              },
+              "items": [
+                {
+                  "text": "Isa 1:11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Laiti angekuwapo kwenu mtu mmoja wa kuifunga milango; msije mkawasha moto bure madhabahuni pangu! Sina furaha kwenu, asema BWANA wa majeshi, wala sitakubali dhabihu yo yote mikononi mwenu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.10",
+            "verseOrgIds": [
+              "MAL.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAL 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.59.19"
+              },
+              "items": [
+                {
+                  "text": "Isa 59:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.66.19"
+              },
+              "items": [
+                {
+                  "text": "66:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.4.21"
+              },
+              "items": [
+                {
+                  "text": "Yn 4:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.2.8"
+              },
+              "items": [
+                {
+                  "text": "1 Tim 2:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.8.3"
+              },
+              "items": [
+                {
+                  "text": "Ufu 8:3",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Kwa maana tokea maawio ya jua hata machweo yake jina langu ni kuu katika Mataifa; na katika kila mahali unatolewa uvumba na dhabihu safi kwa jina langu; maana jina langu ni kuu katika Mataifa, asema BWANA wa majeshi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.11",
+            "verseOrgIds": [
+              "MAL.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MAL 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini ninyi mnalitia unajisi, kwa kuwa mwasema, Meza ya BWANA imetiwa unajisi; na matunda yake, yaani, nyama yake, hudharauliwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.12",
+            "verseOrgIds": [
+              "MAL.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAL 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.22.20"
+              },
+              "items": [
+                {
+                  "text": "Law 22:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.1.12"
+              },
+              "items": [
+                {
+                  "text": "Isa 1:12",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Tena mwasema, Tazama, jambo hili linatuchokesha namna gani! Nanyi mmelidharau, asema BWANA wa majeshi; nanyi mmeleta kitu kilichopatikana kwa udhalimu, na kilema, na kilicho kigonjwa; ndivyo mnavyoleta sadaka; je! Niikubali hii mikononi mwenu? Asema BWANA. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.13",
+            "verseOrgIds": [
+              "MAL.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MAL 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.5.1"
+              },
+              "items": [
+                {
+                  "text": "Mdo 5:1",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Lakini na alaaniwe mtu mwenye kudanganya, ambaye katika kundi lake ana mume, akaweka nadhiri, ila amtolea Bwana kitu kilicho na kilema; kwa maana mimi ni Mfalme mkuu, asema BWANA wa majeshi, na jina langu latisha katika Mataifa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.14",
+            "verseOrgIds": [
+              "MAL.1.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MAL.2",
+    "number": "2",
+    "bookId": "MAL"
+  },
+  "previous": {
+    "id": "MAL.intro",
+    "number": "intro",
+    "bookId": "MAL"
+  }
+}
