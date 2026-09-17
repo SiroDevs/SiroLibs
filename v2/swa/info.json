@@ -1,8 +1,8 @@
 [
   {
-    "name": "Biblia Habari Njema",
-    "description": "Biblia Habari Njema kwa Watu Wote: 1995, 2001",
-    "abbreviation": "bhn",
+    "name": "Maandiko Matakatifu ya Mungu Yaitwayo Biblia",
+    "description": "Swahili Union Version (SUV)",
+    "abbreviation": "swauv",
     "tagline": "",
     "language": {
       "id": "swa",
@@ -20,8 +20,8 @@
         "name": "Tanzania"
       }
     ],
-    "info": "Chama cha Biblia cha Tanzania na Chama cha Biblia cha Kenya",
-    "path": "bhn"
+    "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us.",
+    "path": "swauv"
   },
   {
     "name": "Neno: Maandiko Matakatifu",
@@ -46,5 +46,29 @@
     ],
     "info": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA).  https://open.bible/contact-us.",
     "path": "neno"
+  },
+  {
+    "name": "Biblia Habari Njema",
+    "description": "Biblia Habari Njema kwa Watu Wote: 1995, 2001",
+    "abbreviation": "bhn",
+    "tagline": "",
+    "language": {
+      "id": "swa",
+      "name": "Kiswahili",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      },
+      {
+        "id": "TZ",
+        "name": "Tanzania"
+      }
+    ],
+    "info": "Chama cha Biblia cha Tanzania na Chama cha Biblia cha Kenya",
+    "path": "bhn"
   }
 ]
