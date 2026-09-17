@@ -1,0 +1,81 @@
+{
+  "id": "EZK.19",
+  "number": "19",
+  "bookId": "EZK",
+  "reference": "Zacheli 19",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "19",
+        "style": "c",
+        "sid": "EZK 19"
+      },
+      "items": [
+        {
+          "text": "19",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Lwimbu Lwovovereri",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EZK 19:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yahova yambolera nyimbiri aviimiliri vaviri vavandu va Isiraeli lwimbu lwovovereri yilu:",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.19.1",
+            "verseOrgIds": [
+              "EZK.19.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EZK.20",
+    "number": "20",
+    "bookId": "EZK"
+  },
+  "previous": {
+    "id": "EZK.18",
+    "number": "18",
+    "bookId": "EZK"
+  }
+}

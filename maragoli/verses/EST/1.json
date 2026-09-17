@@ -1,0 +1,910 @@
+{
+  "id": "EST.1",
+  "number": "1",
+  "bookId": "EST",
+  "reference": "Esiteri 1",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "EST 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Vashiti mukali wu mwami, yahing'ana nu mwami Ahasuero",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yaga nigo ageekoleka mu ing'inga yu mwami Ahasuero, uwamihaa ivivala kuvita 127, kutura India kuduuka Ezopia",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.1",
+            "verseOrgIds": [
+              "EST.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:1",
+              "type": "text"
+            },
+            {
+              "text": "Ezopia:",
+              "type": "text"
+            },
+            {
+              "text": "Ivivala viosi isavaalu wa Egebeti viamanyikana kuli Kushi (Ezopia).",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.1",
+            "verseOrgIds": [
+              "EST.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.1",
+            "verseOrgIds": [
+              "EST.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ing'inga yeyo mwami Ahasuero yamiha kivala cha Pasia kutura mu lidaala linene lia Susa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.2",
+            "verseOrgIds": [
+              "EST.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.2",
+            "verseOrgIds": [
+              "EST.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mu muhiga gwa kavaga gwu vwamihi vwivwe, yalombera avanene na avamihi vi vivala vivie vosi iliilia linene. Amahi kutura Pasia na Media, vaali ho harara na avamihi na avuvunyali vi vivala vivie yivio. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.3",
+            "verseOrgIds": [
+              "EST.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ku mieli sita josi yamanyia uvutugi vwu vwamihi vwivwe harara ni liesiaha nu vukumi vwivwe umwene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.4",
+            "verseOrgIds": [
+              "EST.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.4",
+            "verseOrgIds": [
+              "EST.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EST 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inyima wa yago, umwami yalombera avandu vosi iliilia, avanene na vakekeeke kindu kilala mu lidaala linene lia Susa. Iliilia liamala ilisiza, na lialomberwa mu mugizi gwinyumba yu vwami. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.5",
+            "verseOrgIds": [
+              "EST.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EST 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Umugizi gwasiafwa zinguvu ziu kukinga zierangi yabulu kandi izindavu ziekatani, iziasungwa kandi nizivofwa nu mugoye gwi katani yirangi yu muzambarao ku zimingiri zie feza iziali ni zimiiniywi ku zitiru zia magina agahemahemaa. Zindeve zie mido zindahi ligali izialombwa kutura ku izahabu ni feza, ziali nizivikiywi mu mugizi ugwali ni gwaliiywi ku amagina malavu guvuguli agahemahemaa, amagina malahi amakanyu, agandi kuli ilulu eng'ereng'anaa kandi agandi gu mususi na mamwamu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.6",
+            "verseOrgIds": [
+              "EST.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EST 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Iviukunwa viazukwa mu vikombe vie zahabu, na sichali ho kali kilala ichaali ku ni lifwana lie kindi mba. Mwami yahaana iwaini mu vunyingi ku vandu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.7",
+            "verseOrgIds": [
+              "EST.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EST 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Umundu yaali anyala kunwa iwaini inyingi kuli ayaanza; umwami yaali nalagi avatumikiri vu munyumba yu mwami ndi vavugiliri umundu woosi anwi iwaini kuli anyala.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.8",
+            "verseOrgIds": [
+              "EST.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EST 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.8",
+            "verseOrgIds": [
+              "EST.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ku ing'inga ndala nzere, mukali wu mwami walangwa Vashiti naye yalomba iliilia linene ku vakali munyumba yu vwamihi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.9",
+            "verseOrgIds": [
+              "EST.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.9",
+            "verseOrgIds": [
+              "EST.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EST 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ku lidiku lia saba, lie lilia linene lilie mwoyo gwu mwami gwaali nigoveeye nu vusangali kigira iwaini yayanweezaa. Kunangwa yalanga viziri saba, avaari vatumikiri veve, Mehumani, Biziza, Haribona, Bigiza, Abagiza, Zezari na Karikasa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.10",
+            "verseOrgIds": [
+              "EST.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EST 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yavalaga valeete mukali weve Vashiti imbiri weve nitaji yeye yu vwami aduuki kumanyia avageni uvulahi vwivwe kigira yaali mukali wiligondo lilahi ligali liukuyanziza. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.11",
+            "verseOrgIds": [
+              "EST.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EST 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Navuzwa lwa vatumikiri vavoolera Vashiti agu umwami yaali nalagi, yasura kuzia. Yaga galombaa umwami kuvihilirwa ligali.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.12",
+            "verseOrgIds": [
+              "EST.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EST 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.12",
+            "verseOrgIds": [
+              "EST.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EST 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gwaali umwima gwu mwami okoteeva zing'anagani zindukiru icha anyala kokora kolondekana na mateeva kolovega lwa malago, kunangwa yalanga vahaani vi zing'anagani ku makuva yaga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.13",
+            "verseOrgIds": [
+              "EST.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EST 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Avandu va yaazizaa ku ukwenyeleriza zing'anagani kazozo vaali Karishena, Shezari, Adimaza, Tarishishi, Meresi, Marisena, na Memukani. Avanene saba yava va Pasia na Midiani, vaali nuvunyari kandi vaali ahimbi nu mwami. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.14",
+            "verseOrgIds": [
+              "EST.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EST 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Umwami Ahasuero yateeva vasaza yava, “Ndaatuma lilago ku mukali wange Vashiti kuvitira ku vatumikiri vange, navuzwa siyambulira mba. Kunyala kokora ki kuye kolondekana na malago?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.15",
+            "verseOrgIds": [
+              "EST.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EST 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.15",
+            "verseOrgIds": [
+              "EST.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EST 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Memukani yativulira mwami harara na avanene veve; “Vashiti, mukali wu mwami sianyegi umwami yeng'ine mba, navuzwa avanene vosi, harara na avandu vosi avaveeye mu vwamihi vwu mwami Ahasuero. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.16",
+            "verseOrgIds": [
+              "EST.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EST 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Vuli mukali mu vwami vuvwo lwa ahulira makuva ga Vashiti akoli, na valasura kuha vasaza vaavo uluyali. Valavoora, ‘Niiva mukali wu mwami siahuliraa musaza weve, kigira ki na kunyi kuhuliri avasaza viitu?’ ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.17",
+            "verseOrgIds": [
+              "EST.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EST 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lwa vakali va vatumikiri vu vwami vwa Pasia na Mediani vahulira imiima ja Vashiti mukali wu mwami, valava nivavooleranga avasaza vaavo amakuva yaga lidiku nilikiri kufwa. Avakali havundu hoosi sivalava nu luyali ku vasaza vaavo, na avasaza valavihilira vakali vaavo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.18",
+            "verseOrgIds": [
+              "EST.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EST 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Niiva gayaanziza ivi, umwami wiitu, haana lilago kandi ling'odwi mu vitabu via malago ga Pasia na Mediani, na gavuli kugirung'anywa, ndi Vashiti mukali woovo ataloleka ku imbiri woovo kandi mba; nu umwami yeenye mukali wundi oveeye mulahi kumuvita, unyala kwirana muvwiyangu vwivwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.19",
+            "verseOrgIds": [
+              "EST.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EST 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kunangwa lwi lilaga liilio lilaandizwa mu vwamihi vonene vuvwo vwosi, avakali vosi valahaana uluyali ku vasaza vaavo, avanene na vakekeeke kindu kilala.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.20",
+            "verseOrgIds": [
+              "EST.1.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EST 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.20",
+            "verseOrgIds": [
+              "EST.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "EST 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Iganagani yiyi yaayanziza umwami harara na vatumikiri veve, ma ku umwami yakola kuli Memukani yaali namuvooleye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.21",
+            "verseOrgIds": [
+              "EST.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EST 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yatuma zibarwa muvivala viosi ivia yamiha ku vuli kivala na vandu mu lulimi lwavo kandi ling'oda liavo aveene, nizivooraa ndi, vuli musaza kuduuka yamihi inyumba yeeye, kandi amolome nu vunyali vwivwe vwosi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.22",
+            "verseOrgIds": [
+              "EST.1.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EST.2",
+    "number": "2",
+    "bookId": "EST"
+  },
+  "previous": {
+    "id": "EST.intro",
+    "number": "intro",
+    "bookId": "EST"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "PSA.36",
+  "number": "36",
+  "bookId": "PSA",
+  "reference": "Zaburi 36",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "36",
+        "style": "c",
+        "sid": "PSA 36"
+      },
+      "items": [
+        {
+          "text": "36",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Uvudamanu vwu mundu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Uvulahi vwa Nyasaye",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 36:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.4",
+            "verseOrgIds": [
+              "PSA.36.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 36:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O, Yahova, vuyanzi vuvwo vutaveeye nekeheri vuduuka mwigulu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.5",
+            "verseOrgIds": [
+              "PSA.36.5"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.37",
+    "number": "37",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.35",
+    "number": "35",
+    "bookId": "PSA"
+  }
+}

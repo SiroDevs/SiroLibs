@@ -1,0 +1,47 @@
+{
+  "id": "PSA.6",
+  "number": "6",
+  "bookId": "PSA",
+  "reference": "Zaburi 6",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "PSA 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Lisaala ing'inga yuvudinyu",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.7",
+    "number": "7",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.5",
+    "number": "5",
+    "bookId": "PSA"
+  }
+}
