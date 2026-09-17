@@ -1,45 +1,5 @@
 [
   {
-    "name": "American Standard Version",
-    "description": "American Standard Version",
-    "abbreviation": "asv",
-    "tagline": "",
-    "language": {
-      "id": "eng",
-      "name": "English",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "US",
-        "name": "USA"
-      }
-    ],
-    "info": "About Biblica",
-    "path": "asv"
-  },
-  {
-    "name": "Good News Bible",
-    "description": "Good News Bible",
-    "abbreviation": "gnb",
-    "tagline": "",
-    "language": {
-      "id": "eng",
-      "name": "English",
-      "script": "Latin",
-      "scriptDirection": "LTR"
-    },
-    "countries": [
-      {
-        "id": "GB",
-        "name": "UK"
-      }
-    ],
-    "info": "© 1992 British & Foreign Bible Society",
-    "path": "gnb"
-  },
-  {
     "name": "King James Version",
     "description": "King James (Authorised) Version",
     "abbreviation": "kjv",
@@ -80,6 +40,26 @@
     "path": "niv"
   },
   {
+    "name": "Good News Bible",
+    "description": "Good News Bible",
+    "abbreviation": "gnb",
+    "tagline": "",
+    "language": {
+      "id": "eng",
+      "name": "English",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "GB",
+        "name": "UK"
+      }
+    ],
+    "info": "© 1992 British & Foreign Bible Society",
+    "path": "gnb"
+  },
+  {
     "name": "Revised Standard Version",
     "description": "Revised Standard Version Bible",
     "abbreviation": "rsv",
@@ -98,5 +78,25 @@
     ],
     "info": "Division of Christian Education of the National Council of the Churches of Christ in the United States of America",
     "path": "rsv"
+  },
+  {
+    "name": "American Standard Version",
+    "description": "American Standard Version",
+    "abbreviation": "asv",
+    "tagline": "",
+    "language": {
+      "id": "eng",
+      "name": "English",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "US",
+        "name": "USA"
+      }
+    ],
+    "info": "About Biblica",
+    "path": "asv"
   }
 ]
