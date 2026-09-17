@@ -1,0 +1,127 @@
+{
+  "id": "ISA.56",
+  "number": "56",
+  "bookId": "ISA",
+  "reference": "Isaya 56",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "56",
+        "style": "c",
+        "sid": "ISA 56"
+      },
+      "items": [
+        {
+          "text": "56",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 56:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwenyezi-Mungu asema:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.56.1",
+            "verseOrgIds": [
+              "ISA.56.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 56:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.56.8",
+            "verseOrgIds": [
+              "ISA.56.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 56:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Enyi wanyama wote wakali,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.56.9",
+            "verseOrgIds": [
+              "ISA.56.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.57",
+    "number": "57",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.55",
+    "number": "55",
+    "bookId": "ISA"
+  }
+}

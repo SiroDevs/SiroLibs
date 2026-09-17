@@ -1,0 +1,235 @@
+{
+  "id": "ISA.48",
+  "number": "48",
+  "bookId": "ISA",
+  "reference": "Isaiah 48",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "48",
+        "style": "c",
+        "sid": "ISA 48"
+      },
+      "items": [
+        {
+          "text": "48",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 48:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.48.2",
+            "verseOrgIds": [
+              "ISA.48.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 48:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.48.3",
+            "verseOrgIds": [
+              "ISA.48.3"
+            ]
+          }
+        },
+        {
+          "text": " says to Israel,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.48.3",
+            "verseOrgIds": [
+              "ISA.48.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 48:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.48.11",
+            "verseOrgIds": [
+              "ISA.48.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 48:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.48.12",
+            "verseOrgIds": [
+              "ISA.48.12"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.44.6"
+              },
+              "items": [
+                {
+                  "text": "Is 44.6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.1.17"
+              },
+              "items": [
+                {
+                  "text": "Rev 1.17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.22.13"
+              },
+              "items": [
+                {
+                  "text": "22.13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "The ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.48.12",
+            "verseOrgIds": [
+              "ISA.48.12"
+            ]
+          }
+        },
+        {
+          "text": " says,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.48.12",
+            "verseOrgIds": [
+              "ISA.48.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.49",
+    "number": "49",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.47",
+    "number": "47",
+    "bookId": "ISA"
+  }
+}

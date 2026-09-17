@@ -1,0 +1,110 @@
+{
+  "id": "PSA.56",
+  "number": "56",
+  "bookId": "PSA",
+  "reference": "Zaburi 56",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "56",
+        "style": "c",
+        "sid": "PSA 56"
+      },
+      "items": [
+        {
+          "text": "56",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 56:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.1",
+            "verseOrgIds": [
+              "PSA.56.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.21.14+1SA.21.15+1SA.21.16"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 21.14-16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.1",
+            "verseOrgIds": [
+              "PSA.56.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.57",
+    "number": "57",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.55",
+    "number": "55",
+    "bookId": "PSA"
+  }
+}

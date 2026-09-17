@@ -1,0 +1,47 @@
+{
+  "id": "SNG.3",
+  "number": "3",
+  "bookId": "SNG",
+  "reference": "Sarmeeda Sulemani 3",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "SNG 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Duumdeaba samwagu",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "SNG.4",
+    "number": "4",
+    "bookId": "SNG"
+  },
+  "previous": {
+    "id": "SNG.2",
+    "number": "2",
+    "bookId": "SNG"
+  }
+}

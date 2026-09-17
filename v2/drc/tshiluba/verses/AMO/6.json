@@ -1,0 +1,119 @@
+{
+  "id": "AMO.6",
+  "number": "6",
+  "bookId": "AMO",
+  "reference": "Amosa 6",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "AMO 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "AMO 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.6.8",
+            "verseOrgIds": [
+              "AMO.6.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "AMO 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Halua tshikondo atshi, bikala bantu dikumi mu nsubu umue, nebafue biabo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.6.9",
+            "verseOrgIds": [
+              "AMO.6.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "AMO 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Halua muanʼabo ne muntu mufue bua kumuambula, yeye mene ngudi ne bua kuosha tshitalu tshiandi, ne hambeye kuhatula mifuba yandi ha mbelu, neakose munga muntu udi munda mua nsubu ne, Muntu mukuabo udi nʼebe, anyi? Wakonkeye nunku neitabe ne, Nansha. Hashishe, mukuabo neamuambile ne, Huwa biebe talalâ, bualu bua katuena bamanye mua kutela dina dia Yehowa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.6.10",
+            "verseOrgIds": [
+              "AMO.6.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.7",
+    "number": "7",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.5",
+    "number": "5",
+    "bookId": "AMO"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ISA.49",
+  "number": "49",
+  "bookId": "ISA",
+  "reference": "Isaya 49",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "49",
+        "style": "c",
+        "sid": "ISA 49"
+      },
+      "items": [
+        {
+          "text": "49",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 49:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.49.1",
+            "verseOrgIds": [
+              "ISA.49.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.1.20"
+              },
+              "items": [
+                {
+                  "text": "Mat 1:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.15"
+              },
+              "items": [
+                {
+                  "text": "Luk 1:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.1.5"
+              },
+              "items": [
+                {
+                  "text": "Yer 1:5",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Emi angu miri tia ’diyi, emi eri e’yo mani, emi suru ndu ndu ovupi ziri’diyi, emi co bile. Yehova omve ma engazu ma andri ma opoa, eri olu ru mani ma e’yo engazu mani efuria ma andri ma aliarisi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.49.1",
+            "verseOrgIds": [
+              "ISA.49.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.50",
+    "number": "50",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.48",
+    "number": "48",
+    "bookId": "ISA"
+  }
+}

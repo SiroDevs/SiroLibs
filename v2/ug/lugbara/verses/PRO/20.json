@@ -1,0 +1,118 @@
+{
+  "id": "PRO.20",
+  "number": "20",
+  "bookId": "PRO",
+  "reference": "E'Yo O'Beza 20",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "20",
+        "style": "c",
+        "sid": "PRO 20"
+      },
+      "items": [
+        {
+          "text": "20",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 20:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.20.1",
+            "verseOrgIds": [
+              "PRO.20.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.9.21"
+              },
+              "items": [
+                {
+                  "text": "E’do 9:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.28.7"
+              },
+              "items": [
+                {
+                  "text": "Isa 28:7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Patiefi su eri agu edematara beri’i, ewa eri agu awata awapi turi’i, ’ba ezapi afa nde ’diyisiri onduani yo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.20.1",
+            "verseOrgIds": [
+              "PRO.20.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.21",
+    "number": "21",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.19",
+    "number": "19",
+    "bookId": "PRO"
+  }
+}

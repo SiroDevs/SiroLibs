@@ -1,0 +1,1376 @@
+{
+  "id": "JAS.1",
+  "number": "1",
+  "bookId": "JAS",
+  "reference": "Yak 1",
+  "verseCount": 27,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "JAS 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Okuramukya",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JAS 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.1",
+            "verseOrgIds": [
+              "JAS.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.13.55"
+              },
+              "items": [
+                {
+                  "text": "Mat 13:55",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.6.3"
+              },
+              "items": [
+                {
+                  "text": "Mar 6:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.15.13"
+              },
+              "items": [
+                {
+                  "text": "Ebik 15:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GAL.1.19"
+              },
+              "items": [
+                {
+                  "text": "Bag 1:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyowe Yakobbo, omuheereza wa Ruhanga kandi owa MUKAMA Yesu Kristo, nimbaramukya inywe ab'enganda ikumi na ibiri abaararangiire omu mahanga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.1",
+            "verseOrgIds": [
+              "JAS.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mugumiisirize obu balibalenga",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JAS 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.1",
+            "verseOrgIds": [
+              "JAS.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JAS 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.2",
+            "verseOrgIds": [
+              "JAS.1.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "WIS.3.5"
+              },
+              "items": [
+                {
+                  "text": "Ama 3:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "WIS.3.6"
+              },
+              "items": [
+                {
+                  "text": "6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bagenzi bange, obu muraahikwahoga emihito etali y'omulingo gumu, mugiitanire n'okusemererwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.2",
+            "verseOrgIds": [
+              "JAS.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JAS 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Okulengwa kw'okwikiriza kwanyu kurugwamu okuguma. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.3",
+            "verseOrgIds": [
+              "JAS.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JAS 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi muleke okuguma oku kuhikirize omulimo gwakwo, nukwo musobole kufooka abahikiriire kandi abagumire omu by'omutima mutaina ekirukubaburaho.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.4",
+            "verseOrgIds": [
+              "JAS.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JAS 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.4",
+            "verseOrgIds": [
+              "JAS.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JAS 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.5",
+            "verseOrgIds": [
+              "JAS.1.5"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "WIS.8.20"
+              },
+              "items": [
+                {
+                  "text": "Ama 8:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "SIR.51.13"
+              },
+              "items": [
+                {
+                  "text": "Sir 51:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "SIR.51.14"
+              },
+              "items": [
+                {
+                  "text": "14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omuli inywe obu haraaba haroho anyakubuzirwe amagezi, agasabe Ruhanga anyakugabira abantu boona atarukubalirra kandi atarukweijukya, mazimakwo aligaheebwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.5",
+            "verseOrgIds": [
+              "JAS.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JAS 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baitu asabe aina okwikiriza kandi atarukugurukyagurukya, habwokuba anyakugurukyagurukya asisana ekigonzi ky'enyanja ekinyakutwarwa kandi ekinyakucundwacundwa omuyaga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.6",
+            "verseOrgIds": [
+              "JAS.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JAS 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Anyakugurukyagurukya aleke kuteekereza ngu, omuntu ow'emitima ebiri kandi ow'atagumire omu ngeso ze zoona ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.7",
+            "verseOrgIds": [
+              "JAS.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JAS 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "aina eki alitunga hali MUKAMA.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.8",
+            "verseOrgIds": [
+              "JAS.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Eby'abanaku n'abaguuda",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JAS 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.8",
+            "verseOrgIds": [
+              "JAS.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JAS 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Muleke mugenzi wanyu omunaku ayesiime, Ruhanga obu amunyumiza, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.9",
+            "verseOrgIds": [
+              "JAS.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JAS 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.40.6"
+              },
+              "items": [
+                {
+                  "text": "Is 40:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.40.7"
+              },
+              "items": [
+                {
+                  "text": "7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kandi omuguuda ayesiime Ruhanga obu amubundaaza, habwokuba abaguuda balihwaho nk'orwakyo rw'ebimera. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.10",
+            "verseOrgIds": [
+              "JAS.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JAS 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Izooba obu lituruka liina ekibabu kyalyo ekisiiriiza kandi ekihotokya ebimera, orwakyo rwabyo rukunkumuka n'oburungi bwabyo buhwaho. Omuntu omuguuda nawe nukwo alihwaho ati, nakyaserra itungo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.11",
+            "verseOrgIds": [
+              "JAS.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Okugumiisiriza omu kwohebwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JAS 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.11",
+            "verseOrgIds": [
+              "JAS.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JAS 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "W'omugisa omuntu ogu anyakugumiisiriza omu kwohebwa, habwokuba obu alimara kusingura, aliheebwa ekondo ey'obwomeezi Ruhanga ei yaraganiize abamugonza. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.12",
+            "verseOrgIds": [
+              "JAS.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JAS 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "SIR.15.11+SIR.15.12+SIR.15.13+SIR.15.14+SIR.15.15+SIR.15.16+SIR.15.17+SIR.15.18+SIR.15.19+SIR.15.20"
+              },
+              "items": [
+                {
+                  "text": "Sir 15:11-20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omuntu obu ayohebwa aleke kugira ati: “Nyohiibwe Ruhanga”, habwokuba Ruhanga tayohebwa kukora ebibi, kandi tayohya muntu n'omu; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.13",
+            "verseOrgIds": [
+              "JAS.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JAS 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "baitu buli muntu ayohebwa obu abiihwabiihwa kandi atwalirizibwa okwegomba kwe okubi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.14",
+            "verseOrgIds": [
+              "JAS.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JAS 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hanyuma okwegomba obu kumara kwija, kuzaara ekibi; kandi ekibi obu kimara kukura, kirugwamu kufa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.15",
+            "verseOrgIds": [
+              "JAS.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JAS 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.15",
+            "verseOrgIds": [
+              "JAS.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JAS 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bagenzi bange abagonzibwa, muleke kubiihwabiihwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.16",
+            "verseOrgIds": [
+              "JAS.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JAS 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekintu kyona ekirungi n'ekisembo kyona ekihikire biruga omu iguru hali Kazooba Nyamuhanga, atahindahinduka kandi tali nk'ekituuru ekigenda nikiihwaho. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.17",
+            "verseOrgIds": [
+              "JAS.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JAS 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akacwamu kutufoora baana be natwoleka enyegesa ye ey'amazima, nukwo tube omuganuro gw'ebi yahangire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.18",
+            "verseOrgIds": [
+              "JAS.1.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ediini y'amazima nukwo kuhurra n'okukora",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JAS 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.18",
+            "verseOrgIds": [
+              "JAS.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JAS 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.19",
+            "verseOrgIds": [
+              "JAS.1.19"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "SIR.5.11"
+              },
+              "items": [
+                {
+                  "text": "Sir 5:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bagenzi bange abagonzibwa, kinu mukimanye: omuntu weena ahurre bwango, baitu atanguhiriza kubaza rundi kukwatwa ekiniga, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.19",
+            "verseOrgIds": [
+              "JAS.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "JAS 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "habwokuba anyakwina ekiniga tarukwija kuhika ha buhikiriire Ruhanga obu ayenda. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.20",
+            "verseOrgIds": [
+              "JAS.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "JAS 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nahabweki mweiheho obubi bwona n'engeso mbi zoona. Mwikirize n'obuculeezi ekigambo Ruhanga eki yataire mu mitima yanyu ekirukusobora kubajuna.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.21",
+            "verseOrgIds": [
+              "JAS.1.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "JAS 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.21",
+            "verseOrgIds": [
+              "JAS.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "JAS 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baitu ekigambo eki mukite omu nkora, mutali nk'abarukukihurra kwonka, mukebiihabiiha. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.22",
+            "verseOrgIds": [
+              "JAS.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "JAS 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omuntu obu ahurra ekigambo atakihikiriize, asisana nk'anyakwerorra omu ndolerwamu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.23",
+            "verseOrgIds": [
+              "JAS.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "JAS 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obu ayerora, agenda, kandi ahonaaho ayebwa nkooku arukusisana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.24",
+            "verseOrgIds": [
+              "JAS.1.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "JAS 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baitu ogu arukwetegereza Ebiragiro ebihikire, nibyo ebiragiro ebitwiha mu bwiru, akabyekambira, atali muhulizi arukwebwa baitu mukozi arukukora, nuwe aliheebwa omugisa omu ebi arukukora.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.25",
+            "verseOrgIds": [
+              "JAS.1.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "JAS 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.25",
+            "verseOrgIds": [
+              "JAS.1.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "JAS 1:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kakuba habaho arukuteekereza nkooku ali muntu w'ediini, kandi kunu tarukulema rulimi rwe, baitu nayebiihabiiha, ediini y'omuntu ogu busamu kantu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.26",
+            "verseOrgIds": [
+              "JAS.1.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "JAS 1:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ediini nyakabara kandi etaina kamogo omumaiso ga Ruhanga Isiitwe niyo enu: kusuura enfuuzi n'abafaakati abali omu mihito, n'okwerinda okusiiswa ensi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.27",
+            "verseOrgIds": [
+              "JAS.1.27"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JAS.2",
+    "number": "2",
+    "bookId": "JAS"
+  },
+  "previous": {
+    "id": "JAS.intro",
+    "number": "intro",
+    "bookId": "JAS"
+  }
+}

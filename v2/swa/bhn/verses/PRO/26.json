@@ -1,0 +1,68 @@
+{
+  "id": "PRO.26",
+  "number": "26",
+  "bookId": "PRO",
+  "reference": "Methali 26",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "26",
+        "style": "c",
+        "sid": "PRO 26"
+      },
+      "items": [
+        {
+          "text": "26",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 26:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Heshima apewayo mpumbavu haimfai;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.26.1",
+            "verseOrgIds": [
+              "PRO.26.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.27",
+    "number": "27",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.25",
+    "number": "25",
+    "bookId": "PRO"
+  }
+}

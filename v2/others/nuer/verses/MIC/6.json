@@ -1,0 +1,95 @@
+{
+  "id": "MIC.6",
+  "number": "6",
+  "bookId": "MIC",
+  "reference": "Mikaa 6",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "MIC 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Luk Kuɔth Nhial kɛ ji̱ I-thɛ-rɛl",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Liɛŋɛ mi ci Kuoth Nhial ɛ larɛ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.6.1",
+            "verseOrgIds": [
+              "MIC.6.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Tin go̱o̱r Kuoth kɛ",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.7",
+    "number": "7",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.5",
+    "number": "5",
+    "bookId": "MIC"
+  }
+}

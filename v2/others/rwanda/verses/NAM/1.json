@@ -1,0 +1,650 @@
+{
+  "id": "NAM.1",
+  "number": "1",
+  "bookId": "NAM",
+  "reference": "Nahumu 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "NAM 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Iby'i Nineve",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NAM 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.1",
+            "verseOrgIds": [
+              "NAM.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.10.5+ISA.10.6+ISA.10.7+ISA.10.8+ISA.10.9+ISA.10.10+ISA.10.11+ISA.10.12+ISA.10.13+ISA.10.14+ISA.10.15+ISA.10.16+ISA.10.17+ISA.10.18+ISA.10.19+ISA.10.20+ISA.10.21+ISA.10.22+ISA.10.23+ISA.10.24+ISA.10.25+ISA.10.26+ISA.10.27+ISA.10.28+ISA.10.29+ISA.10.30+ISA.10.31+ISA.10.32+ISA.10.33+ISA.10.34"
+              },
+              "items": [
+                {
+                  "text": "Yes 10.5-34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.14.24+ISA.14.25+ISA.14.26+ISA.14.27"
+              },
+              "items": [
+                {
+                  "text": "14.24-27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEP.2.13+ZEP.2.14+ZEP.2.15"
+              },
+              "items": [
+                {
+                  "text": "Zef 2.13-15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Ibihanurirwa i Nineve. Igitabo cy'iyerekwa rya Nahumu Umwelekoshi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.1",
+            "verseOrgIds": [
+              "NAM.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NAM 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.1",
+            "verseOrgIds": [
+              "NAM.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NAM 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uwiteka ni Imana ifuha kandi irahōra, Uwiteka arahōra kandi agira uburakari bwinshi, Uwiteka ahōra ababisha be kandi abanzi be ababikira umujinya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.2",
+            "verseOrgIds": [
+              "NAM.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NAM 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uwiteka ntiyihutira kurakara, afite ububasha bwinshi kandi ntabwo yatsindishiriza utsinzwe n'urubanza.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.3",
+            "verseOrgIds": [
+              "NAM.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NAM 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inzira y'Uwiteka iba mu ishuheri no mu mugaru, kandi ibicu ni nk'umukungu utumurwa n'ibirenge bye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.3",
+            "verseOrgIds": [
+              "NAM.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NAM 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Acyaha inyanja igakama agakamya n'imigezi yose, i Bashani n'i Karumeli hararabye, n'uburabyo bw'i Lebanoni burarabye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.4",
+            "verseOrgIds": [
+              "NAM.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NAM 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Imisozi iratigitira imbere ye n'udusozi turayenga, kandi isi iterurirwa imbere ye, ni ukuri isi n'abayituyemo bose. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.5",
+            "verseOrgIds": [
+              "NAM.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NAM 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni nde wabasha guhagarara imbere y'umujinya we? Kandi ni nde wakwihanganira uburakari bwe bukaze? Umujinya we usutswe umeze nk'umuriro, kandi ibitare ni we ubimenagura.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.6",
+            "verseOrgIds": [
+              "NAM.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NAM 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.6",
+            "verseOrgIds": [
+              "NAM.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NAM 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uwiteka ni mwiza, ni igihome ku munsi w'amakuba kandi azi abamwiringira. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.7",
+            "verseOrgIds": [
+              "NAM.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NAM 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I Nineve azahamarisha umwuzure w'amazi menshi, kandi abanzi be azabakurikirana no mu mwijima.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.8",
+            "verseOrgIds": [
+              "NAM.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NAM 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.8",
+            "verseOrgIds": [
+              "NAM.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NAM 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Icyo mugambirira ku Uwiteka ni iki? Azahatsembaho, ntabwo umubabaro uzahagaruka ubwa kabiri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.9",
+            "verseOrgIds": [
+              "NAM.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NAM 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuko na bo bamera nk'amahwa asobekeranye cyangwa nk'abinamye mu nzoga zabo, bazatwikwa nk'ibikūri byumye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.10",
+            "verseOrgIds": [
+              "NAM.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NAM 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hariho uwasohotse muri wowe wagambiriye ibibi ku Uwiteka, akagira abandi inama yo gukora ibibi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.11",
+            "verseOrgIds": [
+              "NAM.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NAM 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uwiteka aravuga ati “Naho batunganirwa kandi ari benshi bazatsembwaho, kandi ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.12",
+            "verseOrgIds": [
+              "NAM.1.12"
+            ]
+          }
+        },
+        {
+          "text": " azaba avuyeho. Nubwo nakubabaje sinzongera kukubabaza ukundi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.12",
+            "verseOrgIds": [
+              "NAM.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NAM 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndetse ubu ngiye kugucaho uburetwa bwe, nguceho n'ingoyi ikuboshye.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.13",
+            "verseOrgIds": [
+              "NAM.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NAM 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.13",
+            "verseOrgIds": [
+              "NAM.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NAM 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi Uwiteka yategetse ibyawe ngo nta mbuto zitirirwa izina ryawe zizongera kubaho, nzaca igishushanyo kibajwe n'igishushanyo kiyagijwe mbikure mu nzu y'ibigirwamana byawe, nzagucukurira imva yawe kuko uri umunyagisuzuguriro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.14",
+            "verseOrgIds": [
+              "NAM.1.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NAM.2",
+    "number": "2",
+    "bookId": "NAM"
+  },
+  "previous": {
+    "id": "MIC.7",
+    "number": "7",
+    "bookId": "MIC"
+  }
+}

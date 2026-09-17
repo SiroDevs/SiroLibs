@@ -1,0 +1,61 @@
+{
+  "id": "PRO.3",
+  "number": "3",
+  "bookId": "PRO",
+  "reference": "Imigani 3",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "PRO 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Imibanire y'abantu n'Imana uko ikwiriye kumera",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Uko imibanire y'abantu ikwiriye kumera",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.4",
+    "number": "4",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.2",
+    "number": "2",
+    "bookId": "PRO"
+  }
+}

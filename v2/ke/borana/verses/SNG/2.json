@@ -1,0 +1,47 @@
+{
+  "id": "SNG.2",
+  "number": "2",
+  "bookId": "SNG",
+  "reference": "Faaru Solomoni 2",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "SNG 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Faaru lameeso",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "SNG.3",
+    "number": "3",
+    "bookId": "SNG"
+  },
+  "previous": {
+    "id": "SNG.1",
+    "number": "1",
+    "bookId": "SNG"
+  }
+}

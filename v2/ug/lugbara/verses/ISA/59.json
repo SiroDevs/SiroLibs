@@ -1,0 +1,156 @@
+{
+  "id": "ISA.59",
+  "number": "59",
+  "bookId": "ISA",
+  "reference": "Isaya 59",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "59",
+        "style": "c",
+        "sid": "ISA 59"
+      },
+      "items": [
+        {
+          "text": "59",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ISA 59:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.59.20",
+            "verseOrgIds": [
+              "ISA.59.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ISA 59:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.59.21",
+            "verseOrgIds": [
+              "ISA.59.21"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.8.10"
+              },
+              "items": [
+                {
+                  "text": "Ebra 8:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.61.1"
+              },
+              "items": [
+                {
+                  "text": "Isa 61:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.36.37"
+              },
+              "items": [
+                {
+                  "text": "Eze 36:37",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Te ma’i, ma ’ba aziza mani yi be ’dinile, Yehova ’yo ra: Orindi mani ovupi mi driari, azini e’yo ’yoza mani, mani ’bale mi tilia ’diyi, ngani mi tile ku ku, ngani vini ori mini ma tile ku ku, kani ngani anzi mi vile ’diyi ma ori ma tile ku ku, engazu curu’do kpere ’dani ’dani, Yehova ’yo ra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.59.21",
+            "verseOrgIds": [
+              "ISA.59.21"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.60",
+    "number": "60",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.58",
+    "number": "58",
+    "bookId": "ISA"
+  }
+}

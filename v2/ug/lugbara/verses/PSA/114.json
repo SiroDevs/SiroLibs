@@ -1,0 +1,109 @@
+{
+  "id": "PSA.114",
+  "number": "114",
+  "bookId": "PSA",
+  "reference": "Zaburi 114",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "114",
+        "style": "c",
+        "sid": "PSA 114"
+      },
+      "items": [
+        {
+          "text": "114",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 114:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.1",
+            "verseOrgIds": [
+              "PSA.114.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.12.51"
+              },
+              "items": [
+                {
+                  "text": "Efu 12:51",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Israeli ka ndra efu Misi­riasi, suru Yakoboni ka ndra efu suru ti nile kuri ’yopiri ma eseliasi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.1",
+            "verseOrgIds": [
+              "PSA.114.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.115",
+    "number": "115",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.113",
+    "number": "113",
+    "bookId": "PSA"
+  }
+}

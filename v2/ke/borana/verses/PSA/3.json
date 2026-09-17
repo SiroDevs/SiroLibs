@@ -1,0 +1,47 @@
+{
+  "id": "PSA.3",
+  "number": "3",
+  "bookId": "PSA",
+  "reference": "Faaru 3",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "PSA 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Qarqaarsa Waaqa kad'atani",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.4",
+    "number": "4",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.2",
+    "number": "2",
+    "bookId": "PSA"
+  }
+}

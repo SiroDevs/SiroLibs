@@ -1,0 +1,97 @@
+{
+  "id": "PSA.80",
+  "number": "80",
+  "bookId": "PSA",
+  "reference": "Zaburi 80",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "80",
+        "style": "c",
+        "sid": "PSA 80"
+      },
+      "items": [
+        {
+          "text": "80",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 80:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.1",
+            "verseOrgIds": [
+              "PSA.80.1"
+            ]
+          }
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.1",
+            "verseOrgIds": [
+              "PSA.80.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "Ibyahamijwe . . . Asafu:",
+              "type": "text"
+            },
+            {
+              "text": "cyangwa, “Amarebe”: ni uguhamya kwa Asafu, kwitwa Zaburi.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.81",
+    "number": "81",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.79",
+    "number": "79",
+    "bookId": "PSA"
+  }
+}

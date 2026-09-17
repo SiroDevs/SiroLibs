@@ -1,0 +1,178 @@
+{
+  "id": "ECC.1",
+  "number": "1",
+  "bookId": "ECC",
+  "reference": "Muambi 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "ECC 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ECC 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Â mmei a Mulambi, muana wa Davidi, mukelenge wa mu Yelushalema.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.1.1",
+            "verseOrgIds": [
+              "ECC.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ECC 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.1.11",
+            "verseOrgIds": [
+              "ECC.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ECC 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Meme Muambi nakadi mukelenge wa Isalele mu Yelushalema. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.1.12",
+            "verseOrgIds": [
+              "ECC.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ECC 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nakateka mutshima wanyi ne meji anyi mu kukeba ne mu kujingulula kua malu onso adi menjibue muinshi mua diulu; eu mmudimu wa lutatu wakuha Nzambi ba ha buloba bua kubadisha nʼau. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.1.13",
+            "verseOrgIds": [
+              "ECC.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ECC 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nakatangila malu onso adi menjibue muinshi mua diba; monai, malu au onso adi hatuhu, adi bu kuihata kua luhehele.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.1.14",
+            "verseOrgIds": [
+              "ECC.1.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.2",
+    "number": "2",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "PRO.31",
+    "number": "31",
+    "bookId": "PRO"
+  }
+}

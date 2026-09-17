@@ -1,0 +1,68 @@
+{
+  "id": "ISA.34",
+  "number": "34",
+  "bookId": "ISA",
+  "reference": "Isaya 34",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "34",
+        "style": "c",
+        "sid": "ISA 34"
+      },
+      "items": [
+        {
+          "text": "34",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 34:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aá xoórdu, tseewuwaré', iia qaasaak,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.34.1",
+            "verseOrgIds": [
+              "ISA.34.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.35",
+    "number": "35",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.33",
+    "number": "33",
+    "bookId": "ISA"
+  }
+}

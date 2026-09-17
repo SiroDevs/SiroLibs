@@ -1,0 +1,202 @@
+{
+  "id": "ISA.9",
+  "number": "9",
+  "bookId": "ISA",
+  "reference": "Isaya 9",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "9",
+        "style": "c",
+        "sid": "ISA 9"
+      },
+      "items": [
+        {
+          "text": "9",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 9:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.1",
+            "verseOrgIds": [
+              "ISA.9.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.4.15"
+              },
+              "items": [
+                {
+                  "text": "Mat 4:15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Emam kesi erot epuunotor anakolongit ana a ngichan kangina.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.1",
+            "verseOrgIds": [
+              "ISA.9.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ekapolon lo isidiuno",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 9:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akwap a ngitela a Sebulun ka Naputal, emenyaritae kolong sek. Nakaneni ngirwa lu moi a ekisidi, eliwor akwap ngina na erimae, napei alo Mediterenian toten kide, tanang nakwap na eyei ekwakaye angolol a Yorudan, tanang tani Galilaya na elomito ngitunga a ngakwapea anache. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.1",
+            "verseOrgIds": [
+              "ISA.9.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.4.16"
+              },
+              "items": [
+                {
+                  "text": "Mat 4:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.79"
+              },
+              "items": [
+                {
+                  "text": "Luk 1:79",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Irirae Ekapolon Akuj Isirael",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.10",
+    "number": "10",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.8",
+    "number": "8",
+    "bookId": "ISA"
+  }
+}

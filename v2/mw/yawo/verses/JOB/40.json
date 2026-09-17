@@ -1,0 +1,103 @@
+{
+  "id": "JOB.40",
+  "number": "40",
+  "bookId": "JOB",
+  "reference": "Yob 40",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "40",
+        "style": "c",
+        "sid": "JOB 40"
+      },
+      "items": [
+        {
+          "text": "40",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JOB 40:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.40.5",
+            "verseOrgIds": [
+              "JOB.40.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOB 40:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaneko AMBUJE",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.40.6",
+            "verseOrgIds": [
+              "JOB.40.6"
+            ]
+          }
+        },
+        {
+          "text": " ŵaŵecete soni ni Yobu kupitila mu cimbunga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.40.6",
+            "verseOrgIds": [
+              "JOB.40.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.41",
+    "number": "41",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.39",
+    "number": "39",
+    "bookId": "JOB"
+  }
+}

@@ -1,0 +1,657 @@
+{
+  "id": "ECC.3",
+  "number": "3",
+  "bookId": "ECC",
+  "reference": "Ecclesiastes 3",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "ECC 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ECC 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For everything there is a season, and a time for every purpose under heaven: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.1",
+            "verseOrgIds": [
+              "ECC.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ECC 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "a time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.2",
+            "verseOrgIds": [
+              "ECC.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ECC 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "a time to kill, and a time to heal; a time to break down, and a time to build up; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.3",
+            "verseOrgIds": [
+              "ECC.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ECC 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "a time to weep, and a time to laugh; a time to mourn, and a time to dance; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.4",
+            "verseOrgIds": [
+              "ECC.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ECC 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "a time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.5",
+            "verseOrgIds": [
+              "ECC.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ECC 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "a time to seek, and a time to lose; a time to keep, and a time to cast away; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.6",
+            "verseOrgIds": [
+              "ECC.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ECC 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "a time to rend, and a time to sew; a time to keep silence, and a time to speak; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.7",
+            "verseOrgIds": [
+              "ECC.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ECC 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "a time to love, and a time to hate; a time for war, and a time for peace. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.8",
+            "verseOrgIds": [
+              "ECC.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ECC 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "What profit hath he that worketh in that wherein he laboreth? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.9",
+            "verseOrgIds": [
+              "ECC.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ECC 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I have seen the travail which God hath given to the sons of men to be exercised therewith. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.10",
+            "verseOrgIds": [
+              "ECC.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ECC 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He hath made everything beautiful in its time: also he hath set eternity in their heart, yet so that man cannot find out the work that God hath done from the beginning even to the end. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.11",
+            "verseOrgIds": [
+              "ECC.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ECC 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I know that there is nothing better for them, than to rejoice, and to do good so long as they live. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.12",
+            "verseOrgIds": [
+              "ECC.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ECC 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And also that every man should eat and drink, and enjoy good in all his labor, is the gift of God. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.13",
+            "verseOrgIds": [
+              "ECC.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ECC 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor anything taken from it; and God hath done it, that men should fear before him. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.14",
+            "verseOrgIds": [
+              "ECC.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ECC 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "That which is hath been long ago; and that which is to be hath long ago been: and God seeketh again that which is passed away.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.15",
+            "verseOrgIds": [
+              "ECC.3.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ECC 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.15",
+            "verseOrgIds": [
+              "ECC.3.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ECC 3:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And moreover I saw under the sun, in the place of justice, that wickedness was there; and in the place of righteousness, that wickedness was there. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.16",
+            "verseOrgIds": [
+              "ECC.3.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ECC 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I said in my heart, God will judge the righteous and the wicked; for there is a time there for every purpose and for every work. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.17",
+            "verseOrgIds": [
+              "ECC.3.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ECC 3:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I said in my heart, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.18",
+            "verseOrgIds": [
+              "ECC.3.18"
+            ]
+          }
+        },
+        {
+          "text": " because of the sons of men, that God may prove them, and that they may see that they themselves are ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.18",
+            "verseOrgIds": [
+              "ECC.3.18"
+            ]
+          }
+        },
+        {
+          "text": " beasts. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.18",
+            "verseOrgIds": [
+              "ECC.3.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ECC 3:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; and man hath no preeminence above the beasts: for all is vanity. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.19",
+            "verseOrgIds": [
+              "ECC.3.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ECC 3:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "All go unto one place; all are of the dust, and all turn to dust again. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.20",
+            "verseOrgIds": [
+              "ECC.3.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ECC 3:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who knoweth the spirit of man, whether it goeth upward, and the spirit of the beast, whether it goeth downward to the earth? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.21",
+            "verseOrgIds": [
+              "ECC.3.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "ECC 3:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wherefore I saw that there is nothing better, than that a man should rejoice in his works; for that is his portion: for who shall bring him ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.22",
+            "verseOrgIds": [
+              "ECC.3.22"
+            ]
+          }
+        },
+        {
+          "text": " to see what shall be after him?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.22",
+            "verseOrgIds": [
+              "ECC.3.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.4",
+    "number": "4",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "ECC.2",
+    "number": "2",
+    "bookId": "ECC"
+  }
+}

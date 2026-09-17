@@ -1,0 +1,81 @@
+{
+  "id": "DEU.33",
+  "number": "33",
+  "bookId": "DEU",
+  "reference": "Ëhëëtöko Ya Amarago 33",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "33",
+        "style": "c",
+        "sid": "DEU 33"
+      },
+      "items": [
+        {
+          "text": "33",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mösa araitabhiria ibhiaro bhia Abhaisiraeri",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DEU 33:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gëno ngio ëmësaaraaro gëno Mösa, ömöntö wë Ënooköë aahaaye Abhaisiraeri nkaaga ataarakua.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.1",
+            "verseOrgIds": [
+              "DEU.33.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DEU.34",
+    "number": "34",
+    "bookId": "DEU"
+  },
+  "previous": {
+    "id": "DEU.32",
+    "number": "32",
+    "bookId": "DEU"
+  }
+}

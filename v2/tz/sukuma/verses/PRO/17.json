@@ -1,0 +1,69 @@
+{
+  "id": "PRO.17",
+  "number": "17",
+  "bookId": "PRO",
+  "reference": "Sumo 17",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "17",
+        "style": "c",
+        "sid": "PRO 17"
+      },
+      "items": [
+        {
+          "text": "17",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 17:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hambū hambū kūlya lūgūkūlū",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.17.1",
+            "verseOrgIds": [
+              "PRO.17.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.18",
+    "number": "18",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.16",
+    "number": "16",
+    "bookId": "PRO"
+  }
+}

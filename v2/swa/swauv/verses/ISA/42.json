@@ -1,0 +1,1298 @@
+{
+  "id": "ISA.42",
+  "number": "42",
+  "bookId": "ISA",
+  "reference": "Isa 42",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "42",
+        "style": "c",
+        "sid": "ISA 42"
+      },
+      "items": [
+        {
+          "text": "42",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mtumishi Nuru kwa Mataifa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 42:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.1",
+            "verseOrgIds": [
+              "ISA.42.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.49.3"
+              },
+              "items": [
+                {
+                  "text": "Isa 49:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.49.6"
+              },
+              "items": [
+                {
+                  "text": "6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.52.13"
+              },
+              "items": [
+                {
+                  "text": "52:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.3.17"
+              },
+              "items": [
+                {
+                  "text": "Mt 3:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.12.18"
+              },
+              "items": [
+                {
+                  "text": "12:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.17.5"
+              },
+              "items": [
+                {
+                  "text": "17:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PHP.2.7"
+              },
+              "items": [
+                {
+                  "text": "Flp 2:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.3.35"
+              },
+              "items": [
+                {
+                  "text": "Yn 3:35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.1.6"
+              },
+              "items": [
+                {
+                  "text": "Efe 1:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.1.12+COL.1.13+COL.1.14"
+              },
+              "items": [
+                {
+                  "text": "Kol 1:12-14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.11.2"
+              },
+              "items": [
+                {
+                  "text": "Isa 11:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.1.11"
+              },
+              "items": [
+                {
+                  "text": "Mk 1:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.3.22"
+              },
+              "items": [
+                {
+                  "text": "Lk 3:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.9.35"
+              },
+              "items": [
+                {
+                  "text": "9:35",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Tazama mtumishi wangu nimtegemezaye; mteule wangu, ambaye nafsi yangu imependezwa naye; nimetia roho yangu juu yake; naye atawatolea mataifa hukumu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.1",
+            "verseOrgIds": [
+              "ISA.42.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 42:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hatalia, wala hatapaza sauti yake, wala kuifanya isikiwe katika njia kuu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.2",
+            "verseOrgIds": [
+              "ISA.42.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 42:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwanzi uliopondeka hatauvunja, wala utambi utokao moshi hatauzima; atatokeza hukumu kwa kweli. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.3",
+            "verseOrgIds": [
+              "ISA.42.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 42:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.12.2"
+              },
+              "items": [
+                {
+                  "text": "Ebr 12:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.49.10"
+              },
+              "items": [
+                {
+                  "text": "Mwa 49:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Hatazimia, wala hatakata tamaa, hata atakapoweka hukumu duniani; na visiwa vitaingojea sheria yake. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.4",
+            "verseOrgIds": [
+              "ISA.42.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 42:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.44.24"
+              },
+              "items": [
+                {
+                  "text": "Isa 44:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.12.1"
+              },
+              "items": [
+                {
+                  "text": "Zek 12:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.17.25"
+              },
+              "items": [
+                {
+                  "text": "Mdo 17:25",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mungu BWANA anena, yeye aliyeziumba mbingu, na kuzitanda; yeye aliyeitandaza nchi na mazao yake; yeye awapaye pumzi watu walio juu yake; yeye awapaye roho wao waendao ndani yake. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.5",
+            "verseOrgIds": [
+              "ISA.42.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 42:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.49.6"
+              },
+              "items": [
+                {
+                  "text": "Isa 49:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.2.32"
+              },
+              "items": [
+                {
+                  "text": "Lk 2:32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.13.47"
+              },
+              "items": [
+                {
+                  "text": "Mdo 13:47",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.26.23"
+              },
+              "items": [
+                {
+                  "text": "26:23",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mimi, BWANA, nimekuita katika haki, nami nitakushika mkono, na kukulinda, na kukutoa uwe agano la watu, na nuru ya mataifa; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.6",
+            "verseOrgIds": [
+              "ISA.42.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 42:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.4.18"
+              },
+              "items": [
+                {
+                  "text": "Lk 4:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2TI.2.26"
+              },
+              "items": [
+                {
+                  "text": "2 Tim 2:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.2.14"
+              },
+              "items": [
+                {
+                  "text": "Ebr 2:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.9.2"
+              },
+              "items": [
+                {
+                  "text": "Isa 9:2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "kuyafunua macho ya vipofu, kuwatoa gerezani waliofungwa, kuwatoa wale walioketi gizani katika nyumba ya kufungwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.7",
+            "verseOrgIds": [
+              "ISA.42.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 42:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.3.14"
+              },
+              "items": [
+                {
+                  "text": "Kut 3:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.48.11"
+              },
+              "items": [
+                {
+                  "text": "Isa 48:11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mimi ni BWANA; ndilo jina langu; na utukufu wangu sitampa mwingine, wala sitawapa sanamu sifa zangu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.8",
+            "verseOrgIds": [
+              "ISA.42.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 42:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tazama, mambo ya kwanza yamekuwa, nami nayahubiri mambo mapya; kabla hayajatokea nawapasheni habari zake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.9",
+            "verseOrgIds": [
+              "ISA.42.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Wimbo wa Sifa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 42:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.13",
+            "verseOrgIds": [
+              "ISA.42.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ISA 42:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku nyingi nimenyamaza kimya; nimenyamaza, nikajizuia; sasa nitapiga kelele kama mwanamke aliye katika kuzaa; nitaugua na kutweta pamoja. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.14",
+            "verseOrgIds": [
+              "ISA.42.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ISA 42:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nitaharibu milima na vilima, nitavikausha vyote vimeavyo; nitaifanya mito ya maji kuwa visiwa, na kuyakausha maziwa ya maji. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.15",
+            "verseOrgIds": [
+              "ISA.42.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ISA 42:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nitawaleta vipofu kwa njia wasiyoijua; katika mapito wasiyoyajua nitawaongoza; nitafanya giza kuwa nuru mbele yao; na mahali palipopotoka kuwa pamenyoka. Haya nitayatenda, wala sitawaacha. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.16",
+            "verseOrgIds": [
+              "ISA.42.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ISA 42:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Watarudishwa nyuma, wataaibishwa sana, hao wanaotumainia sanamu za mawe, na kuziambia sanamu za madini, Ninyi ndinyi miungu yetu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.17",
+            "verseOrgIds": [
+              "ISA.42.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ISA 42:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.17",
+            "verseOrgIds": [
+              "ISA.42.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ISA 42:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sikilizeni, enyi viziwi; tazameni, enyi vipofu, mpate kuona. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.18",
+            "verseOrgIds": [
+              "ISA.42.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ISA 42:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.43.8"
+              },
+              "items": [
+                {
+                  "text": "Isa 43:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.12.2"
+              },
+              "items": [
+                {
+                  "text": "Eze 12:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.7.49"
+              },
+              "items": [
+                {
+                  "text": "Yn 7:49",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ni nani aliye kipofu, ila mtumishi wangu? Au aliye kiziwi, kama mjumbe wangu nimtumaye? Ni nani aliye kipofu, kama yeye aliye na amani? Naam, kipofu kama mtumishi wa BWANA? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.19",
+            "verseOrgIds": [
+              "ISA.42.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ISA 42:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.4.3"
+              },
+              "items": [
+                {
+                  "text": "Kum 4:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.1.3"
+              },
+              "items": [
+                {
+                  "text": "Isa 1:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.2.21"
+              },
+              "items": [
+                {
+                  "text": "Rum 2:21",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Unaona mambo mengi, lakini huyatii moyoni; masikio yake ya wazi, lakini hasikii.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.20",
+            "verseOrgIds": [
+              "ISA.42.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Uasi wa Israeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ISA 42:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.20",
+            "verseOrgIds": [
+              "ISA.42.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ISA 42:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "BWANA akapendezwa, kwa ajili ya haki yake, kuitukuza sheria, na kuiadhimisha. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.21",
+            "verseOrgIds": [
+              "ISA.42.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "ISA 42:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini watu hawa ni watu walioibiwa na kutekwa; wote wamenaswa katika mashimo, wamefichwa katika magereza; wamekuwa mawindo, wala hapana aokoaye; wamekuwa mateka, wala hapana asemaye, Rudisha. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.22",
+            "verseOrgIds": [
+              "ISA.42.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "ISA 42:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni nani miongoni mwenu atakayetega sikio lake kuyasikia hayo? Atakayesikiliza na kusikia kwa wakati ujao? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.23",
+            "verseOrgIds": [
+              "ISA.42.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "ISA 42:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni nani aliyemtoa Yakobo awe mateka, aliyemtia Israeli katika mikono ya wanyang’anyi? Si yeye, BWANA? Yeye tuliyemkosa, ambaye hawakutaka kwenda katika njia zake, wala hawakuitii sheria yake. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.24",
+            "verseOrgIds": [
+              "ISA.42.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "ISA 42:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.25.9"
+              },
+              "items": [
+                {
+                  "text": "2 Fal 25:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.7.9"
+              },
+              "items": [
+                {
+                  "text": "Hos 7:9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Kwa sababu hiyo alimwaga ukali wa hasira yake juu yake, na nguvu za vita; ukawasha moto wa kumzunguka pande zote, wala hakujua; ukamteketeza, wala hakuyatia hayo moyoni mwake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.42.25",
+            "verseOrgIds": [
+              "ISA.42.25"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.43",
+    "number": "43",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.41",
+    "number": "41",
+    "bookId": "ISA"
+  }
+}

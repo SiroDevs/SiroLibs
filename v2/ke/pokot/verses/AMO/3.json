@@ -1,0 +1,120 @@
+{
+  "id": "AMO.3",
+  "number": "3",
+  "bookId": "AMO",
+  "reference": "Amos 3",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "AMO 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ighisyo Werkoyon",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kiwonyogh pö Samaria",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "AMO 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.3.11",
+            "verseOrgIds": [
+              "AMO.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "AMO 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lentöy nyu ECHOTYON, “Melö ato sörunö mösöwonto kelyo kech anta motït kuti ngötïny, kesöru nyu pipö Israel cho möngöy Samaria cho kedukyeghö luchtina pïrïnta ompö korikwa cho echön.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.3.12",
+            "verseOrgIds": [
+              "AMO.3.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.4",
+    "number": "4",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.2",
+    "number": "2",
+    "bookId": "AMO"
+  }
+}

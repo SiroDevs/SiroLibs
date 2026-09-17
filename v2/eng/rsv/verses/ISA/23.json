@@ -1,0 +1,212 @@
+{
+  "id": "ISA.23",
+  "number": "23",
+  "bookId": "ISA",
+  "reference": "Isaiah 23",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "23",
+        "style": "c",
+        "sid": "ISA 23"
+      },
+      "items": [
+        {
+          "text": "23",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 23:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.1",
+            "verseOrgIds": [
+              "ISA.23.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        Ezek 26.1—28.19",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOL.3.4+JOL.3.5+JOL.3.6+JOL.3.7+JOL.3.8"
+              },
+              "items": [
+                {
+                  "text": "Joel 3.4-8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.9+AMO.1.10"
+              },
+              "items": [
+                {
+                  "text": "Amos 1.9-10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.9.3+ZEC.9.4"
+              },
+              "items": [
+                {
+                  "text": "Zech 9.3-4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " The oracle concerning Tyre.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.1",
+            "verseOrgIds": [
+              "ISA.23.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 23:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.12",
+            "verseOrgIds": [
+              "ISA.23.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 23:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Behold the land of the Chaldeans! This is the people; it was not Assyria. They destined Tyre for wild beasts. They erected their siege towers, they razed her palaces, they made her a ruin.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.13",
+            "verseOrgIds": [
+              "ISA.23.13"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "23.13",
+              "type": "text"
+            },
+            {
+              "text": "The Hebrew of this verse is obscure",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.24",
+    "number": "24",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.22",
+    "number": "22",
+    "bookId": "ISA"
+  }
+}

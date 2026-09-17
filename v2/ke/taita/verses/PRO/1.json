@@ -1,0 +1,74 @@
+{
+  "id": "PRO.1",
+  "number": "1",
+  "bookId": "PRO",
+  "reference": "Makatanisho 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "PRO 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Fwaida ya makatanisho",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Njama kwa wandu wa irika",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Maonyo aighu ya kulegha Hikima",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.2",
+    "number": "2",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.intro",
+    "number": "intro",
+    "bookId": "PRO"
+  }
+}

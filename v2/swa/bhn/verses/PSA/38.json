@@ -1,0 +1,68 @@
+{
+  "id": "PSA.38",
+  "number": "38",
+  "bookId": "PSA",
+  "reference": "Zaburi 38",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "38",
+        "style": "c",
+        "sid": "PSA 38"
+      },
+      "items": [
+        {
+          "text": "38",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 38:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee Mwenyezi-Mungu, usinikemee kwa hasira yako;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.1",
+            "verseOrgIds": [
+              "PSA.38.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.39",
+    "number": "39",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.37",
+    "number": "37",
+    "bookId": "PSA"
+  }
+}

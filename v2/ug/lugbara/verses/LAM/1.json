@@ -1,0 +1,131 @@
+{
+  "id": "LAM.1",
+  "number": "1",
+  "bookId": "LAM",
+  "reference": "Imvo Ongo 1",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "LAM 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "LAM 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.1.1",
+            "verseOrgIds": [
+              "LAM.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.47.7"
+              },
+              "items": [
+                {
+                  "text": "Isa 47:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LAM.1.9"
+              },
+              "items": [
+                {
+                  "text": "Imv 1:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZR.4.20"
+              },
+              "items": [
+                {
+                  "text": "Ezr 4:20",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Aku amboru ovupi mira ’ba be treri, ri pirini ’doni ya! Eri eca awuzioru ’doni ya! eri’i ndra ovupi amboru suru ma eseliari! Eri’i ovupi ndra opi zaaru angu awaza ma eseliari, eri ofu musoro ’bepiriru ’doni ya!",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.1.1",
+            "verseOrgIds": [
+              "LAM.1.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "LAM.2",
+    "number": "2",
+    "bookId": "LAM"
+  },
+  "previous": {
+    "id": "JER.52",
+    "number": "52",
+    "bookId": "JER"
+  }
+}

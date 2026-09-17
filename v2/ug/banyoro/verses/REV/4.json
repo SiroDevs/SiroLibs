@@ -1,0 +1,585 @@
+{
+  "id": "REV.4",
+  "number": "4",
+  "bookId": "REV",
+  "reference": "Kus 4",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "REV 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yohaana naayolekwa ekitebe ky'obukama eky'omu iguru",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "REV 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ebi obu byahoire, nkaimukya amaiso narora orwigi rukingwirwe omu iguru! Kandi iraka nabandize kuhurra, nirigamba nk'ery'engwara, lyangambira liti: “Temba, oije hanu, nkwoleke ebiraabaho, binu bimazire kurugaho.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.1",
+            "verseOrgIds": [
+              "REV.4.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "REV 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.1.26+EZK.1.27+EZK.1.28"
+              },
+              "items": [
+                {
+                  "text": "Ezek 1:26-28",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.10.1"
+              },
+              "items": [
+                {
+                  "text": "10:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ahonaaho naijwaho Mwoyo, narora ekitebe ky'obukama kiteekaniziibwe omu iguru, kiikaliirweho omuntu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.2",
+            "verseOrgIds": [
+              "REV.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "REV 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi Ogu ow'akaba akiikaliireho, akaba naayengeengeta nk'amabaale ag'omuhendo aganyakwetwa yasipi na saarudiyo; kandi ekitebe eki kikaba kyehinguliriziibwe omuhangazima ogurukusisana ibaale ly'omuhendo erinyakwetwa simaragido. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.3",
+            "verseOrgIds": [
+              "REV.4.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "REV 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekitebe eki kikaba kyehinguliriziibwe ebitebe ebindi makumi abiri na bbina. Kandi ha bitebe ebi hakaba haikaliireho abakuru makumi abiri na bbana, bajwaire ebijwaro ebirukwera, baina ekondo za zaabbu ha mitwe yabo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.4",
+            "verseOrgIds": [
+              "REV.4.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "REV 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.19.16"
+              },
+              "items": [
+                {
+                  "text": "Kurug 19:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "TOB.12.15"
+              },
+              "items": [
+                {
+                  "text": "Tob 12:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.8.5"
+              },
+              "items": [
+                {
+                  "text": "Kus 8:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.11.19"
+              },
+              "items": [
+                {
+                  "text": "11:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.16.18"
+              },
+              "items": [
+                {
+                  "text": "16:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.1.13"
+              },
+              "items": [
+                {
+                  "text": "Ezek 1:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.1.4"
+              },
+              "items": [
+                {
+                  "text": "Kus 1:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.4.2"
+              },
+              "items": [
+                {
+                  "text": "Zek 4:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omu kitebe eky'obukama haarugamu emirabyo erukumulikya, okubbaruka kw'enkuba n'okuhinda. Omumaiso gaakyo hakaba haroho etaara musanju ezirukwaka, ezirukumanyisa emyoyo musanju eya Ruhanga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.5",
+            "verseOrgIds": [
+              "REV.4.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "REV 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.1.22"
+              },
+              "items": [
+                {
+                  "text": "Ezek 1:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.1.5+EZK.1.6+EZK.1.7+EZK.1.8+EZK.1.9+EZK.1.10"
+              },
+              "items": [
+                {
+                  "text": "Ezek 1:5-10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.10.14"
+              },
+              "items": [
+                {
+                  "text": "10:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omumaiso g'ekitebe eki hakaba haroho ekirukusisana nk'enyanja ey'ekirahule erukumuliikana nka kirisitaalo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.6",
+            "verseOrgIds": [
+              "REV.4.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "REV 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Okwehinguliriza ekitebe, ha buli rubaju, hakaba haroho ebihangwa bbina ebyomeezi, biijwire amaiso embaju zoona, omu maiso n'enyuma. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.6",
+            "verseOrgIds": [
+              "REV.4.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "REV 4:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekihangwa ekyomeezi eky'okubanza kikaba nikisisana entale; ekya kabiri kikaba nikisisana enimi; ekya kasatu, ha maiso kikaba nikisisana omuntu; kandi ekya kana kikaba nikisisana isamba kaharruka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.7",
+            "verseOrgIds": [
+              "REV.4.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "REV 4:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.1.18"
+              },
+              "items": [
+                {
+                  "text": "Ezek 1:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.10.12"
+              },
+              "items": [
+                {
+                  "text": "10:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.6.2"
+              },
+              "items": [
+                {
+                  "text": "Is 6:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.6.3"
+              },
+              "items": [
+                {
+                  "text": "3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ebihangwa ebi ebbina ebyomeezi, buli kimu kikaba kiina amapapa mukaaga, biina amaiso embaju zoona, aheeru n'omu nda; kandi nyamusana n'ekiro nibizina obutalekerra biti:",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.4.8",
+            "verseOrgIds": [
+              "REV.4.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "REV.5",
+    "number": "5",
+    "bookId": "REV"
+  },
+  "previous": {
+    "id": "REV.3",
+    "number": "3",
+    "bookId": "REV"
+  }
+}

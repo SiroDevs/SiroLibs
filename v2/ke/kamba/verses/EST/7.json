@@ -1,0 +1,574 @@
+{
+  "id": "EST.7",
+  "number": "7",
+  "bookId": "EST",
+  "reference": "Esita 7",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "7",
+        "style": "c",
+        "sid": "EST 7"
+      },
+      "items": [
+        {
+          "text": "7",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 7:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na ĩndĩ mũsumbĩ na Amani malika mbokanĩ ya Esita mũka wa mũsumbĩ. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.1",
+            "verseOrgIds": [
+              "EST.7.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 7:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na mũsumbĩ eea Esita ĩngĩ mũthenya wa kelĩ me mbokanĩ ya mbinyu, Vata waku nĩ mwaũ, Esita, mũka wa mũsumbĩ? Na nũũnengwa: na wĩenda kĩ? O na ethĩwa nĩ nyunzu ya ũsumbĩ ũkeekwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.2",
+            "verseOrgIds": [
+              "EST.7.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.5.3"
+              },
+              "items": [
+                {
+                  "text": "Est 5.3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.5.6"
+              },
+              "items": [
+                {
+                  "text": "6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.9.12"
+              },
+              "items": [
+                {
+                  "text": "9.12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.2",
+            "verseOrgIds": [
+              "EST.7.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 7:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩvo ĩndĩ Esita mũka wa mũsumbĩ wasũngĩie na amwĩa, Ethĩwa nĩnonete ũseo methonĩ maku, we mũsumbĩ, na ethĩwa nĩwendeesya mũsumbĩ, thayũ wakwa nĩnengwe kwondũ wa vata wakwa, na andũ makwa kwondũ wa kwenda kwakwa: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.3",
+            "verseOrgIds": [
+              "EST.7.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 7:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nũndũ twĩ athoosye, nyie na andũ makwa, twanangwe, tũawe, na kwaa. Ĩndĩ kethĩwa tũthooetw’e aũme na aka twĩthĩwe ngombo, nĩĩthĩwa nĩvindĩtye, o na kau mũmaitha ũsu ndethĩwa atonya kũĩvĩa wasyo wa mũsumbĩ. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.4",
+            "verseOrgIds": [
+              "EST.7.4"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.3.9"
+              },
+              "items": [
+                {
+                  "text": "Est 3.9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.3.13"
+              },
+              "items": [
+                {
+                  "text": "13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.4",
+            "verseOrgIds": [
+              "EST.7.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EST 7:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩvo ĩndĩ mũsumbĩ Aasuelo waneenie na amũkũlya Esita mũka wa mũsumbĩ, Nĩwe ũũ, na aĩva, ũsu ũtatĩte ũtw’a ngoonĩ yake kwĩka ũu? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.5",
+            "verseOrgIds": [
+              "EST.7.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EST 7:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na Esita amwĩa, Nthũ na mũmaitha, nake nĩ Amani ũũ mũthũku. Nĩvo ĩndĩ Amani wakwatĩwe nĩ w’ĩa vu mbee wa mũsumbĩ na mũka wa mũsumbĩ. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.6",
+            "verseOrgIds": [
+              "EST.7.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EST 7:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na mũsumbĩ ookĩla e mũthilĩku kuma mbokanĩ ya mbinyu na aenda mũũndanĩ wa nyũmba nene ya ũsumbĩ: na Amani aũngama esũvane nũndũ wa thayũ wake vala ve Esita mũka wa mũsumbĩ; nũndũ nĩwonie kana ve ũthũku ũtw’ĩtwe nĩ mũsumbĩ. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.7",
+            "verseOrgIds": [
+              "EST.7.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EST 7:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩvo ĩndĩ mũsumbĩ wasyokie kuma mũũndanĩ wa nyũmba nene ya ũsumbĩ alike vala vandũ va ĩla mboka ya mbinyu; na Amani avalũkĩte ũkomonĩ ũla Esita wailyĩ. Nĩvo ĩndĩ mũsumbĩ waisye, Kaĩ nũtonya kũmwĩka na vinya mũka wa mũsumbĩ nĩ vo nyũmbanĩ? Ndeto ĩsu ĩkyuma kanyw’anĩ wa mũsumbĩ, mamũvw’ĩka Amani ũthyũ. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.8",
+            "verseOrgIds": [
+              "EST.7.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 7:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩvo ĩndĩ Alivona, ũmwe wa avakũe ala maĩ vo mbee wa mũsumbĩ, waisye, Na ĩngĩ sisya, mũtĩ wa mĩkono mĩongo ĩtano ũtũlu waw’o, ũla Amani ũseũvĩtye nũndũ wa Molitekai, ũla waneenie nesa ũndũ wa mũsumbĩ, ũũngamĩtw’e nyũmbanĩ kwa Amani. Na mũsumbĩ asya, Mũsũsyei ĩũlũ waw’o. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.9",
+            "verseOrgIds": [
+              "EST.7.9"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.1.10"
+              },
+              "items": [
+                {
+                  "text": "Est 1.10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.2.22"
+              },
+              "items": [
+                {
+                  "text": "2.22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.5.14"
+              },
+              "items": [
+                {
+                  "text": "5.14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.9",
+            "verseOrgIds": [
+              "EST.7.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EST 7:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na ĩndĩ mamũsũsya Amani mũtĩnĩ mũtũlu ũla waseũvĩsye Molitekai. Na ĩndĩ ũthilĩku wa mũsumbĩ wausya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.7.10",
+            "verseOrgIds": [
+              "EST.7.10"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.7.16"
+              },
+              "items": [
+                {
+                  "text": "Sav 7.16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.11.5"
+              },
+              "items": [
+                {
+                  "text": "Nth 11.5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.11.6"
+              },
+              "items": [
+                {
+                  "text": "6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.26.27"
+              },
+              "items": [
+                {
+                  "text": "26.27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DAN.6.24"
+              },
+              "items": [
+                {
+                  "text": "Nda 6.24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.7.2"
+              },
+              "items": [
+                {
+                  "text": "Mt 7.2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EST.8",
+    "number": "8",
+    "bookId": "EST"
+  },
+  "previous": {
+    "id": "EST.6",
+    "number": "6",
+    "bookId": "EST"
+  }
+}

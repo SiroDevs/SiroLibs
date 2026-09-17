@@ -1,0 +1,202 @@
+{
+  "id": "HEB.1",
+  "number": "1",
+  "bookId": "HEB",
+  "reference": "Abaheburayo 1",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "HEB 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HEB 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kera Imana yavuganye na ba sogokuruza kenshi kandi mu buryo bwinshi iciye ku bavugishwa na yo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.1",
+            "verseOrgIds": [
+              "HEB.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "HEB 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ariko muri iyi misi y’iherezo, yavuganye natwe iciye ku Mwana wayo. Uwo ni we Imana yagize samuragwa w’ibintu vyose, kandi ivyaremwe vyose yabiremye iciye muri we. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.2",
+            "verseOrgIds": [
+              "HEB.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HEB 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uwo Mwana yerekana ugukayangana kw’ubwiza bw’Imana kandi ni we shusho nyayo iboneka y’ubumana bwayo. Vyongeye ni we ashigikije vyose ijambo ryiwe ry’inkomezi. Ahejeje gushiraho uburyo bwo kwoza ivyaha vyacu, yaciye yicara mu kibanza c’iteka i buryo bw’Imana y’icubahiro mw’ijuru. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.3",
+            "verseOrgIds": [
+              "HEB.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HEB 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ibi vyerekana ko Umwana aruta cane abamarayika, nk’uko izina Imana yamuhaye riruta amazina yabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.4",
+            "verseOrgIds": [
+              "HEB.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HEB 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.4",
+            "verseOrgIds": [
+              "HEB.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HEB 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni nde mu bamarayika Imana yigeze ivugako iti:",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.5",
+            "verseOrgIds": [
+              "HEB.1.5"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HEB.2",
+    "number": "2",
+    "bookId": "HEB"
+  },
+  "previous": {
+    "id": "HEB.intro",
+    "number": "intro",
+    "bookId": "HEB"
+  }
+}

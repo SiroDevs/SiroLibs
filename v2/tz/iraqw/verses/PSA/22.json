@@ -1,0 +1,68 @@
+{
+  "id": "PSA.22",
+  "number": "22",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 22",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "22",
+        "style": "c",
+        "sid": "PSA 22"
+      },
+      "items": [
+        {
+          "text": "22",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 22:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Munguúeé', Munguúeé', án misa meér?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.1",
+            "verseOrgIds": [
+              "PSA.22.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.23",
+    "number": "23",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.21",
+    "number": "21",
+    "bookId": "PSA"
+  }
+}

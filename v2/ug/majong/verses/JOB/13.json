@@ -1,0 +1,81 @@
+{
+  "id": "JOB.13",
+  "number": "13",
+  "bookId": "JOB",
+  "reference": "Yob 13",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "13",
+        "style": "c",
+        "sid": "JOB 13"
+      },
+      "items": [
+        {
+          "text": "13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 13:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Kiirasi, eŋolik ayoŋ ŋakiro ŋun daadaŋ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.13.1",
+            "verseOrgIds": [
+              "JOB.13.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Akilip a Yob apaki ŋina abunio akigeno todaun",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.14",
+    "number": "14",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.12",
+    "number": "12",
+    "bookId": "JOB"
+  }
+}

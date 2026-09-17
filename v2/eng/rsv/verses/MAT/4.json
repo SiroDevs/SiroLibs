@@ -1,0 +1,977 @@
+{
+  "id": "MAT.4",
+  "number": "4",
+  "bookId": "MAT",
+  "reference": "Matthew 4",
+  "verseCount": 17,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "MAT 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAT 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.1",
+            "verseOrgIds": [
+              "MAT.4.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.1.12+MRK.1.13"
+              },
+              "items": [
+                {
+                  "text": "Mk 1.12-13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.4.1+LUK.4.2+LUK.4.3+LUK.4.4+LUK.4.5+LUK.4.6+LUK.4.7+LUK.4.8+LUK.4.9+LUK.4.10+LUK.4.11+LUK.4.12+LUK.4.13"
+              },
+              "items": [
+                {
+                  "text": "Lk 4.1-13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.2.18"
+              },
+              "items": [
+                {
+                  "text": "Heb 2.18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.4.15"
+              },
+              "items": [
+                {
+                  "text": "4.15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.1",
+            "verseOrgIds": [
+              "MAT.4.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAT 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.34.28"
+              },
+              "items": [
+                {
+                  "text": "Ex 34.28",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1KI.19.8"
+              },
+              "items": [
+                {
+                  "text": "1 Kings 19.8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " And he fasted forty days and forty nights, and afterward he was hungry. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.2",
+            "verseOrgIds": [
+              "MAT.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAT 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And the tempter came and said to him, “If you are the Son of God, command these stones to become loaves of bread.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.3",
+            "verseOrgIds": [
+              "MAT.4.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAT 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.8.3"
+              },
+              "items": [
+                {
+                  "text": "Deut 8.3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " But he answered, “It is written,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.4",
+            "verseOrgIds": [
+              "MAT.4.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAT 4:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.11",
+            "verseOrgIds": [
+              "MAT.4.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MAT 4:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.12",
+            "verseOrgIds": [
+              "MAT.4.12"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.1.14"
+              },
+              "items": [
+                {
+                  "text": "Mk 1.14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.4.14"
+              },
+              "items": [
+                {
+                  "text": "Lk 4.14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.14.3"
+              },
+              "items": [
+                {
+                  "text": "Mt 14.3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.43"
+              },
+              "items": [
+                {
+                  "text": "Jn 1.43",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Now when he heard that John had been arrested, he withdrew into Galilee; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.12",
+            "verseOrgIds": [
+              "MAT.4.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAT 4:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.2.12"
+              },
+              "items": [
+                {
+                  "text": "Jn 2.12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.1.21"
+              },
+              "items": [
+                {
+                  "text": "Mk 1.21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.4.23"
+              },
+              "items": [
+                {
+                  "text": "Lk 4.23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " and leaving Nazareth he went and dwelt in Caperna-um by the sea, in the territory of Zebulun and Naphtali, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.13",
+            "verseOrgIds": [
+              "MAT.4.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MAT 4:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "that what was spoken by the prophet Isaiah might be fulfilled:",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.14",
+            "verseOrgIds": [
+              "MAT.4.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MAT 4:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.17",
+            "verseOrgIds": [
+              "MAT.4.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MAT 4:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.18",
+            "verseOrgIds": [
+              "MAT.4.18"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.1.16+MRK.1.17+MRK.1.18+MRK.1.19+MRK.1.20"
+              },
+              "items": [
+                {
+                  "text": "Mk 1.16-20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.5.1+LUK.5.2+LUK.5.3+LUK.5.4+LUK.5.5+LUK.5.6+LUK.5.7+LUK.5.8+LUK.5.9+LUK.5.10+LUK.5.11"
+              },
+              "items": [
+                {
+                  "text": "Lk 5.1-11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.35+JHN.1.36+JHN.1.37+JHN.1.38+JHN.1.39+JHN.1.40+JHN.1.41+JHN.1.42"
+              },
+              "items": [
+                {
+                  "text": "Jn 1.35-42",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " As he walked by the Sea of Galilee, he saw two brothers, Simon who is called Peter and Andrew his brother, casting a net into the sea; for they were fishermen. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.18",
+            "verseOrgIds": [
+              "MAT.4.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MAT 4:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And he said to them, “Follow me, and I will make you fishers of men.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.19",
+            "verseOrgIds": [
+              "MAT.4.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MAT 4:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Immediately they left their nets and followed him. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.20",
+            "verseOrgIds": [
+              "MAT.4.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MAT 4:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And going on from there he saw two other brothers, James the son of Zebedee and John his brother, in the boat with Zebedee their father, mending their nets, and he called them. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.21",
+            "verseOrgIds": [
+              "MAT.4.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MAT 4:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Immediately they left the boat and their father, and followed him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.22",
+            "verseOrgIds": [
+              "MAT.4.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MAT 4:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.22",
+            "verseOrgIds": [
+              "MAT.4.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MAT 4:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.23",
+            "verseOrgIds": [
+              "MAT.4.23"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.1.39"
+              },
+              "items": [
+                {
+                  "text": "Mk 1.39",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.4.15"
+              },
+              "items": [
+                {
+                  "text": "Lk 4.15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.4.44"
+              },
+              "items": [
+                {
+                  "text": "44",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.9.35"
+              },
+              "items": [
+                {
+                  "text": "Mt 9.35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.3.7+MRK.3.8"
+              },
+              "items": [
+                {
+                  "text": "Mk 3.7-8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.6.17"
+              },
+              "items": [
+                {
+                  "text": "Lk 6.17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " And he went about all Galilee, teaching in their synagogues and preaching the gospel of the kingdom and healing every disease and every infirmity among the people. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.23",
+            "verseOrgIds": [
+              "MAT.4.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "MAT 4:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "So his fame spread throughout all Syria, and they brought him all the sick, those afflicted with various diseases and pains, demoniacs, epileptics, and paralytics, and he healed them. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.24",
+            "verseOrgIds": [
+              "MAT.4.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "MAT 4:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And great crowds followed him from Galilee and the Decapolis and Jerusalem and Judea and from beyond the Jordan.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.4.25",
+            "verseOrgIds": [
+              "MAT.4.25"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MAT.5",
+    "number": "5",
+    "bookId": "MAT"
+  },
+  "previous": {
+    "id": "MAT.3",
+    "number": "3",
+    "bookId": "MAT"
+  }
+}

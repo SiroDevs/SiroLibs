@@ -1,0 +1,107 @@
+{
+  "id": "JER.47",
+  "number": "47",
+  "bookId": "JER",
+  "reference": "Yelemia 47",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "47",
+        "style": "c",
+        "sid": "JER 47"
+      },
+      "items": [
+        {
+          "text": "47",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mhayo kūlwa sī ya Bafilisiti",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 47:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ū mhayo ūyū gūkafuma kūlī SEEBA gwiza kūlī ng'hangi Yelemia kūlwa Bafilisiti, aho ataalī ū Falao kūgūdumīla ū nzengo gwa Gaza. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.47.1",
+            "verseOrgIds": [
+              "JER.47.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JER 47:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ū Seeba alīhaya gīkī,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.47.2",
+            "verseOrgIds": [
+              "JER.47.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.48",
+    "number": "48",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.46",
+    "number": "46",
+    "bookId": "JER"
+  }
+}

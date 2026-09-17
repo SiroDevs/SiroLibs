@@ -1,0 +1,106 @@
+{
+  "id": "EZK.28",
+  "number": "28",
+  "bookId": "EZK",
+  "reference": "Ezek 28",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "28",
+        "style": "c",
+        "sid": "EZK 28"
+      },
+      "items": [
+        {
+          "text": "28",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ebyarangwirweho omukama wa Taya",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EZK 28:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "MUKAMA akangambira ati: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.28.1",
+            "verseOrgIds": [
+              "EZK.28.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EZK 28:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Wewe mwana w'omuntu, gambira omulemi wa Taya oti, MUKAMA Ruhanga naagamba ati: Habw'okwekuza kwawe okuhinguraine, okagamba oti: Ninyowe ruhanga anyakusinga ha kitebe kya baaruhanga, hagati y'enyanja; nangwa, oli muntu toli Ruhanga, noobu oraaba nooyerora oli w'amagezi nka Ruhanga",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.28.2",
+            "verseOrgIds": [
+              "EZK.28.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EZK.29",
+    "number": "29",
+    "bookId": "EZK"
+  },
+  "previous": {
+    "id": "EZK.27",
+    "number": "27",
+    "bookId": "EZK"
+  }
+}

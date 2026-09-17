@@ -1,0 +1,81 @@
+{
+  "id": "PRO.30",
+  "number": "30",
+  "bookId": "PRO",
+  "reference": "Agecin 30",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "30",
+        "style": "c",
+        "sid": "PRO 30"
+      },
+      "items": [
+        {
+          "text": "30",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Wac pa Agur",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 30:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Me wac pa Agur wod pa Jake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.30.1",
+            "verseOrgIds": [
+              "PRO.30.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.31",
+    "number": "31",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.29",
+    "number": "29",
+    "bookId": "PRO"
+  }
+}

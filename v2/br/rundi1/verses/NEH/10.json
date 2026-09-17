@@ -1,0 +1,68 @@
+{
+  "id": "NEH.10",
+  "number": "10",
+  "bookId": "NEH",
+  "reference": "Nehemiya 10",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "NEH 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NEH 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abashizeko ibidodo vyabo ni:",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.1",
+            "verseOrgIds": [
+              "NEH.10.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NEH.11",
+    "number": "11",
+    "bookId": "NEH"
+  },
+  "previous": {
+    "id": "NEH.9",
+    "number": "9",
+    "bookId": "NEH"
+  }
+}

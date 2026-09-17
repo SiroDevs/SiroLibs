@@ -1,0 +1,81 @@
+{
+  "id": "HAB.3",
+  "number": "3",
+  "bookId": "HAB",
+  "reference": "Abak. 3",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "HAB 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Akilip ŋina ka Abakuk",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "HAB 3:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Egiritae ŋakiro ŋun neni a ŋolo apolokinit ŋiboro ŋulu eeore ŋulu eya ŋaunoi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.3.19",
+            "verseOrgIds": [
+              "HAB.3.19"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEP.intro",
+    "number": "intro",
+    "bookId": "ZEP"
+  },
+  "previous": {
+    "id": "HAB.2",
+    "number": "2",
+    "bookId": "HAB"
+  }
+}

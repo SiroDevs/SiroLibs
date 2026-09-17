@@ -1,0 +1,118 @@
+{
+  "id": "MIC.1",
+  "number": "1",
+  "bookId": "MIC",
+  "reference": "Mika 1",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MIC 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.1",
+            "verseOrgIds": [
+              "MIC.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2PE.1.21"
+              },
+              "items": [
+                {
+                  "text": "2 Pet 1:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.26.18"
+              },
+              "items": [
+                {
+                  "text": "Yer 26:18",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "’Diri e’yo Yehovani ecapi Mika ’ba Morasini vu, o’du Yotamu pini opi nyazu Yudaarisi, Ahazi pie, Hezekia pie, erini ndrele e’yo Samaria pinisi Yerusalemu beri’i.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.1",
+            "verseOrgIds": [
+              "MIC.1.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.2",
+    "number": "2",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "JON.4",
+    "number": "4",
+    "bookId": "JON"
+  }
+}

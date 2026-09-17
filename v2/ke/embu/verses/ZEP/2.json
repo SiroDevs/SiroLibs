@@ -1,0 +1,119 @@
+{
+  "id": "ZEP.2",
+  "number": "2",
+  "bookId": "ZEP",
+  "reference": "Zef 2",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "ZEP 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Andû gwîtwa mavere",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Gûcûkangua kwa mavûrûri marîa marî vakuvî",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEP 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.9",
+            "verseOrgIds": [
+              "ZEP.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ZEP 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ûguo nîguo makaaverithua nîûndû wa kwîyenda kwao",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.10",
+            "verseOrgIds": [
+              "ZEP.2.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEP.3",
+    "number": "3",
+    "bookId": "ZEP"
+  },
+  "previous": {
+    "id": "ZEP.1",
+    "number": "1",
+    "bookId": "ZEP"
+  }
+}

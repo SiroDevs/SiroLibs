@@ -1,0 +1,47 @@
+{
+  "id": "MIC.5",
+  "number": "5",
+  "bookId": "MIC",
+  "reference": "Mik 5",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "MIC 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Obulemi bw'Omusinguzi owa Beterehemu.",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.6",
+    "number": "6",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.4",
+    "number": "4",
+    "bookId": "MIC"
+  }
+}

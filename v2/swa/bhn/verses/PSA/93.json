@@ -1,0 +1,68 @@
+{
+  "id": "PSA.93",
+  "number": "93",
+  "bookId": "PSA",
+  "reference": "Zaburi 93",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "93",
+        "style": "c",
+        "sid": "PSA 93"
+      },
+      "items": [
+        {
+          "text": "93",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 93:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwenyezi-Mungu anatawala;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.93.1",
+            "verseOrgIds": [
+              "PSA.93.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.94",
+    "number": "94",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.92",
+    "number": "92",
+    "bookId": "PSA"
+  }
+}

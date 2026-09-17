@@ -1,0 +1,860 @@
+{
+  "id": "EST.1",
+  "number": "1",
+  "bookId": "EST",
+  "reference": "Esta 1",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "EST 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Aka hayyitiini Vashti dubbi hayyicha didde",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.1",
+            "verseOrgIds": [
+              "EST.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZR.4.6"
+              },
+              "items": [
+                {
+                  "text": "Ezr 4.6",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Dubbini arma keesati t'aafani bara hayyuuni Ahasuero lafa fide taate. Gaafasi inni lafa d'ibba tokotifi diddami torba, ta lafa Hinditi ejite haga lafa Kushi geetu, mohate. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.1",
+            "verseOrgIds": [
+              "EST.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gaafa suni inni barch'uma ufi ka hayyu ira tae, dira Shushani, ka dira ch'ufa ira gudda keesa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.2",
+            "verseOrgIds": [
+              "EST.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.2",
+            "verseOrgIds": [
+              "EST.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ganna sadeeso ka hayyuma isaa keesa inni jila guddo tolche, jaallabafi makala ufi ch'ufa wolti yaame. Askartiini ta lafa Ajemitiifi ta lafa Medileeni alati inhamne, ammalle worri gugurdaani ka isa jala hojatuleeni ch'ufti d'ufe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.3",
+            "verseOrgIds": [
+              "EST.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Duuba inni haga jia jaa ch'ufa durooma hayyooma isaatiifi ulfinna guddinna isaa biyya garsiise.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.4",
+            "verseOrgIds": [
+              "EST.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.4",
+            "verseOrgIds": [
+              "EST.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EST 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eegi suni hayyuuni jila d'ibi tolche, nama dira Shushani ch'ufa, dureesafi hiyyeesale wolti yaame. Jila suni haga guyya torba, ballinna oobru keesa, d'aatu mana hayyichati tolchani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.5",
+            "verseOrgIds": [
+              "EST.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EST 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ballinna oobru suni utuba d'akha ch'abitiini marsani jaarani, d'akha suni qube qarsi iti naqani, qube suni keesa haada bule luluqisani woliini gahani. Duuba woya adi booftatiifi woya bule woliini makhani irati afani. Arti keesa ch'abifi d'akha diimafi d'akha ch'ululuqafi bule aricha lafati afani, sire worqifi qarsi ira d'ad'aabani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.6",
+            "verseOrgIds": [
+              "EST.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EST 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daad'i muduunu worqi, ta aka akati naqani namaa qoodani, hayyichileeni woma inhambimne, akuma dansaa daad'iini nama quufse. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.7",
+            "verseOrgIds": [
+              "EST.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EST 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ammalle inni seera baase waan hojattu isaatini jed'e, Irreeni injirtu, ammo nami ch'ufti haga fed'u ha d'uge quufuuti. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.8",
+            "verseOrgIds": [
+              "EST.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mana hayyu keesaleti hayyitiini Vashti jed'ani akuma suni jila akasi nad'eenii tolchite.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.9",
+            "verseOrgIds": [
+              "EST.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.9",
+            "verseOrgIds": [
+              "EST.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EST 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Guyya torbeeso ka jila isaa suni, hayyichi daad'i d'uge quufe gammade jennaani d'iira sasangisiisani nama torba ta isaa hojattu, ta Mehumani, Biztha, Harbona, Biftha, Abaftha, Zetharifi Karkasi jed'ani yaame, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.10",
+            "verseOrgIds": [
+              "EST.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EST 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "hayyiti Vashti, ta ruufa hayyooma ufira qabdu na duraani koota jed'e. Hayyitiini suni guddo mid'aadu, duuba hayyichi mid'aaguma isii suni worra gugurdafi keessuma isaa ch'ufa garsiisu fed'e. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.11",
+            "verseOrgIds": [
+              "EST.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EST 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ammo hojattuuni, hayyititi akasi himte jennaani isiini gara hayyu d'aqu didde. Wonti suni duuba guddo hayyu dallansiifte.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.12",
+            "verseOrgIds": [
+              "EST.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EST 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.12",
+            "verseOrgIds": [
+              "EST.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EST 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Duuba hayyuuni aada toko qaba; yo waan seeratiifi ka finna hubachu fed'u, worra aada tana beekhu ch'ufa wolti yaame malaani d'aate, gorsa iraa fud'ata. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.13",
+            "verseOrgIds": [
+              "EST.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EST 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Worri inni d'ugeefate guyya ch'ufa yaame gorsa iraa fud'atu kana: Karshena, Admatha, Shethari, Tarshishi, Meresi, Marsena ammalle Memukani. Worri kunini torbaani lafa Ajemitiifi ta Mediti mataa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.14",
+            "verseOrgIds": [
+              "EST.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EST 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inni waan worra kanaani jed'e, Anini, hayyu Ahasueroni, hojattu tiyya gara hayyiti Vashti erge isi yaame, ammo isiini d'ufu didde! Seeri waan isi tolchu malani maal dubbata?",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.15",
+            "verseOrgIds": [
+              "EST.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EST 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.15",
+            "verseOrgIds": [
+              "EST.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EST 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jennaani Memukaniini waan hayyichafi jaallaboota isaatini jed'e, Hayyiti Vashtiini hayyicha ch'allati iwollaalle, ammo worra gugurda ch'ufafi nama lafa atini fiddu tana keesa jiru ch'ufati wollaalte! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.16",
+            "verseOrgIds": [
+              "EST.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EST 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nad'eeni haguma geetunu amma, yo waan hayyitiini si tolchite kana d'ageete ch'ufti d'iirsoole ufii tufate waan jettu, Hayyichi Ahasueroni hayyiti Vashti yaame ammo isiini d'ufu didde. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.17",
+            "verseOrgIds": [
+              "EST.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EST 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Duuba guyyuma kana nad'eeni worra gugurda ta lafa Ajemitiifi ta Medi keesa jirtu, yo waan hayyitiini taate d'ageetu, d'iirsoole ufiiti haasofti. Nad'eeni fulla ch'ufa d'iirsoota ch'eera foko d'abdeefi d'iirsootileeni iti dallanti. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.18",
+            "verseOrgIds": [
+              "EST.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EST 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee hayyicha, yo sii taate, aka Vashtiini deebite si dura inejinne seera kanke baasi. Ammalle seera kana ha aada lafa Ajemitiifi ta Medi keesati t'aafani, aka deebiani garingalchine. Duuba fulla isii niiti d'ibi ta isi ira ch'eeraafi foko qabdu hayyiti tolchi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.19",
+            "verseOrgIds": [
+              "EST.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EST 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yo seera kanke kana lafa atini fiddu ch'ufa keesati d'agayani, nad'eeni d'iirsoota isiiti saalfatteefi fokifattiifi, ato d'iirsooti dureesa yokhaani hiyyeesa taatele.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.20",
+            "verseOrgIds": [
+              "EST.1.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EST 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.20",
+            "verseOrgIds": [
+              "EST.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "EST 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hayyichafi worri gugurdaani dubbi tana maache, duuba hayyuuni mala Memukaniini d'aefi gula deebie. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.21",
+            "verseOrgIds": [
+              "EST.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EST 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inni lafa inni fidu ch'ufati qonqo erge, ta t'aafifi afaani lafa sunitini qorani, waan jed'e, D'iirti ch'ufti ha nad'eeni ufii mohatte worra ufii fiddu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.22",
+            "verseOrgIds": [
+              "EST.1.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Aka Estani hayyiti taate",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EST.2",
+    "number": "2",
+    "bookId": "EST"
+  },
+  "previous": {
+    "id": "EST.intro",
+    "number": "intro",
+    "bookId": "EST"
+  }
+}

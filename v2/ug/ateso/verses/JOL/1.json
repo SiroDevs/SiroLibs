@@ -1,0 +1,35 @@
+{
+  "id": "JOL.1",
+  "number": "1",
+  "bookId": "JOL",
+  "reference": "Yoel 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "JOL 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOL.2",
+    "number": "2",
+    "bookId": "JOL"
+  },
+  "previous": {
+    "id": "HOS.14",
+    "number": "14",
+    "bookId": "HOS"
+  }
+}

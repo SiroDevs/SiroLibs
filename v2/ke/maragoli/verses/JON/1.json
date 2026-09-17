@@ -1,0 +1,832 @@
+{
+  "id": "JON.1",
+  "number": "1",
+  "bookId": "JON",
+  "reference": "Jona 1",
+  "verseCount": 17,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "JON 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Jona Yatinguha Yahova",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JON 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lidiku lilala, Nyasaye Wuvunyali yamoloma ku Jona Mwana wa Amitai. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.1",
+            "verseOrgIds": [
+              "JON.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JON 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yamuvolera, “Zia Nineve, lidaala linene yilio kandi wilwaze kulio, kigira mali kolola uvudamanu vwa avandu valio.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.2",
+            "verseOrgIds": [
+              "JON.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JON 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Navuzwa Jona yiruka kutura ku Yahova nazia Tarishishi",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.3",
+            "verseOrgIds": [
+              "JON.1.3"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:3",
+              "type": "text"
+            },
+            {
+              "text": "Tarishishi:",
+              "type": "text"
+            },
+            {
+              "text": "Yili ni lidaala liveeye mu kivala cha Sipeini.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ". Yasulunguta kuzia Jopa, uwa yanyoora iliato iliali nilizizaa Tarishishi. Yahaana mitungu jije ma naniina harara na vavinziri yu muliato yilio kuzia Tarishishi, niyiruka kutura ku Yahova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.3",
+            "verseOrgIds": [
+              "JON.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JON 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.3",
+            "verseOrgIds": [
+              "JON.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JON 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Navuzwa Yahova yatuma kihuzuzi kenene kunyanza, kandi chahuuza ninduuta enene ligali, kali iliato liali ahimbi kuvunanywa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.4",
+            "verseOrgIds": [
+              "JON.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JON 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aveeremi voosi vaali nuvuti vonene ligali kandi vuli mundu yanira anyoore ovokonyi, kutura ku munyasaye weve mwene. Kunangwa, vasiuva ivindu via vaali nivagingi munyanza mbula vagehizi uvulitu vwi iliato. Ing'inga yene yeyo, Jona yaali naaziyi mulwaalo mwiliato; naagonaa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.5",
+            "verseOrgIds": [
+              "JON.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JON 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.5",
+            "verseOrgIds": [
+              "JON.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JON 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kunangwa, munene wi iliato yamunyola yo namuvolera, “Okolaa ki, Ogonaa? Vuka, waniri nyasaye woovo mbula yakokonya. Hawundi alakovererera ma akohonyie, kuvuli kudiva.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.6",
+            "verseOrgIds": [
+              "JON.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JON 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.6",
+            "verseOrgIds": [
+              "JON.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JON 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aveeremi vavolerana nuwache, “Gendi kukubi ikura. Kuduuki kumanya nivwaha ugili uvuhiimwa yivu nivuduuka ku kunyi?” Vakora ndio, na ikura yagwira Jona. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.7",
+            "verseOrgIds": [
+              "JON.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JON 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kunangwa vateva Jona, “Kalunu, Mwaza, kovolere! Ni vwaha udulwa kigira uvudinyu yivu? Okolaa ki hano? Uturaa mu kivala ki? Oveeye wi ihiiri ki?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.8",
+            "verseOrgIds": [
+              "JON.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JON 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.8",
+            "verseOrgIds": [
+              "JON.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JON 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jona yativura, “Inzi mbeeye Muheburaina. Sigamira Yahova Nyasaye wu mwigulu, uwalomba lirova kandi inyanza.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.9",
+            "verseOrgIds": [
+              "JON.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JON 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.9",
+            "verseOrgIds": [
+              "JON.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JON 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Avandu yavo vaali nuvuti vonene ligali, nivamuteeva; “Ninguuva ki yiyi ya okoli?” Yavavolera ndi, yiruka kutura ku Nyasaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.10",
+            "verseOrgIds": [
+              "JON.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JON 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.10",
+            "verseOrgIds": [
+              "JON.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JON 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kihuzuzi kenene chaali nikemedaa kuhinulanyia inyanza. Kunangwa vamuteeva; “Kokora ki ivi inyanza iduuki kolengera?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.11",
+            "verseOrgIds": [
+              "JON.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JON 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.11",
+            "verseOrgIds": [
+              "JON.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JON 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jona yativura, “Musiuvi munyanza na ilalengeera. Manyi vulahi gaveeye kigira vudamanu vwange munyi mugumiriywi mu kihuzuzi kenene chimbuuza yiki.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.12",
+            "verseOrgIds": [
+              "JON.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JON 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.12",
+            "verseOrgIds": [
+              "JON.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JON 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Navuzwa muvogono yivwo aveeremi yavo vageriza koleta iliato kulujinga, nivatumikira zinguru ziavo ziosi. Sivanyala kindu choosi mba, kigira kihuzuzi chameeda kuhinulanyia inyanza. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.13",
+            "verseOrgIds": [
+              "JON.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JON 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kunangwa vanira ku Yahova nivavoora, “O, Yahova, kukusaala, utahaana mageri gi likuza Kigira ligotiza livamwoyo liu mundu mulala uyu mba. Ivi, O, Yahova, niivi okoli yaga goosi, yili liveeye likora liilio.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.14",
+            "verseOrgIds": [
+              "JON.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JON 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maku vavugura Jona nivamusiuva munyanza, kandi inyanza yalengera lwene yilwo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.15",
+            "verseOrgIds": [
+              "JON.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JON 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yiki chakola aveeremi kutia Yahova ligali, kali nivahaana visiuviliru, nivalaga kumutumikira.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.16",
+            "verseOrgIds": [
+              "JON.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JON 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.16",
+            "verseOrgIds": [
+              "JON.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JON 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ku lilaga lia Yahova, isuzi enene yaamira Jona, kandi yaali mundu mwisuzi ku madiku gavaga, mbasu nuvudiku.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.17",
+            "verseOrgIds": [
+              "JON.1.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Lisaala lia Jona",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JON.2",
+    "number": "2",
+    "bookId": "JON"
+  },
+  "previous": {
+    "id": "JON.intro",
+    "number": "intro",
+    "bookId": "JON"
+  }
+}

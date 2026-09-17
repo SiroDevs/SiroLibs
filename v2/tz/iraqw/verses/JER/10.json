@@ -1,0 +1,127 @@
+{
+  "id": "JER.10",
+  "number": "10",
+  "bookId": "JER",
+  "reference": "Yeremia 10",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "JER 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuungá' múk Israeli, axweesantá AAKOÓ MUNGÚ ni dirhúng i kaahi iiárií qaasaak.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.1",
+            "verseOrgIds": [
+              "JER.10.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JER 10:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.16",
+            "verseOrgIds": [
+              "JER.10.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JER 10:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuungásingá' taa harweér,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.17",
+            "verseOrgIds": [
+              "JER.10.17"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.11",
+    "number": "11",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.9",
+    "number": "9",
+    "bookId": "JER"
+  }
+}

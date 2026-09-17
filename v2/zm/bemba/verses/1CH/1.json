@@ -1,0 +1,250 @@
+{
+  "id": "1CH.1",
+  "number": "1",
+  "bookId": "1CH",
+  "reference": "1 Imilandu 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 7,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "1CH 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ubutantiko bwa fikolwe ukufuma kuli Adamu ukufika kuli Abrahamu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "1CH 1:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bonse aba bali ba mu lupwa lwakwa Ketura.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.1.33",
+            "verseOrgIds": [
+              "1CH.1.33"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "1CH 1:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.1.42",
+            "verseOrgIds": [
+              "1CH.1.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "1CH 1:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kabili ishi e mfumu ishateekelepo mu calo ca Edomu lintu mu Israeli tamulati mube imfumu nangu imo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.1.43",
+            "verseOrgIds": [
+              "1CH.1.43"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "51",
+            "style": "v",
+            "sid": "1CH 1:51"
+          },
+          "items": [
+            {
+              "text": "51",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kanshi Imfumu sha mu Edomu shali ni Timuna, Alifa Yeteti, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.1.51",
+            "verseOrgIds": [
+              "1CH.1.51"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "52",
+            "style": "v",
+            "sid": "1CH 1:52"
+          },
+          "items": [
+            {
+              "text": "52",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Olibama, Elaya, Pinoni, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.1.52",
+            "verseOrgIds": [
+              "1CH.1.52"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "53",
+            "style": "v",
+            "sid": "1CH 1:53"
+          },
+          "items": [
+            {
+              "text": "53",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kenasi, Temani, Mibisa, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.1.53",
+            "verseOrgIds": [
+              "1CH.1.53"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "54",
+            "style": "v",
+            "sid": "1CH 1:54"
+          },
+          "items": [
+            {
+              "text": "54",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Magidieli elyo na Iramu. Ishi eshali imfumu sha mu Edomu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.1.54",
+            "verseOrgIds": [
+              "1CH.1.54"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1CH.2",
+    "number": "2",
+    "bookId": "1CH"
+  },
+  "previous": {
+    "id": "1CH.intro",
+    "number": "intro",
+    "bookId": "1CH"
+  }
+}

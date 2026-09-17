@@ -1,0 +1,108 @@
+{
+  "id": "ISA.1",
+  "number": "1",
+  "bookId": "ISA",
+  "reference": "I-Ca-Yaa 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "ISA 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nɛmɛ ɛ nyuuth I-ca-yaa gat A-modh mëë cɛ nɛn kɛ kui̱ Juda kɛnɛ Jɛ-ru-tha-lɛm kɛ gua̱th tëë ruec ni Ö-dhi-ya kɛnɛ Yo-tham kɛ A-ɣadh kɛnɛ Ɣidh-ki-yaa kua̱r Juda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.1",
+            "verseOrgIds": [
+              "ISA.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Dueer Juda",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Go̱r Kuɔth Nhial kɛ luäk nɛɛnikɛ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Duäc kɛnɛ ka̱n",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.2",
+    "number": "2",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.intro",
+    "number": "intro",
+    "bookId": "ISA"
+  }
+}

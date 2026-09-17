@@ -1,0 +1,47 @@
+{
+  "id": "PSA.42",
+  "number": "42",
+  "bookId": "PSA",
+  "reference": "Nyiigheega 42",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "42",
+        "style": "c",
+        "sid": "PSA 42"
+      },
+      "items": [
+        {
+          "text": "42",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mooshta ASEETA bea siida mang'aw",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.43",
+    "number": "43",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.41",
+    "number": "41",
+    "bookId": "PSA"
+  }
+}

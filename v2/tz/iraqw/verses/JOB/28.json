@@ -1,0 +1,68 @@
+{
+  "id": "JOB.28",
+  "number": "28",
+  "bookId": "JOB",
+  "reference": "Yobu 28",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "28",
+        "style": "c",
+        "sid": "JOB 28"
+      },
+      "items": [
+        {
+          "text": "28",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 28:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "«Looeemaawo boh'ér muqslaadár peésa kawa folaaliti i deer.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.28.1",
+            "verseOrgIds": [
+              "JOB.28.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.29",
+    "number": "29",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.27",
+    "number": "27",
+    "bookId": "JOB"
+  }
+}

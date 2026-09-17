@@ -1,0 +1,82 @@
+{
+  "id": "PRO.5",
+  "number": "5",
+  "bookId": "PRO",
+  "reference": "Sumo 5",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "PRO 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Būhūgūji kūlwa būshihani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ng'wanone, gadīlīlage",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.5.1",
+            "verseOrgIds": [
+              "PRO.5.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.6",
+    "number": "6",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.4",
+    "number": "4",
+    "bookId": "PRO"
+  }
+}

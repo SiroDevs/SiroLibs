@@ -1,0 +1,68 @@
+{
+  "id": "PSA.116",
+  "number": "116",
+  "bookId": "PSA",
+  "reference": "Zaburi 116",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "116",
+        "style": "c",
+        "sid": "PSA 116"
+      },
+      "items": [
+        {
+          "text": "116",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 116:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ma le Yehovani ra, erini o’duko mani erile matu ’baza mani berisi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.116.1",
+            "verseOrgIds": [
+              "PSA.116.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.117",
+    "number": "117",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.115",
+    "number": "115",
+    "bookId": "PSA"
+  }
+}

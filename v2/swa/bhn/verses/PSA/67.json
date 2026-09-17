@@ -1,0 +1,68 @@
+{
+  "id": "PSA.67",
+  "number": "67",
+  "bookId": "PSA",
+  "reference": "Zaburi 67",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "67",
+        "style": "c",
+        "sid": "PSA 67"
+      },
+      "items": [
+        {
+          "text": "67",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 67:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Utuonee huruma, ee Mungu, utubariki;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.1",
+            "verseOrgIds": [
+              "PSA.67.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.68",
+    "number": "68",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.66",
+    "number": "66",
+    "bookId": "PSA"
+  }
+}

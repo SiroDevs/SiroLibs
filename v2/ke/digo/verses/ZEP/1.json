@@ -1,0 +1,92 @@
+{
+  "id": "ZEP.1",
+  "number": "1",
+  "bookId": "ZEP",
+  "reference": "Zefania 1",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "ZEP 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEP 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.1",
+            "verseOrgIds": [
+              "ZEP.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        2 Afalume 22:1—23:30; 2 Nyakati 34:1—35:27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hiri ni neno ra Mwenyezi Mlungu ambaro wamuambira Zefania, wakati wa utawala wa Josiya mwana wa Amoni mfalume wa Juda. Zefania kala ni mwana wa Kushi, Kushi kala ni mwana wa Gedalia, Gedalia kala ni mwana wa Amariya, Amariya naye kala ni mwana wa Hezekiya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.1",
+            "verseOrgIds": [
+              "ZEP.1.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEP.2",
+    "number": "2",
+    "bookId": "ZEP"
+  },
+  "previous": {
+    "id": "ZEP.intro",
+    "number": "intro",
+    "bookId": "ZEP"
+  }
+}

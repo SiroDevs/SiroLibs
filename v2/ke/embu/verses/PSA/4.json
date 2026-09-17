@@ -1,0 +1,47 @@
+{
+  "id": "PSA.4",
+  "number": "4",
+  "bookId": "PSA",
+  "reference": "Tha 4",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "PSA 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Îvoya rîa kîvwaî rîa gwîtia ûtethio kûrî Ngai",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.5",
+    "number": "5",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.3",
+    "number": "3",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,656 @@
+{
+  "id": "MAL.1",
+  "number": "1",
+  "bookId": "MAL",
+  "reference": "Mal 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MAL 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAL 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nanti ilizwi leNkosi kuIsrayeli ngoMalaki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.1",
+            "verseOrgIds": [
+              "MAL.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAL 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.1",
+            "verseOrgIds": [
+              "MAL.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAL 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngilithandile, kutsho iNkosi. Kodwa lina lithi: Usithande kanjani na? UEsawu kasuye umfowabo kaJakobe na? kutsho iNkosi. Kanti ngamthanda uJakobe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.2",
+            "verseOrgIds": [
+              "MAL.1.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.9.13"
+              },
+              "items": [
+                {
+                  "text": "Roma 9:13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.2",
+            "verseOrgIds": [
+              "MAL.1.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.34.5+ISA.34.6+ISA.34.7+ISA.34.8+ISA.34.9+ISA.34.10+ISA.34.11+ISA.34.12+ISA.34.13+ISA.34.14+ISA.34.15+ISA.34.16+ISA.34.17"
+              },
+              "items": [
+                {
+                  "text": "Isa 34:5–17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.63.1+ISA.63.2+ISA.63.3+ISA.63.4+ISA.63.5+ISA.63.6"
+              },
+              "items": [
+                {
+                  "text": "63:1–6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.49.7+JER.49.8+JER.49.9+JER.49.10+JER.49.11+JER.49.12+JER.49.13+JER.49.14+JER.49.15+JER.49.16+JER.49.17+JER.49.18+JER.49.19+JER.49.20+JER.49.21+JER.49.22"
+              },
+              "items": [
+                {
+                  "text": "Jer 49:7–22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.25.12+EZK.25.13+EZK.25.14"
+              },
+              "items": [
+                {
+                  "text": "Hez 25:12–14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.35.1+EZK.35.2+EZK.35.3+EZK.35.4+EZK.35.5+EZK.35.6+EZK.35.7+EZK.35.8+EZK.35.9+EZK.35.10+EZK.35.11+EZK.35.12+EZK.35.13+EZK.35.14+EZK.35.15"
+              },
+              "items": [
+                {
+                  "text": "35:1–15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.11"
+              },
+              "items": [
+                {
+                  "text": "Amos 1:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.12"
+              },
+              "items": [
+                {
+                  "text": "12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "OBA.1.1+OBA.1.2+OBA.1.3+OBA.1.4+OBA.1.5+OBA.1.6+OBA.1.7+OBA.1.8+OBA.1.9+OBA.1.10+OBA.1.11+OBA.1.12+OBA.1.13+OBA.1.14"
+              },
+              "items": [
+                {
+                  "text": "Obad 1–14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.2",
+            "verseOrgIds": [
+              "MAL.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAL 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "uEsawu ngamzonda; ngalichitha ilizwe lakhe elilamaqaqa, lelifa lakhe ngalinika amakhanka asenkangala. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.3",
+            "verseOrgIds": [
+              "MAL.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAL 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uba abakoEdoma, abantwana bakaEsawu, besithi: Imizi yethu ichithiwe, kodwa sizabuya siyakhe; iNkosi yamabandla ithi: Bangakha, kodwa mina ngizadilizela phansi, baze babizwe ngokuthi yilizwe elibi, labantu iNkosi ebathukutheleleyo kokuphela. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.4",
+            "verseOrgIds": [
+              "MAL.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAL 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lizakubona lokhu ngamehlo enu, beselisithi: Ubukhulu beNkosi bufika langaphandle kwakoIsrayeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.5",
+            "verseOrgIds": [
+              "MAL.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAL 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.5",
+            "verseOrgIds": [
+              "MAL.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAL 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "INkosi yamabandla ithi kubapristi: Indodana iyamhlonipha uyise, lenceku iyayihlonipha inkosi yayo. Uba mina nginguyihlo, kungaphi ukuhlonitshwa kwami na? Uba ngiyinkosi, kungaphi ukwesatshwa kwami na? Lina, bapristi, liyalidelela ibizo lami, kodwa lithi: Silidelele kanjani ibizo lakho na? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.6",
+            "verseOrgIds": [
+              "MAL.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MAL 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngithi: Ngokunikela ukudla okungcolileyo phezu kwealtare lami. Beselisithi: Sikungcolise kanjani na? Ngithi: Ngokucabanga ukuba itafula yeNkosi ingadeleleka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.7",
+            "verseOrgIds": [
+              "MAL.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAL 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lapho linikela inyamazana eyisiphofu ibe ngumhlatshelo, lokho kakukubi na? Lapho linikela inyamazana eqhulayo legulayo, lokho kakukubi na? Akukunike umbusi wakho lokho; kambe angathokoza ngawe na? Angaba lomusa kuwe na? kutsho iNkosi yamabandla.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.8",
+            "verseOrgIds": [
+              "MAL.1.8"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.15.21"
+              },
+              "items": [
+                {
+                  "text": "Dute 15:21",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.8",
+            "verseOrgIds": [
+              "MAL.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MAL 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ake lincenge uNkulunkulu ukuba abe lomusa kithi. Uba linika isipho esinjalo, uzakuba lomusa kini na? kutsho iNkosi yamabandla. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.9",
+            "verseOrgIds": [
+              "MAL.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MAL 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kungathi ngabe ukhona phakathi kwenu ongavala izivalo, ukuba lingabasi imililo elize phezu kwealtare lami. Kangithokozi ngani, kutsho iNkosi yamabandla, kangiyikwamukela iminikelo evela kini. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.10",
+            "verseOrgIds": [
+              "MAL.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAL 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngoba kusukela ekuphumeni kwelanga kuze kube sekutshoneni kwalo, ibizo lami likhulu phakathi kwezizwe; endaweni zonke ibizo lami litshiselwa impepha, kunikelwe kilo iminikelo ehlambulukileyo; ngoba ibizo lami likhulu phakathi kwezizwe, kutsho iNkosi yamabandla. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.11",
+            "verseOrgIds": [
+              "MAL.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MAL 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kodwa lina liyalona ngokuthi itafula yeNkosi ingangcoliswa, langokuthi linganikela phezu kwayo ukudla elikudelelayo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.12",
+            "verseOrgIds": [
+              "MAL.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAL 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lichila amakhala, kutsho iNkosi yamabandla, beselisithi: Yeka ukudinisa kwalokhu! Liletha okwebiweyo, lokuqhulayo, lokugulayo, kube ngumnikelo wenu. Ngizakwamukela lokho kini na? kutsho iNkosi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.13",
+            "verseOrgIds": [
+              "MAL.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MAL 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaqalekiswe umkhohlisi ogcwalisa izifungo zakhe ngokuhlabela iNkosi okonakeleyo, yena elenqama engelasici emhlambini wakhe. Ngoba ngiyinkosi enkulu, kutsho iNkosi yamabandla, lebizo lami liyesabeka phakathi kwezizwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.14",
+            "verseOrgIds": [
+              "MAL.1.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MAL.2",
+    "number": "2",
+    "bookId": "MAL"
+  },
+  "previous": {
+    "id": "ZEC.14",
+    "number": "14",
+    "bookId": "ZEC"
+  }
+}

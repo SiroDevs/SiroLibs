@@ -1,0 +1,68 @@
+{
+  "id": "PSA.76",
+  "number": "76",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 76",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "76",
+        "style": "c",
+        "sid": "PSA 76"
+      },
+      "items": [
+        {
+          "text": "76",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 76:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baraá Yudawo Mungú i xu'utiit,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.76.1",
+            "verseOrgIds": [
+              "PSA.76.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.77",
+    "number": "77",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.75",
+    "number": "75",
+    "bookId": "PSA"
+  }
+}

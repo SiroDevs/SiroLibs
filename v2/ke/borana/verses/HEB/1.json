@@ -1,0 +1,290 @@
+{
+  "id": "HEB.1",
+  "number": "1",
+  "bookId": "HEB",
+  "reference": "Ebrania 1",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "HEB 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Dubbi Waaqa Ilma isatiini dubbatani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HEB 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Duri Waaqi maro heddufi aka heddu afaani raagootatiini ababoota teennati dubbate, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.1",
+            "verseOrgIds": [
+              "HEB.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "HEB 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ammo ammatana, bara eege kana keesa la Ilma isatiini nuti dubbate. Waaqi waan gubba jira ch'ufa isaani uume, isa fohate, aka gaafa muumme inni waan ch'ufa d'aallu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.2",
+            "verseOrgIds": [
+              "HEB.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HEB 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inni ifsa guddinna Waaqatiini biliqa, akuma Waaqi jiru innileeni jira, waan uumani ch'ufa dubbi jabeenna isatiini olqaba. Eegi daba nama iraa qulqulleese, inni gubba harka mirga ka Waaqa Guddinna gubba tae.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.3",
+            "verseOrgIds": [
+              "HEB.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ilmi suni malaika ira jira",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HEB 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.3",
+            "verseOrgIds": [
+              "HEB.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HEB 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Malaika ira yayu Ilma guddisani, akuma maqaani inni argate suni maqa worraa ira jiru. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.4",
+            "verseOrgIds": [
+              "HEB.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HEB 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.2.7"
+              },
+              "items": [
+                {
+                  "text": "Far 2.7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2SA.7.14"
+              },
+              "items": [
+                {
+                  "text": "2 Sam 7.14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.17.13"
+              },
+              "items": [
+                {
+                  "text": "1 Od-dur 17.13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Wonti akanatiifi Waaqi taka yoomi malaika tokoleeni akana jed'e,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.5",
+            "verseOrgIds": [
+              "HEB.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Baafama gudda",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HEB.2",
+    "number": "2",
+    "bookId": "HEB"
+  },
+  "previous": {
+    "id": "HEB.intro",
+    "number": "intro",
+    "bookId": "HEB"
+  }
+}

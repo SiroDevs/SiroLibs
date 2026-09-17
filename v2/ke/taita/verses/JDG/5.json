@@ -1,0 +1,82 @@
+{
+  "id": "JDG.5",
+  "number": "5",
+  "bookId": "JDG",
+  "reference": "Watanyi 5",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "JDG 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Lumbo lwa Debora na Baraka",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JDG 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Niko ituku ijo Debora na Baraka mwana wa Abinoamu wikabora:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.5.1",
+            "verseOrgIds": [
+              "JDG.5.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JDG.6",
+    "number": "6",
+    "bookId": "JDG"
+  },
+  "previous": {
+    "id": "JDG.4",
+    "number": "4",
+    "bookId": "JDG"
+  }
+}

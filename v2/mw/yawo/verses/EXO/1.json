@@ -1,0 +1,728 @@
+{
+  "id": "EXO.1",
+  "number": "1",
+  "bookId": "EXO",
+  "reference": "Eks 1",
+  "verseCount": 16,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "EXO 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Akwatamika Aisalaeli mwa ngalwe ku Iguputo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EXO 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndaŵi jiŵajawulaga Yakobo",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.1+EXO.1.2+EXO.1.3+EXO.1.4+EXO.1.5",
+            "verseOrgIds": [
+              "EXO.1.1",
+              "EXO.1.2",
+              "EXO.1.3",
+              "EXO.1.4",
+              "EXO.1.5"
+            ]
+          }
+        },
+        {
+          "text": " ku Iguputo, mwanace jwawo jumo jwamlume lina lyakwe Yosefe, ŵaliji kala ku Iguputoko. Aga ni mena ga ŵanace 11 ŵacalume ŵa Yakobo, ŵaŵajawile nawo Yakobojo ku Iguputo, pamo ni maŵasa gawo. Lubeni, Simiyoni, Lefi, Yuda, Isakala ni Sebuloni, Dani ni Nafutali, Gadi ni Asha, ni Benjamini. Pakwawula ku Iguputo, Yakobo ŵakwete ŵanace, yisukulu, ni yisukulu ya m'mawuja. Wosope pamo ŵakwanile 70.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.1+EXO.1.2+EXO.1.3+EXO.1.4+EXO.1.5",
+            "verseOrgIds": [
+              "EXO.1.1",
+              "EXO.1.2",
+              "EXO.1.3",
+              "EXO.1.4",
+              "EXO.1.5"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.46.8+GEN.46.9+GEN.46.10+GEN.46.11+GEN.46.12+GEN.46.13+GEN.46.14+GEN.46.15+GEN.46.16+GEN.46.17+GEN.46.18+GEN.46.19+GEN.46.20+GEN.46.21+GEN.46.22+GEN.46.23+GEN.46.24+GEN.46.25+GEN.46.26+GEN.46.27"
+              },
+              "items": [
+                {
+                  "text": "Gen 46:8-27",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.1+EXO.1.2+EXO.1.3+EXO.1.4+EXO.1.5",
+            "verseOrgIds": [
+              "EXO.1.1",
+              "EXO.1.2",
+              "EXO.1.3",
+              "EXO.1.4",
+              "EXO.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EXO 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Panyuma pakwe Yosefe ŵawile, acakulugwe ni ŵandu wosope ŵa mwiŵele mwawo ŵawile soni. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.6",
+            "verseOrgIds": [
+              "EXO.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EXO 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nambo Aisalaeli ŵaŵelece ŵanace ŵajinji. Ŵatupile ni ŵaliji ŵandu ŵamacili mnope. Cilambo cosope ca Iguputo cagumbele ni jemanjajo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.7",
+            "verseOrgIds": [
+              "EXO.1.7"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.17"
+              },
+              "items": [
+                {
+                  "text": "Mase 7:17",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EXO 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.7",
+            "verseOrgIds": [
+              "EXO.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EXO 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yili yipite yaka yejinji, ŵajinjile mwenye jwine jwasambano, mcilambo ca Iguputo, jwamkanamanyilila ya Yosefe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.8",
+            "verseOrgIds": [
+              "EXO.1.8"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.18"
+              },
+              "items": [
+                {
+                  "text": "Mase 7:18",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.8",
+            "verseOrgIds": [
+              "EXO.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EXO 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwenyejo ŵasalile ŵandu ŵakwe kuti, “Mlole, ŵandu Aisalaeli ŵa atupile mnope, soni ali ŵamacili kutupunda uweji. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.9",
+            "verseOrgIds": [
+              "EXO.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EXO 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwende tupate litala lyakuti twalekasye jemanjaji kuti akatupa. Ligongo pa ndaŵi ja ngondo, jemanjaji komboleka kuwanganicilana ni amagongo ŵetu, ni kumenyana ni um'we, ni kutila mcilambo mwetu muno.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.10",
+            "verseOrgIds": [
+              "EXO.1.10"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.19"
+              },
+              "items": [
+                {
+                  "text": "Mase 7:19",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.10",
+            "verseOrgIds": [
+              "EXO.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EXO 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Myoyo Aiguputo ŵaŵisile acikapitawo ŵakwakamulisya mwa ngalwe masengo gamakulungwa Aisalaeli kuti aŵe ŵandu ŵangali macili. Acikapitawo ŵala ŵacisisye ŵandu Aisalaeli kutaŵa misinda ja Pitomu ni Lamusesi, jakuti Mwenye jwa ku Iguputo asunjile yakulya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.11",
+            "verseOrgIds": [
+              "EXO.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EXO 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nambo atamose kuti Aisalaeli ŵaliji mkutama mwakulaga mnope, ni piŵapundile kuŵa ŵandu ŵajinji, ni ŵajenele mcilambo cosopeco. Aiguputo ŵaliji mkwajogopa Aisalaeli, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.12",
+            "verseOrgIds": [
+              "EXO.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EXO 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ŵacisisye kukamula masengo mwakulimba, ni ŵaliji mkutama umi wakulaga, ligongo Aiguputo ŵaliji mkwacisya Aisalaeli, kugakamula masengo gamakulungwa mwa ngalwe ni mwa ukapolo. Ŵakamulisye masengo gakuponda matope, gakugumba njelwa, ni masengo gakulekanganalekangana ga ku migunda. Ŵaliji mkwacisya kugakamula masengo gamakulungwago, mwa ngalwe ni mwangatendela canasa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.13+EXO.1.14",
+            "verseOrgIds": [
+              "EXO.1.13",
+              "EXO.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EXO 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.13+EXO.1.14",
+            "verseOrgIds": [
+              "EXO.1.13",
+              "EXO.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EXO 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwenye jwa ku Iguputo ŵaŵilasile acakongwe ŵakuŵelesya, ŵiŵakamucisyaga acakongwe ŵa Cihebeli pa ndaŵi jakuŵeleka, lina lya jwamkongwe jumo jwakuŵelesya lyaliji Shifila, ni lina lya mjakwe lyaliji Puwa, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.15",
+            "verseOrgIds": [
+              "EXO.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EXO 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ni ŵasalile kuti, “Pamkutenda masengo genu gakuŵelesya ŵanace pa acakongwe ŵa mtundu wa Cihebeli, naga mkuwona kuti aŵelece mwanace jwamlume, mumwulaje, nambo naga akuŵeleka jwamkongwe mumlece jwa umi.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.16",
+            "verseOrgIds": [
+              "EXO.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EXO 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nambo ŵakuŵelesya ŵanace ŵala nganagatendela masengo maloŵe ga mwenye jula, ligongo ŵamjogopaga Mlungu. M'malo mwakwe ŵagambaga kwaleka ŵanace ŵacalume ali ŵa umi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.17",
+            "verseOrgIds": [
+              "EXO.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EXO 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Myoyo Mwenye jwa ku Iguputo jula, ŵaŵilasile acakongwe ŵakuŵelesya ŵala, ni ŵawusisye kuti, “Ligongo cici mkwaleka ŵanace ŵacalume ŵangawulaga?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.18",
+            "verseOrgIds": [
+              "EXO.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EXO 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ŵakuŵelesya ŵala ŵamjanjile Mwenye jwa ku Iguputo kuti, “Acakongwe ŵa Cihebeli akulekangana ni acakongwe ŵa ku Iguputo, pakuŵa acakongwe ŵa Cihebeli ali ŵakulimbangana, akusati jwakuŵelesya mkanayice, mwanace apagwile kala.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.19",
+            "verseOrgIds": [
+              "EXO.1.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EXO 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.19",
+            "verseOrgIds": [
+              "EXO.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EXO 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ligongo lyakuti ŵakuŵelesya ŵanace ŵala, ŵamjogwepe Mlungu, ŵatendele yambone ni ŵapele maŵasa. Aisalaeli ŵapundile kutupa, ni ŵaliji ŵandu ŵamacili mnope. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.20+EXO.1.21",
+            "verseOrgIds": [
+              "EXO.1.20",
+              "EXO.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EXO 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwenye jwa ku Iguputo ŵalamwile ŵandu ŵakwe ŵosope kuti, “Mwanace jwamlume jwalijose jwakupagwa mwa jwamkongwe jwa Cihebeli mumponyeje mu Lusulo lwa Nayilo, nambo ŵanace ŵosope ŵacakongwe mwalece ni umi.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.22",
+            "verseOrgIds": [
+              "EXO.1.22"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.19"
+              },
+              "items": [
+                {
+                  "text": "Mase 7:19",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EXO.2",
+    "number": "2",
+    "bookId": "EXO"
+  },
+  "previous": {
+    "id": "EXO.intro",
+    "number": "intro",
+    "bookId": "EXO"
+  }
+}

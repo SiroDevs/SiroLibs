@@ -1,0 +1,60 @@
+{
+  "id": "HOS.5",
+  "number": "5",
+  "bookId": "HOS",
+  "reference": "Hoseya 5",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "HOS 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Hoseya gwareekusa hiseadayeanduumeeda",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ng'ucheeda Yuda sea Israeli",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.6",
+    "number": "6",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.4",
+    "number": "4",
+    "bookId": "HOS"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "PSA.139",
+  "number": "139",
+  "bookId": "PSA",
+  "reference": "Zaburi 139",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "139",
+        "style": "c",
+        "sid": "PSA 139"
+      },
+      "items": [
+        {
+          "text": "139",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 139:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.139.1",
+            "verseOrgIds": [
+              "PSA.139.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.12.3"
+              },
+              "items": [
+                {
+                  "text": "Yer 12:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.2.23"
+              },
+              "items": [
+                {
+                  "text": "Eceza 2:23",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Yehova la, mi nda asi mani ma ale ’bo, mi ni ma ra!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.139.1",
+            "verseOrgIds": [
+              "PSA.139.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.140",
+    "number": "140",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.138",
+    "number": "138",
+    "bookId": "PSA"
+  }
+}

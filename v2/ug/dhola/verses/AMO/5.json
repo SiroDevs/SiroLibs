@@ -1,0 +1,81 @@
+{
+  "id": "AMO.5",
+  "number": "5",
+  "bookId": "AMO",
+  "reference": "Amos 5",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "AMO 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Lwoŋo ma ŋuto",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Winji win wac m'aketho kwoŋ win iywak ajore, Joisiraili.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.5.1",
+            "verseOrgIds": [
+              "AMO.5.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.6",
+    "number": "6",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.4",
+    "number": "4",
+    "bookId": "AMO"
+  }
+}

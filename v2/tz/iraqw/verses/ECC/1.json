@@ -1,0 +1,211 @@
+{
+  "id": "ECC.1",
+  "number": "1",
+  "bookId": "ECC",
+  "reference": "Daharusmo 1",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "ECC 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ECC 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaangwí a axweesanoó daharusmo, garmoó Daudi, kuduú waawutmoó Yerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.1.1",
+            "verseOrgIds": [
+              "ECC.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ECC 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.1.11",
+            "verseOrgIds": [
+              "ECC.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ECC 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Anuú daharusmo, aáng a waawutmoó Israeli, oo baraá gixsár Yerusalemu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.1.12",
+            "verseOrgIds": [
+              "ECC.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ECC 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aníng baraá inslaway'eene mura' sleémeero oo ta tlehhiiti baraá daanduú yaamuwo una alqaytsiít, ngiri aldaákw ar sagalooa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.1.13",
+            "verseOrgIds": [
+              "ECC.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ECC 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naxés Mungú wayaqamuú yaariír guna haniís dír muu, as inooín tawa hooti ar wayaqamu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.1.13",
+            "verseOrgIds": [
+              "ECC.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ECC 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mura' sleémeero oo muu i tlehhaahhiti baraá yaamuwo ugwa alqaytsiít, nee umuúqo gaaro a tawór huwisha, adór heé fur'a gaa alta'aain.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.1.14",
+            "verseOrgIds": [
+              "ECC.1.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.2",
+    "number": "2",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "ECC.intro",
+    "number": "intro",
+    "bookId": "ECC"
+  }
+}

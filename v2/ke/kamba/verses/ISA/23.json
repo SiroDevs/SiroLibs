@@ -1,0 +1,895 @@
+{
+  "id": "ISA.23",
+  "number": "23",
+  "bookId": "ISA",
+  "reference": "Isaia 23",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 18,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "23",
+        "style": "c",
+        "sid": "ISA 23"
+      },
+      "items": [
+        {
+          "text": "23",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 23:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndeto ngito ũndũ wa Tile.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.1",
+            "verseOrgIds": [
+              "ISA.23.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 23:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kayai, inyw’ĩ ngalawa sya Talisisi; nũndũ nĩnĩtw’ĩkĩthĩtw’e ĩanzo, o na vati nyũmba, vati ũlikĩlo: nĩmataviw’e me nthĩ ya Kitimu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.1",
+            "verseOrgIds": [
+              "ISA.23.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "Esek 26.2—28.24",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOL.3.4+JOL.3.5+JOL.3.6+JOL.3.7+JOL.3.8"
+              },
+              "items": [
+                {
+                  "text": "Yoe 3.4–8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.9"
+              },
+              "items": [
+                {
+                  "text": "Amo 1.9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.10"
+              },
+              "items": [
+                {
+                  "text": "10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.9.2+ZEC.9.3+ZEC.9.4"
+              },
+              "items": [
+                {
+                  "text": "Nzek 9.2–4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.1",
+            "verseOrgIds": [
+              "ISA.23.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 23:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kilyai inyw’ĩ ala mũtwĩe ũtee wa ũkanga, athoosya ma Sitoni, ala maingĩlaa ũkanganĩ, nĩmakusũĩtye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.2",
+            "verseOrgIds": [
+              "ISA.23.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 23:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na ĩũlũ wa manzĩ maingĩ mbeũ sya ũsĩ wa Sioli, ngetha ya Naelo, yaĩ ũtandĩthyo wayo; nayo yaĩ kĩng’ang’a kya mbaĩ. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.3",
+            "verseOrgIds": [
+              "ISA.23.3"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.2.18"
+              },
+              "items": [
+                {
+                  "text": "Yel 2.18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.27.3+EZK.27.4+EZK.27.5+EZK.27.6+EZK.27.7+EZK.27.8+EZK.27.9+EZK.27.10+EZK.27.11+EZK.27.12+EZK.27.13+EZK.27.14+EZK.27.15+EZK.27.16+EZK.27.17+EZK.27.18+EZK.27.19+EZK.27.20+EZK.27.21+EZK.27.22+EZK.27.23"
+              },
+              "items": [
+                {
+                  "text": "Esek 27.3–23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.3",
+            "verseOrgIds": [
+              "ISA.23.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 23:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sonoka, we Sitoni, nũndũ ũkanga ũneenete, ngome yĩ vinya ya ũkanga, ũkyasya, Ndyaaũnya, kana kũsyaa, o na ndyaaea anake, kana kũea eĩtu atheu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.4",
+            "verseOrgIds": [
+              "ISA.23.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 23:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yĩla ũvoo wĩvika Misili makeew’a woo mũno ũndũ wa ũvoo wa Tile. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.5",
+            "verseOrgIds": [
+              "ISA.23.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 23:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ingai mũende Talisisi; metai, inyw’ĩ mũtwĩe ũtee wa ũkanga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.6",
+            "verseOrgIds": [
+              "ISA.23.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 23:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ĩno nĩyo ndũa yenyu yĩ ũtanu, ĩla yakiwe tene tene, ĩla maũũ mayo mamĩtwaie kũasa yĩkale ũeni?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.7",
+            "verseOrgIds": [
+              "ISA.23.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 23:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.7",
+            "verseOrgIds": [
+              "ISA.23.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 23:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nũũ ũla wamĩtw’ĩĩe Tile ũndũ ũũ, ĩla ĩnenganae ngovia ya ũsumbĩ, na athoosya mayo nĩ anene me mbee ũsumbĩnĩ, na atandĩthya mayo nĩ ala me na nguma kũũ nthĩ? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.8",
+            "verseOrgIds": [
+              "ISA.23.8"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.2.12"
+              },
+              "items": [
+                {
+                  "text": "Isa 2.12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.8",
+            "verseOrgIds": [
+              "ISA.23.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 23:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yeova wa nguthu nĩwe watwie ũndũ ũũ, nĩ kana avukye ngathĩĩo ya ũnene w’onthe, na amavũthĩthye onthe ma nthĩ ala me nguma. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.9",
+            "verseOrgIds": [
+              "ISA.23.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 23:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Vĩtĩla katĩ wa nthĩ yaku ta ũsĩ wa Naelo, we mwĩĩtu wa Talisisi; vati kĩsiĩĩi ĩngĩ. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.10",
+            "verseOrgIds": [
+              "ISA.23.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 23:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nũtambũũkĩtye kw’oko kwake ĩũlũ wa ũkanga, nũthingithangĩtye mosumbĩ; Yeova nĩwĩaĩte ũndũ wa Kanaani, anange ngome syĩ vinya sya vo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.11",
+            "verseOrgIds": [
+              "ISA.23.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 23:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake asya, Ndũkatana ĩngĩ, we mwĩĩtu mũtheu wa Sitoni ũla ũthĩnĩtw’e: ũkĩla noiinga ũende Kitimu; o na kw’o ndũkona ũthũmũo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.12",
+            "verseOrgIds": [
+              "ISA.23.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 23:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.12",
+            "verseOrgIds": [
+              "ISA.23.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 23:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sisya, nthĩ ya Akalitei: andũ asu mati vo; Mũasuli amiĩte yĩthĩwe ya ala matũaa weũnĩ; nĩmaakie myako yoo mĩtũlu ya mĩnyoolo; nĩmaing’uthũlile nyũmba nene mbanakavye sya vo; nĩmamĩtw’ĩkĩthisye nthei. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.13",
+            "verseOrgIds": [
+              "ISA.23.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ISA 23:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kayai, inyw’ĩ ngalawa sya Talisisi; nũndũ ngome yenyu yĩ vinya nĩtw’ĩkĩthĩtw’e ĩanzo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.14",
+            "verseOrgIds": [
+              "ISA.23.14"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.23.1"
+              },
+              "items": [
+                {
+                  "text": "Isa 23.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.14",
+            "verseOrgIds": [
+              "ISA.23.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ISA 23:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na kũkethĩwa mũthenya ũsu, kana Tile ĩkoola myaka mĩongo mũonza, kwĩanana na mĩthenya ya mũsumbĩ ũmwe: myaka mĩongo mũonza yathela kũkeethĩwa kũilyĩ kwa Tile o tondũ kũilyĩ kwinanĩ kwa ĩlwaya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.15",
+            "verseOrgIds": [
+              "ISA.23.15"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.25.11"
+              },
+              "items": [
+                {
+                  "text": "Yel 25.11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.15",
+            "verseOrgIds": [
+              "ISA.23.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ISA 23:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Osa mbeve, noianganga ndũanĩ, we ĩlwaya yĩla yũlĩte; ũkĩlya wasya wĩ mũyo, ina mbathi nyingĩ, nĩ kana ũlilikanwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.16",
+            "verseOrgIds": [
+              "ISA.23.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ISA 23:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na kũkeethĩwa myaka mĩongo mũonza yathela, Yeova akavikĩa Tile, nayo ĩkasyokea ĩtuvi yayo, na ĩkeeka ũmalwaya na mosumbĩ onthe ala me ĩũlũ wa nthĩ. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.17",
+            "verseOrgIds": [
+              "ISA.23.17"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.17.1"
+              },
+              "items": [
+                {
+                  "text": "Ũvu 17.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.17.2"
+              },
+              "items": [
+                {
+                  "text": "2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.17",
+            "verseOrgIds": [
+              "ISA.23.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ISA 23:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na mĩio yayo ya ũthoosya na ĩtuvi yayo yĩkeethĩwa ĩvathan’ye kwa Yeova: yĩtikasũvĩwa kana kwiwa; nũndũ mĩio yayo ya ũthoosya ĩkeethĩwa ya ala mekalaa mbee wa Yeova, maĩsae lĩu wa kũmeanĩa, na mekĩae ngũa sya kwĩkalaa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.23.18",
+            "verseOrgIds": [
+              "ISA.23.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.24",
+    "number": "24",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.22",
+    "number": "22",
+    "bookId": "ISA"
+  }
+}

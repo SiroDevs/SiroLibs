@@ -1,0 +1,259 @@
+{
+  "id": "AMO.5",
+  "number": "5",
+  "bookId": "AMO",
+  "reference": "Amosi 5",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "AMO 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.5.1",
+            "verseOrgIds": [
+              "AMO.5.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.7.29"
+              },
+              "items": [
+                {
+                  "text": "Yer 7:29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Emi eri e’yo mani e’dole ’yole emi dria imvo ongole ’dori, emi jo Israelini la:",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.5.1",
+            "verseOrgIds": [
+              "AMO.5.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "AMO 5:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.5.24",
+            "verseOrgIds": [
+              "AMO.5.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "AMO 5:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.5.25",
+            "verseOrgIds": [
+              "AMO.5.25"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.42"
+              },
+              "items": [
+                {
+                  "text": "’Yeta 7:42",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Emi eji ndra ma dri edeta afa feza be eli kali su angu roko driaria ra ya, emi ori’ba Israelini la? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.5.25",
+            "verseOrgIds": [
+              "AMO.5.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "AMO 5:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Adaru, emi ’du ndra Sikuti opi eminiri pie, Kiuni wura toko emini ’diyi be, ’di Mungu emini ma ’bi’bio, emini edele emi drisi ’diyi; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.5.26",
+            "verseOrgIds": [
+              "AMO.5.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "AMO 5:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "e’yo ’disi ma nga fe emi ma mu ati’baru Damasikia ’aa’dasi, Yehova ’yo ra, ru erini Mungu asikari ongulumuruniri’i.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.5.27",
+            "verseOrgIds": [
+              "AMO.5.27"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.6",
+    "number": "6",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.4",
+    "number": "4",
+    "bookId": "AMO"
+  }
+}

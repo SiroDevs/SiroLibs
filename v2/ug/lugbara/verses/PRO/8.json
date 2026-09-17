@@ -1,0 +1,131 @@
+{
+  "id": "PRO.8",
+  "number": "8",
+  "bookId": "PRO",
+  "reference": "E'Yo O'Beza 8",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "8",
+        "style": "c",
+        "sid": "PRO 8"
+      },
+      "items": [
+        {
+          "text": "8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 8:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.8.1",
+            "verseOrgIds": [
+              "PRO.8.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.1.20+PRO.1.21"
+              },
+              "items": [
+                {
+                  "text": "O’be 1:20-21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.9.3"
+              },
+              "items": [
+                {
+                  "text": "9:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.1.24"
+              },
+              "items": [
+                {
+                  "text": "1 Kor 1:24",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ondua oyuni uru ku ya? E’yo vaza engani eri ma o’duko ku ya?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.8.1",
+            "verseOrgIds": [
+              "PRO.8.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.9",
+    "number": "9",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.7",
+    "number": "7",
+    "bookId": "PRO"
+  }
+}

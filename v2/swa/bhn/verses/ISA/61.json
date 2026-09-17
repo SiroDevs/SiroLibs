@@ -1,0 +1,116 @@
+{
+  "id": "ISA.61",
+  "number": "61",
+  "bookId": "ISA",
+  "reference": "Isaya 61",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "61",
+        "style": "c",
+        "sid": "ISA 61"
+      },
+      "items": [
+        {
+          "text": "61",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 61:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.61.1",
+            "verseOrgIds": [
+              "ISA.61.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "61:1-2 Taz Luka 4:18-19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.61.1",
+            "verseOrgIds": [
+              "ISA.61.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "61:1 Taz Mat 11:5; Luka 7:22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bwana Mwenyezi-Mungu amenijaza roho yake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.61.1",
+            "verseOrgIds": [
+              "ISA.61.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.62",
+    "number": "62",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.60",
+    "number": "60",
+    "bookId": "ISA"
+  }
+}

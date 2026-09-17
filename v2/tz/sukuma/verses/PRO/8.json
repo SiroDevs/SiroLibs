@@ -1,0 +1,82 @@
+{
+  "id": "PRO.8",
+  "number": "8",
+  "bookId": "PRO",
+  "reference": "Sumo 8",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "8",
+        "style": "c",
+        "sid": "PRO 8"
+      },
+      "items": [
+        {
+          "text": "8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Masala gakwitanaga",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 8:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Angū, a masala gatahīlīkaga",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.8.1",
+            "verseOrgIds": [
+              "PRO.8.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.9",
+    "number": "9",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.7",
+    "number": "7",
+    "bookId": "PRO"
+  }
+}

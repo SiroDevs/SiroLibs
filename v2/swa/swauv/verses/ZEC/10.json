@@ -1,0 +1,652 @@
+{
+  "id": "ZEC.10",
+  "number": "10",
+  "bookId": "ZEC",
+  "reference": "Zek 10",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "ZEC 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Matengenezo ya Yuda na Israeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEC 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.1",
+            "verseOrgIds": [
+              "ZEC.10.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.14.22"
+              },
+              "items": [
+                {
+                  "text": "Yer 14:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOL.2.23"
+              },
+              "items": [
+                {
+                  "text": "Yoe 2:23",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mwombeni BWANA mvua wakati wa masika, naam, BWANA afanyaye umeme, naye atawapa manyunyu ya mvua, kila mtu atapewa nyasi kondeni. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.1",
+            "verseOrgIds": [
+              "ZEC.10.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ZEC 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.9.36"
+              },
+              "items": [
+                {
+                  "text": "Mt 9:36",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.6.34"
+              },
+              "items": [
+                {
+                  "text": "Mk 6:34",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Kwa maana vinyago vimenena maneno ya ubatili, nao waaguzi wameona uongo; nao wameleta habari za ndoto za uongo, wafariji bure; kwa sababu hiyo waenda zao kama kondoo, wateswa, kwa sababu hapana mchungaji. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.2",
+            "verseOrgIds": [
+              "ZEC.10.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ZEC 10:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.4.31"
+              },
+              "items": [
+                {
+                  "text": "Kut 4:31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "RUT.1.6"
+              },
+              "items": [
+                {
+                  "text": "Rut 1:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEP.2.7"
+              },
+              "items": [
+                {
+                  "text": "Sef 2:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.68"
+              },
+              "items": [
+                {
+                  "text": "Lk 1:68",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.2.12"
+              },
+              "items": [
+                {
+                  "text": "1 Pet 2:12",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Hasira yangu imewaka juu ya wachungaji, nami nitawaadhibu mbuzi waume; kwa maana BWANA wa majeshi ameliangalia kundi lake, yaani, nyumba ya Yuda, naye atawafanya kuwa kama farasi wake mzuri vitani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.3",
+            "verseOrgIds": [
+              "ZEC.10.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ZEC 10:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.22.23"
+              },
+              "items": [
+                {
+                  "text": "Isa 22:23",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Kwake yeye litatoka lile jiwe la pembeni, kwake yeye utatoka msumari, kwake yeye utatoka upinde wa vita, kwake yeye atatoka kila mtawala pamoja. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.4",
+            "verseOrgIds": [
+              "ZEC.10.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ZEC 10:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao watakuwa kama mashujaa, wakanyagao adui zao katika matope ya njia vitani; nao watapiga vita, kwa sababu BWANA yu pamoja nao; na hao wapandao farasi watafadhaishwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.5",
+            "verseOrgIds": [
+              "ZEC.10.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ZEC 10:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nami nitaitia nguvu nyumba ya Yuda, nami nitaiokoa nyumba ya Yusufu, nami nitawarudisha, kwa maana nawaonea rehema; nao watakuwa kana kwamba sikuwatupa; kwa maana mimi ni BWANA, Mungu wao, nami nitawasikia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.6",
+            "verseOrgIds": [
+              "ZEC.10.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ZEC 10:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na watu wa Efraimu watakuwa kama shujaa, na moyo wao utafurahi kana kwamba ni kwa divai; naam, watoto wao wataona mambo haya, na kufurahi; mioyo yao itamfurahia BWANA. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.7",
+            "verseOrgIds": [
+              "ZEC.10.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ZEC 10:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.5.26"
+              },
+              "items": [
+                {
+                  "text": "Isa 5:26",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Nitawapigia kelele, na kuwakusanya pamoja; kwa maana nimewakomboa; nao wataongezeka kama walivyoongezeka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.8",
+            "verseOrgIds": [
+              "ZEC.10.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEC 10:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nami nitawapanda kama mbegu kati ya mataifa; nao watanikumbuka katika nchi zilizo mbali; nao watakaa pamoja na watoto wao; tena watarudi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.9",
+            "verseOrgIds": [
+              "ZEC.10.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ZEC 10:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.11.25"
+              },
+              "items": [
+                {
+                  "text": "Rum 11:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.14.26"
+              },
+              "items": [
+                {
+                  "text": "Kut 14:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.14.27"
+              },
+              "items": [
+                {
+                  "text": "27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.49.20"
+              },
+              "items": [
+                {
+                  "text": "Isa 49:20",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Tena nitawarudisha toka nchi ya Misri, nitawakusanya na kuwatoa katika Ashuru; nami nitawaingiza katika nchi ya Gileadi na Lebanoni; ila nafasi ya kuwatosha haitaonekana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.10",
+            "verseOrgIds": [
+              "ZEC.10.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ZEC 10:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.30.13"
+              },
+              "items": [
+                {
+                  "text": "Eze 30:13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Naye atapita kati ya bahari ya mateso, na kuyapiga mawimbi ya bahari, na vilindi vyote vya mto wa Nile vitakauka; na kiburi cha Ashuru kitashushwa; na fimbo ya enzi ya Misri itatoweka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.11",
+            "verseOrgIds": [
+              "ZEC.10.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ZEC 10:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nami nitawatia nguvu katika BWANA; nao watatembea huko na huko katika jina lake, asema BWANA.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.10.12",
+            "verseOrgIds": [
+              "ZEC.10.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEC.11",
+    "number": "11",
+    "bookId": "ZEC"
+  },
+  "previous": {
+    "id": "ZEC.9",
+    "number": "9",
+    "bookId": "ZEC"
+  }
+}

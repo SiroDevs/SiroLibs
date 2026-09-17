@@ -1,0 +1,93 @@
+{
+  "id": "ISA.25",
+  "number": "25",
+  "bookId": "ISA",
+  "reference": "Yesaya 25",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "25",
+        "style": "c",
+        "sid": "ISA 25"
+      },
+      "items": [
+        {
+          "text": "25",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 25:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.25.8",
+            "verseOrgIds": [
+              "ISA.25.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 25:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuri uwo musi ni ho bazovuga bati:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.25.9",
+            "verseOrgIds": [
+              "ISA.25.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.26",
+    "number": "26",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.24",
+    "number": "24",
+    "bookId": "ISA"
+  }
+}

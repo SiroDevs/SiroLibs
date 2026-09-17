@@ -1,0 +1,890 @@
+{
+  "id": "1TH.2",
+  "number": "2",
+  "bookId": "1TH",
+  "reference": "1Ath 2",
+  "verseCount": 20,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "1TH 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ngûgî ya Paûlû kûu Thesalonike",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1TH 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tontû buî bwingwa ataana na aarî ba baaba nî bwijî atî kwîja gweetû kîrî buî gûtaeere kwa ûtheri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.1",
+            "verseOrgIds": [
+              "1TH.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1TH 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.16.19+ACT.16.20+ACT.16.21+ACT.16.22+ACT.16.23+ACT.16.24"
+              },
+              "items": [
+                {
+                  "text": "Maj 16.19-24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.17.1+ACT.17.2+ACT.17.3+ACT.17.4+ACT.17.5+ACT.17.6+ACT.17.7+ACT.17.8+ACT.17.9"
+              },
+              "items": [
+                {
+                  "text": "17.1-9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Kinya këethîrwa nî twaambîte kûthangîkua na kûrumangwa tûrî kûrîa Filipi, o ta ûrîa buî bwingwa bwijî, Mûrungu weetû nî atûûmîîrîrie nîkenda tûtûmîîria Nteto Injega ciaawe kîrî buî kinya këethîra babaingî nî barûjaga na ûntû bûu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.2",
+            "verseOrgIds": [
+              "1TH.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1TH 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ûntû bûu tûkûbwerenceera bûtîumanîtie na waayia kana merekeeria jamathûûku ja nkoro cieetû, kana kwîthîrwa ga kûrî muntû tûkwenda kwaîria. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.3",
+            "verseOrgIds": [
+              "1TH.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1TH 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Îgiita rîonthe tuî twaragia kûringana na kwenda kwa Mûrungu, tontû nîwe wonere atî nî twagîrîte na aratûnenkera Nteto Injega. Mworoto jweetû tî kûgwîria antû, îndî nî kûgwîria Mûrungu ûrîa wiijî nkoro cieetû. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.4",
+            "verseOrgIds": [
+              "1TH.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1TH 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tontû buî nî bwijî atî gûtî rîo tuî twaageria gûciendithia kîrî buî na nteto cia kûbwaîria kana twîja kîrî buî na ûûme tûgîcwaa kûbwaiyia tûbûtuunya into bieenu. Mûrungu wengwa nî mûkûûjî wa ûntû bûu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.5",
+            "verseOrgIds": [
+              "1TH.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1TH 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningî gûtî rîo tuî twacwaa gûkumua nî antû, barweethîrwa nî buî kana nî antû bangî. Kinya këethîra tuî ta atûmwa ba Kristû nî twabuîri kûbwîra bûtûteethererie. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.6",
+            "verseOrgIds": [
+              "1TH.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1TH 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Îndî tuî ga twaeere ainyiiyia tûrî kîrî buî, tûrakara ta ûrîa ng'ina wa twaana amenyagîîra aana baawe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.7",
+            "verseOrgIds": [
+              "1TH.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1TH 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tontû bwa ûrîa twabwendeete mono tî Nteto Injega twabûtûmîîrîrie akî, îndî nî twacieejanîre kîrî buî. Twathithîrie ûu nîûntû bwa ûrîa twabwendeete mono.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.8",
+            "verseOrgIds": [
+              "1TH.2.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1TH 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.8",
+            "verseOrgIds": [
+              "1TH.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1TH 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tontû buî ataana na aarî ba baaba, nî bûkûririkana ngûgî înjûmo na mînoga îrîa twaanogaga tûkîrita ngûgî mûthenya na ûtukû. Twathithagia ûû îgiiteene rîrîa twabûtûmagîîria Nteto Injega nîkenda tûtîkeeje kwaa mûrigo kîrî kinya ûmwe weenu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.9",
+            "verseOrgIds": [
+              "1TH.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1TH 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Buî barîa bwîtîkîtie bûrî akûûjî, o na Mûrungu wengwa nî mûkûûjî wa ûrîa tuî tweetaga na mîîtîre ya ûtheru na ya waagîru na îrîa tûtîûmba kûguutîrwa rîrîa twatûûranagia amwe naabuî. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.10",
+            "verseOrgIds": [
+              "1TH.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1TH 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tontû buî nî bûkûmenya atî twakari ta îthe wa aana ûrîa akaraga arî kîrî aana baawe. Nî twoonagîîria o ûmwe weenu na tûkabwîkîra wîru na tûkabûkinyîîria atî, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.11",
+            "verseOrgIds": [
+              "1TH.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1TH 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "bûtûûrage ûtûûro bûrîa bûgwîragia Mûrungu ûrîa ûbwîtîte Ûneneene na mwagoone jwaawe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.12",
+            "verseOrgIds": [
+              "1TH.2.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1TH 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.12",
+            "verseOrgIds": [
+              "1TH.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1TH 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningî nî tûcokagîria Mûrungu nkaatho îgiita rîonthe nî kwîthîrwa rîrîa buî bwetîkîrie rûteto rwa Mûrungu rûrîa bwaigîrue kuuma kîrî tuî bwarwîtîkîrie rûrî rûteto rwa Mûrungu na tî rûteto rwa antû. Ûu bwaarwîtîkîrie rûrî rûteto kuuma kîrî Mûrungu nîu rwarî, tontû kinya nandî nîru rûkûrita ngûgî rûrî ndeene yeenu buî barîa bwîtîkîtie. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.13",
+            "verseOrgIds": [
+              "1TH.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1TH 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.17.5"
+              },
+              "items": [
+                {
+                  "text": "Maj 17.5",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Ataana na aarî ba baaba, nî bwakarîre ta kanisa cia Mûrungu irîa ciîtîkîtie Kristû Jesû irîa irî nthîgûrû ya Judea, nîkwîthîrwa nî bwathangîkîrue nî antû ba nthîgûrû yeenu na mantû o ta jarîa kanisa cia Judea ciathangîkîrue najo nî Ayahudi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.14",
+            "verseOrgIds": [
+              "1TH.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1TH 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.9.23"
+              },
+              "items": [
+                {
+                  "text": "Maj 9.23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.9.29"
+              },
+              "items": [
+                {
+                  "text": "29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.13.45"
+              },
+              "items": [
+                {
+                  "text": "13.45",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.13.50"
+              },
+              "items": [
+                {
+                  "text": "50",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.14.2"
+              },
+              "items": [
+                {
+                  "text": "14.2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.14.5"
+              },
+              "items": [
+                {
+                  "text": "5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.14.19"
+              },
+              "items": [
+                {
+                  "text": "19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.17.5"
+              },
+              "items": [
+                {
+                  "text": "17.5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.17.13"
+              },
+              "items": [
+                {
+                  "text": "13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.18.12"
+              },
+              "items": [
+                {
+                  "text": "18.12",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Bo nîbo booragîre Jesû na iroria, na nîbo baatwîngîre tûrauma kûu. Nî baaigithîrie Mûrungu bûbûûî bakîrûjaga na antû bangî bonthe, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.15",
+            "verseOrgIds": [
+              "1TH.2.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1TH 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na barageria gûtûrigîîria gûtûmîîria kîrî antû barîa batî Ayahudi nîkenda boonoka. Baathithagia ûu ta antû bakûgeria kûjûrîîria mûng'ana jwa meeyia jaao jarîa baatwîre kûthithia. Îndî nandî mûthûûro jwa Mûrungu nî jûthirîtie kûbakinyîra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.16",
+            "verseOrgIds": [
+              "1TH.2.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Paûlû kwirîrîria kûriûngîra Athesalonike kaîrî",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1TH 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.16",
+            "verseOrgIds": [
+              "1TH.2.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1TH 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ataana na aarî ba baaba, kuuma rîrîa twaathûkanîre naabuî antû a kagiita gagakai, tûratigana mîîrî îndî nkoro ciaarî o amwe, nî twaaciûmîrie mono tûkîendaga twonana naabuî. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.17",
+            "verseOrgIds": [
+              "1TH.2.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1TH 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nî tweendaga kwîja kîrî buî mono. Ni Paûlû nî ndaagererie kwîja nkûrûki ya rîmwe îndî Nkoma aratûrigîîria. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.18",
+            "verseOrgIds": [
+              "1TH.2.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "1TH 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "A rî, rîrîa tûkarûngama mbere ya Mwathani weetû Jesû rîrîa akeeja rî, nîmbi îkeethîrwa îrî kûgwîrua kana wîrîgîîro kana thirû yeetû? Anga tî buî? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.19",
+            "verseOrgIds": [
+              "1TH.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1TH 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tontû nî buî ûkumio na kûgwîrua gweetû.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.20",
+            "verseOrgIds": [
+              "1TH.2.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1TH.3",
+    "number": "3",
+    "bookId": "1TH"
+  },
+  "previous": {
+    "id": "1TH.1",
+    "number": "1",
+    "bookId": "1TH"
+  }
+}

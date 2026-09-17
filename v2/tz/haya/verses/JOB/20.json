@@ -1,0 +1,68 @@
+{
+  "id": "JOB.20",
+  "number": "20",
+  "bookId": "JOB",
+  "reference": "Yobu 20",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "20",
+        "style": "c",
+        "sid": "JOB 20"
+      },
+      "items": [
+        {
+          "text": "20",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 20:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nikwo Zofari Omunaamati kuhorora ati,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.20.1",
+            "verseOrgIds": [
+              "JOB.20.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.21",
+    "number": "21",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.19",
+    "number": "19",
+    "bookId": "JOB"
+  }
+}

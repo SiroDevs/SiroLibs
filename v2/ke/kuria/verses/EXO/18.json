@@ -1,0 +1,909 @@
+{
+  "id": "EXO.18",
+  "number": "18",
+  "bookId": "EXO",
+  "reference": "Ëgeetëko 18",
+  "verseCount": 27,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "18",
+        "style": "c",
+        "sid": "EXO 18"
+      },
+      "items": [
+        {
+          "text": "18",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yetiro arataarra Mösa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EXO 18:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Isabhiara waabho Mösa iga Yetiro, öno aarëngë umunchaama wa Mitiani, akaigua amang'ana gonsui garë Ënooköë wanyoorrë akoreeyë Mösa na Abhaisiraeri nkaaga aabharuusiri gönsë ya Misiri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.1",
+            "verseOrgIds": [
+              "EXO.18.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EXO 18:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.2.21"
+              },
+              "items": [
+                {
+                  "text": "Ëgt 2:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.2.22"
+              },
+              "items": [
+                {
+                  "text": "22",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Köhayö Yetiro, isabhiara waabho Mösa, akaimukia Sibhora ömökari wa Mösa öno wanyoorrë Mösa aaringia kuya waabho, akagëëra Mösa, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.2",
+            "verseOrgIds": [
+              "EXO.18.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EXO 18:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.29"
+              },
+              "items": [
+                {
+                  "text": "Ama 7:29",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "hamui na abhaana bhaae bhabhërë, bhano ömötangi aarë köbhërëkëroa iga Gerisomu (kugira naagambërë iga, “Uni nö umuitongo ndë gönsë ënhamatë”). ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.3",
+            "verseOrgIds": [
+              "EXO.18.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EXO 18:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akaröka öwa kabhërë iga Erieseri (kugira naagambërë iga “Ënooköë wa taata nëwe aantuurri kurua gunchonge ya Bharao”). ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.4",
+            "verseOrgIds": [
+              "EXO.18.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EXO 18:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yetiro, isabhiara waabho Mösa, naachërë na umusubhaati waae, nko kögamba iga ömökari wa Mösa hamui na abhaana bha Mösa, akanyoora Mösa guiköngö harë wanyoorë aatööra irisanchö, kunguku yë Ënooköë. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.5",
+            "verseOrgIds": [
+              "EXO.18.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EXO 18:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hano Mösa aateebhibhui iga, isabhiara waabho, mökaae na abhaana bhaae bhabhërë nguucha bharë, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.6",
+            "verseOrgIds": [
+              "EXO.18.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EXO 18:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "naarichokërë kuya guturung'ana isabhiara waabho, akahigama na kömönamuuna. Bhagakeerania, hakurua akabhairigania guitume reee. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.7",
+            "verseOrgIds": [
+              "EXO.18.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EXO 18:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mösa akanabhëra isabhiara waabho gonsui gano ÖMÖNENE aakoreeyë Bharao wa Misiri gikugira ya Abhaisiraeri. Guiki naamoreeyë inyaanyi yonsui ëno aanyoorrë gönchëra na bhörë ÖMÖNENE aamutuurri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.8",
+            "verseOrgIds": [
+              "EXO.18.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EXO 18:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yetiro akagookeröa na amakora gonsui gano ÖMÖNENE aakorrë gikugira ya Abhaisiraeri, gököbhabhohoria kurua kömabhoko ga Abhamisiri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.9",
+            "verseOrgIds": [
+              "EXO.18.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EXO 18:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yetiro akagamba iga, “Tiga ÖMÖNENE agöngöe, öno aabhatuurri kurua kö Abhamisiri na kurua köbhögöre bho Bharao. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.10",
+            "verseOrgIds": [
+              "EXO.18.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EXO 18:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bhoono mmanyërë iga ÖMÖNENE nö ömönene gökëra ichinooköë chonsui, kugira aatuuria abhantö bhano kurua kömabhoko ga Abhamisiri, bhano bhaarë köbhakorra inkurenge.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.11",
+            "verseOrgIds": [
+              "EXO.18.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EXO 18:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hakurua Yetiro isabhiara waabho Mösa, akaruusiria Ënooköë ësataaka ya gösambërëërröa na ibhimuenso. Haruni hamui na abhagaaka bha Isiraeri bhagaacha köraagëra hamui na Yetiro, mbere yö ÖMÖNENE.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.12",
+            "verseOrgIds": [
+              "EXO.18.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ökoohoröa köa Abhahökania",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EXO 18:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.12",
+            "verseOrgIds": [
+              "EXO.18.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EXO 18:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Urusikö ro kabhërë Mösa agaikara kohökania amagamba ga Abhaisiraeri, na abhantö bhakaimëërra bhainaarrë Mösa gukurua inkio kuhika ömögoroobha. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.13",
+            "verseOrgIds": [
+              "EXO.18.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EXO 18:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hano Yetiro, isabhiara waabho Mösa aarööchë amang'ana gano muirua waae aarë gökorra Abhaisiraeri, naamubhuurri iga, “Igankë ögökorra abhantö igo? Ndaigua nu umuene uguikara na hano abhantö bhakuinaarrë gukurua inkio kuhika ömögoroobha?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.14",
+            "verseOrgIds": [
+              "EXO.18.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EXO 18:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mösa akahunchukiria isabhiara waabho iga, “Ngikugira ëno abhantö bhaguucha harë uni kubhuuria irigonche rë Ënooköë. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.15",
+            "verseOrgIds": [
+              "EXO.18.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EXO 18:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hano nanyoora ömöntö ana iribhëëha na wöndë, nguucha bharë harë uni mbaahökania, na köbhaigia imigiro gë Ënooköë na öbhökengi bhui ikiina.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.16",
+            "verseOrgIds": [
+              "EXO.18.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EXO 18:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.16",
+            "verseOrgIds": [
+              "EXO.18.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EXO 18:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yetiro, isabhiara waabho Mösa akamoteebhia iga, “Ëng'ana ëno ögökora tinchiiya hai! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.17",
+            "verseOrgIds": [
+              "EXO.18.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EXO 18:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nöröörëke uwe umuene hamui na abhantö bhano, kugira ëmëremo gëno në ëmëkong'u gëno ötaatöre gökora umuene. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.18",
+            "verseOrgIds": [
+              "EXO.18.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EXO 18:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bhoono tegeerra öbhöragirria bhoone, Ënooköë abhe hamui na uwe. Uwe uyi uraya mbere yë Ënooköë kuibhaga ria abhantö na göteebhia Ënooköë inyaanyi yaabho; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.19",
+            "verseOrgIds": [
+              "EXO.18.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EXO 18:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "köbhaigia imigiro gë Ënooköë na öbhokengi bhui ikiina na köbhoorokia bhörë këragërë. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.20",
+            "verseOrgIds": [
+              "EXO.18.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "EXO 18:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Si igörö ya amang'ana gandë gano, waahöre abhantö bhano bhaisaini kurua köbhantö bhonsui, abhantö bhano bhagösööka Ënooköë, abhaheene, bhano bharegërë amasooya. Öbhahe ögötöra go kuimëërëërra abhantö kömakomo gi ibhiköë, amagana, mërongo ëtaano na amakumi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.21",
+            "verseOrgIds": [
+              "EXO.18.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EXO 18:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bhayö mbo bharaayi bharaikara ibhiikaro këra rusikö kohökania irigamba ria abhantö. Irigamba irikong'u bhakörentera uwe, si amagamba amakemake bhagahökania abhiene. Kögökora igo, nöratöre kuhuhia ëmërëmo geeo kugira mbaragutuurri ëmërëmo gëyö. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.22",
+            "verseOrgIds": [
+              "EXO.18.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "EXO 18:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hano örakore igo, na hano ndanyoore Ënooköë niigo agutuna, nöragenderri na abhantö bhano bhonsui mbararinge kuya waabho bhaana ömörembe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.23",
+            "verseOrgIds": [
+              "EXO.18.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "EXO 18:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.23",
+            "verseOrgIds": [
+              "EXO.18.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "EXO 18:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mösa akagoota amaragirriö ga isabhiara waabho na gökora kehaara amöteebhiri. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.24",
+            "verseOrgIds": [
+              "EXO.18.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "EXO 18:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Köhayö, Mösa akaahöra abhantö bhano bhaana ögötöra gatai ya Abhaisiraeri, akabhakora abhatangati bha amakomo gi ibhiköë, amagana, mërongo ëtaano na abha amakumi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.25",
+            "verseOrgIds": [
+              "EXO.18.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "EXO 18:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabho bhakaya bharaahökania amagamba ga abhantö këra nkaaga. Amagamba amarito bhakarentera Mösa, si amakemake gaara mbaagasookiri abhiene. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.26",
+            "verseOrgIds": [
+              "EXO.18.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "EXO 18:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hakurua Mösa na isabhiara waabho bhagatigana, Yetiro akaringa kuya gönsë yaae.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.18.27",
+            "verseOrgIds": [
+              "EXO.18.27"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EXO.19",
+    "number": "19",
+    "bookId": "EXO"
+  },
+  "previous": {
+    "id": "EXO.17",
+    "number": "17",
+    "bookId": "EXO"
+  }
+}

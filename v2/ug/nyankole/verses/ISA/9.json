@@ -1,0 +1,167 @@
+{
+  "id": "ISA.9",
+  "number": "9",
+  "bookId": "ISA",
+  "reference": "Isaaya 9",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "9",
+        "style": "c",
+        "sid": "ISA 9"
+      },
+      "items": [
+        {
+          "text": "9",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 9:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.1",
+            "verseOrgIds": [
+              "ISA.9.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.4.15"
+              },
+              "items": [
+                {
+                  "text": "Mat 4:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.4.16"
+              },
+              "items": [
+                {
+                  "text": "16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Kwonka aha mwishiki ogwo owaabaire aine obusaasi, tiharibaho mwirima. Omu biro bya ira Ruhanga akagayisa ensi ya Zebuluuni n'eya Nafutaali, kwonka omubiro bya bwanyima egyo nsi aryagihindura ey'ekitiinisa, Galilaaya eyaabaire ekubwirwe abanyamahanga, seenu ya Yorudani, aha muhanda ogurikuza aha Nyanja.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.1",
+            "verseOrgIds": [
+              "ISA.9.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.15.29"
+              },
+              "items": [
+                {
+                  "text": "2 Bag 15:29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.16.4"
+              },
+              "items": [
+                {
+                  "text": "2 Bus 16:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.10",
+    "number": "10",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.8",
+    "number": "8",
+    "bookId": "ISA"
+  }
+}

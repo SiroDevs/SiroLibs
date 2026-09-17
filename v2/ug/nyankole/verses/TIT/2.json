@@ -1,0 +1,682 @@
+{
+  "id": "TIT.2",
+  "number": "2",
+  "bookId": "TIT",
+  "reference": "Tito 2",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "TIT 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "TIT 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.1",
+            "verseOrgIds": [
+              "TIT.2.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2TI.1.13"
+              },
+              "items": [
+                {
+                  "text": "2 Tim 1:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Kwonka iwe ogume oyegyese ebishemereire enyegyesa y'amazima, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.1",
+            "verseOrgIds": [
+              "TIT.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "TIT 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ogambire abagurusi barekye kusinda, babe abeerinzi, abaine omutima ogurikweyangisa, kandi babe abahikire omu kwikiriza n'omu kukunda kandi n'omu kugumisiriza; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.2",
+            "verseOrgIds": [
+              "TIT.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "TIT 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.3.11"
+              },
+              "items": [
+                {
+                  "text": "1 Tim 3:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " abakaikuru nabo batwaze nk'oku kishemereire abarikwera, abatarikubeiherera bandi, abatari bahuuku b'ebirikusinza; beegyese ebirungi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.3",
+            "verseOrgIds": [
+              "TIT.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "TIT 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "babone kutendeka abakazi bato kukunda baibabo n'abaana baabo, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.4",
+            "verseOrgIds": [
+              "TIT.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "TIT 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "bagire omutima murungi, beerinde obushambani, bakore emirimo yaabo omu maka, bagire embabazi, boorobere baibabo, ekigambo kya Ruhanga kirekye kujumwa; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.5",
+            "verseOrgIds": [
+              "TIT.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "TIT 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kandi oragiire abatsigazi nabo bagire omutima ogurikweyangisa; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.6",
+            "verseOrgIds": [
+              "TIT.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "TIT 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.5.3"
+              },
+              "items": [
+                {
+                  "text": "1 Pet 5:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " naiwe omuri byona oyeyorekye nk'eky'okureeberaho omu kukora gye; omu kwegyesa kwawe oyeyorekye ku otari ndyarya, kureka ku ori omwerinzi, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.7",
+            "verseOrgIds": [
+              "TIT.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "TIT 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.2.15"
+              },
+              "items": [
+                {
+                  "text": "1 Pet 2:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " orikugamba ebigambo by'amazima ebitarikugaywa, haza ogwo orikuturwanisa akwatwe enshoni ahabw'okubura ekibi ky'okutwomesereza. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.8",
+            "verseOrgIds": [
+              "TIT.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "TIT 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.6.5"
+              },
+              "items": [
+                {
+                  "text": "Efe 6:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Gambira abahuuku boorobere bakama baabo, babone kusiimwa omuri byona; barekye kwetomboita, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.9",
+            "verseOrgIds": [
+              "TIT.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "TIT 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nari okwiba; kureka beeyorekye bari abeesigwa buzima, babone kusiimisa enyegyesa ya Ruhanga Omujuni waitu omuri byona.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.10",
+            "verseOrgIds": [
+              "TIT.2.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "TIT 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.10",
+            "verseOrgIds": [
+              "TIT.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "TIT 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ahakuba embabazi za Ruhanga zireebekire nizireetera abantu boona okujunwa, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.11",
+            "verseOrgIds": [
+              "TIT.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "TIT 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nizituhabura kwanga okutatiina Ruhanga n'okwetenga eby'ensi, ngu tubone kugumaho omu busingye obu obwa hati, nitwerinda, turi abahikiriire, abarikutiina Ruhanga, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.12",
+            "verseOrgIds": [
+              "TIT.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "TIT 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PHP.3.20"
+              },
+              "items": [
+                {
+                  "text": "Fil 3:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " tutegyereize eki twineho amatsiko agarimu omugisha, nikwo kworekwa kw'ekitiinisa okwa Ruhanga waitu, Yesu Kristo, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.13",
+            "verseOrgIds": [
+              "TIT.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "TIT 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GAL.1.4"
+              },
+              "items": [
+                {
+                  "text": "Gal 1:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.130.8"
+              },
+              "items": [
+                {
+                  "text": "Zab 130:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.14.2"
+              },
+              "items": [
+                {
+                  "text": "Bir 14:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " owaayehaireyo ahabwaitu, kutucungura omu bugomi bwona, n'okutweza ahabwe, ngu tubone kuba eihanga rye eritoorainwe, eririkwezirikira kukora emirimo emirungi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.14",
+            "verseOrgIds": [
+              "TIT.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "TIT 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ebyo obe nibyo waagamba, obibahabure, obahane n'obushoboorozi bwingi. Hatagira omuntu weena owaakugaya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.15",
+            "verseOrgIds": [
+              "TIT.2.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "TIT.3",
+    "number": "3",
+    "bookId": "TIT"
+  },
+  "previous": {
+    "id": "TIT.1",
+    "number": "1",
+    "bookId": "TIT"
+  }
+}

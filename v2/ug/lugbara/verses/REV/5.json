@@ -1,0 +1,740 @@
+{
+  "id": "REV.5",
+  "number": "5",
+  "bookId": "REV",
+  "reference": "E'Yo Eceza 5",
+  "verseCount": 9,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "REV 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "REV 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.1",
+            "verseOrgIds": [
+              "REV.5.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.2.9+EZK.2.10"
+              },
+              "items": [
+                {
+                  "text": "Eze 2:9-10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.6.1"
+              },
+              "items": [
+                {
+                  "text": "Isa 6:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.29.11"
+              },
+              "items": [
+                {
+                  "text": "29:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.47.8"
+              },
+              "items": [
+                {
+                  "text": "Zab 47:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.4.2"
+              },
+              "items": [
+                {
+                  "text": "Eceza 4:2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Te ma ndre ’ba ripi oguna ma driari ma dri ndiria buku indi sizaru alenia azini ngukunia, opizaru ci eceta tini opizu aziri ’diyisi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.1",
+            "verseOrgIds": [
+              "REV.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "REV 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ma ndre malaika okporuni e’yo oluria o’duko urusi, A’di ma onyi fu dri buku zizu azini eceta tini opizu ’diyi ondizuni ya? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.2",
+            "verseOrgIds": [
+              "REV.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "REV 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "’Ba aluni ’bua, kani nyakua, kani va nyaku ma etia, ceopi buku nde zipi, kani eri ndrepini yo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.3",
+            "verseOrgIds": [
+              "REV.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "REV 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Te ma wu tu yini ’ba aluni dri fupi buku zipi, kani eri ndrepini isule kurisi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.4",
+            "verseOrgIds": [
+              "REV.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "REV 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.49.9"
+              },
+              "items": [
+                {
+                  "text": "E’do 49:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.11.1"
+              },
+              "items": [
+                {
+                  "text": "Isa 11:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.11.10"
+              },
+              "items": [
+                {
+                  "text": "10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.22.16"
+              },
+              "items": [
+                {
+                  "text": "Eceza 22:16",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Te ’ba ’wara ma azi alu ’yo ma tia, Mi wu ku; mi ne Kami suru Yudani, Ola Daudiniri, aga dri fuzu buku pi zizu, eceta erini aziri ’diyi be ra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.5",
+            "verseOrgIds": [
+              "REV.5.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "REV 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.5",
+            "verseOrgIds": [
+              "REV.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "REV 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.6",
+            "verseOrgIds": [
+              "REV.5.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.53.7"
+              },
+              "items": [
+                {
+                  "text": "Isa 53:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.11.2"
+              },
+              "items": [
+                {
+                  "text": "11:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.29"
+              },
+              "items": [
+                {
+                  "text": "Yoh 1:29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.36"
+              },
+              "items": [
+                {
+                  "text": "36",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.4.5"
+              },
+              "items": [
+                {
+                  "text": "Eceza 4:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.4.10"
+              },
+              "items": [
+                {
+                  "text": "Zek 4:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Azini ma ndre oguna pi ma eselia anyapa idriru su ’diyi be, azini ’ba ’wara ma eselia, Kabilomvani pa soria, ekile lile ’borile, o’yuni aziri, mileni aziri, mile nde ’diyi yi Orindi Munguni aziri ti opele wudrikuru dria ma alia ’diyi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.6",
+            "verseOrgIds": [
+              "REV.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "REV 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.6.1"
+              },
+              "items": [
+                {
+                  "text": "Isa 6:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.47.8"
+              },
+              "items": [
+                {
+                  "text": "Zab 47:8",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Eri emu buku ’du ’ba ripi oguna driari ma dri ndiria. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.7",
+            "verseOrgIds": [
+              "REV.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "REV 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.141.2"
+              },
+              "items": [
+                {
+                  "text": "Zab 141:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.14.2"
+              },
+              "items": [
+                {
+                  "text": "Eceza 14:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.15.2"
+              },
+              "items": [
+                {
+                  "text": "15:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.8.3"
+              },
+              "items": [
+                {
+                  "text": "8:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.8.4"
+              },
+              "items": [
+                {
+                  "text": "4",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Eri ka buku ’du ’bo, anyapa idriru su ’diyi pi ’ba ’wara kali iri drini su ’diyi be, yi eco yi va Kabilomva ma palaa, yi dria alu alu ovu o’di be, azini lu’bu meleru gapi obiese arikariruri be tre tre ’diyi be, yi zita ’ba alatararu ’diyini. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.8",
+            "verseOrgIds": [
+              "REV.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "REV 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.33.3"
+              },
+              "items": [
+                {
+                  "text": "Zab 33:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.98.1"
+              },
+              "items": [
+                {
+                  "text": "98:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.144.9"
+              },
+              "items": [
+                {
+                  "text": "144:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.42.10"
+              },
+              "items": [
+                {
+                  "text": "Isa 42:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Yi ngo ongo o’diru, ’yozu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.9",
+            "verseOrgIds": [
+              "REV.5.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "REV.6",
+    "number": "6",
+    "bookId": "REV"
+  },
+  "previous": {
+    "id": "REV.4",
+    "number": "4",
+    "bookId": "REV"
+  }
+}

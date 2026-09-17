@@ -1,0 +1,228 @@
+{
+  "id": "ISA.27",
+  "number": "27",
+  "bookId": "ISA",
+  "reference": "Isaya 27",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "27",
+        "style": "c",
+        "sid": "ISA 27"
+      },
+      "items": [
+        {
+          "text": "27",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Both pa Isiraili",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 27:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.27.1",
+            "verseOrgIds": [
+              "ISA.27.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.41.1"
+              },
+              "items": [
+                {
+                  "text": "Yob 41:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.74.14"
+              },
+              "items": [
+                {
+                  "text": "Zab 74:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.104.26"
+              },
+              "items": [
+                {
+                  "text": "104:26",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "I ndelo no Rwoth lathumo banja ri Leviathan thwol ma ringo, Leviathan thwol ma minere, g'abor mager, madwoŋ, aka matek, aka laneko bulir manitie i nam.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.27.1",
+            "verseOrgIds": [
+              "ISA.27.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 27:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.27.11",
+            "verseOrgIds": [
+              "ISA.27.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 27:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I ndelo no, Rwoth layeko win wok i Yufrete tundo i kew ma Misir, aka ilacoko win kanyacel acel acele, awi Joisiraili. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.27.12",
+            "verseOrgIds": [
+              "ISA.27.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 27:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I ndelo no, ilakudho gwara madwoŋ, aka jono m'oyido jorwenyo i lowo ma Asiria kodi jono m'oyido oriem jo woko i lowo ma Misir jolabino lamo Rwoth wi got maleŋ i Yerusalem.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.27.13",
+            "verseOrgIds": [
+              "ISA.27.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.28",
+    "number": "28",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.26",
+    "number": "26",
+    "bookId": "ISA"
+  }
+}

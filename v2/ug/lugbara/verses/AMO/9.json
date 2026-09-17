@@ -1,0 +1,168 @@
+{
+  "id": "AMO.9",
+  "number": "9",
+  "bookId": "AMO",
+  "reference": "Amosi 9",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "9",
+        "style": "c",
+        "sid": "AMO 9"
+      },
+      "items": [
+        {
+          "text": "9",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 9:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ma ndre Opini pa soria pari edeta edezuri ma kalatia, eri nga di ’yo:",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.1",
+            "verseOrgIds": [
+              "AMO.9.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "AMO 9:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.10",
+            "verseOrgIds": [
+              "AMO.9.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "AMO 9:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.11",
+            "verseOrgIds": [
+              "AMO.9.11"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.15.16+ACT.15.17+ACT.15.18"
+              },
+              "items": [
+                {
+                  "text": "’Yeta 15:16-18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O’du ’dasi ma nga bere Daudini i asupi vari edre uru, ma nga pari erini yi olupi hu hu ’diyi eci dika, ma nga pari yi asupi va ’diyi edre ra, ma nga eri si uru ekile o’du drio ’diyi ma aliarile;",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.11",
+            "verseOrgIds": [
+              "AMO.9.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "OBA.1",
+    "number": "1",
+    "bookId": "OBA"
+  },
+  "previous": {
+    "id": "AMO.8",
+    "number": "8",
+    "bookId": "AMO"
+  }
+}

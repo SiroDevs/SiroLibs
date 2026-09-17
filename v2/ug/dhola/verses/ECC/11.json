@@ -1,0 +1,178 @@
+{
+  "id": "ECC.11",
+  "number": "11",
+  "bookId": "ECC",
+  "reference": "Jafonji 11",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "11",
+        "style": "c",
+        "sid": "ECC 11"
+      },
+      "items": [
+        {
+          "text": "11",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Gima dhano mariek timo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Rieko ri soye",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ECC 11:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.8",
+            "verseOrgIds": [
+              "ECC.11.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ECC 11:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Fore awi jayac, kafodi ibedo soye, aka weyi cunyin wosangala in i hongo perin ma soye. Wothi i yo ma cunyin gi gima waŋin neno ni ber, to ŋey ni ri gigipiny me je Were lathumo rin banja.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.9",
+            "verseOrgIds": [
+              "ECC.11.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ECC 11:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.9",
+            "verseOrgIds": [
+              "ECC.11.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ECC 11:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwany woko rembo i cunyin, aka kwany woko litho i delkwoŋin, kwoŋbedo thino gi soye jobedo pilok.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.10",
+            "verseOrgIds": [
+              "ECC.11.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.12",
+    "number": "12",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "ECC.10",
+    "number": "10",
+    "bookId": "ECC"
+  }
+}

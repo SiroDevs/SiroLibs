@@ -1,0 +1,754 @@
+{
+  "id": "TIT.1",
+  "number": "1",
+  "bookId": "TIT",
+  "reference": "Tit 1",
+  "verseCount": 16,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "TIT 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "TIT 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Cikalataci cikutyocela kwa une Paulo, jwakutumicila jwa Mlungu nambo soni jundili ndumetume",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.1",
+            "verseOrgIds": [
+              "TIT.1.1"
+            ]
+          }
+        },
+        {
+          "text": " jwa Yesu",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.1",
+            "verseOrgIds": [
+              "TIT.1.1"
+            ]
+          }
+        },
+        {
+          "text": " Klistu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.1",
+            "verseOrgIds": [
+              "TIT.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "TIT 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nasagulidwe ni kutumidwa kuti ngakamucisye ŵandu ŵiŵasagulidwe ni kuti akulupilile mwakulimbangana ni kuti aŵeje ŵakumanyilila cakuwona cisyesyene ca majiganyo gele dini jetu jikusatujiganya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.1",
+            "verseOrgIds": [
+              "TIT.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "TIT 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Cakuwona celeci cikusapeleka cikulupi ca umi wangamala,",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.2",
+            "verseOrgIds": [
+              "TIT.1.2"
+            ]
+          }
+        },
+        {
+          "text": " uŵatesile Mlungu cilanga",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.2",
+            "verseOrgIds": [
+              "TIT.1.2"
+            ]
+          }
+        },
+        {
+          "text": " kwa jemanjajo cilambo mkinicipanganyidwe. Mlungu ali jwangalambusya soni jwalakwejo ngaŵa mkulambusya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.2",
+            "verseOrgIds": [
+              "TIT.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "TIT 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Myoyo mu ndaŵi jakwe Mlungu, Mkulupusyo jwetu, jwaŵecete maloŵe ni jwalamwile kuti une mbegwe ukumu wakulalicila utengawu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.3",
+            "verseOrgIds": [
+              "TIT.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "TIT 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Cikalataci ngumlembela m'mwejo Tito jumli mpela mwanangu msyesyene mwa cikulupi cetu cimpepe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.4",
+            "verseOrgIds": [
+              "TIT.1.4"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CO.8.23"
+              },
+              "items": [
+                {
+                  "text": "2 Akoli 8:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GAL.2.3"
+              },
+              "items": [
+                {
+                  "text": "Agal 2:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2TI.4.10"
+              },
+              "items": [
+                {
+                  "text": "2 Tim 4:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "TIT 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Umbone mtima ni mtendele yakutyocela kwa Mlungu ni Klistu Yesu Mkulupusyo jwetu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.4",
+            "verseOrgIds": [
+              "TIT.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Masengo ga Tito ku Kilete",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "TIT 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.4",
+            "verseOrgIds": [
+              "TIT.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "TIT 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Namlesile ku Kilete kuti mlondesye yosope yiyaliji mkaniyimale kulongosoka, ni kuti mwaŵice acakulungwa ŵa mpingo",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.5",
+            "verseOrgIds": [
+              "TIT.1.5"
+            ]
+          }
+        },
+        {
+          "text": " m'musi uliwose mpela yinatite pakumlamula. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.5",
+            "verseOrgIds": [
+              "TIT.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "TIT 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jwamkulungwa jwa mpingo",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.6",
+            "verseOrgIds": [
+              "TIT.1.6"
+            ]
+          }
+        },
+        {
+          "text": " aŵe jwangakayikasya, soni aŵe jwa ŵakongwe ŵamo. Ŵanace aŵe ŵakulupilila mwa Klistu, ŵimkanakola mbili jakuti jemanjajo ali ŵa ndamo syakusakala kapena kuti ali ŵangapikanila.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.6",
+            "verseOrgIds": [
+              "TIT.1.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.3.2+1TI.3.3+1TI.3.4+1TI.3.5+1TI.3.6+1TI.3.7"
+              },
+              "items": [
+                {
+                  "text": "1 Tim 3:2-7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.6",
+            "verseOrgIds": [
+              "TIT.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "TIT 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jwakulolela mpingo",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.7",
+            "verseOrgIds": [
+              "TIT.1.7"
+            ]
+          }
+        },
+        {
+          "text": " aŵeje jwangakayikasya ligongo ali jwakutumicila jwa Mlungu. Jwalakwejo akaŵa jwakupikana yakwepe, akaŵa jwakumwa yakumwa yaukali, jwandewo, kapena soni jwakunonyela mbiya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.7",
+            "verseOrgIds": [
+              "TIT.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "TIT 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aŵe jwakwapocela cenene acalendo, jwakunonyela yambone, jwakumanyilila kulilamulila msyene, jwakulungama, jwamswela mtima nambo soni jwakulilekasya msyene. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.8",
+            "verseOrgIds": [
+              "TIT.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "TIT 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aŵeje jwakukamulisya mnope maloŵe gagali gakulupicika gele soni gagakukamulana ni majiganyo giŵajiganyisye. Mwa litala lyeleli tacipakombola kwalimbisya ŵane ni cijiganyo cisyesyene, nambo soni pakwalosya yakulemwa yawo yayikusisyana ni cijiganyoco.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.9",
+            "verseOrgIds": [
+              "TIT.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "TIT 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.9",
+            "verseOrgIds": [
+              "TIT.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "TIT 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pakuti pana ŵandu ŵajinji mnope pasikati pa likuga lya ŵandu ŵakutyocela ku Ciyuda ŵakusajimucila ni kwalambusyaga ŵandu pakwasalila ngani syangali mate ni kwasokonesyaga jemanjajo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.10",
+            "verseOrgIds": [
+              "TIT.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "TIT 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuli kwakusosekwa kwalekasya jemanjajo, pakuti akusokonesya maŵasa gane pakwajiganya jemanjajo yicindu yinganiyiŵayo. Akusatenda yeleyi mu matala gangalumbana gakusaka kupata mbiya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.11",
+            "verseOrgIds": [
+              "TIT.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "TIT 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jumo jwakulocesya",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.12",
+            "verseOrgIds": [
+              "TIT.1.12"
+            ]
+          }
+        },
+        {
+          "text": " jwa jemanjajo jwa ku Kilete jwatite kuti, “Ŵandu ŵa ku Kilete ali ŵa unami masiku gosope, ali mpela yilombo yakogoya, ŵakutunduka ni ŵaulesi.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.12",
+            "verseOrgIds": [
+              "TIT.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "TIT 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Umboni welewu uli wakuwona. Ali ni ligongo lyakwe mwajamuce mwamacili ŵanduwo, kuti cikulupi cawo ciŵeje cakulimbangana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.13",
+            "verseOrgIds": [
+              "TIT.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "TIT 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akwenela kuleka kupikanila ndano sya Ciyuda ni malamusi ga ŵandu ŵakusisyana ni cakuwona cisyesyene. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.14",
+            "verseOrgIds": [
+              "TIT.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "TIT 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa ŵandu ŵaswela mtima yindu yosope yili yayiswela. Nambo kwa ŵele ŵali ŵasakale ni ŵangakulupilila kwa jemanjajo kwangali kandu keswela; mitima jawo ni lunda lwawo, yosope yili yesakale. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.15",
+            "verseOrgIds": [
+              "TIT.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "TIT 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akusajiticisya kuti akusam'manyilila Mlungu, citamileco ni yitendo yawo akusamkana, pakuti jemanjajo ali ŵawuŵenji ni ŵangapikanila, soni ŵangaŵajilwa kutenda kandu kalikose.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.16",
+            "verseOrgIds": [
+              "TIT.1.16"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "TIT.2",
+    "number": "2",
+    "bookId": "TIT"
+  },
+  "previous": {
+    "id": "TIT.intro",
+    "number": "intro",
+    "bookId": "TIT"
+  }
+}

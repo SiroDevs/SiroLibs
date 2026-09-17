@@ -1,0 +1,118 @@
+{
+  "id": "ISA.33",
+  "number": "33",
+  "bookId": "ISA",
+  "reference": "Isaya 33",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "33",
+        "style": "c",
+        "sid": "ISA 33"
+      },
+      "items": [
+        {
+          "text": "33",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 33:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.33.1",
+            "verseOrgIds": [
+              "ISA.33.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HAB.2.8"
+              },
+              "items": [
+                {
+                  "text": "Hab 2:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.13.10"
+              },
+              "items": [
+                {
+                  "text": "Eceza 13:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Candi mi dri, mi ’ba ’ba azini ma afa ezapi omba ma aliari, te ’ba ezani mi ma afa omba ma alia ku; mi ’ye mini ’ba vu lokirisi ra te ’ba ’yeni yini mi lokirisi ku!",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.33.1",
+            "verseOrgIds": [
+              "ISA.33.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.34",
+    "number": "34",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.32",
+    "number": "32",
+    "bookId": "ISA"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "MIC.1",
+  "number": "1",
+  "bookId": "MIC",
+  "reference": "Mika 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MIC 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.1",
+            "verseOrgIds": [
+              "MIC.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        2 Kapol 15:32–16:20; 18:1–20:21",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.27.1+2CH.27.2+2CH.27.3+2CH.27.4+2CH.27.5+2CH.27.6+2CH.27.7"
+              },
+              "items": [
+                {
+                  "text": "2 Ngirwa 27:1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "28:1–32:33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Ngirwa lu araakatar Yosam ka Aas, ta Esekia ngikapolok a Yuda, abu Ekapolon Akuj tolimok ekadwaran Mika akiroit keng. Arai Mika itwaan a ere a Moreches. Kidodik Ekapolon Akuj Mika ngakiro nugu daang, na araakasi ngaka Samaria ka Yerusalem.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.1",
+            "verseOrgIds": [
+              "MIC.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Igorore Samaria ka Yerusalem",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Aapikis ngimoe Yerusalem",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.2",
+    "number": "2",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.intro",
+    "number": "intro",
+    "bookId": "MIC"
+  }
+}

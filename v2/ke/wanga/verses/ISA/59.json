@@ -1,0 +1,106 @@
+{
+  "id": "ISA.59",
+  "number": "59",
+  "bookId": "ISA",
+  "reference": "Isaya 59",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "59",
+        "style": "c",
+        "sid": "ISA 59"
+      },
+      "items": [
+        {
+          "text": "59",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Obwiyami bwobubii bwelihanga",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ISA 59:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.59.20",
+            "verseOrgIds": [
+              "ISA.59.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ISA 59:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nasi khulwanje, yino niyo indakano yanje ninabo; niko aka OMWAMI aboola; roho wanje ouli mwiwe, khandi amakhuwa kanje aka ndara mumunwakwo, shibilarula mumunwakwo ta, kata mumunwa kwabaanabo, kata muminwa chiabaanabo, kata mumumwa kwabeetsukhulubo, okhurula olwa leelo okhuula khubisoni nebisoni; niko aka OMWAMI aboola.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.59.21",
+            "verseOrgIds": [
+              "ISA.59.21"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.60",
+    "number": "60",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.58",
+    "number": "58",
+    "bookId": "ISA"
+  }
+}

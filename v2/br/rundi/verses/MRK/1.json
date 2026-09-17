@@ -1,0 +1,2278 @@
+{
+  "id": "MRK.1",
+  "number": "1",
+  "bookId": "MRK",
+  "reference": "Mariko 1",
+  "verseCount": 40,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MRK 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MRK 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Itanguriro ry’ubutumwa bgiza bga Yesu Kristo, Umwana w’Imana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.1",
+            "verseOrgIds": [
+              "MRK.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MRK 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.1",
+            "verseOrgIds": [
+              "MRK.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MRK 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nk’uko vyanditswe na Yesaya yavugishwa n’Imana,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.2",
+            "verseOrgIds": [
+              "MRK.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MRK 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.8",
+            "verseOrgIds": [
+              "MRK.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MRK 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.9",
+            "verseOrgIds": [
+              "MRK.1.9"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.2.51"
+              },
+              "items": [
+                {
+                  "text": "Luk 2:51",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mur’ iyo misi Yesu ava i Nazareti i Galilaya, araza, abatizwa na Yohana muri Yorodani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.9",
+            "verseOrgIds": [
+              "MRK.1.9"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.3.13+MAT.3.14+MAT.3.15+MAT.3.16+MAT.3.17"
+              },
+              "items": [
+                {
+                  "text": "Mat 3:13-17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.3.21+LUK.3.22"
+              },
+              "items": [
+                {
+                  "text": "Luk 3:21-22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.31+JHN.1.32+JHN.1.33+JHN.1.34"
+              },
+              "items": [
+                {
+                  "text": "Yoh 1:31-34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.9",
+            "verseOrgIds": [
+              "MRK.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MRK 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Avuye mu mazi, aca abona ijuru ritandukanye, Mpwemu aramanuka amugwako, asa n’inuma. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.10",
+            "verseOrgIds": [
+              "MRK.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MRK 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.9.7"
+              },
+              "items": [
+                {
+                  "text": "Mrk 9:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.2.7"
+              },
+              "items": [
+                {
+                  "text": "Zab 2:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.42.1"
+              },
+              "items": [
+                {
+                  "text": "Yes 42:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ijwi riva mw ijuru, riti Ni wewe Mwana wanje nkunda ukampimbara.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.11",
+            "verseOrgIds": [
+              "MRK.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MRK 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.11",
+            "verseOrgIds": [
+              "MRK.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MRK 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.12",
+            "verseOrgIds": [
+              "MRK.1.12"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.4.1+MAT.4.2+MAT.4.3+MAT.4.4+MAT.4.5+MAT.4.6+MAT.4.7+MAT.4.8+MAT.4.9+MAT.4.10+MAT.4.11"
+              },
+              "items": [
+                {
+                  "text": "Mat 4:1-11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.4.1+LUK.4.2+LUK.4.3+LUK.4.4+LUK.4.5+LUK.4.6+LUK.4.7+LUK.4.8+LUK.4.9+LUK.4.10+LUK.4.11+LUK.4.12+LUK.4.13"
+              },
+              "items": [
+                {
+                  "text": "Luk 4:1-13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mpwemu aca amushorera mu bugaragwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.12",
+            "verseOrgIds": [
+              "MRK.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MRK 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.91.13"
+              },
+              "items": [
+                {
+                  "text": "Zab 91:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.51"
+              },
+              "items": [
+                {
+                  "text": "Yoh 1:51",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amaray’ imisi mirongwine, ageragezwa na Satani; kandi yaba hamwe n’ibikōko, abamarayika bakamukorera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.13",
+            "verseOrgIds": [
+              "MRK.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MRK 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.13",
+            "verseOrgIds": [
+              "MRK.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MRK 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.14",
+            "verseOrgIds": [
+              "MRK.1.14"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.4.12+MAT.4.13+MAT.4.14+MAT.4.15+MAT.4.16+MAT.4.17"
+              },
+              "items": [
+                {
+                  "text": "Mat 4:12-17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.4.14"
+              },
+              "items": [
+                {
+                  "text": "Luk 4:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.4.15"
+              },
+              "items": [
+                {
+                  "text": "15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yohana amaze gushirwa mw ibohero, Yesu aja i Galilaya, ababgira ubutumwa bgiza bg’Imana, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.14",
+            "verseOrgIds": [
+              "MRK.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MRK 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GAL.4.4"
+              },
+              "items": [
+                {
+                  "text": "Gal 4:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "at’ Igihe kirashitse, ubgami bg’Imana buri hafi: mwihane, mwemere ubutumwa bgiza.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.15",
+            "verseOrgIds": [
+              "MRK.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MRK 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.15",
+            "verseOrgIds": [
+              "MRK.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MRK 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.16",
+            "verseOrgIds": [
+              "MRK.1.16"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.4.18+MAT.4.19+MAT.4.20+MAT.4.21+MAT.4.22"
+              },
+              "items": [
+                {
+                  "text": "Mat 4:18-22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.5.1+LUK.5.2+LUK.5.3+LUK.5.4+LUK.5.5+LUK.5.6+LUK.5.7+LUK.5.8+LUK.5.9+LUK.5.10+LUK.5.11"
+              },
+              "items": [
+                {
+                  "text": "Luk 5:1-11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aciye i ruhande y’ikiyaga c’i Galilaya, abona Simoni na Andereya mwene nyina baterera urusenga",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.16",
+            "verseOrgIds": [
+              "MRK.1.16"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:16",
+              "type": "text"
+            },
+            {
+              "text": "Urwo rusenga abo ku kiyaga barwita umukwabu.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " mu kiyaga, kuko bār’ abarovyi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.16",
+            "verseOrgIds": [
+              "MRK.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MRK 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.13.47"
+              },
+              "items": [
+                {
+                  "text": "Mat 13:47",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu arababarira, ati Ni munkurikire, nzobagira abaroba abantu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.17",
+            "verseOrgIds": [
+              "MRK.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MRK 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baca bareka insenga, baramukurikira. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.18",
+            "verseOrgIds": [
+              "MRK.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MRK 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yīgiye imbere gato, abona Yakobo mwene Zebedayo na Yohana mwene nyina, na bo bari mu bgato basana insenga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.19",
+            "verseOrgIds": [
+              "MRK.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MRK 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aca arabahamagara, basiga se Zebedayo mu bgato hamwe n’abakozi biwe, baramukurikira.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.20",
+            "verseOrgIds": [
+              "MRK.1.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MRK 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.20",
+            "verseOrgIds": [
+              "MRK.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MRK 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.21",
+            "verseOrgIds": [
+              "MRK.1.21"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.4.13"
+              },
+              "items": [
+                {
+                  "text": "Mat 4:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bashika i Kaperinawumu, aca yinjira mw isinagogi kw isabato, arabigisha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.21",
+            "verseOrgIds": [
+              "MRK.1.21"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.4.31+LUK.4.32+LUK.4.33+LUK.4.34+LUK.4.35+LUK.4.36+LUK.4.37"
+              },
+              "items": [
+                {
+                  "text": "Luk 4:31-37",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.21",
+            "verseOrgIds": [
+              "MRK.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MRK 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.7.28"
+              },
+              "items": [
+                {
+                  "text": "Mat 7:28",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.7.29"
+              },
+              "items": [
+                {
+                  "text": "29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Batangazwa n’inyigisho ziwe, kuko yabigisha nk’ūfise ububasha, ntase n’abanyabgenge b’ivyanditswe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.22",
+            "verseOrgIds": [
+              "MRK.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MRK 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uwo mwanya mw isinagogi yabo hār’ umuntu yinjiwemwo n’impwemu ihumanye, arasemerera, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.23",
+            "verseOrgIds": [
+              "MRK.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "MRK 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.5.7"
+              },
+              "items": [
+                {
+                  "text": "Mrk 5:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.16.10"
+              },
+              "items": [
+                {
+                  "text": "Zab 16:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ati Duhūriye hehe ga Yesu Munyanazareti? Uje kuduhonnya? Ndakuzi uw’ uri we, ur’ Uwera w’Imana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.24",
+            "verseOrgIds": [
+              "MRK.1.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "MRK 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu aramuzibiza, ati Hora, muvemwo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.25",
+            "verseOrgIds": [
+              "MRK.1.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "MRK 1:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.9.26"
+              },
+              "items": [
+                {
+                  "text": "Mrk 9:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Iyo mpwemu ihumanye iramujegeza, irasemerera, ivuga n’ijwi rirenga, imuvamwo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.26",
+            "verseOrgIds": [
+              "MRK.1.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "MRK 1:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bose baratangara, bituma babazanya, bat’ Iki n’iki? N’ukwigisha gusha! N’ububasha agera n’impwemu zihumanye na zo, zikamwumvira. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.27",
+            "verseOrgIds": [
+              "MRK.1.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "MRK 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inkuru yiwe ica ikwira hose mu gihugu cose c’i Galilaya kihakikije.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.28",
+            "verseOrgIds": [
+              "MRK.1.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "MRK 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.28",
+            "verseOrgIds": [
+              "MRK.1.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "MRK 1:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.29",
+            "verseOrgIds": [
+              "MRK.1.29"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.8.14+MAT.8.15+MAT.8.16"
+              },
+              "items": [
+                {
+                  "text": "Mat 8:14-16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.4.38+LUK.4.39+LUK.4.40+LUK.4.41"
+              },
+              "items": [
+                {
+                  "text": "Luk 4:38-41",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bavuye mw isinagogi, baca bajana na Yakobo na Yohana mu nzu kwa Simoni na Andereya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.29",
+            "verseOrgIds": [
+              "MRK.1.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "MRK 1:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi inabukwe wa Simoni yar’ aryamye, afashwe n’umururumbo, baca bamubarira ivyiwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.30",
+            "verseOrgIds": [
+              "MRK.1.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "MRK 1:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Araza, amufata ukuboko, aramuvyutsa, umururumbo urazima, arabazimana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.31",
+            "verseOrgIds": [
+              "MRK.1.31"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "MRK 1:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.31",
+            "verseOrgIds": [
+              "MRK.1.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "MRK 1:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ku kagoroba, ku kirengazuba, bamuzanira abarwaye bose n’abinjiwemwo n’abadayimoni. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.32",
+            "verseOrgIds": [
+              "MRK.1.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "MRK 1:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Igisagara cose gikoranira kw irembo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.33",
+            "verseOrgIds": [
+              "MRK.1.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "MRK 1:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.16.17"
+              },
+              "items": [
+                {
+                  "text": "Ivyak 16:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.16.18"
+              },
+              "items": [
+                {
+                  "text": "18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akiza benshi bāri barwaye indwara zitari zimwe, asenda abadayimoni benshi, ntiyakundira abo badayimoni ko bavuga, kuko bāri bamuzi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.34",
+            "verseOrgIds": [
+              "MRK.1.34"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "MRK 1:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.34",
+            "verseOrgIds": [
+              "MRK.1.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "MRK 1:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.35",
+            "verseOrgIds": [
+              "MRK.1.35"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.4.42+LUK.4.43+LUK.4.44"
+              },
+              "items": [
+                {
+                  "text": "Luk 4:42-44",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mw ijoro rishīra ubuca aravyuka, arasohoka, aja mu gahinga, asengerayo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.35",
+            "verseOrgIds": [
+              "MRK.1.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "MRK 1:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Simoni n’abandi bāri kumwe na we baramukurikira: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.36",
+            "verseOrgIds": [
+              "MRK.1.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "MRK 1:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "bamubonye baramubgira, bati Bose bariko barakurondera. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.37",
+            "verseOrgIds": [
+              "MRK.1.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "MRK 1:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arabishura, ati Tuje ahandi mu bisagara biri hafi, na ho nyene nigisheyo, kukw ari co canzanye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.38",
+            "verseOrgIds": [
+              "MRK.1.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "MRK 1:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yinjira mu masinagogi yabo i Galilaya hose, avuga ijambo ry’Imana, asenda abadayimoni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.39",
+            "verseOrgIds": [
+              "MRK.1.39"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "MRK 1:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.39",
+            "verseOrgIds": [
+              "MRK.1.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "MRK 1:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.40",
+            "verseOrgIds": [
+              "MRK.1.40"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.8.2+MAT.8.3+MAT.8.4"
+              },
+              "items": [
+                {
+                  "text": "Mat 8:2-4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.5.12+LUK.5.13+LUK.5.14+LUK.5.15+LUK.5.16"
+              },
+              "items": [
+                {
+                  "text": "Luk 5:12-16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Haza umunyamibembe kuri we, amwinginga amupfukamiye, at’ Ukunze, woshobora kumpumanura. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.40",
+            "verseOrgIds": [
+              "MRK.1.40"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "MRK 1:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amugirira akagongwe, aramvura ukuboko, amukorako, ati Ndakunze, humanuka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.41",
+            "verseOrgIds": [
+              "MRK.1.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "MRK 1:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Imibembe ica imuvako, arakira. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.42",
+            "verseOrgIds": [
+              "MRK.1.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "MRK 1:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.3.12"
+              },
+              "items": [
+                {
+                  "text": "Mrk 3:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.7.36"
+              },
+              "items": [
+                {
+                  "text": "7:36",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aramwihanikiriza rwose, aca amurungika uwo mwanya, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.43",
+            "verseOrgIds": [
+              "MRK.1.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "MRK 1:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.13.49"
+              },
+              "items": [
+                {
+                  "text": "Lew 13:49",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.14.2+LEV.14.3+LEV.14.4+LEV.14.5+LEV.14.6+LEV.14.7+LEV.14.8+LEV.14.9+LEV.14.10+LEV.14.11+LEV.14.12+LEV.14.13+LEV.14.14+LEV.14.15+LEV.14.16+LEV.14.17+LEV.14.18+LEV.14.19+LEV.14.20+LEV.14.21+LEV.14.22+LEV.14.23+LEV.14.24+LEV.14.25+LEV.14.26+LEV.14.27+LEV.14.28+LEV.14.29+LEV.14.30+LEV.14.31+LEV.14.32"
+              },
+              "items": [
+                {
+                  "text": "14:2-32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "aramubarira, ati Wirinde, ntugire uwo ubikerukiriza, ariko genda, wiyereke umuherezi, utange ivy’ uguhumanurwa kwawe, nk’uko Mose yageze, bibe ikimenyetso kibabere icabona. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.44",
+            "verseOrgIds": [
+              "MRK.1.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "MRK 1:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maz’ avaho, atangura kwandagaza no gukwiza ivyabaye; ni co catumye Yesu atābaye agishobora kuja mu gisagara abandi babizi, arikw aguma inyuma yaco mu gahinga: abava hose baza kuri we.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.45",
+            "verseOrgIds": [
+              "MRK.1.45"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MRK.2",
+    "number": "2",
+    "bookId": "MRK"
+  },
+  "previous": {
+    "id": "MAT.28",
+    "number": "28",
+    "bookId": "MAT"
+  }
+}

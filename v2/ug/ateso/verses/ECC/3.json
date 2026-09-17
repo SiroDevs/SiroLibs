@@ -1,0 +1,110 @@
+{
+  "id": "ECC.3",
+  "number": "3",
+  "bookId": "ECC",
+  "reference": "Ekalimonokinan 3",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "ECC 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ECC 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.1",
+            "verseOrgIds": [
+              "ECC.3.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ECC.8.6"
+              },
+              "items": [
+                {
+                  "text": "Lim 8:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Ejai ŋinibore ekaruke, ninikirot da naejai kwap kakuj ejai apakike.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.1",
+            "verseOrgIds": [
+              "ECC.3.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.4",
+    "number": "4",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "ECC.2",
+    "number": "2",
+    "bookId": "ECC"
+  }
+}

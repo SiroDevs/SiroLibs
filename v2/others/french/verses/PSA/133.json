@@ -1,0 +1,166 @@
+{
+  "id": "PSA.133",
+  "number": "133",
+  "bookId": "PSA",
+  "reference": "Psaumes 133",
+  "copyright": "Texte libre de droits",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "133",
+        "style": "c",
+        "sid": "PSA 133"
+      },
+      "items": [
+        {
+          "text": "133",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 133:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Cantique des degrés. De David. Voici, qu'il est bon et qu'il est agréable que des frères habitent unis ensemble !",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.133.1",
+            "verseOrgIds": [
+              "PSA.133.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 133:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "C'est comme l'huile précieuse, [répandue] sur la tête, qui descendait sur la barbe, la barbe d'Aaron, qui descendait sur le bord de ses vêtements ;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.133.2",
+            "verseOrgIds": [
+              "PSA.133.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 133:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Comme la rosée de l'Hermon, qui descend sur les montagnes de Sion ; car c'est là que l'",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.133.3",
+            "verseOrgIds": [
+              "PSA.133.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Éternel",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.133.3",
+                "verseOrgIds": [
+                  "PSA.133.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a commandé la bénédiction, la vie pour l'éternité.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.133.3",
+            "verseOrgIds": [
+              "PSA.133.3"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.134",
+    "number": "134",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.132",
+    "number": "132",
+    "bookId": "PSA"
+  }
+}

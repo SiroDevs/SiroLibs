@@ -1,0 +1,73 @@
+{
+  "id": "JOL.3",
+  "number": "3",
+  "bookId": "JOL",
+  "reference": "Yowel 3",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "JOL 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Rwoth lathumo banja ri nonin",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Thumo banja i milelo pa Yekosafat",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Were lamiyo ji pere silwany",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.intro",
+    "number": "intro",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "JOL.2",
+    "number": "2",
+    "bookId": "JOL"
+  }
+}

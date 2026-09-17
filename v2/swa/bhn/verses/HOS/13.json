@@ -1,0 +1,68 @@
+{
+  "id": "HOS.13",
+  "number": "13",
+  "bookId": "HOS",
+  "reference": "Hosea 13",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "13",
+        "style": "c",
+        "sid": "HOS 13"
+      },
+      "items": [
+        {
+          "text": "13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 13:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Waefraimu waliponena, watu walitetemeka;",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.13.1",
+            "verseOrgIds": [
+              "HOS.13.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.14",
+    "number": "14",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.12",
+    "number": "12",
+    "bookId": "HOS"
+  }
+}

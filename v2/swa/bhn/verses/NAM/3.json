@@ -1,0 +1,68 @@
+{
+  "id": "NAM.3",
+  "number": "3",
+  "bookId": "NAM",
+  "reference": "Nahumu 3",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "NAM 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NAM 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ole wako mji wa mauaji!",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.3.1",
+            "verseOrgIds": [
+              "NAM.3.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAB.intro",
+    "number": "intro",
+    "bookId": "HAB"
+  },
+  "previous": {
+    "id": "NAM.2",
+    "number": "2",
+    "bookId": "NAM"
+  }
+}

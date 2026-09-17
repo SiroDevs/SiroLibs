@@ -1,0 +1,123 @@
+{
+  "id": "ZEP.1",
+  "number": "1",
+  "bookId": "ZEP",
+  "reference": "Sepania 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "ZEP 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEP 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.1",
+            "verseOrgIds": [
+              "ZEP.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2TI.3.16"
+              },
+              "items": [
+                {
+                  "text": "2 Tim 3:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2PE.1.21"
+              },
+              "items": [
+                {
+                  "text": "2 Pet 1:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "2 Ika 22:1–23:30; 2 Siit 34:1–35:27.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Akirot naka EJAKAIT naabu kobu mama ejai Sepania okoku loka Kusi, okoku loka Gedalia, okoku loka Amaria, okoku loka Kesekia, kapaarasia nuka Yosia okoku loka Amon, ekabaka loka Yuda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.1",
+            "verseOrgIds": [
+              "ZEP.1.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEP.2",
+    "number": "2",
+    "bookId": "ZEP"
+  },
+  "previous": {
+    "id": "HAB.3",
+    "number": "3",
+    "bookId": "HAB"
+  }
+}

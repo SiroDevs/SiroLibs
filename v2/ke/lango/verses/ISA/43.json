@@ -1,0 +1,69 @@
+{
+  "id": "ISA.43",
+  "number": "43",
+  "bookId": "ISA",
+  "reference": "Icaya 43",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "43",
+        "style": "c",
+        "sid": "ISA 43"
+      },
+      "items": [
+        {
+          "text": "43",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 43:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aman doŋ Rwot ame oketi yin Yakobo, ame ocwei yin Icrael, okobo ni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.43.1",
+            "verseOrgIds": [
+              "ISA.43.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.44",
+    "number": "44",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.42",
+    "number": "42",
+    "bookId": "ISA"
+  }
+}

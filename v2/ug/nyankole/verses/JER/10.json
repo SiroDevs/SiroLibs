@@ -1,0 +1,220 @@
+{
+  "id": "JER.10",
+  "number": "10",
+  "bookId": "JER",
+  "reference": "Yeremia 10",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "JER 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Imwe b'enju ya Israeli 'mwe, nimuhurire ekigambo eki MUKAMA arikubagambira. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.1",
+            "verseOrgIds": [
+              "JER.10.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JER 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oku nikwo MUKAMA arikugamba naagira ati:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.2",
+            "verseOrgIds": [
+              "JER.10.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JER 10:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.10",
+            "verseOrgIds": [
+              "JER.10.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JER 10:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.11",
+            "verseOrgIds": [
+              "JER.10.11"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.96.5"
+              },
+              "items": [
+                {
+                  "text": "Zab 96:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.2.18"
+              },
+              "items": [
+                {
+                  "text": "Isa 2:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.13.2"
+              },
+              "items": [
+                {
+                  "text": "Zek 13:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Oku nikwo muribagambira muti: Baaruhanga abatarahangire eiguru n'ensi baryahwerekyerera, bahwe omu nsi n'ahansi y'eiguru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.11",
+            "verseOrgIds": [
+              "JER.10.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.11",
+    "number": "11",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.9",
+    "number": "9",
+    "bookId": "JER"
+  }
+}

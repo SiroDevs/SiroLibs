@@ -1,0 +1,95 @@
+{
+  "id": "ISA.2",
+  "number": "2",
+  "bookId": "ISA",
+  "reference": "I-Ca-Yaa 2",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "ISA 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ruac malä Kuɔth kɛ wi̱c muɔ̱ɔ̱n",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nɛmɛ ɛ nyuuth ëë ci I-ca-yaa gat A-modh ɛ nɛn kɛ kui̱ Juda kɛnɛ Jɛ-ru-tha-lɛm.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.1",
+            "verseOrgIds": [
+              "ISA.2.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Luk Kuɔth kɛ ji̱ liakä",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.3",
+    "number": "3",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.1",
+    "number": "1",
+    "bookId": "ISA"
+  }
+}

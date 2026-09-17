@@ -1,0 +1,148 @@
+{
+  "id": "DEU.33",
+  "number": "33",
+  "bookId": "DEU",
+  "reference": "Eky'Ebiragiro 33",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "33",
+        "style": "c",
+        "sid": "DEU 33"
+      },
+      "items": [
+        {
+          "text": "33",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DEU 33:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.1",
+            "verseOrgIds": [
+              "DEU.33.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.49.28"
+              },
+              "items": [
+                {
+                  "text": "Kut 49:28",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.24.50"
+              },
+              "items": [
+                {
+                  "text": "Luk 24:50",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Ogu nigwo mugisha, ogu Musa omushaija wa Ruhanga yaashabire Abaisraeli, atakafiire. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.1",
+            "verseOrgIds": [
+              "DEU.33.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DEU 33:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naagira ati:",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.2",
+            "verseOrgIds": [
+              "DEU.33.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DEU.34",
+    "number": "34",
+    "bookId": "DEU"
+  },
+  "previous": {
+    "id": "DEU.32",
+    "number": "32",
+    "bookId": "DEU"
+  }
+}

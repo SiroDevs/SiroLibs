@@ -1,0 +1,68 @@
+{
+  "id": "PSA.5",
+  "number": "5",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 5",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "PSA 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "AAKOÓ MUNGÚ, axweesante'eé' iiárií qaaseek,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.5.1",
+            "verseOrgIds": [
+              "PSA.5.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.6",
+    "number": "6",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.4",
+    "number": "4",
+    "bookId": "PSA"
+  }
+}

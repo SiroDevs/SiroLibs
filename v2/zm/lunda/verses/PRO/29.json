@@ -1,0 +1,69 @@
+{
+  "id": "PRO.29",
+  "number": "29",
+  "bookId": "PRO",
+  "reference": "Liproverbia 29",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "29",
+        "style": "c",
+        "sid": "PRO 29"
+      },
+      "items": [
+        {
+          "text": "29",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 29:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Muntu wakwila kumuhoshola, hoshole-e, yena saŋa achini chikilayi, wakakasumuka nakotoki dehi, niwakumuhandisha kwosi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.29.1",
+            "verseOrgIds": [
+              "PRO.29.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.30",
+    "number": "30",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.28",
+    "number": "28",
+    "bookId": "PRO"
+  }
+}

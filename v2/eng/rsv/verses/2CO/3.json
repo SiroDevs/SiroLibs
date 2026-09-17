@@ -1,0 +1,887 @@
+{
+  "id": "2CO.3",
+  "number": "3",
+  "bookId": "2CO",
+  "reference": "2 Corinthians 3",
+  "verseCount": 18,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "2CO 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "2CO 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.1",
+            "verseOrgIds": [
+              "2CO.3.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.18.27"
+              },
+              "items": [
+                {
+                  "text": "Acts 18.27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.16.1"
+              },
+              "items": [
+                {
+                  "text": "Rom 16.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.16.3"
+              },
+              "items": [
+                {
+                  "text": "1 Cor 16.3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Are we beginning to commend ourselves again? Or do we need, as some do, letters of recommendation to you, or from you? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.1",
+            "verseOrgIds": [
+              "2CO.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "2CO 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You yourselves are our letter of recommendation, written on your",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.2",
+            "verseOrgIds": [
+              "2CO.3.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "3.2",
+              "type": "text"
+            },
+            {
+              "text": "Other ancient authorities read",
+              "type": "text"
+            },
+            {
+              "text": "our",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " hearts, to be known and read by all men; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.2",
+            "verseOrgIds": [
+              "2CO.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "2CO 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.24.12"
+              },
+              "items": [
+                {
+                  "text": "Ex 24.12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.31.18"
+              },
+              "items": [
+                {
+                  "text": "31.18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.32.15+EXO.32.16"
+              },
+              "items": [
+                {
+                  "text": "32.15-16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.31.33"
+              },
+              "items": [
+                {
+                  "text": "Jer 31.33",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " and you show that you are a letter from Christ delivered by us, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.3",
+            "verseOrgIds": [
+              "2CO.3.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "2CO 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.3",
+            "verseOrgIds": [
+              "2CO.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "2CO 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Such is the confidence that we have through Christ toward God. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.4",
+            "verseOrgIds": [
+              "2CO.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "2CO 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Not that we are competent of ourselves to claim anything as coming from us; our competence is from God, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.5",
+            "verseOrgIds": [
+              "2CO.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "2CO 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.31.31"
+              },
+              "items": [
+                {
+                  "text": "Jer 31.31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " who has made us competent to be ministers of a new covenant, not in a written code but in the Spirit; for the written code kills, but the Spirit gives life.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.6",
+            "verseOrgIds": [
+              "2CO.3.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "2CO 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.6",
+            "verseOrgIds": [
+              "2CO.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "2CO 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.7",
+            "verseOrgIds": [
+              "2CO.3.7"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.34.29+EXO.34.30+EXO.34.31+EXO.34.32+EXO.34.33+EXO.34.34+EXO.34.35"
+              },
+              "items": [
+                {
+                  "text": "Ex 34.29-35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Now if the dispensation of death, carved in letters on stone, came with such splendor that the Israelites could not look at Moses' face because of its brightness, fading as this was, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.7",
+            "verseOrgIds": [
+              "2CO.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "2CO 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "will not the dispensation of the Spirit be attended with greater splendor? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.8",
+            "verseOrgIds": [
+              "2CO.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "2CO 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For if there was splendor in the dispensation of condemnation, the dispensation of righteousness must far exceed it in splendor. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.9",
+            "verseOrgIds": [
+              "2CO.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "2CO 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Indeed, in this case, what once had splendor has come to have no splendor at all, because of the splendor that surpasses it. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.10",
+            "verseOrgIds": [
+              "2CO.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "2CO 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For if what faded away came with splendor, what is permanent must have much more splendor.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.11",
+            "verseOrgIds": [
+              "2CO.3.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "2CO 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.11",
+            "verseOrgIds": [
+              "2CO.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "2CO 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Since we have such a hope, we are very bold, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.12",
+            "verseOrgIds": [
+              "2CO.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "2CO 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "not like Moses, who put a veil over his face so that the Israelites might not see the end of the fading splendor. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.13",
+            "verseOrgIds": [
+              "2CO.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "2CO 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But their minds were hardened; for to this day, when they read the old covenant, that same veil remains unlifted, because only through Christ is it taken away. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.14",
+            "verseOrgIds": [
+              "2CO.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "2CO 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yes, to this day whenever Moses is read a veil lies over their minds; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.15",
+            "verseOrgIds": [
+              "2CO.3.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "2CO 3:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "but when a man turns to the Lord the veil is removed. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.16",
+            "verseOrgIds": [
+              "2CO.3.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "2CO 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.61.1+ISA.61.2"
+              },
+              "items": [
+                {
+                  "text": "Is 61.1-2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.17",
+            "verseOrgIds": [
+              "2CO.3.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "2CO 3:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And we all, with unveiled face, beholding",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.18",
+            "verseOrgIds": [
+              "2CO.3.18"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "3.18",
+              "type": "text"
+            },
+            {
+              "text": "Or",
+              "type": "text"
+            },
+            {
+              "text": "reflecting",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " the glory of the Lord, are being changed into his likeness from one degree of glory to another; for this comes from the Lord who is the Spirit.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.3.18",
+            "verseOrgIds": [
+              "2CO.3.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2CO.4",
+    "number": "4",
+    "bookId": "2CO"
+  },
+  "previous": {
+    "id": "2CO.2",
+    "number": "2",
+    "bookId": "2CO"
+  }
+}

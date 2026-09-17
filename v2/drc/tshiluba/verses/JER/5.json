@@ -1,0 +1,119 @@
+{
+  "id": "JER.5",
+  "number": "5",
+  "bookId": "JER",
+  "reference": "Yelemiya 5",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "JER 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JER 5:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.5.17",
+            "verseOrgIds": [
+              "JER.5.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JER 5:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kadi Yehowa udi wamba ne, Mu matuku au mene tshiena nkubutula bua kumana bantu bebe bonso. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.5.18",
+            "verseOrgIds": [
+              "JER.5.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JER 5:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mu matuku au hanuakonkangana ne, Yehowa Nzambi wetu wakutuenzela malu â onso bua tshinyi? Mu diba adi mene ubahingishe dî dia Yehowa ne, Bu munuakulekela meme, ne bu munuakukuatshila nzambi ya bende mudimu mu buloba buenu mene, nunku nenukuatshile bantu ba bende mudimu mu buloba budi kabuyi buenu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.5.19",
+            "verseOrgIds": [
+              "JER.5.19"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.6",
+    "number": "6",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.4",
+    "number": "4",
+    "bookId": "JER"
+  }
+}

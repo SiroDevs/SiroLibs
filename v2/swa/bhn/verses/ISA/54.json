@@ -1,0 +1,151 @@
+{
+  "id": "ISA.54",
+  "number": "54",
+  "bookId": "ISA",
+  "reference": "Isaya 54",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "54",
+        "style": "c",
+        "sid": "ISA 54"
+      },
+      "items": [
+        {
+          "text": "54",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 54:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwenyezi-Mungu asema hivi:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.54.1",
+            "verseOrgIds": [
+              "ISA.54.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 54:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.54.10",
+            "verseOrgIds": [
+              "ISA.54.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 54:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.54.11",
+            "verseOrgIds": [
+              "ISA.54.11"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "54:11-12 Taz Ufu 12:18-21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " “Ewe Yerusalemu uliyeteseka,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.54.11",
+            "verseOrgIds": [
+              "ISA.54.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.55",
+    "number": "55",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.53",
+    "number": "53",
+    "bookId": "ISA"
+  }
+}

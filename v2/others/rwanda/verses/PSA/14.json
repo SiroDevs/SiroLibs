@@ -1,0 +1,110 @@
+{
+  "id": "PSA.14",
+  "number": "14",
+  "bookId": "PSA",
+  "reference": "Zaburi 14",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "14",
+        "style": "c",
+        "sid": "PSA 14"
+      },
+      "items": [
+        {
+          "text": "14",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 14:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.1",
+            "verseOrgIds": [
+              "PSA.14.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.3.10+ROM.3.11+ROM.3.12"
+              },
+              "items": [
+                {
+                  "text": "Rom 3.10-12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.1",
+            "verseOrgIds": [
+              "PSA.14.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.15",
+    "number": "15",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.13",
+    "number": "13",
+    "bookId": "PSA"
+  }
+}

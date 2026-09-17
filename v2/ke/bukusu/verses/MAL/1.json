@@ -1,0 +1,765 @@
+{
+  "id": "MAL.1",
+  "number": "1",
+  "bookId": "MAL",
+  "reference": "Mal. 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MAL 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAL 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obuno buli burume nibwo Wele Omunyali Owa Bioosi aelesia Malaki aboolele babaandu ba Isiraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.1",
+            "verseOrgIds": [
+              "MAL.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Busiime bwa Wele Omunyali Owa Bioosi khu Isiraeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAL 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.1",
+            "verseOrgIds": [
+              "MAL.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAL 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.2",
+            "verseOrgIds": [
+              "MAL.1.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.9.13"
+              },
+              "items": [
+                {
+                  "text": "Bar. 9.13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.2",
+            "verseOrgIds": [
+              "MAL.1.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.34.5+ISA.34.6+ISA.34.7+ISA.34.8+ISA.34.9+ISA.34.10+ISA.34.11+ISA.34.12+ISA.34.13+ISA.34.14+ISA.34.15+ISA.34.16+ISA.34.17"
+              },
+              "items": [
+                {
+                  "text": "Isa. 34.5-17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.63.1+ISA.63.2+ISA.63.3+ISA.63.4+ISA.63.5+ISA.63.6"
+              },
+              "items": [
+                {
+                  "text": "63.1-6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.49.7+JER.49.8+JER.49.9+JER.49.10+JER.49.11+JER.49.12+JER.49.13+JER.49.14+JER.49.15+JER.49.16+JER.49.17+JER.49.18+JER.49.19+JER.49.20+JER.49.21+JER.49.22"
+              },
+              "items": [
+                {
+                  "text": "Yer. 49.7-22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.25.12+EZK.25.13+EZK.25.14"
+              },
+              "items": [
+                {
+                  "text": "Esek. 25.12-14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.35.1+EZK.35.2+EZK.35.3+EZK.35.4+EZK.35.5+EZK.35.6+EZK.35.7+EZK.35.8+EZK.35.9+EZK.35.10+EZK.35.11+EZK.35.12+EZK.35.13+EZK.35.14+EZK.35.15"
+              },
+              "items": [
+                {
+                  "text": "35.1-15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.11+AMO.1.12"
+              },
+              "items": [
+                {
+                  "text": "Amo. 1.11-12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "OBA.1.1+OBA.1.2+OBA.1.3+OBA.1.4+OBA.1.5+OBA.1.6+OBA.1.7+OBA.1.8+OBA.1.9+OBA.1.10+OBA.1.11+OBA.1.12+OBA.1.13+OBA.1.14"
+              },
+              "items": [
+                {
+                  "text": "Obad. 1-14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Wele Omunyali Owa Bioosi aboolela babaandu bewe ali, “Ese namusiima enywe buli lwosi.” Ne kakhali enywe mundeeba muli, “Ewe wakhusiima oriena?” Wele Omunyali Owa Bioosi akobosia ali, “Esau ne Yakobo baba wandaaye ne wandaaye, ne kakhali ese nasiima Yakobo ne lisaaye liewe ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.2",
+            "verseOrgIds": [
+              "MAL.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAL 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mala nabiila Esau ne lisaaaye liewe. Nonake sibala sie bikulu nisio be lisaaye lia Esau bamenyilemo. Nasianjukhe chisaang'i che mundaa chilamenyamo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.3",
+            "verseOrgIds": [
+              "MAL.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAL 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.3",
+            "verseOrgIds": [
+              "MAL.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAL 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaaba bali abo be lisaaye lia Esau, Baedomu baloma bali, “Chingoba chefwe chatechuulwe, ne kakhali khulachombakha lundi.” Nio Wele Omunyali Owa Bioosi alakobosia ali, “Lekha bachombakhe lundi. Ndachitechula lundi. Babaandu bakhachilaange bali ‘Sibala simayaanu lundi ekholo niyo Wele Omunyali Owa Bioosi aambila lirima mindali na mindali.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.4",
+            "verseOrgIds": [
+              "MAL.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAL 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.4",
+            "verseOrgIds": [
+              "MAL.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAL 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Babaandu ba Isiraeli bacha khubona kano ne chimoni chabwe babeene, nio baliloma bali, Wele Omunyali Owa Bioosi ali ne kamaani akhaba enje we sibala sie Baisiraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.5",
+            "verseOrgIds": [
+              "MAL.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Wele Omunyali Owa Bioosi arafwira Basaayi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAL 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.5",
+            "verseOrgIds": [
+              "MAL.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAL 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wele Omunyali Owa Bioosi aboolela basaayi ali, “Omwana aria raraawe ne omukholi aria owa muaandika. Ese ndi raraawenywe siina sikila ne mukhandia? Enywe mukhalaabanila ese, siina sikila ne mukhandia? Mundekelesia, ne mala mureeba muli, ‘Khwakhulekelesie khuriena?’ ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.6",
+            "verseOrgIds": [
+              "MAL.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MAL 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwandekelesie khulwe khuaana biakhulia binyaalu khu alutare yase. Ne mureeba muli, ‘Khwanyaalutisie khuriena?’ Ndamuboolela, se mwariire alutare yase tawe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.7",
+            "verseOrgIds": [
+              "MAL.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAL 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.15.21"
+              },
+              "items": [
+                {
+                  "text": "Likh. 15.21",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Enywe ne mureera sisiaayo sibofu, silwaale namwe sileme khukhumbaanila ese embosio, bubwenobwo se buli bumayaanu tawe ku? Khakakho khuaana bibiaayo nga bibienebio khu muruki wenywe. Anyala asiimisibwa nanywe namwe amukholela niko mwenya ku?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.8",
+            "verseOrgIds": [
+              "MAL.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAL 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.8",
+            "verseOrgIds": [
+              "MAL.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MAL 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wele Omunyali Owa Bioosi aboola ali, “Nono saaya Wele akhukholele siisa. Nio abe ne kumwalaalo khwifwe. Ne biianwa nibio muli ne nabio mukhono bino. Wele alakholelakho siisa mulala khwinywe ku?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.9",
+            "verseOrgIds": [
+              "MAL.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MAL 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wele Omunyali Owa Bioosi aboola ali, “Nakhabeele na mulala mwinywe owikala kimiliango kie Lukaangu nio enywe mukhabwana kumulilo kwa busa khu alutare yase tawe. Ese se nasiimisibwe nanywe tawe, ne se ndafukiilila biianwa bienywe nibio munderera tawe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.10",
+            "verseOrgIds": [
+              "MAL.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAL 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Babaandu buli abuundu mu sibala bandia. Banjoselia bupaani ne khukhumbanila biianwa bifukiililwa. Boosi bandia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.11",
+            "verseOrgIds": [
+              "MAL.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MAL 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ne kakhali enywe munyaalutia lisina liase khulwe khuloma muli alutare yase seli ne bukhala tawe, mala muaanilakho biakhulia nibio mwabene mwalekelesia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.12",
+            "verseOrgIds": [
+              "MAL.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAL 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Muloma muli, ‘Khwaluile lukali khukhola kano.’ Mala musinioola. Mureera biianwa bie bibiaayo bie bubwifwi ne bileme nende biili bilwaale. Mwibaasia muli ese nyala nafukiilila bibienebio khukhwama khwinywe? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.13",
+            "verseOrgIds": [
+              "MAL.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MAL 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oyo obea khulwe khuaana embosio etaamba bukhala mala ali ne sisiaayo silayi mwituuli liewe nisio asuubisia khuaana alaamwe. Sikila ese ndi omwami omukali mala babaandu be chikholo choosi bandia.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.14",
+            "verseOrgIds": [
+              "MAL.1.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MAL.2",
+    "number": "2",
+    "bookId": "MAL"
+  },
+  "previous": {
+    "id": "MAL.intro",
+    "number": "intro",
+    "bookId": "MAL"
+  }
+}

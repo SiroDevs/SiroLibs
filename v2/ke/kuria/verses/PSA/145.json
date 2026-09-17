@@ -1,0 +1,81 @@
+{
+  "id": "PSA.145",
+  "number": "145",
+  "bookId": "PSA",
+  "reference": "Ësabhuri 145",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "145",
+        "style": "c",
+        "sid": "PSA 145"
+      },
+      "items": [
+        {
+          "text": "145",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Irisingiö rë ëgöngo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 145:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nëndakuimukiirri, Wei Ënooköë waane ömögambi waane;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.145.1",
+            "verseOrgIds": [
+              "PSA.145.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.146",
+    "number": "146",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.144",
+    "number": "144",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "id": "JOL.1",
+  "number": "1",
+  "bookId": "JOL",
+  "reference": "Joe 1",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "JOL 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOL 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Îno nî ndûmîrîri ya Ngai-Mûnene îrîa yaûkire kûrî Joeli mûvîcî wa Pethueli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.1",
+            "verseOrgIds": [
+              "JOL.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ngige nîciakunîkire nthî",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOL 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.1",
+            "verseOrgIds": [
+              "JOL.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JOL 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thikîrîriani mue andû akûrû;",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.2",
+            "verseOrgIds": [
+              "JOL.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JOL 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.7",
+            "verseOrgIds": [
+              "JOL.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JOL 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rîrani ta mwîrîtu ekîrîte nguo cia macakaya",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOL.1.8",
+            "verseOrgIds": [
+              "JOL.1.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOL.2",
+    "number": "2",
+    "bookId": "JOL"
+  },
+  "previous": {
+    "id": "JOL.intro",
+    "number": "intro",
+    "bookId": "JOL"
+  }
+}

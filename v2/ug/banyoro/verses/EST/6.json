@@ -1,0 +1,531 @@
+{
+  "id": "EST.6",
+  "number": "6",
+  "bookId": "EST",
+  "reference": "Es 6",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "EST 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Omukama naakuza Morodekayi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kiro eki omu bwire bw'ekiro, omukama atasobole kugwijagira; yaragira baleete ekitabu ekyahandikirwemu ebikorwa ebyahingwire, eby'obusinge bw'abakama, baabisomera omukama. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.1",
+            "verseOrgIds": [
+              "EST.6.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 6:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ESG.2.21"
+              },
+              "items": [
+                {
+                  "text": "Esit 2:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ESG.2.22"
+              },
+              "items": [
+                {
+                  "text": "22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hakaba harumu ekintu ekihandiikirwe ekirukwoleka Morodekayi nkooku akaba abalize hali Bigisaana na Teresi, ababiri ha bakomwa b'omukama, abaalindaga omulyango, kandi abakaba bacwire amagezi ag'okukwata omukama Ahaswero. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.2",
+            "verseOrgIds": [
+              "EST.6.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 6:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omukama akakaguza ati: “Eki, Morodekayi kikamuleetera kitiinisa ki rundi ihaiso ki?” Abaheereza b'omukama baagarukamu bati: “Busaho kintu eki yakoliirwe.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.3",
+            "verseOrgIds": [
+              "EST.6.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 6:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omukama yayongera yakaguza ati: “N'oha ogu anyakuli omu kizigati?” Omukasumi ako, Hamani nubwo akaba yakataaha ati omu kizigati eky'aheeru ey'ekikaali ky'omukama, abaze na uwe nkooku Morodekayi araahanikwa ha kabbaho aka akaba amukoliire. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.4",
+            "verseOrgIds": [
+              "EST.6.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EST 6:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abaheereza b'omukama baagambira omukama bati: “Hamani dara we nguli, ayemeriire omu kizigati” naayenda kukurora omukama yagamba ati: “mumwete arugeyo.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.5",
+            "verseOrgIds": [
+              "EST.6.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EST 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hamani yataaha, omukama yamukaguza ati: “Omuntu omukama ou arukugonza muno kutamu ekitiinisa, tumukorre ki?” Hamani yayekaguza ati: “Nooha omukama ou asobora kugonza kutamu ekitiinisa okukira nyowe?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.6",
+            "verseOrgIds": [
+              "EST.6.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EST 6:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nukwo kumugarukamu ati: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.7",
+            "verseOrgIds": [
+              "EST.6.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EST 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "omuntu ogu omukama ou arukugonza muno kutamu ekitiinisa, bamuleetere ebijwaro eby'obukama, omukama ebi yajwaire, embaraasi ei yatembere, enyakujwekerwe ha mutwe ekondo y'obukama; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.8",
+            "verseOrgIds": [
+              "EST.6.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "omu ha banyoro b'omukama arukukirra ekitiinisa, bamuhe ebyokujwara n'embaraasi; ajweke omuntu ogu omukama ou arukugonza kutamu ekitiinisa, amurabye omu ikuute ly'orubuga, atembere embaraasi, amwebembiire naarangirra ati: “omuntu omukama ou araagonza kutamu ekitiinisa, nukwo araakolerwa ati.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.9",
+            "verseOrgIds": [
+              "EST.6.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EST 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hanyuma omukama yagambira Hamani ati: “Rahuka bwango, twara ebijwaro n'embaraasi, nkooku ogambire, nukwo okole Morodekayi Omuyudaaya anyakwikaliire ha mulyango gw'omukama. Byona ebi ogambire, otasigayo na kimu.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.10",
+            "verseOrgIds": [
+              "EST.6.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EST 6:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aho Hamani yakwata ebijwaro yajweka Morodekayi, yamutembya ha mbaraasi, yamurabya omu ikuute ly'orubuga naarangirra ati: “Omuntu ogu omukama ou arukugonza kutamu ekitiinisa, nukwo araakolerwa ati.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.11",
+            "verseOrgIds": [
+              "EST.6.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EST 6:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.11",
+            "verseOrgIds": [
+              "EST.6.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EST 6:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hanyuma Morodekayi yagaruka ha irembo ly'omukama. Baitu Hamani yagaruka bwango omuka ye ayeswekeriire ha mutwe, obujune buraaliire kumwita. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.12",
+            "verseOrgIds": [
+              "EST.6.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EST 6:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yasubirra mukazi we Zerezi na banywani be boona, byona ebyamugweriire. Nubwo abasaija be abanyamagezi na mukazi we Zeresi baamugambiire bati: “Morodekayi ogu anyakukugarwize hansi obu araaba ali Muyudaaya, tolimusingura, mazimakwo oraamwinamiraga.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.13",
+            "verseOrgIds": [
+              "EST.6.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Hamani nahanikwa ha kabbaho",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EST 6:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.13",
+            "verseOrgIds": [
+              "EST.6.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EST 6:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obu bakaba nibakyabaza, abakonwa b'omukama baahika, baaleeta bwango Hamani ha bugenyi Esiteeri obwakaba ateekaniize.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.14",
+            "verseOrgIds": [
+              "EST.6.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EST.7",
+    "number": "7",
+    "bookId": "EST"
+  },
+  "previous": {
+    "id": "EST.5",
+    "number": "5",
+    "bookId": "EST"
+  }
+}

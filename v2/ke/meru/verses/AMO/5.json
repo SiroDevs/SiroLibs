@@ -1,0 +1,190 @@
+{
+  "id": "AMO.5",
+  "number": "5",
+  "bookId": "AMO",
+  "reference": "Amo 5",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "AMO 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Antû kûîrwa bairire",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "AMO 5:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.5.24",
+            "verseOrgIds": [
+              "AMO.5.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "AMO 5:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Antû ba Israeli, ka bwanditagîra igongwana na biewa rîrîa bwaarî rwanda mîaka mîrongo îna (40)? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.5.25",
+            "verseOrgIds": [
+              "AMO.5.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "AMO 5:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Îndî nandî buî nî bwithithîrîtie na bwathaathayia mîrungu yeenu tayo Sakuthi, mûrungu jûrîa mûnene na Kaiwani, mûrungu jwa njota. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.5.26",
+            "verseOrgIds": [
+              "AMO.5.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "AMO 5:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tontû bûû, nkaabwikia kîthamîrioone kûraaja mono na Damaski.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.5.27",
+            "verseOrgIds": [
+              "AMO.5.27"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "AMO 5:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ûu nîu MWATHANI akuuga ûrîa riîtwa rîaawe ni Mûrungu Mweneinya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.5.27",
+            "verseOrgIds": [
+              "AMO.5.27"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.6",
+    "number": "6",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.4",
+    "number": "4",
+    "bookId": "AMO"
+  }
+}

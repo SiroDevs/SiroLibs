@@ -1,0 +1,1575 @@
+{
+  "id": "GEN.42",
+  "number": "42",
+  "bookId": "GEN",
+  "reference": "Cakirok 42",
+  "verseCount": 38,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "42",
+        "style": "c",
+        "sid": "GEN 42"
+      },
+      "items": [
+        {
+          "text": "42",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Wutmin Yozefu jokidho Misir nyewo ŋano",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "GEN 42:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Munyo Yakobo oniaŋ ni ŋano oyido nitie Misir, owaco ri wote ni, “Raŋo wiŋiyere kisi nyatoro? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.1",
+            "verseOrgIds": [
+              "GEN.42.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "GEN 42:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.12"
+              },
+              "items": [
+                {
+                  "text": "Tim 7:12",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Neni, awinjo ni ŋano nitie Misir; lori win wikidhi winyew riwan cemo moro wakiri wiriy kec.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.2",
+            "verseOrgIds": [
+              "GEN.42.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "GEN 42:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ameno wutmin Yozefu apar joloro nyewo ŋano i Misir. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.3",
+            "verseOrgIds": [
+              "GEN.42.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "GEN 42:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To Yakobo k'ooro Benyamin omin Yozefu gi wutmin rupiri olworo ni lifol nyalo podho kwoŋe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.4",
+            "verseOrgIds": [
+              "GEN.42.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "GEN 42:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.4",
+            "verseOrgIds": [
+              "GEN.42.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "GEN 42:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wot Yakobo gi joman jobino nyewo ŋano rupiri kec oyido nitie i piny Kanan. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.5",
+            "verseOrgIds": [
+              "GEN.42.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "GEN 42:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Onyo Yozefu am'oyido gavana ma lowo ma Misir. Go am'oyido tana ŋano ri ji wok i piny je. Ameno wutmin Yozefu jobino to jokule ruwaŋ go gi nyim gin piny i lowo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.6",
+            "verseOrgIds": [
+              "GEN.42.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "GEN 42:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yozefu oneno wutmin, aka oniaŋ kwoŋ jo, to go otero jo pa jokicar to luwo gi jo gi gero. Openjo jo ni, “Wiwok kune?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.7",
+            "verseOrgIds": [
+              "GEN.42.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "GEN 42:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jodwoko ni, “Wawok i piny Kanan bino nyewo cemo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.7",
+            "verseOrgIds": [
+              "GEN.42.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "GEN 42:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.7",
+            "verseOrgIds": [
+              "GEN.42.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "GEN 42:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ameno Yozefu oniaŋ kwoŋ wutmin, to jok'oniaŋ kwoŋe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.8",
+            "verseOrgIds": [
+              "GEN.42.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "GEN 42:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.37.5+GEN.37.6+GEN.37.7+GEN.37.8+GEN.37.9+GEN.37.10"
+              },
+              "items": [
+                {
+                  "text": "Cak 37:5-10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Aka Yozefu opoyo lek ma go oleko kwoŋ jo aka owaco rijo ni, “Wibedo jopendo wibino neno nyapo ma piny mawan.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.9",
+            "verseOrgIds": [
+              "GEN.42.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "GEN 42:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.9",
+            "verseOrgIds": [
+              "GEN.42.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "GEN 42:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jodwoko ni, “Be, jadwoŋ, ŋecin perin jobino nyewo cemo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.10",
+            "verseOrgIds": [
+              "GEN.42.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "GEN 42:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wabedo wot jacwo acel. Wabedo jor'adieri aka wakibedo jopendo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.11",
+            "verseOrgIds": [
+              "GEN.42.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "GEN 42:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.11",
+            "verseOrgIds": [
+              "GEN.42.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "GEN 42:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yozefu owaco rijo ni, “Be, obedo nyapo ma piny mawan ama wibino niaŋ kwoŋe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.12",
+            "verseOrgIds": [
+              "GEN.42.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "GEN 42:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.12",
+            "verseOrgIds": [
+              "GEN.42.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "GEN 42:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jowaco ni, “Wan ŋecin perin oyido wabedo wutmere apar g'ario, wot jacwo acel i lowo ma Kanan. Aka panen, ocoko pama nitie gi bawan, aka acel otho.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.13",
+            "verseOrgIds": [
+              "GEN.42.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "GEN 42:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.13",
+            "verseOrgIds": [
+              "GEN.42.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "GEN 42:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To Yozefu owaco rijo ni, “Obedo paka awaco riwin ni wibedo jopendo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.14",
+            "verseOrgIds": [
+              "GEN.42.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "GEN 42:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Me apaka ibino temo win: Akwoŋere gi nyingi Farawo ni wikilaeye ka kwanyowoko ka wikelo ocoko mewin ka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.15",
+            "verseOrgIds": [
+              "GEN.42.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "GEN 42:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Or win acel kwoŋ win aka weyi go wokel omin win, ka widoŋ i jiera ŋey wac mewin wotem, k'adieri nitie i win. Kakameno, adieri paka Farawo kwo, wibedo jopendo.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.16",
+            "verseOrgIds": [
+              "GEN.42.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "GEN 42:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aka oketho joje kanyacel i jiera ma ndelo adek.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.17",
+            "verseOrgIds": [
+              "GEN.42.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "GEN 42:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.17",
+            "verseOrgIds": [
+              "GEN.42.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "GEN 42:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I ndelo mar'adek Yozefu owaco rijo ni, “An alworo Were, tim win gime aka wilakwo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.18",
+            "verseOrgIds": [
+              "GEN.42.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "GEN 42:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ka wibedo cwo ma jor'adieri weyi omin win acel wodoŋ i jiera, aka weyi wi ji ma widoŋ witer ŋano ri pecin mewin ma joriyo kec, ŋano ma winyewo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.19",
+            "verseOrgIds": [
+              "GEN.42.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "GEN 42:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aka wikel ocoko mewin ŋey wac mewin wotweny aka wikilatho.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.20",
+            "verseOrgIds": [
+              "GEN.42.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "GEN 42:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Joyere i gime. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.20",
+            "verseOrgIds": [
+              "GEN.42.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "GEN 42:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kenyo jowaco wegi ni, “Ey, onyo pama wacandere ro gima watimo ri omin wan; waneno teko madwoŋ ma go oyido nitie iye munyo okwayo wan kony, to wakinyalo winjo. Meno am'omiyo wanitie i teko pama.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.21",
+            "verseOrgIds": [
+              "GEN.42.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "GEN 42:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.21",
+            "verseOrgIds": [
+              "GEN.42.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "GEN 42:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ruben odwoko jo ni, “Awaco riwin ni wakiri wamiy jayac litho, to wikinyalo winjo. Ameno pama iculo wan ro tho pere.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.22",
+            "verseOrgIds": [
+              "GEN.42.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "GEN 42:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jok'oŋeyo ni Yozefu oyido niaŋ gima jowaco rupiri oyido nitie ŋata loko wac i dier jo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.23",
+            "verseOrgIds": [
+              "GEN.42.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "GEN 42:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yozefu oeye bongi jo to cako ywak. Munyo geregere ogik, odwoko bongi jo, aka okwanyo Simeo to tweyo go ruwaŋ jo won.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.24",
+            "verseOrgIds": [
+              "GEN.42.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Wutmin Yozefu jodok Kanan",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "GEN 42:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.24",
+            "verseOrgIds": [
+              "GEN.42.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "GEN 42:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yozefu owodho or ni wopoŋ kutiyin pajo gi ŋano aka wodwoki pesa pa kisi nyatoro i kutiya pere to miyo jo cemo ma woth to jokadho. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.25",
+            "verseOrgIds": [
+              "GEN.42.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "GEN 42:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kenyo jopanga ŋano i wi punde pajo to jokadho. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.26",
+            "verseOrgIds": [
+              "GEN.42.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "GEN 42:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aka munyo acel kwoŋ jo oyawo kutiya pere ni womiy punde pere cemo kama jonind'iye, onwaŋo pesa pere i dhok kutiya pere. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.27",
+            "verseOrgIds": [
+              "GEN.42.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "GEN 42:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Owaco ri wutmin ni, “Pesa paran odwoki ran, neni ee i dhok kutiya paran.” Cuny gin opodho aka jocako kirin ka jopenjo ni, “Aŋo ma Were otimo riwan me?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.28",
+            "verseOrgIds": [
+              "GEN.42.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "GEN 42:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.28",
+            "verseOrgIds": [
+              "GEN.42.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "GEN 42:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Munyo jotundo bongi Yakobo bajo i piny Kanan, jowaco rigo kisi gim'oyido otimere rijo: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.29",
+            "verseOrgIds": [
+              "GEN.42.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "GEN 42:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Gavana ma Misir oluwo gi wan gi gero aka ocwoko dhok wan ni wabedo jopendo i piny pere. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.30",
+            "verseOrgIds": [
+              "GEN.42.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "GEN 42:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To wawaco rigo ni, ‘Wabedo cwo ma jor'adieri, wakibedo jopendo; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.31",
+            "verseOrgIds": [
+              "GEN.42.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "GEN 42:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "oyido wabedo wutmere apar g'ario, wot jacwo acel. Omin wan acel otho, aka ocoko fodi nitie i Kanan gi bawan.’ ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.32",
+            "verseOrgIds": [
+              "GEN.42.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "GEN 42:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kenyo jalo odwoko ni, ‘Me apaka abino ŋeyo ni wibedo cwo ma jor'adieri. Weyi win omin win acel kodan, aka win ma widoŋ ter win ŋano ri pecin mewin ma joriyo kec. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.33",
+            "verseOrgIds": [
+              "GEN.42.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "GEN 42:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Keli win omin win mathin bongan, kenyo nyaka abino ŋeyo ni wikibedo jopendo, to wibedo cwo ma jor'adieri, aka abino dwoko riwin omin win t'ayeyo win bedo ka, kareno witimo mitan.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.34",
+            "verseOrgIds": [
+              "GEN.42.34"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "GEN 42:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.34",
+            "verseOrgIds": [
+              "GEN.42.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "GEN 42:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Paka jokonjo ŋano wok i kutiya pajo, neni, kisi jacwo onwaŋo thac pesa pere i kutiya pere. Aka munyo joneno pesa, jo kodi bajo je jobwok. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.35",
+            "verseOrgIds": [
+              "GEN.42.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "GEN 42:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yakobo owaco rijo ni, “Wimitan akeŋ nyithindho paran je? Yozefu okadho, Simeo okadho, aka onyo pama wimito tero Benyamin bende. An aŋat'acandere!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.36",
+            "verseOrgIds": [
+              "GEN.42.36"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "GEN 42:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.36",
+            "verseOrgIds": [
+              "GEN.42.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "GEN 42:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ruben owaco ri bamere ni, “K'inen akidwoko gi Benyamin, inyalo neko wotan ario. Kethi go i cingan, aka abino dwoko go.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.37",
+            "verseOrgIds": [
+              "GEN.42.37"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "GEN 42:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.37",
+            "verseOrgIds": [
+              "GEN.42.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "GEN 42:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To Yakobo waco ni, “Wodan k'olor gi win, rupiri omin go otho aka go kende am'odoŋ. Gimoro nyalo timere rigo i yo. Abedo jal m'oti, aka litho ma winokel kwoŋan nyalo nekan.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.38",
+            "verseOrgIds": [
+              "GEN.42.38"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "GEN.43",
+    "number": "43",
+    "bookId": "GEN"
+  },
+  "previous": {
+    "id": "GEN.41",
+    "number": "41",
+    "bookId": "GEN"
+  }
+}

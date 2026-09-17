@@ -1,0 +1,108 @@
+{
+  "id": "PRO.31",
+  "number": "31",
+  "bookId": "PRO",
+  "reference": "Kalewenaik 31",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "31",
+        "style": "c",
+        "sid": "PRO 31"
+      },
+      "items": [
+        {
+          "text": "31",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ng’alek che kitorete laitoriat",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 31:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ng’alekab laitoriat Lemuel; maoinatet ne kiinet kamet.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.1",
+            "verseOrgIds": [
+              "PRO.31.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kwondo ne nyolunot",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "END OF BOOK",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.1",
+    "number": "1",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "PRO.30",
+    "number": "30",
+    "bookId": "PRO"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "ISA.5",
+  "number": "5",
+  "bookId": "ISA",
+  "reference": "Isaaya 5",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "ISA 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.5.1",
+            "verseOrgIds": [
+              "ISA.5.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.80.8"
+              },
+              "items": [
+                {
+                  "text": "Zab 80:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.12.1"
+              },
+              "items": [
+                {
+                  "text": "Mak 12:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Ka nyeshongorere nkunzi yangye ekyeshongoro kya rukundo aha musiri gwe gw'emizaabibu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.5.1",
+            "verseOrgIds": [
+              "ISA.5.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.6",
+    "number": "6",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.4",
+    "number": "4",
+    "bookId": "ISA"
+  }
+}

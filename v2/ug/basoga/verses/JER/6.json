@@ -1,0 +1,128 @@
+{
+  "id": "JER.6",
+  "number": "6",
+  "bookId": "JER",
+  "reference": "Yeremia 6",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "JER 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JER 6:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.6.3",
+            "verseOrgIds": [
+              "JER.6.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JER 6:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bakyabazinga abo balikoba bati:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.6.4",
+            "verseOrgIds": [
+              "JER.6.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JER 6:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agho Musengwa Katonda yankoba ati:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.6.11",
+            "verseOrgIds": [
+              "JER.6.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.7",
+    "number": "7",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.5",
+    "number": "5",
+    "bookId": "JER"
+  }
+}

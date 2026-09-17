@@ -1,0 +1,82 @@
+{
+  "id": "NAM.2",
+  "number": "2",
+  "bookId": "NAM",
+  "reference": "Nahumu 2",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "NAM 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ī Ninawi shiigelile īgwe",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NAM 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ninawi, aliza ng'ūbūki kūkūkomagūla,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.2.1",
+            "verseOrgIds": [
+              "NAM.2.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NAM.3",
+    "number": "3",
+    "bookId": "NAM"
+  },
+  "previous": {
+    "id": "NAM.1",
+    "number": "1",
+    "bookId": "NAM"
+  }
+}

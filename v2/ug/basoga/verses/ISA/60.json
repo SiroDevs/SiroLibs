@@ -1,0 +1,94 @@
+{
+  "id": "ISA.60",
+  "number": "60",
+  "bookId": "ISA",
+  "reference": "Isaia 60",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "60",
+        "style": "c",
+        "sid": "ISA 60"
+      },
+      "items": [
+        {
+          "text": "60",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 60:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.9",
+            "verseOrgIds": [
+              "ISA.60.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 60:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musengwa Katonda akoba Yerusalemu ati:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.10",
+            "verseOrgIds": [
+              "ISA.60.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.61",
+    "number": "61",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.59",
+    "number": "59",
+    "bookId": "ISA"
+  }
+}

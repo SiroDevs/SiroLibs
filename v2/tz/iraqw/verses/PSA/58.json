@@ -1,0 +1,68 @@
+{
+  "id": "PSA.58",
+  "number": "58",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 58",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "58",
+        "style": "c",
+        "sid": "PSA 58"
+      },
+      "items": [
+        {
+          "text": "58",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 58:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ar loe, kuungaá waawitá, gan'amu u koondá'a?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.58.1",
+            "verseOrgIds": [
+              "PSA.58.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.59",
+    "number": "59",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.57",
+    "number": "57",
+    "bookId": "PSA"
+  }
+}

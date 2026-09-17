@@ -1,0 +1,917 @@
+{
+  "id": "1PE.3",
+  "number": "3",
+  "bookId": "1PE",
+  "reference": "1 Petero 3",
+  "verseCount": 20,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "1PE 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1PE 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.1+1PE.3.2",
+            "verseOrgIds": [
+              "1PE.3.1",
+              "1PE.3.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.5.22"
+              },
+              "items": [
+                {
+                  "text": "Aefeso 5:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.3.18"
+              },
+              "items": [
+                {
+                  "text": "Akolosai 3:18",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Vivyo hivyo, mwi achetu muriolólwa ni mphundze alume enu. Kpwa njira hiyo, hinyo ambao taalunga mafundzo ga Jesu, andahamirwa ni tabiya zenu za ishima na adabu, hata aweze kumkubali Mlungu bila kuambirwa neno. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.1+1PE.3.2",
+            "verseOrgIds": [
+              "1PE.3.1",
+              "1PE.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1PE 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.2.9"
+              },
+              "items": [
+                {
+                  "text": "1 Timothi 2:9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Msikale atu a kudzikpwatuwa kondze bahi, dza vira kusonga nyere, kuvwala zahabu na nguwo za gali, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.3",
+            "verseOrgIds": [
+              "1PE.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1PE 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ela unono wenu ni uandzire ndani, urembo usioweza kubanangika wala kutsakala ambao ni kukala na moyo mnono na mpole. Huno ndio urembo urio na samani matsoni pha Mlungu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.4",
+            "verseOrgIds": [
+              "1PE.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1PE 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mana hipho kare achetu ariomuogopha Mlungu na kumkuluphira amanya kudzikpwatuwa kpwa ndzimo nono za kuogopha alume ao. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.5",
+            "verseOrgIds": [
+              "1PE.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1PE 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.18.12"
+              },
+              "items": [
+                {
+                  "text": "Mwandzo 18:12",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mchetu mmwenga ariyehenda hivi ni Sara, mkpwaza Burahimu. Hiyu wamphundza mlumewe na kumuishimu, achimuiha “Mlume wangu.” Phahi mwimwi namwi, ichikala mundahenda garigo sawa bila kuogopha rorosi, mundakala avi mu anae achetu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.6",
+            "verseOrgIds": [
+              "1PE.3.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1PE 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.6",
+            "verseOrgIds": [
+              "1PE.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1PE 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.7",
+            "verseOrgIds": [
+              "1PE.3.7"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.5.25"
+              },
+              "items": [
+                {
+                  "text": "Aefeso 5:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.3.19"
+              },
+              "items": [
+                {
+                  "text": "Akolosai 3:19",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Namwi alume muriolóla, mnalondwa msagaleto na achetu enu kpwa vira mnamanya kukala taana mkpwotse dza mwimwi. Piya atundzeni na ishima kpwa sababu ahadi ya Mlungu ya kuphaha uzima ni yenu mosi alume na achetu. Kpwa hivyo alume hendani hivi sedze mavoyo genu gakazuwiywa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.7",
+            "verseOrgIds": [
+              "1PE.3.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1PE 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.7",
+            "verseOrgIds": [
+              "1PE.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1PE 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Chimarigizo nakuambirani mosi: gbwiranani mkale na moyo mmwenga mosi bu. Mendzanani na muonerane mbazi, wala msihende ngulu tse. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.8",
+            "verseOrgIds": [
+              "1PE.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1PE 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Msiariphize anaokuhenderani mai, wala kualaphiza anaokulaphizani, ela ahendereni manono. Mana hivyo ndivyo Mlungu alondavyo muhende, ili akale andakujaliyani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.9",
+            "verseOrgIds": [
+              "1PE.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1PE 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.34.12+PSA.34.13+PSA.34.14+PSA.34.15+PSA.34.16"
+              },
+              "items": [
+                {
+                  "text": "Zaburi 34:12–16",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Higa ganagbwa sawa na vira Maandiko gaambavyo kukala:",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.10",
+            "verseOrgIds": [
+              "1PE.3.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1PE 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.12",
+            "verseOrgIds": [
+              "1PE.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1PE 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pho kpwani ni ani ndiyeaza kukuhenderani mai ichikala wakati wosi muna chadi cha kuhenda manono? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.13",
+            "verseOrgIds": [
+              "1PE.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1PE 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.5.10"
+              },
+              "items": [
+                {
+                  "text": "Mathayo 5:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.8.12+ISA.8.13"
+              },
+              "items": [
+                {
+                  "text": "Isaya 8:12–13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ela phahi hata ichikala munagaya kpwa sababu ya kuhenda haki, Mlungu andakujaliyani. Kpwa hivyo msihende shaka wala kuogopha hara anaokugayisani, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.14",
+            "verseOrgIds": [
+              "1PE.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1PE 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ela manyani kukala Jesu ndiye mkpwulu wa maisha genu na mumuogophe moyo kutsuka. Kalani tayari wakati wosi kumuelezea yeyesi ndiyeuza sababu ya kuluphiro renu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.15",
+            "verseOrgIds": [
+              "1PE.3.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1PE 3:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ela hendani hivi kpwa upole na ishima. Kalani na ndzimo nono kpwa sababu mu afuasi a Jesu, ili hinyo anaokuocherani ngulu kuhusu hizo tabiya zenu agbwirwe ni haya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.16",
+            "verseOrgIds": [
+              "1PE.3.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1PE 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mana ichikala Mlungu analonda ugaye, phahi nibaha ugaye kpwa sababu ya kuhenda sawa kuriko kugaya kpwa kuhenda kosa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.17",
+            "verseOrgIds": [
+              "1PE.3.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1PE 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.17",
+            "verseOrgIds": [
+              "1PE.3.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1PE 3:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jesu wagaya na achifwa limwenga kpwa sababu ya dambi zehu, ili ahupatanishe na Mlungu, ela ye mwenye kayakala na dambi. Waolagbwa ariphokala na mwiri wa chibinadamu ela wafufulwa ni Roho Mtakatifu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.18",
+            "verseOrgIds": [
+              "1PE.3.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "1PE 3:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na kpwa uwezo wa ye Roho",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.19",
+            "verseOrgIds": [
+              "1PE.3.19"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "3:19",
+              "type": "text"
+            },
+            {
+              "text": "Manage ganjina ni,",
+              "type": "text"
+            },
+            {
+              "text": "ela wafufulwa na rohoye ichere moyo. Na katika hali iyo ya chiroho.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " achiphiya kuriko na maroho ga atu a kufwa garigofungbwa, achendagasemurira habari za Mlungu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.19",
+            "verseOrgIds": [
+              "1PE.3.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1PE 3:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "Mwandzo 6:1—7:24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maroho higo ni ga atu ambao taayamuogopha Mlungu hipho kare, wakati Nuhu kala anadzenga meli. Mlungu wavumirira uyi wao hadi meli iriphodzengbwa, ela mwisho atu achache, anane bahi, ndio ariopona madzi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.20",
+            "verseOrgIds": [
+              "1PE.3.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "1PE 3:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hinyo ni mfwano wa ubatizo wenu wa siku hizi. Mana munaphobatizwa inaonyesa kukala mkativywa na chifo na hukumu kpwa uwezo wa kufufuka kpwa Jesu Masihi. Kpwa hivyo ubatizo siyo kuoga ili kuusa nongo za mwiri, ela nkudzilavya kpwa Mlungu moyo kutsuka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.21",
+            "verseOrgIds": [
+              "1PE.3.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "1PE 3:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hiye Jesu waphiya mlunguni na sambi asegere mkpwono wa kulume wa Mlungu, phatu pha ishima kulu sana. Anatawala malaika phamwenga na viumbe vyosi vitawalavyo na virivyo na uwezo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.3.22",
+            "verseOrgIds": [
+              "1PE.3.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1PE.4",
+    "number": "4",
+    "bookId": "1PE"
+  },
+  "previous": {
+    "id": "1PE.2",
+    "number": "2",
+    "bookId": "1PE"
+  }
+}

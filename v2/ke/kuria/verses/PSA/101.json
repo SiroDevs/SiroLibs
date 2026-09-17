@@ -1,0 +1,81 @@
+{
+  "id": "PSA.101",
+  "number": "101",
+  "bookId": "PSA",
+  "reference": "Ësabhuri 101",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "101",
+        "style": "c",
+        "sid": "PSA 101"
+      },
+      "items": [
+        {
+          "text": "101",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ëndagano yö ömögambi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 101:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ëkërango keene igörö yö öbhöröngë na öbhöheene;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.1",
+            "verseOrgIds": [
+              "PSA.101.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.102",
+    "number": "102",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.100",
+    "number": "100",
+    "bookId": "PSA"
+  }
+}

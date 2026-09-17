@@ -1,0 +1,94 @@
+{
+  "id": "ISA.1",
+  "number": "1",
+  "bookId": "ISA",
+  "reference": "Isaya 1",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "ISA 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Suh ng'asheega siihiimsa Isaya gil, was orjeeda Amosi, ghayi daah aba badayda Yuda ea Yerusalemu aba damanda sugoocheanduumeeda Usiya ea Yotam, Ahasi ea Hesekiya was sugoodiga Yuda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.1",
+            "verseOrgIds": [
+              "ISA.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "ASEETA goowoowsa fugaaschi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mujiineeda nyiit riing'eeda",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.2",
+    "number": "2",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "SNG.8",
+    "number": "8",
+    "bookId": "SNG"
+  }
+}

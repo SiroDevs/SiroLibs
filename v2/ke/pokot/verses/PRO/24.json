@@ -1,0 +1,120 @@
+{
+  "id": "PRO.24",
+  "number": "24",
+  "bookId": "PRO",
+  "reference": "Ngötïnyö 24",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "24",
+        "style": "c",
+        "sid": "PRO 24"
+      },
+      "items": [
+        {
+          "text": "24",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PRO 24:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.24.12",
+            "verseOrgIds": [
+              "PRO.24.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PRO 24:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Werïnyu, ama kumat ompöwölo karam,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.24.13",
+            "verseOrgIds": [
+              "PRO.24.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ngala ngötïnyö walaka",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ngötïnyo Solomon walaka",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.25",
+    "number": "25",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.23",
+    "number": "23",
+    "bookId": "PRO"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "NAM.2",
+  "number": "2",
+  "bookId": "NAM",
+  "reference": "Nah 2",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "NAM 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kûgwa kwa Nineve",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NAM 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.2.12",
+            "verseOrgIds": [
+              "NAM.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NAM 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Taroriani, Nie Ngai-Mûnene mwene vinya wonthe, nîngûrûa namue: nîngûvîvia ikaari icio cienyu cia mbarathi, athigari enyu nîmakaaûragîrwa mbaararî, na nîngoca indo cionthe irîa mwocire kuuma kûrî andû engî. Mûgambo wa anjaama enyu ndûkeguîka rîngî.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.2.13",
+            "verseOrgIds": [
+              "NAM.2.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NAM.3",
+    "number": "3",
+    "bookId": "NAM"
+  },
+  "previous": {
+    "id": "NAM.1",
+    "number": "1",
+    "bookId": "NAM"
+  }
+}

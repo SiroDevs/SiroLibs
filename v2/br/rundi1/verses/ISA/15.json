@@ -1,0 +1,68 @@
+{
+  "id": "ISA.15",
+  "number": "15",
+  "bookId": "ISA",
+  "reference": "Yesaya 15",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "15",
+        "style": "c",
+        "sid": "ISA 15"
+      },
+      "items": [
+        {
+          "text": "15",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 15:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ivyo Yesaya yavugishijwe kuri Mowabu:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.1",
+            "verseOrgIds": [
+              "ISA.15.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.16",
+    "number": "16",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.14",
+    "number": "14",
+    "bookId": "ISA"
+  }
+}

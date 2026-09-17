@@ -1,0 +1,144 @@
+{
+  "id": "PSA.36",
+  "number": "36",
+  "bookId": "PSA",
+  "reference": "Zaburi 36",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "36",
+        "style": "c",
+        "sid": "PSA 36"
+      },
+      "items": [
+        {
+          "text": "36",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 36:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.1",
+            "verseOrgIds": [
+              "PSA.36.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.3.18"
+              },
+              "items": [
+                {
+                  "text": "Rum 3:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.20.11"
+              },
+              "items": [
+                {
+                  "text": "E’do 20:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.8.13"
+              },
+              "items": [
+                {
+                  "text": "O’be 8:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ECC.12.3"
+              },
+              "items": [
+                {
+                  "text": "Ekl 12:3",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ezata ’ba onzirini ece e’yoni ’dini ma asia kini, Ruta erini Mungu ruzuri eri ma milia yo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.1",
+            "verseOrgIds": [
+              "PSA.36.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.37",
+    "number": "37",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.35",
+    "number": "35",
+    "bookId": "PSA"
+  }
+}

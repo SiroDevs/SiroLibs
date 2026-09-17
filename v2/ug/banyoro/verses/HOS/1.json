@@ -1,0 +1,714 @@
+{
+  "id": "HOS.1",
+  "number": "1",
+  "bookId": "HOS",
+  "reference": "Hos 1",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "HOS 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Omuteesigwa muka Hoseya hamu n'abaana",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.1",
+            "verseOrgIds": [
+              "HOS.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.15.1+2KI.15.2+2KI.15.3+2KI.15.4+2KI.15.5+2KI.15.6+2KI.15.7"
+              },
+              "items": [
+                {
+                  "text": "2 Bakam 15:1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.26.1+2CH.26.2+2CH.26.3+2CH.26.4+2CH.26.5+2CH.26.6+2CH.26.7+2CH.26.8+2CH.26.9+2CH.26.10+2CH.26.11+2CH.26.12+2CH.26.13+2CH.26.14+2CH.26.15+2CH.26.16+2CH.26.17+2CH.26.18+2CH.26.19+2CH.26.20+2CH.26.21+2CH.26.22+2CH.26.23"
+              },
+              "items": [
+                {
+                  "text": "2 Byok 26:1-23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.15.32+2KI.15.33+2KI.15.34+2KI.15.35+2KI.15.36+2KI.15.37+2KI.15.38"
+              },
+              "items": [
+                {
+                  "text": "2 Bakam 15:32-38",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.27.1+2CH.27.2+2CH.27.3+2CH.27.4+2CH.27.5+2CH.27.6+2CH.27.7+2CH.27.8"
+              },
+              "items": [
+                {
+                  "text": "2 Byok 27:1-8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.16.1+2KI.16.2+2KI.16.3+2KI.16.4+2KI.16.5+2KI.16.6+2KI.16.7+2KI.16.8+2KI.16.9+2KI.16.10+2KI.16.11+2KI.16.12+2KI.16.13+2KI.16.14+2KI.16.15+2KI.16.16+2KI.16.17+2KI.16.18+2KI.16.19+2KI.16.20"
+              },
+              "items": [
+                {
+                  "text": "2 Bakam 16:1-20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.28.1+2CH.28.2+2CH.28.3+2CH.28.4+2CH.28.5+2CH.28.6+2CH.28.7+2CH.28.8+2CH.28.9+2CH.28.10+2CH.28.11+2CH.28.12+2CH.28.13+2CH.28.14+2CH.28.15+2CH.28.16+2CH.28.17+2CH.28.18+2CH.28.19+2CH.28.20+2CH.28.21+2CH.28.22+2CH.28.23+2CH.28.24+2CH.28.25+2CH.28.26+2CH.28.27"
+              },
+              "items": [
+                {
+                  "text": "2 Byok 28:1-27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n        2 Bakam 18:1—20:21; 2 Byok 29:1—32:33;     \n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.14.23+2KI.14.24+2KI.14.25+2KI.14.26+2KI.14.27+2KI.14.28+2KI.14.29"
+              },
+              "items": [
+                {
+                  "text": "2 Bakam 14:23-29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kinu nikyo ekigambo MUKAMA eki yagambiire Hoseya omu biro bya Uziya, Yosamu, Ahazi na Hezekiya abakama ba Yuda, n'omu bwa Yerobbowamu mutabani wa Yowaasi Omukama wa Isirairi, mutabani wa Beeri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.1",
+            "verseOrgIds": [
+              "HOS.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.1",
+            "verseOrgIds": [
+              "HOS.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "HOS 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "MUKAMA obu yabandize kubaliza Isirairi naaraba omuli Hoseya, akamugambira ati: “Genda oswere omukazi ensiihani, omuzaaleho abaana ab'obusiihani, habwokuba ensi habw'okweha obusiihani, nikyo efurukiire MUKAMA.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.2",
+            "verseOrgIds": [
+              "HOS.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HOS 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hoseya nukwo kugenda, yaswera omukazi muhara wa Diburaimu, ibara lye Gomere, omukazi yatwara enda, yazarra Hoseya omwana w'obwojo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.3",
+            "verseOrgIds": [
+              "HOS.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HOS 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.3",
+            "verseOrgIds": [
+              "HOS.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HOS 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.4",
+            "verseOrgIds": [
+              "HOS.1.4"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.10.11"
+              },
+              "items": [
+                {
+                  "text": "2 Bakam 10:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "MUKAMA akagambira Hoseya ati: “Omwana ogu omuruke ibara Yezereeri; habwokuba hasigaire akasumi kake, ninyija kufubira enju ya Yehu habw'esagama ya Yezereeri, mpwerekereze obukama obw'enju ya Isirairi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.4",
+            "verseOrgIds": [
+              "HOS.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HOS 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ha kiro eki, nubwo ndicwa obuta bwa Isirairi, omu kihanga kya Yezereeri.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.5",
+            "verseOrgIds": [
+              "HOS.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HOS 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.5",
+            "verseOrgIds": [
+              "HOS.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "HOS 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omukazi yagaruka yatwara enda, yazaara omwana w'obwisiki. Yagambira Hoseya ati: “Omwisiki ogu, ibara omuruke Kinobi, habwokuba tindyongera kugirra enju ya Isirairi embabazi, tindigaruka kubaganyira n'akake. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.6",
+            "verseOrgIds": [
+              "HOS.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "HOS 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baitu enju ya Yuda niyo ndigirra embabazi, nyowe MUKAMA Ruhanga wabo, ninyowe ndibajuna, tindibajunisa bulemu nindwana nkwasire ebitara, obuta, n'emyambi, nyina embaraasi n'abatembi b'embaraasi.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.7",
+            "verseOrgIds": [
+              "HOS.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "HOS 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.7",
+            "verseOrgIds": [
+              "HOS.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "HOS 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gomere obu yacuukwire Kinobi, yagaruka yatwara enda, yazaara omwana w'obwojo ondi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.8",
+            "verseOrgIds": [
+              "HOS.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "HOS 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "MUKAMA yagambira Hoseya ati: “Ogu, omuruke ‘Tibali bange’, kandi nukwo kiri kwo, timuli bantu bange, na nyowe tindi Ruhanga wanyu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.9",
+            "verseOrgIds": [
+              "HOS.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "HOS 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.9",
+            "verseOrgIds": [
+              "HOS.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "HOS 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.10",
+            "verseOrgIds": [
+              "HOS.1.10"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.9.26"
+              },
+              "items": [
+                {
+                  "text": "Bar 9:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eki noobu kiraba kiri kiti, omuhendo ogw'abantu ba Isirairi gulisisana nk'omusenyi ogw'enyanja, nugwo gutasobora kulengwa rundi kubarwa; hati Ruhanga naabagamba ati: “Timuli bantu bange,” baitu ekiro kirihika eki alibagambiraho ati: “Muli baana ba Ruhanga omwomeezi!” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.10",
+            "verseOrgIds": [
+              "HOS.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "HOS 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abantu ba Yuda n'aba Isirairi, baligaruka bateerane beekomere omwebembezi omu, bagaruke bakule bagwagwane baikale omunsi yabo. Mazima kwo, ekiro kya Yezereeri, kiriba kiro kikuru mali!",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.11",
+            "verseOrgIds": [
+              "HOS.1.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.2",
+    "number": "2",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.intro",
+    "number": "intro",
+    "bookId": "HOS"
+  }
+}

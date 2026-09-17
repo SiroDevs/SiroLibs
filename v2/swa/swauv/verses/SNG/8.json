@@ -1,0 +1,47 @@
+{
+  "id": "SNG.8",
+  "number": "8",
+  "bookId": "SNG",
+  "reference": "Wim 8",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "8",
+        "style": "c",
+        "sid": "SNG 8"
+      },
+      "items": [
+        {
+          "text": "8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kurudi Nyumbani",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.intro",
+    "number": "intro",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "SNG.7",
+    "number": "7",
+    "bookId": "SNG"
+  }
+}

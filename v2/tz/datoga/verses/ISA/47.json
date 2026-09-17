@@ -1,0 +1,81 @@
+{
+  "id": "ISA.47",
+  "number": "47",
+  "bookId": "ISA",
+  "reference": "Isaya 47",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "47",
+        "style": "c",
+        "sid": "ISA 47"
+      },
+      "items": [
+        {
+          "text": "47",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Girgweaksiinda Babeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 47:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rarang'aana ak giipteadi aba jeeda birjeanda,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.47.1",
+            "verseOrgIds": [
+              "ISA.47.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.48",
+    "number": "48",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.46",
+    "number": "46",
+    "bookId": "ISA"
+  }
+}

@@ -1,0 +1,621 @@
+{
+  "id": "GEN.20",
+  "number": "20",
+  "bookId": "GEN",
+  "reference": "Kuzoya 20",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 18,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "20",
+        "style": "c",
+        "sid": "GEN 20"
+      },
+      "items": [
+        {
+          "text": "20",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Abrahamu na Abimeleki",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "GEN 20:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kufuma aho, Abrahamu ukaghenda cha Negebu, ukakaia ghadi na ghadi ya Kadeshi na Shuri, ukakaia Gerari kwa ngelo ndini. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.1",
+            "verseOrgIds": [
+              "GEN.20.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "GEN 20:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na aho Abrahamu ukamghora mkake Sara kukaia ni mruna. Abimeleki mzuri wa Gerari ukaduma uredelo Sara upate kummbusa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.2",
+            "verseOrgIds": [
+              "GEN.20.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.12.13"
+              },
+              "items": [
+                {
+                  "text": "Kuz. 12.13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.26.7"
+              },
+              "items": [
+                {
+                  "text": "26.7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.2",
+            "verseOrgIds": [
+              "GEN.20.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "GEN 20:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao Mlungu ukamchea Abimeleki ndodonyi nakio ukamzera, “Ola kuchafwa, kwa kukaia kwawusa muka wa wandu.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.3",
+            "verseOrgIds": [
+              "GEN.20.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "GEN 20:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aho Abimeleki nderekoghe wamsoghodera anduangi. Niko ukaghamba, “Wele BWANA, kuchawibwagha wandu wisewadie ikosa? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.4",
+            "verseOrgIds": [
+              "GEN.20.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "GEN 20:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nechi odeghora moni wei ni mruna, na uo muka wori ukaghamba wokoni wei ni mruna; niko nani ngaghibonya agha kwa ngolo ielie putu, ini sine ikosa jingi.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.5",
+            "verseOrgIds": [
+              "GEN.20.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "GEN 20:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao Mlungu ukamzera uko ndodonyi, “Ee loli kwaghamba kwabonya huwo kwa ngolo ielie, ela ni ini moni nikutangalie kusenibonyere kaung'a; niko ngakughira kusemuadade. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.6",
+            "verseOrgIds": [
+              "GEN.20.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "GEN 20:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Idana kummbunje kwa mumi wake, angu uo moni ni mlodi, nao uchakulombia oho kusechefwa, niko kuchakaia moyo. Ela kukalegha kummbunja, manya loli kuchafwa na wandu wako wose.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.7",
+            "verseOrgIds": [
+              "GEN.20.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "GEN 20:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.7",
+            "verseOrgIds": [
+              "GEN.20.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "GEN 20:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao Abimeleki ukawuka nakesho kio, ukawiwanga wadumiki wake wose, ukawighoria malagho agho, nawo wikangilwa ni wowa loli-loli. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.8",
+            "verseOrgIds": [
+              "GEN.20.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "GEN 20:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Niko Abimeleki ukammbanga Abrahamu ukamzera, “Welee, kwadibonyere wada huwu? Ni kaung'aki dikubonyere, hata kukanishekeria ini na wuzuri ghwapo kungia andenyi ya kaung'a ihi mbaa? Kwanibonyere maza risefwane.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.9",
+            "verseOrgIds": [
+              "GEN.20.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "GEN 20:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abimeleki ukachuria kumzera Abrahamu, “Koregheshereghe wada kukibonya huwu?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.10",
+            "verseOrgIds": [
+              "GEN.20.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "GEN 20:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abrahamu ukamzera, “Nedeghesha wei wandu ndewimuobuagha Mlungu aha, nawo wichanibwagha kwa wundu ghwa muka wapo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.11",
+            "verseOrgIds": [
+              "GEN.20.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "GEN 20:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ela kwa loli ni mwanidu, aba ni umweri ela mae ni mzima; niko nimlowue. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.12",
+            "verseOrgIds": [
+              "GEN.20.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "GEN 20:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Iji Mlungu orenifunyireghe kwa aba nikaie omara-mara nedemzera muka wapo huwu, ‘Wucha kuchaanibonyera ni ughu: andu uko kose dichaavika, kunighore kukaia ini ne mwanyinyu!’”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.13",
+            "verseOrgIds": [
+              "GEN.20.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "GEN 20:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.13",
+            "verseOrgIds": [
+              "GEN.20.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "GEN 20:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao Abimeleki ukawusa ng'ondi na ng'ombe, na wazumba wa womi na wa waka, ukamneka Abrahamu na kummbunjira mkake Sara ukighamba, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.14",
+            "verseOrgIds": [
+              "GEN.20.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "GEN 20:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ola isanga japo heji, kaia andu uko kose kuchaakunda oho kumoni.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.15",
+            "verseOrgIds": [
+              "GEN.20.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "GEN 20:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ukamzera Sara, “Ola namneka mwanyinyu vibelele va feza elfu imweri, kukaia wushuhuda ghwa loli mesonyi kwa wose mkwanye angu ndekubonyere wuwiwi ghungi, na angu koko na hachi imbiri ya wose.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.16",
+            "verseOrgIds": [
+              "GEN.20.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "GEN 20:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Niko aho Abrahamu ukawilombia kwa Mlungu, na Mlungu ukawiboisa Abimeleki na mkake, na wazumba wake wa waka wipate kuva wana; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.17",
+            "verseOrgIds": [
+              "GEN.20.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "GEN 20:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "angu Mlungu orekoghe wawifunga kuva waka wose wa nyumba ya Abimeleki, kwa wundu ghwa Sara mkake Abrahamu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.20.18",
+            "verseOrgIds": [
+              "GEN.20.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "GEN.21",
+    "number": "21",
+    "bookId": "GEN"
+  },
+  "previous": {
+    "id": "GEN.19",
+    "number": "19",
+    "bookId": "GEN"
+  }
+}

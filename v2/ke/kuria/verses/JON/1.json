@@ -1,0 +1,733 @@
+{
+  "id": "JON.1",
+  "number": "1",
+  "bookId": "JON",
+  "reference": "Yona 1",
+  "verseCount": 17,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "JON 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ubhutëëyu bho Yona kö ÖMÖNENE",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JON 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.1",
+            "verseOrgIds": [
+              "JON.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.14.25"
+              },
+              "items": [
+                {
+                  "text": "2 Gam 14:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Urusikö röndë ëng'ana yö ÖMÖNENE ëgaachëra Yona ömoona wa Amitai. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.1",
+            "verseOrgIds": [
+              "JON.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JON 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akamöteebhia iga, “Genda Ninawi, kumugi ömönene gööra, ögököge; kugira naamaaha ubhunyanku bhogo bhooheta möhörö.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.2",
+            "verseOrgIds": [
+              "JON.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JON 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Köhayö, Yona agatanga örögendo, sibhoono akaihënöra na kögëëra ënchëra ya Tarisisi, hano ÖMÖNENE atanyoorrë amöteebhiri. Akaya igo akahika Yabha, ahasë hano anyoorrë ëmeeri ëratanöra kuya Tarisisi. Akahakanëra örögendo, akarina ëmeeri, abhagendia bhë ëmeeri ëyö bhagatanöra nawe kuya Tarisisi, arakanya iga narang'ose ÖMÖNENE.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.3",
+            "verseOrgIds": [
+              "JON.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JON 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.3",
+            "verseOrgIds": [
+              "JON.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JON 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sibhoono ÖMÖNENE akarenta ömökama umurito kunyancha, inyancha ëgatinda bhökong'u, ëmeeri ëgatuna köbhaaröka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.4",
+            "verseOrgIds": [
+              "JON.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JON 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abhagendia bhakagotöa ni irihiku, këra möntö agaköörra ënooköë waae; bhagatabhuta kunyancha imirigo gëno geerëngë kömeeri korri ëhöhe. Yona we nkanyoora asohërë gönsonkuno ya hansë yë ëmeeri, araayë turai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.5",
+            "verseOrgIds": [
+              "JON.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JON 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.5",
+            "verseOrgIds": [
+              "JON.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JON 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ömuimirirri wë ëmeeri akamögëra akamöteebhia iga, “Ngikugira kë uwe öraayë? Tabhööka ösasaame ënooköë waao; kanyoora ënooköë waao agaatoobhera atutuuri tötagasika.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.6",
+            "verseOrgIds": [
+              "JON.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JON 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.6",
+            "verseOrgIds": [
+              "JON.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JON 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abhagendia bhë ëmeeri bhagateebhania iga, “Tötakora ëgëkoobhoe töngöre öno atörenteerrëyi ëhöbhë ëno.” Köhayö, bhagakora ëgëkoobhoe, nakio gëkaguëra Yona. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.7",
+            "verseOrgIds": [
+              "JON.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JON 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nëho bhaamubhuurri iga, “Bhoono, töteebhia! Kugira kë ëhöbhë ëno itunyoorrë? Mërëmo kë ögökora? Nëhai uruurë? Nkëbhara kë uruurë? Möntö kë örë?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.8",
+            "verseOrgIds": [
+              "JON.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JON 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yona akabhahunchukiria iga, “Uni nu Umuebhurania ndë, Öno ngösengera ÖMÖNENE; Ënooköë wa kuriöbha, öno aateemërë inyancha na ëkëbhara.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.9",
+            "verseOrgIds": [
+              "JON.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JON 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nëho abhantö bhara bhoobhohërë bhökong'u, bhakamöteebhia iga, “Në ng'ana kë ëno ökorrë!” Kugira abhantö bhaara mbaamanyëërë iga nköng'osa arë ÖMÖNENE, gikugira nkanyoora aabhateebhiri igo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.10",
+            "verseOrgIds": [
+              "JON.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JON 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ënkaaga ëyö yonsui, inyancha ëkagendeerria gutinda bhökong'u, abhagendia bhë ëmeeri bhakamubhuuria iga, “Nkë tökagökora korri ëhöbhë ëno isire?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.11",
+            "verseOrgIds": [
+              "JON.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JON 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yona akabhahunchukiria iga, “Mötandekera kunyancha, nayo nëratënde. Nëmanyërë iga ngikugira yaane ëhöbhë ëno ëbhanyoorrë.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.12",
+            "verseOrgIds": [
+              "JON.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JON 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.12",
+            "verseOrgIds": [
+              "JON.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JON 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sibhoono, abhagendia bhë ëmeeri bhaara bhagatuna iga kö ögötöra koobho gonsui bhagendi ëmeeri ëëra kuya kunguguni. Hayö nëho ëtabharibharia yengeeyi bhökong'u, bhakanga kuya hasë. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.13",
+            "verseOrgIds": [
+              "JON.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JON 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Igo mbe, bhagaköörra ÖMÖNENE, bharagamba iga, “Wei ÖMÖNENE törakögeya ötagatusikia gukuruusia ömönto öno öbhöhoru bhooe! Kugira gonsui gano gakorekaini nögamanyërë, nökoorrë keebhörë öhanchërë.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.14",
+            "verseOrgIds": [
+              "JON.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JON 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hayö igo bhakagoota Yona na kömörekera kunyancha na inyancha ëgatënda. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.15",
+            "verseOrgIds": [
+              "JON.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JON 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ëyö ëkagira abhagendia bhaara bhë ëmeeri bhakoobhoha ÖMÖNENE bhökong'u, bhakamuruusiria ikimuenso, na köragana kömökoora ëmërëmo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.16",
+            "verseOrgIds": [
+              "JON.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JON 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.16",
+            "verseOrgIds": [
+              "JON.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JON 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.17",
+            "verseOrgIds": [
+              "JON.1.17"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.12.40"
+              },
+              "items": [
+                {
+                  "text": "Mat 12:40",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ÖMÖNENE agatöma insui ënene ëmere Yona, na akabha könda yi insui ëyö guchinsikö isatö ubhutikö na ömöbhasö.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.17",
+            "verseOrgIds": [
+              "JON.1.17"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JON.2",
+    "number": "2",
+    "bookId": "JON"
+  },
+  "previous": {
+    "id": "JON.intro",
+    "number": "intro",
+    "bookId": "JON"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "AMO.2",
+  "number": "2",
+  "bookId": "AMO",
+  "reference": "Amo. 2",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "AMO 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Likhalaka lia Wele khu Isiraeli",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.3",
+    "number": "3",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.1",
+    "number": "1",
+    "bookId": "AMO"
+  }
+}

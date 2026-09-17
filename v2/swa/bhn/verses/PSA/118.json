@@ -1,0 +1,92 @@
+{
+  "id": "PSA.118",
+  "number": "118",
+  "bookId": "PSA",
+  "reference": "Zaburi 118",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "118",
+        "style": "c",
+        "sid": "PSA 118"
+      },
+      "items": [
+        {
+          "text": "118",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 118:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.118.1",
+            "verseOrgIds": [
+              "PSA.118.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "Taz Zab 100:5; 106:1; 136:1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Mshukuruni Mwenyezi-Mungu, kwa kuwa ni mwema,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.118.1",
+            "verseOrgIds": [
+              "PSA.118.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.119",
+    "number": "119",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.117",
+    "number": "117",
+    "bookId": "PSA"
+  }
+}

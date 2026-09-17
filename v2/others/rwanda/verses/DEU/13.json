@@ -1,0 +1,730 @@
+{
+  "id": "DEU.13",
+  "number": "13",
+  "bookId": "DEU",
+  "reference": "Gutegeka Kwa Kabiri 13",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 19,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "13",
+        "style": "c",
+        "sid": "DEU 13"
+      },
+      "items": [
+        {
+          "text": "13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DEU 13:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.1",
+            "verseOrgIds": [
+              "DEU.13.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.4.2"
+              },
+              "items": [
+                {
+                  "text": "Guteg 4.2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.22.18+REV.22.19"
+              },
+              "items": [
+                {
+                  "text": "Ibyah 22.18-19",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Icyo mbategeka cyose mujye mucyitondera mucyumvire, ntimukacyongereho, ntimukakigabanyeho.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.1",
+            "verseOrgIds": [
+              "DEU.13.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "13.1:",
+              "type": "text"
+            },
+            {
+              "text": "muri Bibliya Yera ya mbere, uyu murongo ni 12.32; bityo, 13.1-18 ihwanye na 13.2-19 muri iyi Bibliya, nk'uko biri mu Ruheburayo.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ibimenyetso by'abahanuzi b'ibinyoma",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DEU 13:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.1",
+            "verseOrgIds": [
+              "DEU.13.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DEU 13:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Muri mwe nihaboneka umuhanuzi cyangwa umurōsi, akakubwira ikimenyetso cyangwa igitangaza, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.2",
+            "verseOrgIds": [
+              "DEU.13.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "DEU 13:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "icyo kimenyetso cyangwa icyo gitangaza kigasohora, icyo yakubwiye agira ati “Duhindukirire izindi mana izo utigeze kumenya tuzikorere”, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.3",
+            "verseOrgIds": [
+              "DEU.13.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DEU 13:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ntuzemere amagambo y'uwo muhanuzi cyangwa y'uwo murōsi, kuko Uwiteka Imana yanyu izaba ibagerageza, ngo imenye yuko mukundisha Uwiteka Imana yanyu imitima yanyu yose n'ubugingo bwanyu bwose. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.4",
+            "verseOrgIds": [
+              "DEU.13.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "DEU 13:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ahubwo mujye muyoborwa n'Uwiteka Imana yanyu muyubahe, mwitondere amategeko yayo muyumvire, muyikorere muyifatanyeho akaramata. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.5",
+            "verseOrgIds": [
+              "DEU.13.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DEU 13:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi uwo muhanuzi cyangwa uwo murōsi bazamwicire kuko azaba avuze ibyo kubagomeshereza Uwiteka Imana yanyu, yabakuye mu gihugu cya Egiputa ikabacungura mu nzu y'uburetwa, n'ibyo kubatesha inzira Uwiteka Imana yanyu yabategetse gucamo, abe ari ko mukura ikibi hagati muri mwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.6",
+            "verseOrgIds": [
+              "DEU.13.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DEU 13:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.6",
+            "verseOrgIds": [
+              "DEU.13.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "DEU 13:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwene nyoko cyangwa umuhungu wawe cyangwa umukobwa wawe, cyangwa umugore useguye cyangwa incuti yawe y'amagara, yakoshya rwihishwa ati “Tugende dukorere izindi mana” (utigeze kumenya, na ba sekuruza banyu batigeze kumenya, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.7",
+            "verseOrgIds": [
+              "DEU.13.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DEU 13:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "zo mu mana z'amahanga abagose, ari hafi yanyu cyangwa abari kure, ahereye ku mpera y'isi akageza ku yindi mpera yayo), ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.8",
+            "verseOrgIds": [
+              "DEU.13.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "DEU 13:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ntuzamwemerere, ntuzamwumvire, ntuzamubabarire, ntuzamukize, ntuzamuhishīre",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.9",
+            "verseOrgIds": [
+              "DEU.13.9"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "ntuzamuhishīre:",
+              "type": "text"
+            },
+            {
+              "text": "cyangwa, ntuzamuhishe.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ", ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.9",
+            "verseOrgIds": [
+              "DEU.13.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DEU 13:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ahubwo ntuzabure kumwica. Ukuboko kwawe abe ari ko kubanza kumwica, maze habone gukuriraho n'abandi bantu bose. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.10",
+            "verseOrgIds": [
+              "DEU.13.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "DEU 13:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uzamwicishirize amabuye, kuko yagerageje kugushukashuka ngo agukure ku Uwiteka Imana yawe, yagukuye mu gihugu cya Egiputa mu nzu y'uburetwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.11",
+            "verseOrgIds": [
+              "DEU.13.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DEU 13:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abisirayeli bose bazabyumva batinye, be kongera gukorera ikibi kingana gityo hagati muri mwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.12",
+            "verseOrgIds": [
+              "DEU.13.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DEU 13:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.12",
+            "verseOrgIds": [
+              "DEU.13.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "DEU 13:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakumva inkuru y'umwe mu midugudu yawe Uwiteka Imana yawe iguha guturamo, bavuga bati ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.13",
+            "verseOrgIds": [
+              "DEU.13.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "DEU 13:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Hari ibigoryi byaturutse hagati muri mwe bishukashuka abo mu mudugudu wabo biti ‘Tugende dukorere izindi mana mutigeze kumenya’ ”, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.14",
+            "verseOrgIds": [
+              "DEU.13.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "DEU 13:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "uzabibaririze, ubishakishe ubigenzure. Nusanga ari iby'ukuri bidashidikanywa yuko ikizira kingana gityo gikorerwa hagati muri mwe, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.15",
+            "verseOrgIds": [
+              "DEU.13.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "DEU 13:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ntuzabure kwicisha abo muri uwo mudugudu inkota, uwurimburane rwose n'ibirimo byose, urimburishe amatungo yawo inkota. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.16",
+            "verseOrgIds": [
+              "DEU.13.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "DEU 13:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Isahu yawo uyiteranirize hagati mu nzira yawo, uwutwikane n'isahu yawo yose imbere y'Uwiteka Imana yawe, uwo mudugudu uzabe ikirundo cy'ibyashenywe iteka, ntukubakwe ukundi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.17",
+            "verseOrgIds": [
+              "DEU.13.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "DEU 13:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ntukagire icyo ugundira mu byashinganywe kugira ngo Uwiteka arakuruke uburakari bwe bugurumana, akubabarire akugirire ibambe, akugwize nk'uko yarahiye ba sekuruza banyu, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.18",
+            "verseOrgIds": [
+              "DEU.13.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "DEU 13:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "abitewe n'uko wumviye Uwiteka Imana yawe, ukitondera amategeko yayo yose ngutegeka uyu munsi, ugakora ibyo Uwiteka Imana yawe ibona ko ari byiza.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.13.19",
+            "verseOrgIds": [
+              "DEU.13.19"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DEU.14",
+    "number": "14",
+    "bookId": "DEU"
+  },
+  "previous": {
+    "id": "DEU.12",
+    "number": "12",
+    "bookId": "DEU"
+  }
+}

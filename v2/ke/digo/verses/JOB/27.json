@@ -1,0 +1,68 @@
+{
+  "id": "JOB.27",
+  "number": "27",
+  "bookId": "JOB",
+  "reference": "Ayubu 27",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "27",
+        "style": "c",
+        "sid": "JOB 27"
+      },
+      "items": [
+        {
+          "text": "27",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 27:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ayubu waenderera kugomba achiamba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.27.1",
+            "verseOrgIds": [
+              "JOB.27.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.28",
+    "number": "28",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.26",
+    "number": "26",
+    "bookId": "JOB"
+  }
+}

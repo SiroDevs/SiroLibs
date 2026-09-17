@@ -1,0 +1,35 @@
+{
+  "id": "OBA.1",
+  "number": "1",
+  "bookId": "OBA",
+  "reference": "Obadaya 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "OBA 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JON.1",
+    "number": "1",
+    "bookId": "JON"
+  },
+  "previous": {
+    "id": "AMO.9",
+    "number": "9",
+    "bookId": "AMO"
+  }
+}

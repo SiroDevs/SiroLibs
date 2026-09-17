@@ -1,0 +1,94 @@
+{
+  "id": "ISA.21",
+  "number": "21",
+  "bookId": "ISA",
+  "reference": "Icaya 21",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "21",
+        "style": "c",
+        "sid": "ISA 21"
+      },
+      "items": [
+        {
+          "text": "21",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ISA 21:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Doŋ odoŋ mwaka acel keken, calo mwaka me tiyo pakaca, pi meno deyo me Kedar ducu bidoko ginacaya; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.21.16",
+            "verseOrgIds": [
+              "ISA.21.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ISA 21:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "dok jo me Kedar ma gin oteka ma gibidoŋ ki i kin jo ma celo atero, welgi bibedo nok; pien Rwot ma en Lubaŋa pa jo Icrael doŋ oloko man.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.21.17",
+            "verseOrgIds": [
+              "ISA.21.17"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.22",
+    "number": "22",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.20",
+    "number": "20",
+    "bookId": "ISA"
+  }
+}

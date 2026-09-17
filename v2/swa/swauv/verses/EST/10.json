@@ -1,0 +1,269 @@
+{
+  "id": "EST.10",
+  "number": "10",
+  "bookId": "EST",
+  "reference": "Est 10",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "EST 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.1",
+            "verseOrgIds": [
+              "EST.10.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.10.5"
+              },
+              "items": [
+                {
+                  "text": "Mwa 10:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.72.10"
+              },
+              "items": [
+                {
+                  "text": "Zab 72:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.24.15"
+              },
+              "items": [
+                {
+                  "text": "Isa 24:15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Basi mfalme Ahasuero alitoza kodi katika nchi na katika visiwa vya bahari. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.1",
+            "verseOrgIds": [
+              "EST.10.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na matendo yake yote yenye nguvu na ya ushujaa, na habari zote za ukuu wake Mordekai ambao alipewa na mfalme, hazikuandikwa katika kitabu-cha-taarifa cha wafalme wa Umedi na Uajemi? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.2",
+            "verseOrgIds": [
+              "EST.10.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 10:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.41.40"
+              },
+              "items": [
+                {
+                  "text": "Mwa 41:40",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.28.7"
+              },
+              "items": [
+                {
+                  "text": "2 Nya 28:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NEH.2.10"
+              },
+              "items": [
+                {
+                  "text": "Neh 2:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.122.8"
+              },
+              "items": [
+                {
+                  "text": "Zab 122:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.12.20"
+              },
+              "items": [
+                {
+                  "text": "Mit 12:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.26.12"
+              },
+              "items": [
+                {
+                  "text": "Isa 26:12",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Kwa maana Mordekai Myahudi akawa wa pili wake mfalme Ahasuero, na mkuu wa Wayahudi, amependeza mbele ya jamii ya ndugu zake; ambaye aliwatafuta watu wake wema, na kuiangalia hali njema ya wazao wao wote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.3",
+            "verseOrgIds": [
+              "EST.10.3"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.intro",
+    "number": "intro",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "EST.9",
+    "number": "9",
+    "bookId": "EST"
+  }
+}

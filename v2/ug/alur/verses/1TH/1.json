@@ -1,0 +1,391 @@
+{
+  "id": "1TH.1",
+  "number": "1",
+  "bookId": "1TH",
+  "reference": "1 Jutesaloniki 1",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "1TH 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1TH 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.1",
+            "verseOrgIds": [
+              "1TH.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.17.1"
+              },
+              "items": [
+                {
+                  "text": "Tic 17:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Paolo, ku Siluano, man Timoteo, ni kanisa mi Jutesaloniki i Mungu ma Wego man Rwoth Yesu Kristu: Bero iwu man kwiocwiny.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.1",
+            "verseOrgIds": [
+              "1TH.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1TH 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.1",
+            "verseOrgIds": [
+              "1TH.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1TH 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wamio foyofoc ni Mungu thiri thiri piwu ceke, ma wayero ko piwu i rwo mwa; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.2",
+            "verseOrgIds": [
+              "1TH.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1TH 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ma wapoi ko areri kum tic mu i yioyic man tic mu i mer ma wumulu kudo ku twiocwiny mu mi genogen i Rwoth mwa ma Yesu Kristu, i wang’ Mungu mwa ku Wegwa; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.3",
+            "verseOrgIds": [
+              "1TH.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1TH 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ma wang’eyo ko goyo nying’ mu, juwadwa ma jumer pa Mungu, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.4",
+            "verseOrgIds": [
+              "1TH.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1TH 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "maram lembanyong’a mwa ma juboth ko bino ko i beng’wu i lembe kende ngo, ento i tego bende, man i Tipo Maleng’, man i kwiocwiny ma dit; cil calu wung’eyo maram piwa ma wanyuthra ko iwu ni kumwu bedo ko. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.5",
+            "verseOrgIds": [
+              "1TH.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1TH 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.17.5+ACT.17.6+ACT.17.7+ACT.17.8+ACT.17.9"
+              },
+              "items": [
+                {
+                  "text": "Tic 17:5-9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Man wudoko jupor mwa, ku pa Rwoth, wun ma wudaru jolo lembe i can ma dit, kud anyong’a mi Tipo Maleng’; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.6",
+            "verseOrgIds": [
+              "1TH.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1TH 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ketho wudoko ni por ni dhanu ceke m’uyio i Makedoni ku i Akaya bende. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.7",
+            "verseOrgIds": [
+              "1TH.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1TH 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum lembe pa Rwoth umeny kud i beng’wu, i Makedoni ku Akaya kende ngo, ento i kaka ceke yioyic mu ma yo ba Mungu yik tirr; ketho can yero gin moko kud unegwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.8",
+            "verseOrgIds": [
+              "1TH.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1TH 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum joni giyero piwa gigi pi mondo mwa m’i beng’wu maram ebedo ko; man ke maram wulokru ko ni Mungu ku kum ayi gin m’acwia, kara wutim ni Mungu ma kwo mandha de, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.9",
+            "verseOrgIds": [
+              "1TH.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1TH 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "wukur Wode de m’ebiai i polo, m’eting’e ku kind ju m’utho, en e Yesu, m’ebodhowa ni kwinyo ma bibino.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.10",
+            "verseOrgIds": [
+              "1TH.1.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1TH.2",
+    "number": "2",
+    "bookId": "1TH"
+  },
+  "previous": {
+    "id": "COL.4",
+    "number": "4",
+    "bookId": "COL"
+  }
+}

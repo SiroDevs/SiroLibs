@@ -1,0 +1,82 @@
+{
+  "id": "ISA.50",
+  "number": "50",
+  "bookId": "ISA",
+  "reference": "Isa. 50",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "50",
+        "style": "c",
+        "sid": "ISA 50"
+      },
+      "items": [
+        {
+          "text": "50",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 50:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wele Omunyali Owa Bioosi areeba ali,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.50.1",
+            "verseOrgIds": [
+              "ISA.50.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Buriaani bwo mukholi wa Wele Omunyali Owa Bioosi",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.51",
+    "number": "51",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.49",
+    "number": "49",
+    "bookId": "ISA"
+  }
+}

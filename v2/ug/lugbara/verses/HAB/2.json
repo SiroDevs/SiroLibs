@@ -1,0 +1,135 @@
+{
+  "id": "HAB.2",
+  "number": "2",
+  "bookId": "HAB",
+  "reference": "Habakuki 2",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "HAB 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HAB 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.2.1",
+            "verseOrgIds": [
+              "HAB.2.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.73.16"
+              },
+              "items": [
+                {
+                  "text": "Zab 73:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.73.17"
+              },
+              "items": [
+                {
+                  "text": "17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.21.8"
+              },
+              "items": [
+                {
+                  "text": "Isa 21:8",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ma nga pa so amuti mani angu tezuri ma alia, ma nga ma ’ba jo izururi ma dria, ma nga lu e’yo erini ngale ’yole ma beri ndrezu, azini omvita mani nga ovu ngoni wuta mani ma e’yosi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.2.1",
+            "verseOrgIds": [
+              "HAB.2.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAB.3",
+    "number": "3",
+    "bookId": "HAB"
+  },
+  "previous": {
+    "id": "HAB.1",
+    "number": "1",
+    "bookId": "HAB"
+  }
+}

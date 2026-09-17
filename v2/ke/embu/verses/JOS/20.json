@@ -1,0 +1,378 @@
+{
+  "id": "JOS.20",
+  "number": "20",
+  "bookId": "JOS",
+  "reference": "Josh 20",
+  "verseCount": 9,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "20",
+        "style": "c",
+        "sid": "JOS 20"
+      },
+      "items": [
+        {
+          "text": "20",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Matûûra manene marîa andû maathiîcaga kwîthitha.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOS 20:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.1",
+            "verseOrgIds": [
+              "JOS.20.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.35.6+NUM.35.7+NUM.35.8+NUM.35.9+NUM.35.10+NUM.35.11+NUM.35.12+NUM.35.13+NUM.35.14+NUM.35.15+NUM.35.16+NUM.35.17+NUM.35.18+NUM.35.19+NUM.35.20+NUM.35.21+NUM.35.22+NUM.35.23+NUM.35.24+NUM.35.25+NUM.35.26+NUM.35.27+NUM.35.28+NUM.35.29+NUM.35.30+NUM.35.31+NUM.35.32"
+              },
+              "items": [
+                {
+                  "text": "Nda 35.6-32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.4.41+DEU.4.42+DEU.4.43"
+              },
+              "items": [
+                {
+                  "text": "Gûco 4.41-43",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.19.1+DEU.19.2+DEU.19.3+DEU.19.4+DEU.19.5+DEU.19.6+DEU.19.7+DEU.19.8+DEU.19.9+DEU.19.10+DEU.19.11+DEU.19.12+DEU.19.13"
+              },
+              "items": [
+                {
+                  "text": "19.1-13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Ngai-Mûnene nîwacokire akîra Joshua ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.1",
+            "verseOrgIds": [
+              "JOS.20.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JOS 20:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "eere andû a Isiraeli atîrî, “Thurani matûûra marîa mûkathiîcaga kwîthitha marîa nerire Musa ûvoro wamo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.2",
+            "verseOrgIds": [
+              "JOS.20.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JOS 20:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mûndû angîûraga mûndû wîngî atakwenda, nî athiîcage kuo kwîthitha aûre aume kûrî mûndû ûrîa ûrenda kûrîvîrîria mûndû ûcio ûragîtwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.3",
+            "verseOrgIds": [
+              "JOS.20.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JOS 20:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mûndû ûcio ûraganîte nî akaaûra athiî îtûûrarî rîmwe rîa mau. Nake nîakaarûngama kîvingorî gîa îtûûra rîu na ataarîrie atongoria a îtûûra ûrîa gwîkîkîte. Nao nîmakaamwîtîkîria atonye îtûûrarî rîu na mamûve vandû va gûtûûra na nîagaatûûrania na andû a îtûûra rîu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.4",
+            "verseOrgIds": [
+              "JOS.20.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JOS 20:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ethîrwa mûndû ûrîa ûrenda kûrîvîrîria mûndû ûrîa ûragîtwe nîakaamûrûmîrîria nginya îtûûrarî rîu, ene rîo matîkaamûnenganîra, nîûndû aaûraganire atakwenda na matiarî ûthû mbererî. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.5",
+            "verseOrgIds": [
+              "JOS.20.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOS 20:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mûndû ûrîa ûraganîte nîagekara îtûûrarî rîu nginya rîrîa agaacirithua arî mbere ya andû nîguo kûmenyeke kana nîevîtie nginya rîrîa Mûthînjîri-Ngai ûrîa mûnene ûrîa ûrî kuo vîndî îo agaakua. Mûthînjîri-Ngai ûcio arîkia gûkua, mûndû ûrîa ûraganîte nwa acoke mûciî îtûûrarî rîao kûrîa aaumîte.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.6",
+            "verseOrgIds": [
+              "JOS.20.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOS 20:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.6",
+            "verseOrgIds": [
+              "JOS.20.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JOS 20:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwoguo nîmaamûrire îtûûra rîa Kedeshi rîrîa rîrî Galili vûrûrirî ûrîa ûrî irîma wa Nafutali. Nîmaacokire makîamûra Shekemu îtûûra rîrîa rîrî vûrûrirî ûrîa ûrî irîma wa Efiraimu na Heburoni (Nîrîo Kiriathariba) vûrûrirî wa Juda ûrîa ûrî irîma. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.7",
+            "verseOrgIds": [
+              "JOS.20.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JOS 20:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naguo mûringo wa rûnjî rwa Jorodani, îrathîro rîa Jeriko nîmaathuurire Bezeri vûrûrirî wa Reubeni, Ramothi vûrûrirî wa Gileadi kuuma mûvîrîgarî wa Gadi na Golani îrîa îrî Bashani vûrûrirî wa Manase. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.8",
+            "verseOrgIds": [
+              "JOS.20.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JOS 20:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mau nîmo maarî matûûra marîa maathuurirwe ma kûthiîcagwa nî andû onthe a Isiraeli wana nî ageni arîa maatûûraga nao nîûndû wa kwîthitha. Mûndû wa wonthe waûraganaga atakwenda nîwathiîcaga matûûrarî mau nîguo egitîre kuuma kûrî mûndû ûrîa ûngîendire kûrîvîrîria mûndû. Gûtirî mûndû ûngîaûragirwe nîûndû atî nî aûraganîte atambîte gûcirithua arî mbere ya andû.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.9",
+            "verseOrgIds": [
+              "JOS.20.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOS.21",
+    "number": "21",
+    "bookId": "JOS"
+  },
+  "previous": {
+    "id": "JOS.19",
+    "number": "19",
+    "bookId": "JOS"
+  }
+}

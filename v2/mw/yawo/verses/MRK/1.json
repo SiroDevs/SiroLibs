@@ -1,0 +1,2383 @@
+{
+  "id": "MRK.1",
+  "number": "1",
+  "bookId": "MRK",
+  "reference": "Mak 1",
+  "verseCount": 45,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MRK 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kulalicila kwa Yohane M'batisi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MRK 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aku ni kutanda kwa Ngani Syambone",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.1",
+            "verseOrgIds": [
+              "MRK.1.1"
+            ]
+          }
+        },
+        {
+          "text": " syakusala ya Yesu Klistu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.1",
+            "verseOrgIds": [
+              "MRK.1.1"
+            ]
+          }
+        },
+        {
+          "text": " Mwanace jwa Mlungu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.1",
+            "verseOrgIds": [
+              "MRK.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MRK 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ŵatandite mpela muŵalembele jwakulocesya",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.2",
+            "verseOrgIds": [
+              "MRK.1.2"
+            ]
+          }
+        },
+        {
+          "text": " Yesaya m'buku jakwe kuti, “Mlungu akusala kuti,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.2",
+            "verseOrgIds": [
+              "MRK.1.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAL.3.1"
+              },
+              "items": [
+                {
+                  "text": "Mala 3:1",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MRK 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.3",
+            "verseOrgIds": [
+              "MRK.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MRK 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yeleyi kweli yatendekwe ndaŵi jiŵayice Yohane M'batisi ku cipululu kukutanda kulalicila. Ŵasalilaga ŵandu kuti, “Mpitikuce mitima jenu ni kuleka kutenda ulemwa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.4",
+            "verseOrgIds": [
+              "MRK.1.4"
+            ]
+          }
+        },
+        {
+          "text": " kuti Mlungu amkululucile ulemwa wenu nipo kaneko m'batisidwe.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.4",
+            "verseOrgIds": [
+              "MRK.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MRK 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ŵandu ŵajinji ŵakutyocela ku upande wosope wa Yudeya ni ku msinda wa Yelusalemu ŵayikaga kukumpikanila jwalakwejo. Ŵanduwo ŵatiji ali apesisye ulemwa wawo, jwalakwejo ŵabatisyaga jemanjajo mu Lusulo lwa Yolodani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.5",
+            "verseOrgIds": [
+              "MRK.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MRK 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.5",
+            "verseOrgIds": [
+              "MRK.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MRK 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yohanejo ŵawalaga yakuwala ya manyunya ga ngamila,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.6",
+            "verseOrgIds": [
+              "MRK.1.6"
+            ]
+          }
+        },
+        {
+          "text": " nipo ŵataŵilaga lamba jwa lipende mciwunu. Cakulya cakwe caliji sombe ni uci ŵa mwitinji.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.6",
+            "verseOrgIds": [
+              "MRK.1.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.1.8"
+              },
+              "items": [
+                {
+                  "text": "2 Ayi 1:8",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.6",
+            "verseOrgIds": [
+              "MRK.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MRK 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kulalicila kwakwe ŵatiji, “Panyuma pangu akwisa mundu jwine jwamacili mnope kumbunda une, kwakuti uneji ndili mundu jwangaŵajilwa atamose kwinama ni gopola ngonji sya sapato syakwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.7",
+            "verseOrgIds": [
+              "MRK.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MRK 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Une ngum'batisya jemanja ni mesi, nambo jwalakwejo tacim'batisya jemanja ni Msimu Ŵaswela.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.8",
+            "verseOrgIds": [
+              "MRK.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ubatiso wa Yesu ni kulinjikwa kwakwe",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MRK 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.8",
+            "verseOrgIds": [
+              "MRK.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MRK 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pa gele masikugo Yesu ŵayice kutyocela ku Nasaleti, musi wa ku Galileya, nipo Yohane ŵam'batisye Yesu mu Lusulo lwa Yolodani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.9",
+            "verseOrgIds": [
+              "MRK.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MRK 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pakucuwuka Yesu m'mesimo, ŵagambile kukuwona kwinani kuli kuwugwice, nipo Msimu Ŵaswela ŵaliji mkutulucila pa jwalakwe mpela ngunda. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.10",
+            "verseOrgIds": [
+              "MRK.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MRK 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni gapikanice maloŵe gakutyocela kwinani gakuti, “M'mweji mli mwanangu jwa pa mtima. Ngusasengwa namwe mnope.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.11",
+            "verseOrgIds": [
+              "MRK.1.11"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.22.2"
+              },
+              "items": [
+                {
+                  "text": "Gen 22:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.2.7"
+              },
+              "items": [
+                {
+                  "text": "Mas 2:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.42.1"
+              },
+              "items": [
+                {
+                  "text": "Yes 42:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.3.17"
+              },
+              "items": [
+                {
+                  "text": "Mat 3:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.12.18"
+              },
+              "items": [
+                {
+                  "text": "12:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.9.7"
+              },
+              "items": [
+                {
+                  "text": "Mak 9:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.3.22"
+              },
+              "items": [
+                {
+                  "text": "Luk 3:22",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MRK 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.11",
+            "verseOrgIds": [
+              "MRK.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MRK 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndaŵi jijojo Msimu Ŵaswela ŵajawisye Yesu kucipululu mwacitemacitema. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.12",
+            "verseOrgIds": [
+              "MRK.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MRK 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu watemi kucipululuko masiku makumi mcece, ali mkulinjidwa ni Satana. Kweleko kwapali yinyama ya mwitinji, malayika galiji mkwika ni kumkamucisya jwalakwejo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.13",
+            "verseOrgIds": [
+              "MRK.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu akwaŵilanga ŵakuwulaga somba mcece",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MRK 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.13",
+            "verseOrgIds": [
+              "MRK.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MRK 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ali amtaŵile ni kumponya m'nyumba ja ukayidi Yohane jula, Yesu ŵapite ku Galileya ali mkulalicila Ngani Syambone. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.14",
+            "verseOrgIds": [
+              "MRK.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MRK 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ŵaliji mkusala kuti, “Ndaŵi jikwanile, Ucimwene wa Mlungu",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.15",
+            "verseOrgIds": [
+              "MRK.1.15"
+            ]
+          }
+        },
+        {
+          "text": " uŵandicile. Mpitikuce mtima ni kulupilila Ngani Syambonesi.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.15",
+            "verseOrgIds": [
+              "MRK.1.15"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.3.2"
+              },
+              "items": [
+                {
+                  "text": "Mat 3:2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu akwaŵilanga ŵakulijiganya ŵandanda",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MRK 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.15",
+            "verseOrgIds": [
+              "MRK.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MRK 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu piŵaliji mkwenda mungulugulu mwa Nyasa ja Galileya, ŵaweni ŵandu ŵaŵili ŵanakajumo ŵakuŵilanjidwa Simoni",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.16",
+            "verseOrgIds": [
+              "MRK.1.16"
+            ]
+          }
+        },
+        {
+          "text": " ni Andileya",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.16",
+            "verseOrgIds": [
+              "MRK.1.16"
+            ]
+          }
+        },
+        {
+          "text": " mpwakwe. Jemanjaji ŵaliji mkuponya likoka m'nyasamo, pakuti jemanjaji ŵaliji ŵakuwulaga somba. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.16",
+            "verseOrgIds": [
+              "MRK.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MRK 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu ŵasalile kuti, “Jemanja myice akuno, munguye une, nipo tinimjiganye kuŵa ŵakwika nawo ŵandu kwa une mpela yimkuti pakutanjisya somba.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.17",
+            "verseOrgIds": [
+              "MRK.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MRK 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwacitemacitema jemanja jila ŵagalesile makoka gawo gala, ni ŵamkuyiye jwalakwejo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.18",
+            "verseOrgIds": [
+              "MRK.1.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MRK 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.18",
+            "verseOrgIds": [
+              "MRK.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MRK 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ali ajesile panandi, Yesu ŵam'weni Yakobo",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.19",
+            "verseOrgIds": [
+              "MRK.1.19"
+            ]
+          }
+        },
+        {
+          "text": " ni Yohane, ŵanace ŵa Sebedayo. Jemanjajo ŵaliji mwiboti, ŵaliji ali mkulinganya makoka gawo, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.19",
+            "verseOrgIds": [
+              "MRK.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MRK 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Piŵaweni, ŵaŵilasile. Ndaŵi jijojo jemanjajo ŵalesile Sebedayo baba wawo mwiboti mula pamo ni ŵamasengo ŵakwe, ni ŵamkuyisye Yesu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.20",
+            "verseOrgIds": [
+              "MRK.1.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu akumposya mundu jwamkamulwe ni msimu wakusakala",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MRK 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.20",
+            "verseOrgIds": [
+              "MRK.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MRK 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wosope ŵala ŵajawile ku Kapelenaumu. Pilyakwanile lisiku lyakupumula,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.21",
+            "verseOrgIds": [
+              "MRK.1.21"
+            ]
+          }
+        },
+        {
+          "text": " Yesu ŵajinjile m'nyumba ja mapopelo, ni ŵatandite kwiganya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.21",
+            "verseOrgIds": [
+              "MRK.1.21"
+            ]
+          }
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.21",
+            "verseOrgIds": [
+              "MRK.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MRK 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wiganye wakwe wakamwile ŵandu mtima mnope, ligongo ŵaliji mkwiganya mwakulosya ulamusi, kulekangana ni muŵajiganyicisyaga aciŵalimu ŵa Malamusi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.22",
+            "verseOrgIds": [
+              "MRK.1.22"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.7.28+MAT.7.29"
+              },
+              "items": [
+                {
+                  "text": "Mat 7:28-29",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MRK 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.22",
+            "verseOrgIds": [
+              "MRK.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MRK 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "M'nyumba ja mapopelojo mwajinjile mundu juŵakamwilwe ni msimu wakusakala. Mundujo ŵaŵecete mwagumila kuti, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.23",
+            "verseOrgIds": [
+              "MRK.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "MRK 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ana twatandite cici, ŵalakwe Yesu ŵa ku Nasaleti? Ana ayice kukutujonanga? Ngwamanyilila, ŵalakwe ali jwamswela jula jwa Mlungu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.24",
+            "verseOrgIds": [
+              "MRK.1.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "MRK 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.24",
+            "verseOrgIds": [
+              "MRK.1.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "MRK 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nambo Yesu ŵawukalipile msimu wakusakalawo, ŵatite kuti, “Mtulale, mkopoce mwa munduju.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.25",
+            "verseOrgIds": [
+              "MRK.1.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "MRK 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.25",
+            "verseOrgIds": [
+              "MRK.1.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "MRK 1:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndaŵi jijojo msimu wakusakala ula wamtenganyisye mwamacili mundu jula, nipo ŵagumisile kwakogoya, ni wakopwece. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.26",
+            "verseOrgIds": [
+              "MRK.1.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "MRK 1:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ŵandu wosope ŵala ŵasimonjile mnope, ni ŵaliji mkuwusyana jwine ni mjakwe kuti, “Ana yindu yeleyi yamtuli? Ana gelega gali majiganyo ga sambano, eti? Alole, atamose misimu jakusakala",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.27",
+            "verseOrgIds": [
+              "MRK.1.27"
+            ]
+          }
+        },
+        {
+          "text": " akujilamulila mwamacili, ni kweli jikumpikanila.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.27",
+            "verseOrgIds": [
+              "MRK.1.27"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "MRK 1:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.27",
+            "verseOrgIds": [
+              "MRK.1.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "MRK 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwacitemacitema mbili jakwe japikanice mbali josope ja ku Galileya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.28",
+            "verseOrgIds": [
+              "MRK.1.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu akwaposya ŵandu ŵajinji ku nyumba ja Simoni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "MRK 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.28",
+            "verseOrgIds": [
+              "MRK.1.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "MRK 1:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaneko Yesu ŵatyosile ku nyumba ja mapopelo kula, ni ŵajile kwinjila pamo ni Yakobo ni Yohane m'nyumba ja Simoni ni Andileya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.29",
+            "verseOrgIds": [
+              "MRK.1.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "MRK 1:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akwegwe wawo Simoni ŵaliji cigonele, ŵaliji mkulwala malungo, ndaŵi jijojo ŵandu ŵam'manyisye Yesu ya ulwelewo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.30",
+            "verseOrgIds": [
+              "MRK.1.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "MRK 1:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu ŵajile piŵaliji mama ŵala, ni ŵakamwile pa mkono ni kwakamusya kwimuka. Papopo kulipika kula kwalesile, ni ŵatandite kwatumicila ŵandu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.31",
+            "verseOrgIds": [
+              "MRK.1.31"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "MRK 1:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.31",
+            "verseOrgIds": [
+              "MRK.1.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "MRK 1:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ligulo lyelelo, lyuŵa lili likapile, ŵandu ŵayice kwa Yesu ni ŵakulwala ni ŵane uŵakamwilwe ni misimu jakusakala. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.32",
+            "verseOrgIds": [
+              "MRK.1.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "MRK 1:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ŵandu ŵa m'musi wosopewo ŵasongene pa mlango pala. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.33",
+            "verseOrgIds": [
+              "MRK.1.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "MRK 1:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu ŵaposisye ŵandu ŵajinji ŵiŵalwalaga yilwele yakulekanganalekangana, soni ŵakopwesye misimu jakusakala jejinji. Nambo ŵaliji mkujilekasya misimujo kuti jikaŵeceta, ligongo jam'manyilile jwalakwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.34",
+            "verseOrgIds": [
+              "MRK.1.34"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu akupita mcilalicila ku Galileya",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "MRK 1:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.34",
+            "verseOrgIds": [
+              "MRK.1.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "MRK 1:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kumasikusiku, Yesu ŵajimwice ni ŵajawile ku malo kwangapitapita ŵandu. Kweleko ŵajawile kuja kupopela. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.35",
+            "verseOrgIds": [
+              "MRK.1.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "MRK 1:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Simoni ni acimjakwe ŵala ŵamkuyisye kukoko. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.36",
+            "verseOrgIds": [
+              "MRK.1.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "MRK 1:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ali amsimene ŵamsalile kuti, “Ŵandu wosope akwasosa ŵalakwe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.37",
+            "verseOrgIds": [
+              "MRK.1.37"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "MRK 1:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.37",
+            "verseOrgIds": [
+              "MRK.1.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "MRK 1:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nambo jwalakwe ŵasalile kuti, “Kwende tujawule ku misi jine jakuŵandicila kunokuno, ngalalicile kweleko soni, pakuŵa ni yinayicile kukutenda.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.38",
+            "verseOrgIds": [
+              "MRK.1.38"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "MRK 1:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.38",
+            "verseOrgIds": [
+              "MRK.1.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "MRK 1:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Myoyo ŵajesile mcilambo cosope ca Galileya acilalicilaga m'nyumba sya mapopelo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.39",
+            "verseOrgIds": [
+              "MRK.1.39"
+            ]
+          }
+        },
+        {
+          "text": " koposya misimu jakusakala.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.39",
+            "verseOrgIds": [
+              "MRK.1.39"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.4.23"
+              },
+              "items": [
+                {
+                  "text": "Mat 4:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.9.35"
+              },
+              "items": [
+                {
+                  "text": "9:35",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu akumposya mundu jwa matana",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "MRK 1:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.39",
+            "verseOrgIds": [
+              "MRK.1.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "MRK 1:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mundu jwine juŵalwalaga ulwele wa matana",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.40",
+            "verseOrgIds": [
+              "MRK.1.40"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:40",
+              "type": "text"
+            },
+            {
+              "text": "Matana:",
+              "type": "text"
+            },
+            {
+              "text": "Pa ciŵeceto ca Cigiliki lina lyakuti “matana” ŵalikamulisyaga pa cilwele cilicose cakwayana ni lipende.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " jwayice kwa Yesu. Ŵamtindiŵalile ni ŵatandite kumdandawulila, ŵatite kuti, “Naga akusosa, atakomboleka kuswejesya.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.40",
+            "verseOrgIds": [
+              "MRK.1.40"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:40",
+              "type": "text"
+            },
+            {
+              "text": "Kuswejesya:",
+              "type": "text"
+            },
+            {
+              "text": "Ulwele welewu wamtendekasyaga mundu kuŵa jwangaswejela.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "MRK 1:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.40",
+            "verseOrgIds": [
+              "MRK.1.40"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "MRK 1:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu ŵamtendele canasa jwalakwejo. Ŵatambasukwile mkono ni kumkwaya ali mkusala kuti, “Une ngusaka, swejelani.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.41",
+            "verseOrgIds": [
+              "MRK.1.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "MRK 1:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Papopo matana gakwe gala gatyosile, nipo ŵaliji jwamswejele ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.42",
+            "verseOrgIds": [
+              "MRK.1.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "MRK 1:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu ŵamlamwile mundu jula kuti ajawuleje, ni ŵamgombelesye mwamacili, ŵatite kuti, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.43",
+            "verseOrgIds": [
+              "MRK.1.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "MRK 1:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Mpikanicisye, mkaja kumsalila jwalijose yeleyi; nambo mgambe kwawula kuja kulilosya kwa ŵakutaga mbopesi, ni mkapelece mbopesi jiŵalamwile Mose",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.44",
+            "verseOrgIds": [
+              "MRK.1.44"
+            ]
+          }
+        },
+        {
+          "text": " jila. Jelejo jikaŵe cimanyisyo cakuti m'mwejo mposile.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.44",
+            "verseOrgIds": [
+              "MRK.1.44"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.14.1+LEV.14.2+LEV.14.3+LEV.14.4+LEV.14.5+LEV.14.6+LEV.14.7+LEV.14.8+LEV.14.9+LEV.14.10+LEV.14.11+LEV.14.12+LEV.14.13+LEV.14.14+LEV.14.15+LEV.14.16+LEV.14.17+LEV.14.18+LEV.14.19+LEV.14.20+LEV.14.21+LEV.14.22+LEV.14.23+LEV.14.24+LEV.14.25+LEV.14.26+LEV.14.27+LEV.14.28+LEV.14.29+LEV.14.30+LEV.14.31+LEV.14.32"
+              },
+              "items": [
+                {
+                  "text": "Lef 14:1-32",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "MRK 1:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.44",
+            "verseOrgIds": [
+              "MRK.1.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "MRK 1:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nambo mundu jula piŵatyosile pa malo gala, ŵatandite kwasalila ŵandu yosope, ni ŵajenesye ngani jeleji, mpakana Yesu ŵalepele kuwonecela pelanguka m'musi uliwose. Ni ligongo lyakwe ŵatamaga kumalo kwangapitapita ŵandu. Nambo ŵandu ŵayikagape kwa jwalakwe kutyocela mbali syosope.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.45",
+            "verseOrgIds": [
+              "MRK.1.45"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MRK.2",
+    "number": "2",
+    "bookId": "MRK"
+  },
+  "previous": {
+    "id": "MRK.intro",
+    "number": "intro",
+    "bookId": "MRK"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ISA.27",
+  "number": "27",
+  "bookId": "ISA",
+  "reference": "Isa 27",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "27",
+        "style": "c",
+        "sid": "ISA 27"
+      },
+      "items": [
+        {
+          "text": "27",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 27:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.27.1",
+            "verseOrgIds": [
+              "ISA.27.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.41.1"
+              },
+              "items": [
+                {
+                  "text": "Ayub 41.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.74.14"
+              },
+              "items": [
+                {
+                  "text": "Zab 74.14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.104.26"
+              },
+              "items": [
+                {
+                  "text": "104.26",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Îgiita rîu MWATHANI akaajûkia rûchiû rwaawe rûrîa rûrî inya, na rûûgîi ta rwenji, akanûkie nyamû ya rûûjî îrîa îtagwa Leviathani, njoka îrîa îmatûkîte, oorage nkûnga îrîa iithioraga, na oorage nyamû îrîa îkaraga îrieene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.27.1",
+            "verseOrgIds": [
+              "ISA.27.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.28",
+    "number": "28",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.26",
+    "number": "26",
+    "bookId": "ISA"
+  }
+}

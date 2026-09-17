@@ -1,0 +1,68 @@
+{
+  "id": "PSA.45",
+  "number": "45",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 45",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "45",
+        "style": "c",
+        "sid": "PSA 45"
+      },
+      "items": [
+        {
+          "text": "45",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 45:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Muunaáeé' aa haáts /ayma'aá hhoe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.45.1",
+            "verseOrgIds": [
+              "PSA.45.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.46",
+    "number": "46",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.44",
+    "number": "44",
+    "bookId": "PSA"
+  }
+}

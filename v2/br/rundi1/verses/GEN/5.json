@@ -1,0 +1,127 @@
+{
+  "id": "GEN.5",
+  "number": "5",
+  "bookId": "GEN",
+  "reference": "Itanguriro 5",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "GEN 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "GEN 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uru ni rwo rukurikirane rw’abakomoka kuri Adamu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.5.1",
+            "verseOrgIds": [
+              "GEN.5.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "GEN 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Igihe Imana yarema abantu, yabaremye mw’ishusho yayo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.5.1",
+            "verseOrgIds": [
+              "GEN.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "GEN 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yabaremye ari umugabo n’umugore kandi irabahezagira, maze ibita “abantu” igihe baremwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.5.2",
+            "verseOrgIds": [
+              "GEN.5.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "GEN.6",
+    "number": "6",
+    "bookId": "GEN"
+  },
+  "previous": {
+    "id": "GEN.4",
+    "number": "4",
+    "bookId": "GEN"
+  }
+}

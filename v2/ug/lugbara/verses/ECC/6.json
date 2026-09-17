@@ -1,0 +1,744 @@
+{
+  "id": "ECC.6",
+  "number": "6",
+  "bookId": "ECC",
+  "reference": "Eklesiaste 6",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "ECC 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ECC 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "E’yo onzi indi mani ndrele etu etiari, eri ovu nzizaru ’ba ma dria: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.1",
+            "verseOrgIds": [
+              "ECC.6.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ECC 6:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.8.7+DEU.8.8+DEU.8.9+DEU.8.10"
+              },
+              "items": [
+                {
+                  "text": "Azi 8:7-10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.18.10"
+              },
+              "items": [
+                {
+                  "text": "Lip 18:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.21.10"
+              },
+              "items": [
+                {
+                  "text": "Yob 21:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.17.14"
+              },
+              "items": [
+                {
+                  "text": "Zab 17:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.12.19"
+              },
+              "items": [
+                {
+                  "text": "Luk 12:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.12.20"
+              },
+              "items": [
+                {
+                  "text": "20",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "agu Munguni lonyi pi fele drinia afa kakau be, inzita pieri, ’dini afa eri ma orindini lele ’diyi ma azi ovupi eri dri yori aluni yo ani, te ti Mungu feni eri dri okpo afa nde ’diyi nyazu ku, te ani’boni nyani; e’yo ’diri eri toko, eri azo onzini. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.2",
+            "verseOrgIds": [
+              "ECC.6.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ECC 6:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.9.35"
+              },
+              "items": [
+                {
+                  "text": "2 Opi 9:35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.7.10"
+              },
+              "items": [
+                {
+                  "text": "Esi 7:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.14.19"
+              },
+              "items": [
+                {
+                  "text": "Isa 14:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.3.16"
+              },
+              "items": [
+                {
+                  "text": "Yob 3:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.58.8"
+              },
+              "items": [
+                {
+                  "text": "Zab 58:8",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "’Ba azini ka anzi oti turu alu, ka adri idriru eli kakau, o’du eri ma elini ’diyini ecazu kakau ani, te eri, ma asi ka tra afa onyirusi ku, ka awi eri sa ku; ma kini, mva e’bepi e’beri aga eri onyisini. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.3",
+            "verseOrgIds": [
+              "ECC.6.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ECC 6:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "A’disiku eri emu e’yo tokoru ma alia, eri mu angu bizasi, angu biza a’bu runi ci; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.4",
+            "verseOrgIds": [
+              "ECC.6.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ECC 6:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "drinisi ndreni nga etu ku, nini e’yo ku indi; ’diri isu ava liza aga aziri ra, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.5",
+            "verseOrgIds": [
+              "ECC.6.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ECC 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ada eri ka tro ovu, idriru eli alifu alu pale iri ti, te ovuni ayikosi e’yo onyirusi ku-’ba dria muni pari alua ku ya?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.6",
+            "verseOrgIds": [
+              "ECC.6.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ECC 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.6",
+            "verseOrgIds": [
+              "ECC.6.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ECC 6:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.7",
+            "verseOrgIds": [
+              "ECC.6.7"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.16.26"
+              },
+              "items": [
+                {
+                  "text": "O’be 16:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1TI.6.6+1TI.6.7+1TI.6.8"
+              },
+              "items": [
+                {
+                  "text": "1 Tim 6:6-8",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Azi okporu dria aguni ngaleri, eri nga i ma tile dri, te ti, ava erini afa nyazuri trani ku. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.7",
+            "verseOrgIds": [
+              "ECC.6.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ECC 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Te ’ba: onduaru aga ’ba ondua kokoruri ra onyi ngosi ya? Alio nipi acipi ’ba idriru ma driliari ovu a’di afa be ya? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.8",
+            "verseOrgIds": [
+              "ECC.6.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ECC 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Afa ndrezu milesiri ovu onyiru aga acita ’daa ’daa liniri ra; afa ’diri indi eri e’yo tokoru asi ’bazu oli bizuriru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.9",
+            "verseOrgIds": [
+              "ECC.6.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ECC 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.9",
+            "verseOrgIds": [
+              "ECC.6.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ECC 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.10",
+            "verseOrgIds": [
+              "ECC.6.10"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.9.32"
+              },
+              "items": [
+                {
+                  "text": "Yob 9:32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.45.9"
+              },
+              "items": [
+                {
+                  "text": "Isa 45:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.9.19"
+              },
+              "items": [
+                {
+                  "text": "Rum 9:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.9.20"
+              },
+              "items": [
+                {
+                  "text": "20",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "’Ba ka ovu ngoni ti, ’da runi andra drio, ni ra kini eri ’bani, eri econi agata gazu ’ba okpo be eri ndepi rari be ku. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.10",
+            "verseOrgIds": [
+              "ECC.6.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ECC 6:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Te afa karakarau indi e’yo tokoru ezupi tre ’diyi, ’bani ani a’di isu ya? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.11",
+            "verseOrgIds": [
+              "ECC.6.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ECC 6:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JAS.4.14"
+              },
+              "items": [
+                {
+                  "text": "Yak 4:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.39.6"
+              },
+              "items": [
+                {
+                  "text": "Zab 39:6",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "A’disiku a’di ni e’yo ovupi ’ba dri onyiru idri erini ma alia, ada, idri erini tokoru erini ’a’azu endri­lendrileri ma o’du ma alia driarini ya? A’di eco e’yo ngapi ovupi eri ma vutia etu etiari oluzaru ’ba ma tiani ya?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.12",
+            "verseOrgIds": [
+              "ECC.6.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.7",
+    "number": "7",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "ECC.5",
+    "number": "5",
+    "bookId": "ECC"
+  }
+}

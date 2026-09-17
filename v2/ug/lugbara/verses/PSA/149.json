@@ -1,0 +1,109 @@
+{
+  "id": "PSA.149",
+  "number": "149",
+  "bookId": "PSA",
+  "reference": "Zaburi 149",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "149",
+        "style": "c",
+        "sid": "PSA 149"
+      },
+      "items": [
+        {
+          "text": "149",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 149:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.149.1",
+            "verseOrgIds": [
+              "PSA.149.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.42.10"
+              },
+              "items": [
+                {
+                  "text": "Isa 42:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Emi inzi Yehovani! Emi ngo ongo 0’diru Yehova dri, inzita erini ngozu okuza ’ba alatararu ’diyini ma alia!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.149.1",
+            "verseOrgIds": [
+              "PSA.149.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.150",
+    "number": "150",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.148",
+    "number": "148",
+    "bookId": "PSA"
+  }
+}

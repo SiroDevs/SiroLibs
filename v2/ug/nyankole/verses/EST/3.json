@@ -1,0 +1,895 @@
+{
+  "id": "EST.3",
+  "number": "3",
+  "bookId": "EST",
+  "reference": "Esiteeri 3",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "EST 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.1",
+            "verseOrgIds": [
+              "EST.3.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.15.32"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 15:32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.15.33"
+              },
+              "items": [
+                {
+                  "text": "33",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Bwanyima y'ebyo omugabe Ahasuero yaakuza Hamani mwene Hamedasa Omugagi, yaamugira omutegyeki mukuru, ekitebe kye yaakiha omwanya gw'ahaiguru okukira eby'abanyiginya bagyenzi be boona. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.1",
+            "verseOrgIds": [
+              "EST.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.5.9"
+              },
+              "items": [
+                {
+                  "text": "Est 5:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Abashaija b'omugabe boona, abaabaire batuura aha irembo ry'omugabe bakaba bamwinamira, bamutangirira; ahakuba omugabe nikwo yaabaire aragiire. Kwonka Morodekai we akaba atamwinamira, n'obu kwakuba okumutangirira. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.2",
+            "verseOrgIds": [
+              "EST.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bwanyima abo bashiaja b'omugabe baabuuza Morodekai ogwo bati: Ahabw'enki noohenda ekiragiro ky'omugabe? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.3",
+            "verseOrgIds": [
+              "EST.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baaguma nibamuteisa buri izooba, yaayanga kubahurira, nabo nikwo kubigambira Hamani, ngu bareebe ku araabe naikiriza ebya Morodekai; ahabw'okuba akaba naayetonganira ngu n'Omuyudaaya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.4",
+            "verseOrgIds": [
+              "EST.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EST 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hamani ku yaareebire Morodekai ataamwinamira, n'obu kwakuba okumutangirira, yaagira ekiniga kingi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.5",
+            "verseOrgIds": [
+              "EST.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EST 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwonka yaareeba okukwata Morodekai wenka, ku kitaine mugasho; ahabw'okuba bakaba bamugambiire eihanga rya Morodekai. N'ahabw'ekyo yaasherura oburyo bw'okucwekyereza Abayudaaya boona, abaabaire bari omu bugabe bwona obwa Ahasuero, eihanga rya Morodekai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.6",
+            "verseOrgIds": [
+              "EST.3.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EST 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.6",
+            "verseOrgIds": [
+              "EST.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EST 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.7",
+            "verseOrgIds": [
+              "EST.3.7"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.9.24"
+              },
+              "items": [
+                {
+                  "text": "Est 9:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.9.26"
+              },
+              "items": [
+                {
+                  "text": "26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Bwanyima omu mwaka gwa ikumi n'ebiri ogw'omu busingye bw'omugabe Ahasuero, omu kwezi kw'okubanza okurikwetwa Nisani, baaragurisa Puuri, nikwo kuteera enteenyu, baaguma nibakikorera omu maisho ga Hamani buri izooba, ngu babone kumanya ekiro n'okwezi nibakuratanisa ebiro n'ameezi byona okuhitsya obu enteenyu yaakwatsire ekiro kya ikumi na bishatu ky'okwezi kwa ikumi n'abiri okurikwetwa Adari. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.7",
+            "verseOrgIds": [
+              "EST.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EST 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.4.8"
+              },
+              "items": [
+                {
+                  "text": "Bir 4:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.16.20"
+              },
+              "items": [
+                {
+                  "text": "Byak 16:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.16.21"
+              },
+              "items": [
+                {
+                  "text": "21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Bwanyima Hamani yaagambira omugabe Ahasuero ati: Hariho eihanga eyataataine rikajanjaara omu mashaza g'omu bugabe bwawe goona; ebiragiro byaryo tibiri nk'eby'agandi mahanga, kandi tibarikworobera biragiro by'omugabe; n'ahabw'ekyo tikiine ki kirikugasira omugabe kurigumisiririza. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.8",
+            "verseOrgIds": [
+              "EST.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyakusinga omugabe, ku oraabe nookisiima, hateebweho ekiragiro kihandiikwe, bacwekyerezibwe; nyowe niinyija kuha etalanta z'efeeza kakumi, zaakiirwe abarikureeberera omurimo gw'omugabe, bazite omu mabiikiro ge. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.9",
+            "verseOrgIds": [
+              "EST.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EST 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.7.6"
+              },
+              "items": [
+                {
+                  "text": "Est 7:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.8.1"
+              },
+              "items": [
+                {
+                  "text": "8:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.8.2"
+              },
+              "items": [
+                {
+                  "text": "2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.41.42"
+              },
+              "items": [
+                {
+                  "text": "Kut 41:42",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Atyo omugabe yaajuura empeta ya'kamanyiso ke, yaagiha Hamani mwene Hamedasa Omuagagi, omuzigu w'Abayudaaya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.10",
+            "verseOrgIds": [
+              "EST.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EST 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omugabe yaagira Hamani ati: Efeeza zaawe yegumire nazo, kandi eryo ihanga naarikuha, origire nk'oku orikwenda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.11",
+            "verseOrgIds": [
+              "EST.3.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EST 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.11",
+            "verseOrgIds": [
+              "EST.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EST 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.12",
+            "verseOrgIds": [
+              "EST.3.12"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.1.22"
+              },
+              "items": [
+                {
+                  "text": "Est 1:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.8.8+EST.8.9+EST.8.10"
+              },
+              "items": [
+                {
+                  "text": "8:8-10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1KI.21.8"
+              },
+              "items": [
+                {
+                  "text": "1 Bag 21:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Bwanyima aha kiro kya ikumi na bishatu ky'okwezi kw'okubanza abahandiiki b'omugabe baayetwa, baahandiika ebi Hamani yaaragiira byona, baabitwekyera abategyeki b'omugabe, n'abategyeki abaabaire nibatwara amashaza g'omu bugabe bwe bwona, n'abanyiginya b'amahanga goona, omuri buri ishaza omu mihandiikire yaaryo, n'omuri buri ihanga omu rurimi rwaryo. Baabihandiika omu iziina ry'omugabe Ahasuero, baataho akamanyiso k'empeta ye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.12",
+            "verseOrgIds": [
+              "EST.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EST 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.30.6"
+              },
+              "items": [
+                {
+                  "text": "2 Bus 30:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Ezo baruha zaatwarwa baamatarisi omu mashaza g'omugabe goona, nizigamba kucwekyereza, okwita n'okumaraho Abayudaaya boona, abato n'abakuru, abaana n'abakazi, aha izooba rimwe, aha kiro kya ikumi na bishatu kw'okwezi kwa ikumi n'abiri okurikwetwa Adari, kandi n'okunyaga ebintu byabo; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.13",
+            "verseOrgIds": [
+              "EST.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EST 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.8.13"
+              },
+              "items": [
+                {
+                  "text": "Est 8:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EST.8.14"
+              },
+              "items": [
+                {
+                  "text": "14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " kandi ngu ebihandiikirwe omuri egyo baruha bishemereire kubugibwa omuri buri ishaza nk'ekiragiro, nibagambira amahanga goona kweteekatekyera eryo izooba. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.14",
+            "verseOrgIds": [
+              "EST.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EST 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baamatarisi baagyenda nibeehuta ahabw'ekiragiro ky'omugabe, kandi ekyo kiragiro kyabugibwa omu rurembo rukuru Shushani. Omugabe na Hamani baashutama kwenywera, kwonka ab'omuri orwo rurembo Shushani baashoberwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.15",
+            "verseOrgIds": [
+              "EST.3.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EST.4",
+    "number": "4",
+    "bookId": "EST"
+  },
+  "previous": {
+    "id": "EST.2",
+    "number": "2",
+    "bookId": "EST"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "PSA.96",
+  "number": "96",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 96",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "96",
+        "style": "c",
+        "sid": "PSA 96"
+      },
+      "items": [
+        {
+          "text": "96",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 96:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "AAKOÓ MUNGÚ daa'ángw /abén i daa'aak,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.96.1",
+            "verseOrgIds": [
+              "PSA.96.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.97",
+    "number": "97",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.95",
+    "number": "95",
+    "bookId": "PSA"
+  }
+}

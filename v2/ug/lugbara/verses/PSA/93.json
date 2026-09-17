@@ -1,0 +1,157 @@
+{
+  "id": "PSA.93",
+  "number": "93",
+  "bookId": "PSA",
+  "reference": "Zaburi 93",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "93",
+        "style": "c",
+        "sid": "PSA 93"
+      },
+      "items": [
+        {
+          "text": "93",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 93:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.93.1",
+            "verseOrgIds": [
+              "PSA.93.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.52.7"
+              },
+              "items": [
+                {
+                  "text": "Isa 52:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.19.6"
+              },
+              "items": [
+                {
+                  "text": "Eceza 19:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.40.10"
+              },
+              "items": [
+                {
+                  "text": "Yob 40:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.104.1"
+              },
+              "items": [
+                {
+                  "text": "Zab 104:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.59.17"
+              },
+              "items": [
+                {
+                  "text": "Isa 59:17",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Yehovani opi nyani; eri su diza opini i ma ruaa; Yehova su diza i ma ruaa, eri a’di vini okpo i ma opilia. Eri ’ba angu wudrikuruni pa sozu okporu indi, ’dini e’yoniri ngani i oja ku;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.93.1",
+            "verseOrgIds": [
+              "PSA.93.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.94",
+    "number": "94",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.92",
+    "number": "92",
+    "bookId": "PSA"
+  }
+}

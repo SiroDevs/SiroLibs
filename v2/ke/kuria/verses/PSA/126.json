@@ -1,0 +1,81 @@
+{
+  "id": "PSA.126",
+  "number": "126",
+  "bookId": "PSA",
+  "reference": "Ësabhuri 126",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "126",
+        "style": "c",
+        "sid": "PSA 126"
+      },
+      "items": [
+        {
+          "text": "126",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Irisabhi riö öbhobhohoribhua",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 126:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hano ÖMÖNENE aaringiri bhöhëa iriyeega re Sayuni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.126.1",
+            "verseOrgIds": [
+              "PSA.126.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.127",
+    "number": "127",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.125",
+    "number": "125",
+    "bookId": "PSA"
+  }
+}

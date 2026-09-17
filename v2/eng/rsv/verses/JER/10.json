@@ -1,0 +1,190 @@
+{
+  "id": "JER.10",
+  "number": "10",
+  "bookId": "JER",
+  "reference": "Jeremiah 10",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "JER 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hear the word which the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.1",
+            "verseOrgIds": [
+              "JER.10.1"
+            ]
+          }
+        },
+        {
+          "text": " speaks to you, O house of Israel. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.1",
+            "verseOrgIds": [
+              "JER.10.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JER 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thus says the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.2",
+            "verseOrgIds": [
+              "JER.10.2"
+            ]
+          }
+        },
+        {
+          "text": ":",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.2",
+            "verseOrgIds": [
+              "JER.10.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JER 10:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.10",
+            "verseOrgIds": [
+              "JER.10.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JER 10:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thus shall you say to them: “The gods who did not make the heavens and the earth shall perish from the earth and from under the heavens.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.10.11",
+            "verseOrgIds": [
+              "JER.10.11"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "10.11",
+              "type": "text"
+            },
+            {
+              "text": "This verse is in Aramaic",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.11",
+    "number": "11",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.9",
+    "number": "9",
+    "bookId": "JER"
+  }
+}

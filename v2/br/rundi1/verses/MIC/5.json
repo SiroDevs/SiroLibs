@@ -1,0 +1,103 @@
+{
+  "id": "MIC.5",
+  "number": "5",
+  "bookId": "MIC",
+  "reference": "Mika 5",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "MIC 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.9",
+            "verseOrgIds": [
+              "MIC.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MIC 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Kuri uwo musi,” ni ko ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.10",
+            "verseOrgIds": [
+              "MIC.5.10"
+            ]
+          }
+        },
+        {
+          "text": " avuze,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.10",
+            "verseOrgIds": [
+              "MIC.5.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.6",
+    "number": "6",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.4",
+    "number": "4",
+    "bookId": "MIC"
+  }
+}

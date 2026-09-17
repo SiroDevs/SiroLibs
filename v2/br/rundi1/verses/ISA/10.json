@@ -1,0 +1,197 @@
+{
+  "id": "ISA.10",
+  "number": "10",
+  "bookId": "ISA",
+  "reference": "Yesaya 10",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "ISA 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 10:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.10.11",
+            "verseOrgIds": [
+              "ISA.10.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 10:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.10.12",
+            "verseOrgIds": [
+              "ISA.10.12"
+            ]
+          }
+        },
+        {
+          "text": " niyamara gushitsa ivyago yateguriye umusozi Siyoni na Yerusalemu, azovuga ati: “Ngiye guhana umwami wa Ashuri, kuko yuzuye ubwibone n’ukwishira hejuru. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.10.12",
+            "verseOrgIds": [
+              "ISA.10.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 10:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuko azovuga ati:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.10.13",
+            "verseOrgIds": [
+              "ISA.10.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "ISA 10:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.10.23",
+            "verseOrgIds": [
+              "ISA.10.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "ISA 10:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "None rero uku ni ko Umwami, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.10.24",
+            "verseOrgIds": [
+              "ISA.10.24"
+            ]
+          }
+        },
+        {
+          "text": " Mushoboravyose, avuze:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.10.24",
+            "verseOrgIds": [
+              "ISA.10.24"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.11",
+    "number": "11",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.9",
+    "number": "9",
+    "bookId": "ISA"
+  }
+}

@@ -1,0 +1,770 @@
+{
+  "id": "HOS.1",
+  "number": "1",
+  "bookId": "HOS",
+  "reference": "Hoseya 1",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "HOS 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.1",
+            "verseOrgIds": [
+              "HOS.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.15.1+2KI.15.2+2KI.15.3+2KI.15.4+2KI.15.5+2KI.15.6+2KI.15.7"
+              },
+              "items": [
+                {
+                  "text": "2 Kerin 15:1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.26.1+2CH.26.2+2CH.26.3+2CH.26.4+2CH.26.5+2CH.26.6+2CH.26.7+2CH.26.8+2CH.26.9+2CH.26.10+2CH.26.11+2CH.26.12+2CH.26.13+2CH.26.14+2CH.26.15+2CH.26.16+2CH.26.17+2CH.26.18+2CH.26.19+2CH.26.20+2CH.26.21+2CH.26.22+2CH.26.23"
+              },
+              "items": [
+                {
+                  "text": "2 Kigana 26:1-23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.15.32+2KI.15.33+2KI.15.34+2KI.15.35+2KI.15.36+2KI.15.37+2KI.15.38"
+              },
+              "items": [
+                {
+                  "text": "2 Kerin 15:32-38",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.27.1+2CH.27.2+2CH.27.3+2CH.27.4+2CH.27.5+2CH.27.6+2CH.27.7+2CH.27.8"
+              },
+              "items": [
+                {
+                  "text": "2 Kigana 27:1-8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.16.1+2KI.16.2+2KI.16.3+2KI.16.4+2KI.16.5+2KI.16.6+2KI.16.7+2KI.16.8+2KI.16.9+2KI.16.10+2KI.16.11+2KI.16.12+2KI.16.13+2KI.16.14+2KI.16.15+2KI.16.16+2KI.16.17+2KI.16.18+2KI.16.19+2KI.16.20"
+              },
+              "items": [
+                {
+                  "text": "2 Kerin 16:1-20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.28.1+2CH.28.2+2CH.28.3+2CH.28.4+2CH.28.5+2CH.28.6+2CH.28.7+2CH.28.8+2CH.28.9+2CH.28.10+2CH.28.11+2CH.28.12+2CH.28.13+2CH.28.14+2CH.28.15+2CH.28.16+2CH.28.17+2CH.28.18+2CH.28.19+2CH.28.20+2CH.28.21+2CH.28.22+2CH.28.23+2CH.28.24+2CH.28.25+2CH.28.26+2CH.28.27"
+              },
+              "items": [
+                {
+                  "text": "2 Kigana 28:1-27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "2 Kerin 18:1—20:21; 2 Kigana 29:1—32:33",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.14.23+2KI.14.24+2KI.14.25+2KI.14.26+2KI.14.27+2KI.14.28+2KI.14.29"
+              },
+              "items": [
+                {
+                  "text": "2 Kerin 14:23-29",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Wac pa Rwoth m'obino ri Hoseya wod Ber i hongo pa Uziya, Yotham, Ahaz kodi Hezekia kerin ma Yuda, kodi i hongo pa kere ma Isiraili, Yerobowam wod Yowas.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.1",
+            "verseOrgIds": [
+              "HOS.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Peco pa Hoseya",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.1",
+            "verseOrgIds": [
+              "HOS.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "HOS 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Munyo Rwoth oluwo gi Hoseya marapena, Rwoth owaco ri Hoseya ni, “Kadhi, inywom dhako m'obedo malaya aka i nywol nyithindho ma jobedo malaya paka go, kole piny timo malaya madwoŋ swa gi jwango Rwoth.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.2",
+            "verseOrgIds": [
+              "HOS.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HOS 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hoseya okadho to nywomo Goma nyar Diblayim. Goma ogamo iye to nywolo ri Hoseya wode.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.3",
+            "verseOrgIds": [
+              "HOS.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HOS 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.3",
+            "verseOrgIds": [
+              "HOS.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HOS 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.4",
+            "verseOrgIds": [
+              "HOS.1.4"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.10.11"
+              },
+              "items": [
+                {
+                  "text": "2 Kerin 10:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rwoth owaco ri Hoseya ni, “Cwoki rigo nyinge ni Yezirel.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.4",
+            "verseOrgIds": [
+              "HOS.1.4"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:4",
+              "type": "text"
+            },
+            {
+              "text": "Yezirel",
+              "type": "text"
+            },
+            {
+              "text": "Dwoŋ mere ni Were cwoyo",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Kole i hongo manok alamiyo gir'acula ri ot pa Yehu ro remo pa Yezirel, aka alaketho i gike ker ma dhum ma ot pa Isiraili. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.4",
+            "verseOrgIds": [
+              "HOS.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HOS 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I ndelo no alaturo asere ma Isiraili i milelo ma Yezirel.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.5",
+            "verseOrgIds": [
+              "HOS.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HOS 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.5",
+            "verseOrgIds": [
+              "HOS.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "HOS 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Goma ogamo iye kendo to nywolo nyare. Rwoth owaco ri Hoseya ni, “Cwoki nyinge ni Loruhama;",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.6",
+            "verseOrgIds": [
+              "HOS.1.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:6",
+              "type": "text"
+            },
+            {
+              "text": "Loruhama",
+              "type": "text"
+            },
+            {
+              "text": "Dwoŋ mere ni K'omaki gine wor",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Kole Ak'omaki wor gi ot pa Isiraili kosa ak'ocwaki jo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.6",
+            "verseOrgIds": [
+              "HOS.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "HOS 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To alamako wor gi ot pa Yuda, aka alabotho jo gi an Rwoth Were pajo; ak'obothi jo g'atum abor, kosa abor, kosa lweny, kosa gi kayinin, kosa gi cwo ma jogweyo kayinin.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.7",
+            "verseOrgIds": [
+              "HOS.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "HOS 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.7",
+            "verseOrgIds": [
+              "HOS.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "HOS 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Munyo Goma otieko cero Loruhama dhoth, ogamo iye kendo to nywolo wode. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.8",
+            "verseOrgIds": [
+              "HOS.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "HOS 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rwoth owaco ri Hoseya ni, “Cwoki nyinge ni Loami;",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.9",
+            "verseOrgIds": [
+              "HOS.1.9"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:9",
+              "type": "text"
+            },
+            {
+              "text": "Loami",
+              "type": "text"
+            },
+            {
+              "text": "Dwoŋ mere ni K'obedo ji paran",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Kwoŋbedo wikibedo ji paran aka akibedo Were mewin.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.9",
+            "verseOrgIds": [
+              "HOS.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Dwoko Isiraili",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "HOS 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.9",
+            "verseOrgIds": [
+              "HOS.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "HOS 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kucel welo pa Joisiraili lacale paka kwoyo ma nam, ma kipimere kosa kwanere; aka i kabedo m'owac'iye rijo ni, “Wikibedo ji paran.” Ilalwoŋo jo ni, “Nyithindho pa Were makwo.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.10",
+            "verseOrgIds": [
+              "HOS.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "HOS 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ji ma Yuda kodi Joisiraili jolacokere kanyacel, to joyero rijo wegi jatel acel; to jotero lowo, kole ndelo pa Yezirel labedo madwoŋ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.1.11",
+            "verseOrgIds": [
+              "HOS.1.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.2",
+    "number": "2",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.intro",
+    "number": "intro",
+    "bookId": "HOS"
+  }
+}

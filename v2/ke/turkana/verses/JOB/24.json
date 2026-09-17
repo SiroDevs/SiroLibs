@@ -1,0 +1,101 @@
+{
+  "id": "JOB.24",
+  "number": "24",
+  "bookId": "JOB",
+  "reference": "Yob 24",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "24",
+        "style": "c",
+        "sid": "JOB 24"
+      },
+      "items": [
+        {
+          "text": "24",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JOB 24:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tolim Sopar",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.24.17",
+            "verseOrgIds": [
+              "JOB.24.17"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "24:17",
+              "type": "text"
+            },
+            {
+              "text": "Sopar;",
+              "type": "text"
+            },
+            {
+              "text": "nyelimunitoe Sopar anagiran kanu, nakaneni eyenio atamar ngesi eruoro ngakiro nugu.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " tama,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.24.17",
+            "verseOrgIds": [
+              "JOB.24.17"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.25",
+    "number": "25",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.23",
+    "number": "23",
+    "bookId": "JOB"
+  }
+}

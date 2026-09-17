@@ -1,0 +1,127 @@
+{
+  "id": "HOS.6",
+  "number": "6",
+  "bookId": "HOS",
+  "reference": "Hosea 6",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "HOS 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Twendeni, tukamrudie Mwenyezi-Mungu!",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.6.1",
+            "verseOrgIds": [
+              "HOS.6.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "HOS 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.6.6",
+            "verseOrgIds": [
+              "HOS.6.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "HOS 6:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Lakini mlilivunja agano langu",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.6.7",
+            "verseOrgIds": [
+              "HOS.6.7"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.7",
+    "number": "7",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.5",
+    "number": "5",
+    "bookId": "HOS"
+  }
+}

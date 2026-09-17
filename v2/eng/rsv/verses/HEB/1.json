@@ -1,0 +1,256 @@
+{
+  "id": "HEB.1",
+  "number": "1",
+  "bookId": "HEB",
+  "reference": "Hebrews 1",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "HEB 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HEB 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "In many and various ways God spoke of old to our fathers by the prophets; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.1",
+            "verseOrgIds": [
+              "HEB.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "HEB 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "but in these last days he has spoken to us by a Son, whom he appointed the heir of all things, through whom also he created the world. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.2",
+            "verseOrgIds": [
+              "HEB.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HEB 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He reflects the glory of God and bears the very stamp of his nature, upholding the universe by his word of power. When he had made purification for sins, he sat down at the right hand of the Majesty on high, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.3",
+            "verseOrgIds": [
+              "HEB.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HEB 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "having become as much superior to angels as the name he has obtained is more excellent than theirs.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.4",
+            "verseOrgIds": [
+              "HEB.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HEB 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.4",
+            "verseOrgIds": [
+              "HEB.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HEB 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.5",
+            "verseOrgIds": [
+              "HEB.1.5"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.2.7"
+              },
+              "items": [
+                {
+                  "text": "Ps 2.7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2SA.7.14"
+              },
+              "items": [
+                {
+                  "text": "2 Sam 7.14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " For to what angel did God ever say,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HEB.1.5",
+            "verseOrgIds": [
+              "HEB.1.5"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HEB.2",
+    "number": "2",
+    "bookId": "HEB"
+  },
+  "previous": {
+    "id": "PHM.1",
+    "number": "1",
+    "bookId": "PHM"
+  }
+}

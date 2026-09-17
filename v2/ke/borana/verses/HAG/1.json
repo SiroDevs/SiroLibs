@@ -1,0 +1,572 @@
+{
+  "id": "HAG.1",
+  "number": "1",
+  "bookId": "HAG",
+  "reference": "Hagai 1",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "HAG 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Aka AABBO Waaqi, Mana kiyya ammalle jaara jed'e",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HAG 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.1",
+            "verseOrgIds": [
+              "HAG.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        Ezr 4.24—5.2",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZR.6.14"
+              },
+              "items": [
+                {
+                  "text": "6.14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Ganna lameeso ka hayyu Darioni lafa fide, guyya qara ka jia jaeeso, AABBO Waaqi raaga Hagai jed'aniini dubbate. D'aamsa inni d'aamate gara Zerubabeli, ilma Shealtieli, ka lafa Yuda fidufi ammalle gara Yoshua, ilma Yehosadaki, ka qaallu guddati ergani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.1",
+            "verseOrgIds": [
+              "HAG.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HAG 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.1",
+            "verseOrgIds": [
+              "HAG.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "HAG 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "AABBO Waaqi Guddaani waan jed'e, Biyyiti tunini, Yoi Mana Waaqaa ammalle jaarani ingeenne jetti. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.2",
+            "verseOrgIds": [
+              "HAG.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HAG 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Duuba dubbini AABBO Waaqa Hagaiti d'ufte ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.3",
+            "verseOrgIds": [
+              "HAG.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HAG 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "waan jette, Isani maafi maneeni dadansaati galtani, ka Mani kiyya ka eeba hot'ae? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.4",
+            "verseOrgIds": [
+              "HAG.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HAG 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tanaafi AABBO Waaqi waan jed'eeni, Me, waan ke jirtani herega! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.5",
+            "verseOrgIds": [
+              "HAG.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "HAG 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Isani waan guddo oobritani ammo diqo murattani; isani wo nyaattani ammo inquuftani; isani daad'i d'uddani ammo quuftani imachooftani; isani woya uyifattani ammo d'aamocha isani ind'owartu; ammalle nami beese nyaatu beeseeni suni diqo, Woma imbaatufi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.6",
+            "verseOrgIds": [
+              "HAG.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "HAG 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "AABBO Waaqi Guddaani waan jed'u: Me, waan ke jirtani herega. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.7",
+            "verseOrgIds": [
+              "HAG.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "HAG 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gaareeni kora, mukha ch'ira, Mana kiyya jaara; duuba anini gammade guddinna kiyyaani mullad'a.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.8",
+            "verseOrgIds": [
+              "HAG.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "HAG 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.8",
+            "verseOrgIds": [
+              "HAG.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "HAG 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Isani mid'aani guddo kajeeltani ammo waan diqooni baatani. Duuba yo isani worratiini galtanile, anini isani duraa balleese. AABBO Waaqi Guddaani waan jed'u, Maafi akana? Wonti akanatiifi Mani kiyya ya hot'ae, ka isani namu mana keesani mid'aafattani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.9",
+            "verseOrgIds": [
+              "HAG.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "HAG 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maro waan kanatifi bokai isanii roobu dide, laftileeni woma isanii baasu diddi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.10",
+            "verseOrgIds": [
+              "HAG.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "HAG 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Anini layu oola lafati buuse, gaareeni taanaani, mid'aani taanaani, daad'i taanaani, d'ad'a taanaani, waan lafti baaftu ch'ufa, namafi horilee, ammalle huji teesani ch'ufa, ya oola iti buuse.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.11",
+            "verseOrgIds": [
+              "HAG.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Aka biyyiti waan AABBO Waaqi jed'eeni ch'aqafte",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "HAG 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.11",
+            "verseOrgIds": [
+              "HAG.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "HAG 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jennaani Zerubabeli, ilma Shealtielifi Yoshuani, ilmi Yehosadaki, ka qaallu gudda, gumi taani ch'ufa woliini, waan AABBO Waaqi, Tolcha worraani jed'e tolchani. Worri Waaqa sodaate, raaga Hagai jed'ani, ka AABBO Waaqi erge, ch'aqase. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.12",
+            "verseOrgIds": [
+              "HAG.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "HAG 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jennaani Hagai d'aamsa AABBO Waaqaa biyyati hime waan jed'e, AABBO Waaqi waan jed'u, Anini isani woliini jira. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.13",
+            "verseOrgIds": [
+              "HAG.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "HAG 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "AABBO Waaqi Zerubabeli, ilma Shealtieli, ka lafa Yuda fidufi Yoshua, ilma Yehosadaki, ka qaallu guddatifi ammalle gumi taani ch'ufa garaa jabeese, duuba worri guyya diddami afreeso, ka jia jaeeso, wolti d'ufe, Mana AABBO Waaqa Gudda, Waaqa worra, jaare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.14+HAG.1.15",
+            "verseOrgIds": [
+              "HAG.1.14",
+              "HAG.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mid'aaguma Mana Waaqa haraa",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAG.2",
+    "number": "2",
+    "bookId": "HAG"
+  },
+  "previous": {
+    "id": "HAG.intro",
+    "number": "intro",
+    "bookId": "HAG"
+  }
+}

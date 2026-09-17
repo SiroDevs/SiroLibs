@@ -1,0 +1,68 @@
+{
+  "id": "JOB.31",
+  "number": "31",
+  "bookId": "JOB",
+  "reference": "Yobu 31",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "31",
+        "style": "c",
+        "sid": "JOB 31"
+      },
+      "items": [
+        {
+          "text": "31",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 31:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "«Aníng aga tsabiím,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.31.1",
+            "verseOrgIds": [
+              "JOB.31.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.32",
+    "number": "32",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.30",
+    "number": "30",
+    "bookId": "JOB"
+  }
+}

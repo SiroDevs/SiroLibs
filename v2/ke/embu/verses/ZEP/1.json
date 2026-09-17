@@ -1,0 +1,223 @@
+{
+  "id": "ZEP.1",
+  "number": "1",
+  "bookId": "ZEP",
+  "reference": "Zef 1",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "ZEP 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEP 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.1",
+            "verseOrgIds": [
+              "ZEP.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        2Atha 22.1—23.30; 2Maû 34.1—35.27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Îno nî ndûmîrîri ya Ngai-Mûnene îrîa yakinyire Zefania mwana wa Kushi, mwana wa Gedalia, mwana wa Amaria, mwana wa Hezekia, vîndî îrîa Josia mûvîcî wa Amoni, aarî mûthamaki wa Juda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.1",
+            "verseOrgIds": [
+              "ZEP.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mûthenya wa îtuîro wa Ngai-Mûnene",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ZEP 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.6",
+            "verseOrgIds": [
+              "ZEP.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ZEP 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kirani mbere ya Ngai-Mûnene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.7",
+            "verseOrgIds": [
+              "ZEP.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEP 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.9",
+            "verseOrgIds": [
+              "ZEP.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ZEP 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai-Mûnene arauga atîrî,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.1.10",
+            "verseOrgIds": [
+              "ZEP.1.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEP.2",
+    "number": "2",
+    "bookId": "ZEP"
+  },
+  "previous": {
+    "id": "ZEP.intro",
+    "number": "intro",
+    "bookId": "ZEP"
+  }
+}

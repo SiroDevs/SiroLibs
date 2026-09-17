@@ -1,0 +1,68 @@
+{
+  "id": "JOB.19",
+  "number": "19",
+  "bookId": "JOB",
+  "reference": "Job 19",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "19",
+        "style": "c",
+        "sid": "JOB 19"
+      },
+      "items": [
+        {
+          "text": "19",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 19:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then Job answered:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.19.1",
+            "verseOrgIds": [
+              "JOB.19.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.20",
+    "number": "20",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.18",
+    "number": "18",
+    "bookId": "JOB"
+  }
+}

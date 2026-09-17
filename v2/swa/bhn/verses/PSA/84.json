@@ -1,0 +1,68 @@
+{
+  "id": "PSA.84",
+  "number": "84",
+  "bookId": "PSA",
+  "reference": "Zaburi 84",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "84",
+        "style": "c",
+        "sid": "PSA 84"
+      },
+      "items": [
+        {
+          "text": "84",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 84:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jinsi gani yanavyopendeza makao yako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.1",
+            "verseOrgIds": [
+              "PSA.84.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.85",
+    "number": "85",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.83",
+    "number": "83",
+    "bookId": "PSA"
+  }
+}

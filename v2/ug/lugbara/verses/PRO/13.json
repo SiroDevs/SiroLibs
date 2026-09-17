@@ -1,0 +1,135 @@
+{
+  "id": "PRO.13",
+  "number": "13",
+  "bookId": "PRO",
+  "reference": "E'Yo O'Beza 13",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "13",
+        "style": "c",
+        "sid": "PRO 13"
+      },
+      "items": [
+        {
+          "text": "13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 13:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.13.1",
+            "verseOrgIds": [
+              "PRO.13.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.2.25"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 2:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.9.7"
+              },
+              "items": [
+                {
+                  "text": "O’be 9:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.9.8"
+              },
+              "items": [
+                {
+                  "text": "8",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mva onduaruri ati ma imbata eri ra, te ’ba edematara beri erini e’yo ’bani egazu i ma driari ku.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.13.1",
+            "verseOrgIds": [
+              "PRO.13.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.14",
+    "number": "14",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.12",
+    "number": "12",
+    "bookId": "PRO"
+  }
+}

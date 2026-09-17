@@ -1,0 +1,157 @@
+{
+  "id": "HOS.6",
+  "number": "6",
+  "bookId": "HOS",
+  "reference": "Hosea 6",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "HOS 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.6.1",
+            "verseOrgIds": [
+              "HOS.6.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.5.18"
+              },
+              "items": [
+                {
+                  "text": "Yob 5:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.15.26"
+              },
+              "items": [
+                {
+                  "text": "Efu 15:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.30.26"
+              },
+              "items": [
+                {
+                  "text": "Isa 30:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.30.17"
+              },
+              "items": [
+                {
+                  "text": "Yer 30:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.34.16"
+              },
+              "items": [
+                {
+                  "text": "Eze 34:16",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Emi emu,ama ma mvi Yehovani; eri asi ama ale ’bo, te eri nga ama ati ra; eri co ama ra, te eri nga ama ombe ra,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.6.1",
+            "verseOrgIds": [
+              "HOS.6.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.7",
+    "number": "7",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.5",
+    "number": "5",
+    "bookId": "HOS"
+  }
+}

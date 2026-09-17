@@ -1,0 +1,595 @@
+{
+  "id": "TIT.1",
+  "number": "1",
+  "bookId": "TIT",
+  "reference": "Titus 1",
+  "verseCount": 16,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "TIT 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "TIT 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Paul, a servant",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.1",
+            "verseOrgIds": [
+              "TIT.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1.1",
+              "type": "text"
+            },
+            {
+              "text": "Or",
+              "type": "text"
+            },
+            {
+              "text": "slave",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " of God and an apostle of Jesus Christ, to further the faith of God's elect and their knowledge of the truth which accords with godliness, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.1",
+            "verseOrgIds": [
+              "TIT.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "TIT 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "in hope of eternal life which God, who never lies, promised ages ago ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.2",
+            "verseOrgIds": [
+              "TIT.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "TIT 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "and at the proper time manifested in his word through the preaching with which I have been entrusted by command of God our Savior;",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.3",
+            "verseOrgIds": [
+              "TIT.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "TIT 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.3",
+            "verseOrgIds": [
+              "TIT.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "TIT 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To Titus, my true child in a common faith:",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.4",
+            "verseOrgIds": [
+              "TIT.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "TIT 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Grace and peace from God the Father and Christ Jesus our Savior.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.4",
+            "verseOrgIds": [
+              "TIT.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "TIT 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.4",
+            "verseOrgIds": [
+              "TIT.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "TIT 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "This is why I left you in Crete, that you might amend what was defective, and appoint elders in every town as I directed you, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.5",
+            "verseOrgIds": [
+              "TIT.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "TIT 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "if any man is blameless, the husband of one wife, and his children are believers and not open to the charge of being profligate or insubordinate. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.6",
+            "verseOrgIds": [
+              "TIT.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "TIT 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For a bishop, as God's steward, must be blameless; he must not be arrogant or quick-tempered or a drunkard or violent or greedy for gain, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.7",
+            "verseOrgIds": [
+              "TIT.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "TIT 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "but hospitable, a lover of goodness, master of himself, upright, holy, and self-controlled; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.8",
+            "verseOrgIds": [
+              "TIT.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "TIT 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "he must hold firm to the sure word as taught, so that he may be able to give instruction in sound doctrine and also to confute those who contradict it. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.9",
+            "verseOrgIds": [
+              "TIT.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "TIT 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For there are many insubordinate men, empty talkers and deceivers, especially the circumcision party; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.10",
+            "verseOrgIds": [
+              "TIT.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "TIT 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "they must be silenced, since they are upsetting whole families by teaching for base gain what they have no right to teach. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.11",
+            "verseOrgIds": [
+              "TIT.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "TIT 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1.12:",
+              "type": "text"
+            },
+            {
+              "text": "Epimenides",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " One of themselves, a prophet of their own, said, “Cretans are always liars, evil beasts, lazy gluttons.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.12",
+            "verseOrgIds": [
+              "TIT.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "TIT 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "This testimony is true. Therefore rebuke them sharply, that they may be sound in the faith, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.13",
+            "verseOrgIds": [
+              "TIT.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "TIT 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "instead of giving heed to Jewish myths or to commands of men who reject the truth. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.14",
+            "verseOrgIds": [
+              "TIT.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "TIT 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To the pure all things are pure, but to the corrupt and unbelieving nothing is pure; their very minds and consciences are corrupted. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.15",
+            "verseOrgIds": [
+              "TIT.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "TIT 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They profess to know God, but they deny him by their deeds; they are detestable, disobedient, unfit for any good deed.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.16",
+            "verseOrgIds": [
+              "TIT.1.16"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "TIT.2",
+    "number": "2",
+    "bookId": "TIT"
+  },
+  "previous": {
+    "id": "2TI.4",
+    "number": "4",
+    "bookId": "2TI"
+  }
+}

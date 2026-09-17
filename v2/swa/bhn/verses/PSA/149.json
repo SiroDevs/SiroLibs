@@ -1,0 +1,68 @@
+{
+  "id": "PSA.149",
+  "number": "149",
+  "bookId": "PSA",
+  "reference": "Zaburi 149",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "149",
+        "style": "c",
+        "sid": "PSA 149"
+      },
+      "items": [
+        {
+          "text": "149",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 149:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Msifuni Mwenyezi-Mungu!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.149.1",
+            "verseOrgIds": [
+              "PSA.149.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.150",
+    "number": "150",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.148",
+    "number": "148",
+    "bookId": "PSA"
+  }
+}

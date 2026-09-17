@@ -1,0 +1,127 @@
+{
+  "id": "MIC.4",
+  "number": "4",
+  "bookId": "MIC",
+  "reference": "Mika 4",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "MIC 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mu misi y’iherezo",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.4.1",
+            "verseOrgIds": [
+              "MIC.4.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.4.1",
+            "verseOrgIds": [
+              "MIC.4.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MIC 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amahanga menshi azoza avuge ati:",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.4.2",
+            "verseOrgIds": [
+              "MIC.4.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.5",
+    "number": "5",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.3",
+    "number": "3",
+    "bookId": "MIC"
+  }
+}

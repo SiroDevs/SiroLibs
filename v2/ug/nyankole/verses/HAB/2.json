@@ -1,0 +1,161 @@
+{
+  "id": "HAB.2",
+  "number": "2",
+  "bookId": "HAB",
+  "reference": "Habakuuki 2",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "HAB 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HAB 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.2.5",
+            "verseOrgIds": [
+              "HAB.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "HAB 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.2.6",
+            "verseOrgIds": [
+              "HAB.2.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.5.8"
+              },
+              "items": [
+                {
+                  "text": "Isa 5:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MIC.2.4"
+              },
+              "items": [
+                {
+                  "text": "Mik 2:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.1.12"
+              },
+              "items": [
+                {
+                  "text": "Zek 1:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Abo boona tibarimugaaniiza, bakamuteerera enaku? nibagira bati: Eshi oyerundira ebitari bye, aryakareeba! Mbwenu aryahitsya hi? Orikwerundaho emikwato nawe aryakareeba!",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.2.6",
+            "verseOrgIds": [
+              "HAB.2.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAB.3",
+    "number": "3",
+    "bookId": "HAB"
+  },
+  "previous": {
+    "id": "HAB.1",
+    "number": "1",
+    "bookId": "HAB"
+  }
+}

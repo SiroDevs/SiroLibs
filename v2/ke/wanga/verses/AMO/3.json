@@ -1,0 +1,153 @@
+{
+  "id": "AMO.3",
+  "number": "3",
+  "bookId": "AMO",
+  "reference": "Amosi 3",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "AMO 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Omulimo kwOmunabii",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hulile likhuwa lino elia OMWAMI aboolile namufukula, inywe abaana baIsiraeli; nafukula abeinzu eyo yosi eya ndatikulusia nirusia mushialo shiaMisiri; mbu",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.3.1",
+            "verseOrgIds": [
+              "AMO.3.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Akeetsa okhukwila Samaria",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "AMO 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.3.11",
+            "verseOrgIds": [
+              "AMO.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "AMO 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kano niko aka OMWAMI aboola; mbu Shinga omwayi olwa areesia mumunwa kweitaIanyi ebilenje bibili, kata eshitonye shieshirwi, nindio abaana baIsiraeli balareesibwa; abo abeekhala khundulo weshitali eSamaria, kata khungubo tsieilaasi tsiobulili.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.3.12",
+            "verseOrgIds": [
+              "AMO.3.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.4",
+    "number": "4",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.2",
+    "number": "2",
+    "bookId": "AMO"
+  }
+}

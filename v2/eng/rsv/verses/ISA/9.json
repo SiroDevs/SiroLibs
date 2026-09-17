@@ -1,0 +1,146 @@
+{
+  "id": "ISA.9",
+  "number": "9",
+  "bookId": "ISA",
+  "reference": "Isaiah 9",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "9",
+        "style": "c",
+        "sid": "ISA 9"
+      },
+      "items": [
+        {
+          "text": "9",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 9:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.1",
+            "verseOrgIds": [
+              "ISA.9.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "9.1",
+              "type": "text"
+            },
+            {
+              "text": "Ch 8.23 in Heb",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.1",
+            "verseOrgIds": [
+              "ISA.9.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.4.15+MAT.4.16"
+              },
+              "items": [
+                {
+                  "text": "Mt 4.15-16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.79"
+              },
+              "items": [
+                {
+                  "text": "Lk 1.79",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " But there will be no gloom for her that was in anguish. In the former time he brought into contempt the land of Zebulun and the land of Naphtali, but in the latter time he will make glorious the way of the sea, the land beyond the Jordan, Galilee of the nations.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.1",
+            "verseOrgIds": [
+              "ISA.9.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.10",
+    "number": "10",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.8",
+    "number": "8",
+    "bookId": "ISA"
+  }
+}

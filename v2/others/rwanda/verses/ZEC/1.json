@@ -1,0 +1,842 @@
+{
+  "id": "ZEC.1",
+  "number": "1",
+  "bookId": "ZEC",
+  "reference": "Zekariya 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 17,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "ZEC 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Iyerekwa ry'amafarashi ane",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEC 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.1",
+            "verseOrgIds": [
+              "ZEC.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        Ezira 4.24—5.1",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZR.6.14"
+              },
+              "items": [
+                {
+                  "text": "6.14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Mu kwezi kwa munani, mu mwaka wa kabiri wo ku ngoma ya Dariyo, ijambo ry'Uwiteka ryaje kuri Zekariya mwene Berekiya mwene Ido umuhanuzi riti ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.1",
+            "verseOrgIds": [
+              "ZEC.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ZEC 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Uwiteka yarakariye ba sogokuruza banyu cyane. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.2",
+            "verseOrgIds": [
+              "ZEC.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ZEC 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni cyo gituma uzababwira uti ‘Uwiteka Nyiringabo aravuga ati: Nimungarukire nanjye nzabagarukira.’ Ni ko Uwiteka Nyiringabo avuga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.3",
+            "verseOrgIds": [
+              "ZEC.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ZEC 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwe gusa na ba sogokuruza banyu abahanuzi ba kera babwiraga baranguruye bati: Uwiteka Nyiringabo aravuga ati ‘Nimuhindukire muve mu ngeso zanyu mbi no mu byo mukora bibi’, maze ntibumve kandi nanjye ntibantege amatwi. Ni ko Uwiteka avuga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.4",
+            "verseOrgIds": [
+              "ZEC.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ZEC 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ba sogokuruza banyu bari he? Mbese abahanuzi bahoraho iteka? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.5",
+            "verseOrgIds": [
+              "ZEC.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ZEC 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amagambo yanjye n'amategeko yanjye nategetse abagaragu banjye b'abahanuzi, aho ntibyasohoye kuri ba sogokuruza? Hanyuma bisubiyemo baravuga bati ‘Uwiteka Nyiringabo yagambiriye kuzatwitura ibihwanye n'ingeso zacu n'ibyo twakoze, none ni ko yadukoreye.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.6",
+            "verseOrgIds": [
+              "ZEC.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ZEC 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.6",
+            "verseOrgIds": [
+              "ZEC.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ZEC 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ku munsi wa makumyabiri n'ine wo mu kwezi kwa cumi na kumwe, ari ko kwezi kwitwa Shebati, mu mwaka wa kabiri wo ku ngoma ya Dariyo, ijambo ry'Uwiteka ryaje kuri Zekariya mwene Berekiya mwene Ido umuhanuzi riti:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.7",
+            "verseOrgIds": [
+              "ZEC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ZEC 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.7",
+            "verseOrgIds": [
+              "ZEC.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ZEC 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.8",
+            "verseOrgIds": [
+              "ZEC.1.8"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.6.2+REV.6.3+REV.6.4+REV.6.5+REV.6.6+REV.6.7+REV.6.8"
+              },
+              "items": [
+                {
+                  "text": "Ibyah 6.2-8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Nijoro nagiye kubona mbona umuntu uhetswe n'ifarashi y'igaju, ahagaze hagati y'ibiti by'imihadasi byo mu kabande, kandi inyuma ye hari amafarashi y'amagaju n'ay'ubugondo n'ay'imyeru. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.8",
+            "verseOrgIds": [
+              "ZEC.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEC 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maze ndabaza nti “Ibi ni ibiki, Nyagasani?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.9",
+            "verseOrgIds": [
+              "ZEC.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEC 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Marayika twavuganaga aransubiza ati “Ndabikubwira.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.9",
+            "verseOrgIds": [
+              "ZEC.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEC 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.9",
+            "verseOrgIds": [
+              "ZEC.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ZEC 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Umuntu wari uhagaze hagati y'imihadasi aravuga ati “Abo ni abo Uwiteka yatumye kugenda isi.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.10",
+            "verseOrgIds": [
+              "ZEC.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ZEC 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.10",
+            "verseOrgIds": [
+              "ZEC.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ZEC 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basubiza marayika w'Uwiteka wari uhagaze hagati y'imihadasi bati “Twagenze isi yose, kandi dore isi yose iratuje ifite ihumure.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.11",
+            "verseOrgIds": [
+              "ZEC.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ZEC 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.11",
+            "verseOrgIds": [
+              "ZEC.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ZEC 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Marayika w'Uwiteka arabasubiza ati “Uwiteka Nyiringabo uzageza ryari kutababarira i Yerusalemu n'imidugudu y'u Buyuda, kandi umaze imyaka mirongo irindwi ubarakariye?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.12",
+            "verseOrgIds": [
+              "ZEC.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ZEC 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.12",
+            "verseOrgIds": [
+              "ZEC.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ZEC 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uwiteka asubiza marayika twavuganaga amagambo meza amara umubabaro. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.13",
+            "verseOrgIds": [
+              "ZEC.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ZEC 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Marayika twavuganaga arambwira ati “Rangurura uvuge cyane uti: Uwiteka Nyiringabo aravuga ati ‘Mfuhiye i Yerusalemu n'i Siyoni ifuhe ryinshi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.14",
+            "verseOrgIds": [
+              "ZEC.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ZEC 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi ndakariye amahanga yiraye uburakari bwinshi, kuko narakariye ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.15",
+            "verseOrgIds": [
+              "ZEC.1.15"
+            ]
+          }
+        },
+        {
+          "text": " buhoro, ariko bo babagiriye nabi birenze urugero.’ ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.15",
+            "verseOrgIds": [
+              "ZEC.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ZEC 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni cyo gituma Uwiteka avuga ati ‘Ngarukiye i Yerusalemu mpafitiye imbabazi. Inzu yanjye izahubakwa, ni ko Uwiteka Nyiringabo avuga, i Yerusalemu hazagereshwa umugozi.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.16",
+            "verseOrgIds": [
+              "ZEC.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ZEC 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.16",
+            "verseOrgIds": [
+              "ZEC.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ZEC 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ongera urangurure uvuge uti: Uwiteka Nyiringabo aravuga ati ‘Muzabona imidugudu yanjye yongeye kuzura ibyiza biyisaguke, Uwiteka azongera kumara i Siyoni umubabaro, kandi azongera guhitamo i Yerusalemu.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.17",
+            "verseOrgIds": [
+              "ZEC.1.17"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEC.2",
+    "number": "2",
+    "bookId": "ZEC"
+  },
+  "previous": {
+    "id": "HAG.2",
+    "number": "2",
+    "bookId": "HAG"
+  }
+}

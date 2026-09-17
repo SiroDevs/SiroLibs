@@ -1,0 +1,131 @@
+{
+  "id": "SNG.3",
+  "number": "3",
+  "bookId": "SNG",
+  "reference": "Ongo Sulemanini 3",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "SNG 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "SNG 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.1",
+            "verseOrgIds": [
+              "SNG.3.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.4.6"
+              },
+              "items": [
+                {
+                  "text": "Zab 4:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.6.6"
+              },
+              "items": [
+                {
+                  "text": "6:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.26.9"
+              },
+              "items": [
+                {
+                  "text": "Isa 26:9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Inisi ma vile gbolo dria ma ndru agu ma orindini leleri; ma ndru eri ra, te ma isuni eri ku.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.1",
+            "verseOrgIds": [
+              "SNG.3.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "SNG.4",
+    "number": "4",
+    "bookId": "SNG"
+  },
+  "previous": {
+    "id": "SNG.2",
+    "number": "2",
+    "bookId": "SNG"
+  }
+}

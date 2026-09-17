@@ -1,0 +1,120 @@
+{
+  "id": "ISA.45",
+  "number": "45",
+  "bookId": "ISA",
+  "reference": "Isaya 45",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "45",
+        "style": "c",
+        "sid": "ISA 45"
+      },
+      "items": [
+        {
+          "text": "45",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "ECHOTYON nyo kigh ngwïny nko ngala köny",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "ECHOTYON nyo pöytoy ngwïny nko körkeyïntino Papilon",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ISA 45:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.45.19",
+            "verseOrgIds": [
+              "ISA.45.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ISA 45:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwoghöy ECHOTYON lö,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.45.20",
+            "verseOrgIds": [
+              "ISA.45.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.46",
+    "number": "46",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.44",
+    "number": "44",
+    "bookId": "ISA"
+  }
+}

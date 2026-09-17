@@ -1,0 +1,68 @@
+{
+  "id": "PSA.81",
+  "number": "81",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 81",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "81",
+        "style": "c",
+        "sid": "PSA 81"
+      },
+      "items": [
+        {
+          "text": "81",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 81:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mungú baqmoorén i daa'aak ar afór ur,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.81.1",
+            "verseOrgIds": [
+              "PSA.81.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.82",
+    "number": "82",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.80",
+    "number": "80",
+    "bookId": "PSA"
+  }
+}

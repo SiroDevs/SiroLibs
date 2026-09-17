@@ -1,0 +1,439 @@
+{
+  "id": "1TH.1",
+  "number": "1",
+  "bookId": "1TH",
+  "reference": "1 Abatesalonike 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "1TH 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1TH 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.1",
+            "verseOrgIds": [
+              "1TH.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.17.1"
+              },
+              "items": [
+                {
+                  "text": "Ibyak 17.1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Pawulo na Siluwano na Timoteyo, turabandikiye mwebwe abo mu Itorero ry'Abatesalonike, bari mu Mana Data wa twese no mu Mwami Yesu Kristo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.1",
+            "verseOrgIds": [
+              "1TH.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1TH 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ubuntu n'amahoro bibe muri mwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.1",
+            "verseOrgIds": [
+              "1TH.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Imbuto z'ubutumwa bwageze i Tesalonike",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1TH 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.1",
+            "verseOrgIds": [
+              "1TH.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1TH 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwese tubashimira Imana iminsi yose tubasabira uko dusenze, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.2",
+            "verseOrgIds": [
+              "1TH.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1TH 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "twibuka iteka imirimo yanyu yo kwizera n'umuhati w'urukundo mugira, no kwihangana ku bwo kwiringira Umwami wacu Yesu Kristo, imbere y'Imana yacu ari yo Data wa twese. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.3",
+            "verseOrgIds": [
+              "1TH.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1TH 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bene Data bakundwa n'Imana, tuzi yuko mwatoranijwe na yo ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.4",
+            "verseOrgIds": [
+              "1TH.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1TH 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kuko ubutumwa twahawe butabagezeho ari amagambo gusa, ahubwo bwabagezeho bufite n'imbaraga n'Umwuka Wera no kubemeza mudashidikanya. Namwe ubwanyu muzi uko twameraga muri mwe ku bwanyu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.5",
+            "verseOrgIds": [
+              "1TH.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1TH 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.17.5+ACT.17.6+ACT.17.7+ACT.17.8+ACT.17.9"
+              },
+              "items": [
+                {
+                  "text": "Ibyak 17.5-9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Namwe ni ko mwadukurikije mukurikiza n'Umwami wacu, mumaze kwakirira ijambo ry'Imana mu makuba menshi, mufite ibyishimo by'Umwuka Wera. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.6",
+            "verseOrgIds": [
+              "1TH.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1TH 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni cyo cyatumye muba icyitegererezo cy'abizera bose bari i Makedoniya no muri Akaya, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.7",
+            "verseOrgIds": [
+              "1TH.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1TH 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kuko muri mwe ari ho havuye ubwaku bw'ijambo ry'Umwami wacu. Iyakora ntibwageze i Makedoniya no muri Akaya honyine, ahubwo hose kwizera kwanyu mwizera Imana kwaramamaye. Ni cyo gituma tutaruha tugira icyo tubwira abantu, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.8",
+            "verseOrgIds": [
+              "1TH.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1TH 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kuko ubwabo bajya bavuga uburyo twabasūye, n'uko mwahindukiriye Imana mwimuye ibigirwamana, ngo mubone uko mukorera Imana nyakuri kandi ihoraho, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.9",
+            "verseOrgIds": [
+              "1TH.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1TH 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "no gutegereza Umwana wayo uzava mu ijuru, uwo yazuye mu bapfuye ari we Yesu, uwo uzadukiza umujinya uzatera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.10",
+            "verseOrgIds": [
+              "1TH.1.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1TH.2",
+    "number": "2",
+    "bookId": "1TH"
+  },
+  "previous": {
+    "id": "COL.4",
+    "number": "4",
+    "bookId": "COL"
+  }
+}

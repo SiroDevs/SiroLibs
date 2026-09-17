@@ -1,0 +1,109 @@
+{
+  "id": "PSA.126",
+  "number": "126",
+  "bookId": "PSA",
+  "reference": "Zaburi 126",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "126",
+        "style": "c",
+        "sid": "PSA 126"
+      },
+      "items": [
+        {
+          "text": "126",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 126:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.126.1",
+            "verseOrgIds": [
+              "PSA.126.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.12.9"
+              },
+              "items": [
+                {
+                  "text": "’Yeta 12:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yehova ka ndra ’ba obile ati’baru ’diyi omvi Zionia ra, eri ovu ekile orobi obi amanile.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.126.1",
+            "verseOrgIds": [
+              "PSA.126.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.127",
+    "number": "127",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.125",
+    "number": "125",
+    "bookId": "PSA"
+  }
+}

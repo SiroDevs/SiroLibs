@@ -1,0 +1,120 @@
+{
+  "id": "MIC.4",
+  "number": "4",
+  "bookId": "MIC",
+  "reference": "Mik. 4",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "MIC 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Bubwami bwa Wele Omunyali Owa Bioosi bwe kumuleembe mu sibala sioosi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Isiraeli elikobola khukhwama mu mbaambe",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MIC 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.4.5",
+            "verseOrgIds": [
+              "MIC.4.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MIC 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wele Omunyali Owa Bioosi aloma ali, “Siise silikho siicha,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.4.6",
+            "verseOrgIds": [
+              "MIC.4.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.5",
+    "number": "5",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.3",
+    "number": "3",
+    "bookId": "MIC"
+  }
+}

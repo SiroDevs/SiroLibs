@@ -1,0 +1,92 @@
+{
+  "id": "PRO.1",
+  "number": "1",
+  "bookId": "PRO",
+  "reference": "Zaga 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "PRO 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nanzi izaga zikaSolomoni, indodana kaDavida, inkosi yakoIsrayeli,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.1.1",
+            "verseOrgIds": [
+              "PRO.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1KI.4.32"
+              },
+              "items": [
+                {
+                  "text": "1 Kho 4:32",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.2",
+    "number": "2",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PSA.150",
+    "number": "150",
+    "bookId": "PSA"
+  }
+}

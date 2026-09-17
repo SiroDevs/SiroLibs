@@ -1,0 +1,205 @@
+{
+  "id": "JER.47",
+  "number": "47",
+  "bookId": "JER",
+  "reference": "Jeremiah 47",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "47",
+        "style": "c",
+        "sid": "JER 47"
+      },
+      "items": [
+        {
+          "text": "47",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 47:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.47.1",
+            "verseOrgIds": [
+              "JER.47.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.14.29+ISA.14.30+ISA.14.31"
+              },
+              "items": [
+                {
+                  "text": "Is 14.29–31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.25.15+EZK.25.16+EZK.25.17"
+              },
+              "items": [
+                {
+                  "text": "Ezek 25.15–17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOL.3.4+JOL.3.5+JOL.3.6+JOL.3.7+JOL.3.8"
+              },
+              "items": [
+                {
+                  "text": "Joel 3.4–8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.6+AMO.1.7+AMO.1.8"
+              },
+              "items": [
+                {
+                  "text": "Amos 1.6–8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEP.2.4+ZEP.2.5+ZEP.2.6+ZEP.2.7"
+              },
+              "items": [
+                {
+                  "text": "Zeph 2.4–7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.9.5+ZEC.9.6+ZEC.9.7"
+              },
+              "items": [
+                {
+                  "text": "Zech 9.5–7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Before the king of Egypt attacked Gaza, the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.47.1",
+            "verseOrgIds": [
+              "JER.47.1"
+            ]
+          }
+        },
+        {
+          "text": " spoke to me about Philistia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.47.1",
+            "verseOrgIds": [
+              "JER.47.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JER 47:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He said:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.47.2",
+            "verseOrgIds": [
+              "JER.47.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.48",
+    "number": "48",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.46",
+    "number": "46",
+    "bookId": "JER"
+  }
+}

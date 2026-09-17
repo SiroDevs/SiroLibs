@@ -1,0 +1,429 @@
+{
+  "id": "NAM.1",
+  "number": "1",
+  "bookId": "NAM",
+  "reference": "Nahum 1",
+  "verseCount": 7,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "NAM 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NAM 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.1",
+            "verseOrgIds": [
+              "NAM.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.10.5+ISA.10.6+ISA.10.7+ISA.10.8+ISA.10.9+ISA.10.10+ISA.10.11+ISA.10.12+ISA.10.13+ISA.10.14+ISA.10.15+ISA.10.16+ISA.10.17+ISA.10.18+ISA.10.19+ISA.10.20+ISA.10.21+ISA.10.22+ISA.10.23+ISA.10.24+ISA.10.25+ISA.10.26+ISA.10.27+ISA.10.28+ISA.10.29+ISA.10.30+ISA.10.31+ISA.10.32+ISA.10.33+ISA.10.34"
+              },
+              "items": [
+                {
+                  "text": "Is 10.5–34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.14.24+ISA.14.25+ISA.14.26+ISA.14.27"
+              },
+              "items": [
+                {
+                  "text": "14.24–27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEP.2.13+ZEP.2.14+ZEP.2.15"
+              },
+              "items": [
+                {
+                  "text": "Zeph 2.13–15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "This is a message about Nineveh, the account of a vision seen by Nahum, who was from Elkosh.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.1",
+            "verseOrgIds": [
+              "NAM.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NAM 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.10",
+            "verseOrgIds": [
+              "NAM.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NAM 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "From you, Nineveh, there came someone full of wicked schemes, who plotted against the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.11",
+            "verseOrgIds": [
+              "NAM.1.11"
+            ]
+          }
+        },
+        {
+          "text": ". ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.11",
+            "verseOrgIds": [
+              "NAM.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NAM 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "This is what the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.12",
+            "verseOrgIds": [
+              "NAM.1.12"
+            ]
+          }
+        },
+        {
+          "text": " says to his people Israel: “Even though the Assyrians are strong and numerous, they will be destroyed and disappear. My people, I made you suffer, but I will not do it again. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.12",
+            "verseOrgIds": [
+              "NAM.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NAM 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will now end Assyria's power over you and break the chains that bind you.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.13",
+            "verseOrgIds": [
+              "NAM.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NAM 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.13",
+            "verseOrgIds": [
+              "NAM.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NAM 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "This is what the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.14",
+            "verseOrgIds": [
+              "NAM.1.14"
+            ]
+          }
+        },
+        {
+          "text": " has decreed about the Assyrians: “They will have no descendants to carry on their name. I will destroy the idols that are in the temples of their gods. I am preparing a grave for the Assyrians — they don't deserve to live!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.14",
+            "verseOrgIds": [
+              "NAM.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NAM 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.14",
+            "verseOrgIds": [
+              "NAM.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NAM 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.15",
+            "verseOrgIds": [
+              "NAM.1.15"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.52.7"
+              },
+              "items": [
+                {
+                  "text": "Is 52.7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Look, a messenger is coming over the mountains with good news! He is on his way to announce the victory! People of Judah, celebrate your festivals and give God what you solemnly promised him. The wicked will never invade your land again. They have been totally destroyed!",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.15",
+            "verseOrgIds": [
+              "NAM.1.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NAM.2",
+    "number": "2",
+    "bookId": "NAM"
+  },
+  "previous": {
+    "id": "NAM.intro",
+    "number": "intro",
+    "bookId": "NAM"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "PRO.11",
+  "number": "11",
+  "bookId": "PRO",
+  "reference": "Axweesanoó Sagalooa 11",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "11",
+        "style": "c",
+        "sid": "PRO 11"
+      },
+      "items": [
+        {
+          "text": "11",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 11:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Qoomoó al/ayma AAKOÓ MUNGÚ gu waak,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.11.1",
+            "verseOrgIds": [
+              "PRO.11.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.12",
+    "number": "12",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.10",
+    "number": "10",
+    "bookId": "PRO"
+  }
+}

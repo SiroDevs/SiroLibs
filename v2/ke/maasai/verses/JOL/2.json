@@ -1,0 +1,74 @@
+{
+  "id": "JOL.2",
+  "number": "2",
+  "bookId": "JOL",
+  "reference": "Yoe 2",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "JOL 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Elotunoto olmaati outu enkolong o Laitoriani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Enkipototo e nkirridunoto",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Enkolong o Laitoriani",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOL.3",
+    "number": "3",
+    "bookId": "JOL"
+  },
+  "previous": {
+    "id": "JOL.1",
+    "number": "1",
+    "bookId": "JOL"
+  }
+}

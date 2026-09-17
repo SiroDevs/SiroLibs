@@ -1,0 +1,81 @@
+{
+  "id": "ISA.27",
+  "number": "27",
+  "bookId": "ISA",
+  "reference": "Isa. 27",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "27",
+        "style": "c",
+        "sid": "ISA 27"
+      },
+      "items": [
+        {
+          "text": "27",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Alakuno a Ŋisirael",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 27:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akoloŋit ŋin isitiyae Ekapolon ananyunyura ekileŋ keŋ ŋolo apolon ka ŋolo agogoŋon akisicania etyaŋ ŋolo enyaritae Lepiasan, emun ŋolo ekeri edokinit,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.27.1",
+            "verseOrgIds": [
+              "ISA.27.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.28",
+    "number": "28",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.26",
+    "number": "26",
+    "bookId": "ISA"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": "PSA.52",
+  "number": "52",
+  "bookId": "PSA",
+  "reference": "Zaburi 52",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "52",
+        "style": "c",
+        "sid": "PSA 52"
+      },
+      "items": [
+        {
+          "text": "52",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 52:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.1",
+            "verseOrgIds": [
+              "PSA.52.1"
+            ]
+          }
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.1",
+            "verseOrgIds": [
+              "PSA.52.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 52:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.22.9+1SA.22.10"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 22.9-10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.2",
+            "verseOrgIds": [
+              "PSA.52.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.53",
+    "number": "53",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.51",
+    "number": "51",
+    "bookId": "PSA"
+  }
+}

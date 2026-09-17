@@ -1,0 +1,801 @@
+{
+  "id": "JON.1",
+  "number": "1",
+  "bookId": "JON",
+  "reference": "Jona 1",
+  "verseCount": 17,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "JON 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Jona nîwaregire kwathîkîra Ngai",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JON 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.1",
+            "verseOrgIds": [
+              "JON.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.14.25"
+              },
+              "items": [
+                {
+                  "text": "2Atha 14.25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Mûthenya ûmwe Ngai-Mûnene nîwerire Jona mûvîcî wa Amitai atîrî, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.1",
+            "verseOrgIds": [
+              "JON.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JON 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ûkîra ûthiî Nineve, îtûûra rîu rînene na ûrîrume; nîûndû nîmenyete ûrîa andû a kuo marî aganu.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.2",
+            "verseOrgIds": [
+              "JON.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JON 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jona nîwambîrîre rûgendo, nwatî aanyitire njîra erekerete Tarishishi nîguo aûrîre Ngai-Mûnene. Nîwathiîre nginya Jopa, kûrîa eethîrîrie meri îmwe îrî vakuvî kûthiî Tarishishi. Kwoguo nîwarîvire mbeca cia rûgendo na agîtwa merirî na makîthiî Tarishishi na andû acio engî, nîguo aûrîre Ngai-Mûnene. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.3",
+            "verseOrgIds": [
+              "JON.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JON 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nwatî Ngai-Mûnene nîwatûmire rûkûngi rûnene rûvurutane îriarî, na gûkîgîa na kîvuvûkanio kînene mûno îriarî nginya meri îkîenda kunîkanga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.4",
+            "verseOrgIds": [
+              "JON.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JON 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao amenyereri a meri nîmaamakire mûno, na wa mûndû akîambîrîria kûrîrîra ngai wake. Nîmaacokire magikia mîrigo îo yarî merirî kûu îriarî nîguo meri îvûthavûthe. Vîndî îo Jona nîwanyûrûrûkîte akathiî kanyombarî ka ndaarî ka meri, na kûu nîkuo aamamîte toro ndito.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.5",
+            "verseOrgIds": [
+              "JON.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JON 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.5",
+            "verseOrgIds": [
+              "JON.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JON 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mûtwarithia wa meri nîwathiîre kûrî ke na akîmûria atîrî, “Ûngîvota kûmama ûguo atîa? Ûkîra ûvoye ngai waku! Ngai waku avota gûkwîguîra ntha na agatûvonokia tûtigakue.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.6",
+            "verseOrgIds": [
+              "JON.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JON 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.6",
+            "verseOrgIds": [
+              "JON.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JON 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amenyereri a meri nîmeeranire atîrî, “Tigani twikie mîtî nîguo tûmenye tûrona thîna ûyû nîûndû wa mavîtia ma û.” Kwoguo nîmaaikirie mîtî, na mûtî ûkîgwîrîra Jona. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.7",
+            "verseOrgIds": [
+              "JON.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JON 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao amenyereri a meri nîmaacokire makîmwîra atîrî, “Rîu twîre tûrona thîna ûyû nîûndû wa mavîtia ma û. Ûreka atîa gûkû? Umîte kû? Umîte vûrûrirî ûrîkû? Andû enyu nîarîkû?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.8",
+            "verseOrgIds": [
+              "JON.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JON 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.8",
+            "verseOrgIds": [
+              "JON.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JON 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jona nîwamacokerie atîrî, “Nie nîrî Mûhibirania, na ngoocaga Ngai-Mûnene, Ngai wa îgûrû ûrîa waûmbire îria na nthî nyûmû.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.9",
+            "verseOrgIds": [
+              "JON.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JON 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jona nîwathiîre na mbere kûmeera atî nîkwa aûrîrîte Ngai-Mûnene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.10",
+            "verseOrgIds": [
+              "JON.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JON 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amenyereri a meri nîmaathiîre na mbere kûmaka mûno na nîmaamwîrire atîrî, “Ûcio nî ûndû mûcûku mûno wîkîte.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.10",
+            "verseOrgIds": [
+              "JON.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JON 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Vîndî îo yonthe kîvuvûkanio Kîamthiîcaga na mbere kûneneva îriarî. Kwoguo amenyereri a meri nîmaaûririe Jona atîrî, “Nîtûgwîka atîa nîguo îria rîvorere?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.11",
+            "verseOrgIds": [
+              "JON.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JON 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.11",
+            "verseOrgIds": [
+              "JON.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JON 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jona nîwamerire atîrî, “Mbocani mûmbikie îriarî na îria nîrîkûvorera; nîûndû nîmbicî nama atî nînie nîratûma mûthînue nî kîvuvûkanio kînene mûrî gûkû îriarî.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.12",
+            "verseOrgIds": [
+              "JON.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JON 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.12",
+            "verseOrgIds": [
+              "JON.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JON 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Vandû va ûguo, amenyereri a meri nîmaageririe gûtwarithia meri na vinya yao yonthe nîguo mamîvire rûtere rwa îria, nwatî matiavota, nîûndû makûmbî ma îria nwakwa maathiîcaga na mbere kûneneva. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.13",
+            "verseOrgIds": [
+              "JON.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JON 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwoguo nîmaarîrîre Ngai-Mûnene makiugaga atîrî, “We Ngai-Mûnene, twakûthaitha ndûgatûthirie nîûndû wa kûûraga mûndû ûyû, na ndûgatûme tûcokererwe nî nthakame îtarî na mavîtia! We Ngai-Mûnene wîkîte ûrîa wonire kwagîrîrîte.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.14",
+            "verseOrgIds": [
+              "JON.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JON 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwoguo nîmocire Jona na makîmwikia îriarî, na îria rîkîvoorera wa vîndî îo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.15",
+            "verseOrgIds": [
+              "JON.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JON 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amenyereri acio a meri nîmeetigîre Ngai-Mûnene mûno, na nîmaamûrutîre magongoona na makîmwîrîra na mîvîtwa atî, makaamûtungatagîra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.16",
+            "verseOrgIds": [
+              "JON.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JON 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.16",
+            "verseOrgIds": [
+              "JON.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JON 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.17",
+            "verseOrgIds": [
+              "JON.1.17"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.12.40"
+              },
+              "items": [
+                {
+                  "text": "Mat 12.40",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Ngai-Mûnene nîwathire nthamaki nene îmerie Jona. Jona nîwekarire îvurî rîa nthamaki îvinda rîa mîthenya îthatû ûtukû na mûthenya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.1.17",
+            "verseOrgIds": [
+              "JON.1.17"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JON.2",
+    "number": "2",
+    "bookId": "JON"
+  },
+  "previous": {
+    "id": "JON.intro",
+    "number": "intro",
+    "bookId": "JON"
+  }
+}

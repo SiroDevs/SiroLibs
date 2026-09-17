@@ -1,0 +1,118 @@
+{
+  "id": "HOS.11",
+  "number": "11",
+  "bookId": "HOS",
+  "reference": "Hosea 11",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "11",
+        "style": "c",
+        "sid": "HOS 11"
+      },
+      "items": [
+        {
+          "text": "11",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 11:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.11.1",
+            "verseOrgIds": [
+              "HOS.11.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.4.22"
+              },
+              "items": [
+                {
+                  "text": "Efu 4:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.2.15"
+              },
+              "items": [
+                {
+                  "text": "Mat 2:15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Israelini ndra ovuria mvaru, ma le ndra eri ra, azini ma omve mva mani enga­zu Misiria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.11.1",
+            "verseOrgIds": [
+              "HOS.11.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.12",
+    "number": "12",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.10",
+    "number": "10",
+    "bookId": "HOS"
+  }
+}

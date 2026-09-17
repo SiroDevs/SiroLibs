@@ -1,0 +1,68 @@
+{
+  "id": "PSA.21",
+  "number": "21",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 21",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "21",
+        "style": "c",
+        "sid": "PSA 21"
+      },
+      "items": [
+        {
+          "text": "21",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 21:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "AAKOÓ MUNGÚ, waawutmo /uuruudá' taa hanís gu sa qwalalaa/,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.1",
+            "verseOrgIds": [
+              "PSA.21.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.22",
+    "number": "22",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.20",
+    "number": "20",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": "JER.5",
+  "number": "5",
+  "bookId": "JER",
+  "reference": "Jeremiah 5",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "JER 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JER 5:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.5.17",
+            "verseOrgIds": [
+              "JER.5.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JER 5:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“But even in those days, says the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.5.18",
+            "verseOrgIds": [
+              "JER.5.18"
+            ]
+          }
+        },
+        {
+          "text": ", I will not make a full end of you. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.5.18",
+            "verseOrgIds": [
+              "JER.5.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JER 5:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And when your people say, ‘Why has the ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.5.19",
+            "verseOrgIds": [
+              "JER.5.19"
+            ]
+          }
+        },
+        {
+          "text": " our God done all these things to us?’ you shall say to them, ‘As you have forsaken me and served foreign gods in your land, so you shall serve strangers in a land that is not yours.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.5.19",
+            "verseOrgIds": [
+              "JER.5.19"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.6",
+    "number": "6",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.4",
+    "number": "4",
+    "bookId": "JER"
+  }
+}

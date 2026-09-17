@@ -1,0 +1,118 @@
+{
+  "id": "EST.10",
+  "number": "10",
+  "bookId": "EST",
+  "reference": "Esther 10",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "EST 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.1",
+            "verseOrgIds": [
+              "EST.10.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And all the acts of his power and of his might, and the full account of the greatness of Mordecai, whereunto the king advanced him, are they not written in the book of the chronicles of the kings of Media and Persia? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.2",
+            "verseOrgIds": [
+              "EST.10.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 10:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For Mordecai the Jew was next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the good of his people, and speaking peace to all his seed.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.3",
+            "verseOrgIds": [
+              "EST.10.3"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.1",
+    "number": "1",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "EST.9",
+    "number": "9",
+    "bookId": "EST"
+  }
+}

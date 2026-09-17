@@ -1,0 +1,106 @@
+{
+  "id": "AMO.1",
+  "number": "1",
+  "bookId": "AMO",
+  "reference": "Amosi 1",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "AMO 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Suh ng'asheega Amosi, ghayi was siyagi aba jeeda jeagiischoodiga aba Dekowa, ghayi daah fuga Israeli, damanda waseewa Usiya sugoocheanda Yuda, ea aba damanda Yeroboamu orjeeda Yoashi, was sugoocheanda Israeli, aba gweaydeaba iyeenya heeda miighwahina sawooda ng'eanyiida. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.1",
+            "verseOrgIds": [
+              "AMO.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "AMO 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ak gwayi:",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.2",
+            "verseOrgIds": [
+              "AMO.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ghoorjooda ASEETA aba heeda Giischeewda Israeli",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.2",
+    "number": "2",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "JOL.3",
+    "number": "3",
+    "bookId": "JOL"
+  }
+}

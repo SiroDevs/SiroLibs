@@ -1,0 +1,81 @@
+{
+  "id": "JER.5",
+  "number": "5",
+  "bookId": "JER",
+  "reference": "Yer. 5",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "JER 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Atuna ŋina apolon ŋina a ŋituŋa a ŋulu ka Akuj",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Okoe ŋituŋa a Yerusalem, tokera ilosete",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.5.1",
+            "verseOrgIds": [
+              "JER.5.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.6",
+    "number": "6",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.4",
+    "number": "4",
+    "bookId": "JER"
+  }
+}

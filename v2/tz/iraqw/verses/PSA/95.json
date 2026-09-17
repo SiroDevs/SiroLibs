@@ -1,0 +1,68 @@
+{
+  "id": "PSA.95",
+  "number": "95",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 95",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "95",
+        "style": "c",
+        "sid": "PSA 95"
+      },
+      "items": [
+        {
+          "text": "95",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 95:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Qwalaasé', AAKOÓ MUNGÚ u sa daa'aán,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.1",
+            "verseOrgIds": [
+              "PSA.95.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.96",
+    "number": "96",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.94",
+    "number": "94",
+    "bookId": "PSA"
+  }
+}

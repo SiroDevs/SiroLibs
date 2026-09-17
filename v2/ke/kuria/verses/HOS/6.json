@@ -1,0 +1,81 @@
+{
+  "id": "HOS.6",
+  "number": "6",
+  "bookId": "HOS",
+  "reference": "Hosea 6",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "HOS 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ubhuihunchuri bhöno bhötarë bhö öbhöheene",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Tötaya körëngëra ÖMÖNENE!",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.6.1",
+            "verseOrgIds": [
+              "HOS.6.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.7",
+    "number": "7",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.5",
+    "number": "5",
+    "bookId": "HOS"
+  }
+}

@@ -1,0 +1,645 @@
+{
+  "id": "NUM.17",
+  "number": "17",
+  "bookId": "NUM",
+  "reference": "Motalo 17",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 13,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "17",
+        "style": "c",
+        "sid": "NUM 17"
+      },
+      "items": [
+        {
+          "text": "17",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NUM 17:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na Yeova aneena na Mose, akĩmwĩa, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.1",
+            "verseOrgIds": [
+              "NUM.17.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 17:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Neena na ana ma Isilaeli, na osa ndata kwoo, ĩmwe ya kĩla nyũmba ya aaĩthe, ya anene moo onthe kwĩanana na nyũmba sya aaĩthe moo, o ndata ĩkũmi na ilĩ: andĩka syĩtwa ya kĩla mũndũ ndatanĩ yake. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.2",
+            "verseOrgIds": [
+              "NUM.17.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NUM 17:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na ũkaandĩke syĩtwa ya Aluni ndatanĩ ya Livai; nũndũ kũkeethĩwa ndata ĩmwe ya kĩla mũtongoi wa nyũmba sya aaĩthe moo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.3",
+            "verseOrgIds": [
+              "NUM.17.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 17:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na ũkasia ĩeemanĩ va kũmbanĩa ngalĩ ya mbee ya ĩsandũkũ ya ũkũsĩ, vala nĩkomanĩaa nenyu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.4",
+            "verseOrgIds": [
+              "NUM.17.4"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.25.22"
+              },
+              "items": [
+                {
+                  "text": "Kuma 25.22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.4",
+            "verseOrgIds": [
+              "NUM.17.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NUM 17:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na kũkeethĩwa, kana ndata ya mũndũ ũla nĩnyuva ĩkeethongoosya: na ngamina kwakwa monyungunyĩsyo ma ana ma Isilaeli, ala makũnyungunyĩĩasya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.5",
+            "verseOrgIds": [
+              "NUM.17.5"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.16.5"
+              },
+              "items": [
+                {
+                  "text": "Mot 16.5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.16.11"
+              },
+              "items": [
+                {
+                  "text": "11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.5",
+            "verseOrgIds": [
+              "NUM.17.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NUM 17:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na Mose aneena na ana ma Isilaeli; na anene moo onthe mamũnenga ndata, ĩmwe ya kĩla mũnene, kwĩanana na nyũmba sya aaĩthe moo, o ndata ĩkũmi na ilĩ: na ndata ya Aluni yaĩ vamwe na ndata syoo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.6",
+            "verseOrgIds": [
+              "NUM.17.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NUM 17:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na Mose aia ndata vala ve Yeova ĩeemanĩ ya ũkũsĩ. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.7",
+            "verseOrgIds": [
+              "NUM.17.7"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.38.21"
+              },
+              "items": [
+                {
+                  "text": "Kuma 38.21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NUM 17:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.7",
+            "verseOrgIds": [
+              "NUM.17.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NUM 17:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na kweethĩwa ũnĩ ũsu, Mose alika ĩeemanĩ ya ũkũsĩ; na, sisya, ndata ya Aluni ĩla yaĩ ya nyũmba ya Livai yaĩ nthongoou, na kũete wenze, na yalaũka malaa, na yasyaa malosi meũ. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.8",
+            "verseOrgIds": [
+              "NUM.17.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NUM 17:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na Mose aumaalya nza ndata syonthe kuma vala ve Yeova na amatwaĩa ana onthe ma Isilaeli: na masisya, na kĩla mũndũ oosa ndata yake. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.9",
+            "verseOrgIds": [
+              "NUM.17.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NUM 17:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na Yeova amwĩa Mose, Tũnga ndata ya Aluni ngalĩ ya mbee ya ĩsandũkũ ya ũkũsĩ, ĩsũvĩwe yĩthĩwe wonan’yo wa kũlilikan’ya ana ma ũng’endu; nĩ kana ũmine kũnyungunyĩsya kwoo kũla manyungunyĩĩasya, matikakw’e. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.10",
+            "verseOrgIds": [
+              "NUM.17.10"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.16.38"
+              },
+              "items": [
+                {
+                  "text": "Mot 16.38",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.9.4"
+              },
+              "items": [
+                {
+                  "text": "Aevl 9.4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.10",
+            "verseOrgIds": [
+              "NUM.17.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NUM 17:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na Mose eeka ũu: o tondũ Yeova wamwĩaĩe, nĩw’o wekie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.11",
+            "verseOrgIds": [
+              "NUM.17.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NUM 17:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.11",
+            "verseOrgIds": [
+              "NUM.17.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NUM 17:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na ana ma Isilaeli maneena na Mose, makĩmwĩa, Sisya, nĩtũũkw’a, ithyĩ nĩtũkwaa, ithyonthe nĩtũkwaa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.12",
+            "verseOrgIds": [
+              "NUM.17.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NUM 17:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kĩla mũndũ ũla ũnũũthengeea, ũla ũnũũthengeea vakuvĩ na wĩkalo wa Yeova, nũnũũkw’a; kaĩ, nĩtũũthela ithyonthe? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.13",
+            "verseOrgIds": [
+              "NUM.17.13"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.1.53"
+              },
+              "items": [
+                {
+                  "text": "Mot 1.53",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.18.5"
+              },
+              "items": [
+                {
+                  "text": "18.5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NUM.18",
+    "number": "18",
+    "bookId": "NUM"
+  },
+  "previous": {
+    "id": "NUM.16",
+    "number": "16",
+    "bookId": "NUM"
+  }
+}

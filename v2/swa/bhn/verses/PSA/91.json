@@ -1,0 +1,68 @@
+{
+  "id": "PSA.91",
+  "number": "91",
+  "bookId": "PSA",
+  "reference": "Zaburi 91",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "91",
+        "style": "c",
+        "sid": "PSA 91"
+      },
+      "items": [
+        {
+          "text": "91",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 91:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Anayekaa chini ya ulinzi wa Mungu Mkuu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.91.1",
+            "verseOrgIds": [
+              "PSA.91.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.92",
+    "number": "92",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.90",
+    "number": "90",
+    "bookId": "PSA"
+  }
+}

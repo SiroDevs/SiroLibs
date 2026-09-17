@@ -1,0 +1,168 @@
+{
+  "id": "PSA.110",
+  "number": "110",
+  "bookId": "PSA",
+  "reference": "Zaburi 110",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "110",
+        "style": "c",
+        "sid": "PSA 110"
+      },
+      "items": [
+        {
+          "text": "110",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 110:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.1",
+            "verseOrgIds": [
+              "PSA.110.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.22.44"
+              },
+              "items": [
+                {
+                  "text": "Mat 22.44",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.12.36"
+              },
+              "items": [
+                {
+                  "text": "Mar 12.36",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.20.42+LUK.20.43"
+              },
+              "items": [
+                {
+                  "text": "Luka 20.42-43",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.2.34+ACT.2.35"
+              },
+              "items": [
+                {
+                  "text": "Ibyak 2.34-35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.1"
+              },
+              "items": [
+                {
+                  "text": "1 Kor",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.1",
+            "verseOrgIds": [
+              "PSA.110.1"
+            ]
+          }
+        },
+        {
+          "text": " 15.25; Ef 1.20-22; Kolo 3.1; Heb 1.13; 8.1; 10.12-13",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.1",
+            "verseOrgIds": [
+              "PSA.110.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.111",
+    "number": "111",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.109",
+    "number": "109",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "PSA.67",
+  "number": "67",
+  "bookId": "PSA",
+  "reference": "Zaburi 67",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "67",
+        "style": "c",
+        "sid": "PSA 67"
+      },
+      "items": [
+        {
+          "text": "67",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 67:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.1",
+            "verseOrgIds": [
+              "PSA.67.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.4.6"
+              },
+              "items": [
+                {
+                  "text": "Zab 4:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.31.16"
+              },
+              "items": [
+                {
+                  "text": "31:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.119.135"
+              },
+              "items": [
+                {
+                  "text": "119:135",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.6.25"
+              },
+              "items": [
+                {
+                  "text": "Kal 6:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.6.26"
+              },
+              "items": [
+                {
+                  "text": "26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CO.4.6"
+              },
+              "items": [
+                {
+                  "text": "2 Kor 4:6",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mungu inzizu Mungu ma ovu yikisi ama vu asi ndriza fezu ama dri, eri ma fe andreti ini ma di ama dria,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.1",
+            "verseOrgIds": [
+              "PSA.67.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.68",
+    "number": "68",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.66",
+    "number": "66",
+    "bookId": "PSA"
+  }
+}

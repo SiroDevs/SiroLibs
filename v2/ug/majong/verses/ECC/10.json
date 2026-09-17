@@ -1,0 +1,156 @@
+{
+  "id": "ECC.10",
+  "number": "10",
+  "bookId": "ECC",
+  "reference": "Ekal. 10",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "ECC 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ŋakiro ŋace ŋuna abu ayoŋ eŋolyaanak",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ECC 10:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.10.4",
+            "verseOrgIds": [
+              "ECC.10.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ECC 10:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eyai aronis ŋina adau ayoŋ akiŋolikin anakwap a na, erae ŋin adyakaret ŋina itiyaata ŋikepukak ŋuna nyiyookino. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.10.5",
+            "verseOrgIds": [
+              "ECC.10.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ECC 10:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ituruwonoryo ŋibaŋaanotin ŋulu alalak ŋikapolok, ido kimyekinitetei ŋikaosok erae ŋiketiyak a ŋibaŋaanotin ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.10.6",
+            "verseOrgIds": [
+              "ECC.10.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ECC 10:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eŋolik ayoŋ ŋipi edokito ŋaŋolei, ido tolosete ŋikapolok a ŋakejen esibit ŋipi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.10.7",
+            "verseOrgIds": [
+              "ECC.10.7"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.11",
+    "number": "11",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "ECC.9",
+    "number": "9",
+    "bookId": "ECC"
+  }
+}

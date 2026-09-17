@@ -1,0 +1,864 @@
+{
+  "id": "ZEP.2",
+  "number": "2",
+  "bookId": "ZEP",
+  "reference": "Zefania 2",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "ZEP 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEP 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Imwe eighanga eriziramu nsoni mwenenie era mweireku, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.1",
+            "verseOrgIds": [
+              "ZEP.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ZEP 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nga mukaali kufuuyibwa ere na mpewo ng'oti bikaba. Mwenenie ng'obusungu bwa Musengwa Katonda obwokya ng'oti muliro bukaali kubaidhaku, era ng'olunaku lw'aja okulagiraku ekiruyi kye lukaali kutuuka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.2",
+            "verseOrgIds": [
+              "ZEP.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ZEP 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Imwe abantu ab'ensi eno abeesigwa eri Musengwa Katonda era abagondera ebiragiro bye, mukole ebyo ebituufu era muteekuluntaza mu maiso ga Musengwa Katonda. Oba katyo mwakawona ekibonerezo ku lunaku Musengwa Katonda lw'aja okulagiraku obusungu bwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.3",
+            "verseOrgIds": [
+              "ZEP.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ZEP 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.3",
+            "verseOrgIds": [
+              "ZEP.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ZEP 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekibuga Gaza kija kulekebwa agho kyereere, n'ekibuga Ashikeloni kyona kija kuwolongera. Abantu ab'omu kibuga Ashidodi baja kubingibwamu mu kitundu butundu kya lunaku. N'ekibuga Ekuroni kija kuzikirizibwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.4",
+            "verseOrgIds": [
+              "ZEP.2.4"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.14.29+ISA.14.30+ISA.14.31"
+              },
+              "items": [
+                {
+                  "text": "Isa 14:29-31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.47.1+JER.47.2+JER.47.3+JER.47.4+JER.47.5+JER.47.6+JER.47.7"
+              },
+              "items": [
+                {
+                  "text": "Yer 47:1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.25.15+EZK.25.16+EZK.25.17"
+              },
+              "items": [
+                {
+                  "text": "Ezek 25:15-17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOL.3.4+JOL.3.5+JOL.3.6+JOL.3.7+JOL.3.8"
+              },
+              "items": [
+                {
+                  "text": "Yoe 3:4-8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.6+AMO.1.7+AMO.1.8"
+              },
+              "items": [
+                {
+                  "text": "Amo 1:6-8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.9.5+ZEC.9.6+ZEC.9.7"
+              },
+              "items": [
+                {
+                  "text": "Zek 9:5-7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ZEP 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.4",
+            "verseOrgIds": [
+              "ZEP.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ZEP 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Imwe Abafilisiti ababa mu kiketezo eky'oku nhandha, mukagwireku, kuba Musengwa Katonda abasaliire omusango okubasinga. Aidha kubazikiriza mwenamwena ghabule asigalagho. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.5",
+            "verseOrgIds": [
+              "ZEP.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ZEP 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekiketezo kyaimwe eky'oku nhandha kija kufuuka kyayiro, nga kiidhwire entindi edh'abaayi n'ebigo eby'ebyayo byaibwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.6",
+            "verseOrgIds": [
+              "ZEP.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ZEP 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekiketezo ekyo eky'oku nhandha kija kufuuka kya Bayudaaya. Eyo ye balyayiranga ebyayo byaibwe, era baasula mu ndhu edh'omu kibuga Ashikeloni kuba Musengwa Katonda waibwe aidha kubalabiriranga, abaleetere ebintu kabiri okubajiiranga obukalamu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.7",
+            "verseOrgIds": [
+              "ZEP.2.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ZEP 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.7",
+            "verseOrgIds": [
+              "ZEP.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ZEP 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musengwa Katonda Aghanga ebintu byonabyona akoba ati: “Mpuliire abantu Abamoabu n'Abammoni nga bavuma era nga bayeeyereza abantu bange. Era naawulira nga beesuuta nga bwe baidha okubanhagaku ekiketezo kyaibwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.8",
+            "verseOrgIds": [
+              "ZEP.2.8"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "Isa 15:1—16:14",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.25.10+ISA.25.11+ISA.25.12"
+              },
+              "items": [
+                {
+                  "text": "25:10-12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "Yer 48:1—49:6",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.21.28+EZK.21.29+EZK.21.30+EZK.21.31+EZK.21.32"
+              },
+              "items": [
+                {
+                  "text": "Ezek 21:28-32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.25.1+EZK.25.2+EZK.25.3+EZK.25.4+EZK.25.5+EZK.25.6+EZK.25.7+EZK.25.8+EZK.25.9+EZK.25.10+EZK.25.11"
+              },
+              "items": [
+                {
+                  "text": "25:1-11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.13+AMO.1.14+AMO.1.15"
+              },
+              "items": [
+                {
+                  "text": "Amo 1:13-15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.8",
+            "verseOrgIds": [
+              "ZEP.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEP 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kale ni, nze Musengwa Katonda omulamu afuga amagye, Katonda wa Isiraeli, ndayiire nti ebiketezo eby'Abamoabu n'Abammoni bija kuzikirira, nga Sodoma ni Gomorra bwe byazikirira. Bija kufuuka ekifo ekiidhwire ebisubisubi ebifumita n'ebiina ebisimwamu omuunhu. Bifuuke ekifo ekiziramu kirungi kye kivaamu ebyanda n'ebyanda. Abantu bange abaliwonagho balinhaga ekiketezo ekyo kyaba kyaibwe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.9",
+            "verseOrgIds": [
+              "ZEP.2.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEP 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.9",
+            "verseOrgIds": [
+              "ZEP.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ZEP 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekyo n'ekija okuba ekibonerezo eky'Abamoabu n'Abammoni olw'okwekuluntaza kwaibwe, n'olw'okuvuma n'okwesuutira ku bantu ba Musengwa Katonda afuga amagye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.10",
+            "verseOrgIds": [
+              "ZEP.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ZEP 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musengwa Katonda oyo aja kubatiisa inho ekibitiriire. Bwenebwene emisambwa gyonagyona aja kugifuula ebintu ebiziramu kantu, era olwo buli ighanga lirisinza mwene nga liri mu kiketezo kyalyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.11",
+            "verseOrgIds": [
+              "ZEP.2.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ZEP 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.11",
+            "verseOrgIds": [
+              "ZEP.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ZEP 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "N'imwe Abaethiopia mwena, Musengwa Katonda aja kubasindikaku abazigu babaite. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.12",
+            "verseOrgIds": [
+              "ZEP.2.12"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.18.1+ISA.18.2+ISA.18.3+ISA.18.4+ISA.18.5+ISA.18.6+ISA.18.7"
+              },
+              "items": [
+                {
+                  "text": "Isa 18:1-7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ZEP 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.12",
+            "verseOrgIds": [
+              "ZEP.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ZEP 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musengwa Katonda aja kukozesa obuyinza bwe azikirize abantu ab'e Assiria abali ku luuyi olw'omukono omugooda olw'e buvandhuba. Aja kuzikiriza ekibuga Nineve kisigale nga kyanhe bwanhe, era nga kikalu ng'oti irungu lyene. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.13",
+            "verseOrgIds": [
+              "ZEP.2.13"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.10.5+ISA.10.6+ISA.10.7+ISA.10.8+ISA.10.9+ISA.10.10+ISA.10.11+ISA.10.12+ISA.10.13+ISA.10.14+ISA.10.15+ISA.10.16+ISA.10.17+ISA.10.18+ISA.10.19+ISA.10.20+ISA.10.21+ISA.10.22+ISA.10.23+ISA.10.24+ISA.10.25+ISA.10.26+ISA.10.27+ISA.10.28+ISA.10.29+ISA.10.30+ISA.10.31+ISA.10.32+ISA.10.33+ISA.10.34"
+              },
+              "items": [
+                {
+                  "text": "Isa 10:5-34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.14.24+ISA.14.25+ISA.14.26+ISA.14.27"
+              },
+              "items": [
+                {
+                  "text": "14:24-27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "Nah 1:1—3:19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.13",
+            "verseOrgIds": [
+              "ZEP.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ZEP 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kija kufuuka ekifo ebyayo n'ensolo edh'omu nsiko mwe birambaala ebiwigulu nga mwe bisula era byaba ku madinisa byawigula. Amakoova gaja kulirira mu miryango gyakyo. Embaawo edh'emivule dhe baazimbisa dhoona dhija kutwalibwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.14",
+            "verseOrgIds": [
+              "ZEP.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ZEP 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ebyo n'ebija okutuuka ku kibuga ekyali kyeidhi nga n'ekirigho kyonka, era nga kirowooza kiti ezira kibuga kindi kyaga nakyo bukologho. Aye kija kuzikirira kifuuke ekifo ensolo edh'omu nsiko ghe dhisula. Buli muntu anaakibitangaku, aneesimoozanga era yaata omukono mu nkoto yeinhamira.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.15",
+            "verseOrgIds": [
+              "ZEP.2.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEP.3",
+    "number": "3",
+    "bookId": "ZEP"
+  },
+  "previous": {
+    "id": "ZEP.1",
+    "number": "1",
+    "bookId": "ZEP"
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "id": "ISA.12",
+  "number": "12",
+  "bookId": "ISA",
+  "reference": "Yesaya 12",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "ISA 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kur’ uwo musi uzovuga, ut’ Uhoraho, ndagukengurukiye, kuko naho wandakiye, uburake bgawe burahwamye, nawe uramporahoje. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.12.1",
+            "verseOrgIds": [
+              "ISA.12.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 12:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.15.2"
+              },
+              "items": [
+                {
+                  "text": "Kuv 15:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.118.14"
+              },
+              "items": [
+                {
+                  "text": "Zab 118:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ehe rāba, Imana ni yo gakiza kanje; nzokwama nizigira, sintinye: kuk’ ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.12.2",
+            "verseOrgIds": [
+              "ISA.12.2"
+            ]
+          }
+        },
+        {
+          "text": " ari we nkomezi zanje n’indirimbo yanje, kandi yacitse agakiza kanje. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.12.2",
+            "verseOrgIds": [
+              "ISA.12.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 12:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.4.14"
+              },
+              "items": [
+                {
+                  "text": "Yoh 4:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni co gituma muzovomana umunezero mu mariba y’agakiza. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.12.3",
+            "verseOrgIds": [
+              "ISA.12.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.105.1"
+              },
+              "items": [
+                {
+                  "text": "Zab 105:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.145.4"
+              },
+              "items": [
+                {
+                  "text": "145:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.145.6"
+              },
+              "items": [
+                {
+                  "text": "6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.148.13"
+              },
+              "items": [
+                {
+                  "text": "148:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi kur’ uwo musi muzovuga, muti Ni mukengurukire Uhoraho, mwambaze izina ryiwe, mwamamaze ibikorwa vyiwe mu mahanga, mumenyekanishe izina ryiwe ko rishizwe hejuru. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.12.4",
+            "verseOrgIds": [
+              "ISA.12.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 12:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Muririmbire Uhoraho, kuko yakoze ivyiza bihambaye: ivyo ni vyamamare mw isi yose. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.12.5",
+            "verseOrgIds": [
+              "ISA.12.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.1.4"
+              },
+              "items": [
+                {
+                  "text": "Yes 1:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.11.9"
+              },
+              "items": [
+                {
+                  "text": "Hos 11:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Semerera, uvuge cane, yewe uba i Siyoni, kuk’ Uwera w’Abisirayeli, ari hagati muri mwebge, ahambaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.12.6",
+            "verseOrgIds": [
+              "ISA.12.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.13",
+    "number": "13",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.11",
+    "number": "11",
+    "bookId": "ISA"
+  }
+}

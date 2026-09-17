@@ -1,0 +1,178 @@
+{
+  "id": "ISA.53",
+  "number": "53",
+  "bookId": "ISA",
+  "reference": "Isaia 53",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "53",
+        "style": "c",
+        "sid": "ISA 53"
+      },
+      "items": [
+        {
+          "text": "53",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 53:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.53.1",
+            "verseOrgIds": [
+              "ISA.53.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.12.38"
+              },
+              "items": [
+                {
+                  "text": "Yoa 12:38",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.10.16"
+              },
+              "items": [
+                {
+                  "text": "Rom 10:16",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Abantu bairamu bati:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.53.1",
+            "verseOrgIds": [
+              "ISA.53.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 53:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.53.9",
+            "verseOrgIds": [
+              "ISA.53.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 53:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musengwa Katonda akoba ati:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.53.10",
+            "verseOrgIds": [
+              "ISA.53.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.54",
+    "number": "54",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.52",
+    "number": "52",
+    "bookId": "ISA"
+  }
+}

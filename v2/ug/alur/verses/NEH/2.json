@@ -1,0 +1,718 @@
+{
+  "id": "NEH.2",
+  "number": "2",
+  "bookId": "NEH",
+  "reference": "Nehemia 2",
+  "verseCount": 20,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "NEH 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NEH 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man etimbre i dwi Nisan, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.1",
+            "verseOrgIds": [
+              "NEH.2.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "Nisan = dwi mir acende mi Juyahudi, dwi mir adege ku mir ang’wende mi oro mwa.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " i rundi pier arionde pa Artacacta m’ubimo, kinde ma pigulok ni i wang’e, nia ating’o pigulokne, man amie ni ubimo. Naka nwang’u fodi can unega ngo i vute. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.1",
+            "verseOrgIds": [
+              "NEH.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NEH 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man ubimo wacu ira kumae, Can ni i weng’i nedi, ma kumi ku lith ungo? maeni en e gin mange ngo ndhu can mir adunde. Lworo lund umaka dit. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.2",
+            "verseOrgIds": [
+              "NEH.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NEH 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.25.8+2KI.25.9+2KI.25.10"
+              },
+              "items": [
+                {
+                  "text": "2 Ub 25:8-10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.36.19"
+              },
+              "items": [
+                {
+                  "text": "2 Kei 36:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.52.12+JER.52.13+JER.52.14"
+              },
+              "items": [
+                {
+                  "text": "Yer 52:12-14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Man awacu ni ubimo kumae, Dong’ ubimo bed mi nja: wang’a kubed mi can ungo nedi, kan adhura, ka odliel pa wegwa, udong’ uyung’ni ni uvuru, man dhugang’ne juwang’u ku maci? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.3",
+            "verseOrgIds": [
+              "NEH.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NEH 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ubimo lund uwacu ira kumae, Girang’o m’ikwayu? Ka kumeno a rwo ba Mungu m’i polo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.4",
+            "verseOrgIds": [
+              "NEH.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NEH 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man awacu ni ubimo kumae, Tek ebedo ber ni ubimo, man tek jatic peri nwang’u bero i weng’i, nia ibiora i Yuda, bang’ adhura mi odliel pa wegwa, kara agome. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.5",
+            "verseOrgIds": [
+              "NEH.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NEH 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "E ubimo wacu ira kumae, (nwang’u ci ubimo bende bedo i vute), Woth peri bibedo rokani? e ibidwogo awene? Ka kumeno ebedo ber ni ubimo ya eora; man ang’olo ire nindo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.6",
+            "verseOrgIds": [
+              "NEH.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NEH 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mange ke awacu ni ubimo kumae, Tek ebedo ber ni ubimo, wek jumi ira waraga ni jubim ma gini loka Kulo, kara giwek akadhi ram atund ko i Yuda; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.7",
+            "verseOrgIds": [
+              "NEH.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NEH 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "man waraga ma ni Asaf ma jakur luli p’ubimo, kara emi ira yen m’atim ko riu mi dhugang’ mi ot ma tek ma mi ot, man pi gang’kidi mir adhura, man pi ot m’abimondo i ie. E ubimo mio ira, calku cing’ ma ber pa Mungu para ma ni i wia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.8",
+            "verseOrgIds": [
+              "NEH.2.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NEH 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.8",
+            "verseOrgIds": [
+              "NEH.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NEH 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alund awok ba jubim ma loka Kulo, man amio igi waraga p’ubimo. Nwang’u ubimo oro jego mi njuru asikari ku weg riuni karacelo kuda. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.9",
+            "verseOrgIds": [
+              "NEH.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NEH 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "E ka Sanbalat ma Jahoroni, man Tobia ma jatic, ma Jaamoni, uwinjo pire, lembene nyayu can i igi apila, kum ng’atu moko bino kara eyeny lembe ubed miero ni nyithondho mir Israel.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.10",
+            "verseOrgIds": [
+              "NEH.2.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NEH 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.10",
+            "verseOrgIds": [
+              "NEH.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NEH 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum kumeno abino Yerusalem, man abedo keca ceng’ adek. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.11",
+            "verseOrgIds": [
+              "NEH.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NEH 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man aai ku diewor, waku dhanu moko ma nyanok; kadi ayero ni ng’atu moko de ngo pi gin ma Mungu para ketho i adundena ya atim pi Yerusalem; kadi lim de mbe kuda, ndhu lim m’awotho i wie. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.12",
+            "verseOrgIds": [
+              "NEH.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NEH 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man awok woko ku diewor ku dhugang’ m’i poga, cil yo ba pi m’atong’a mir utho, man ba dhugang’ mi weyo, man aneno gang’kidi mi Yerusalem, m’urwombre piny, man dhugange m’uwang’ ku mac. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.13",
+            "verseOrgIds": [
+              "NEH.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NEH 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alund acidho kum dhugang’ mi pi ma dhenyini man kum kut p’ubimo: ento kamoko mbe ma lim m’abedo i wie ukadh kud i ie. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.14",
+            "verseOrgIds": [
+              "NEH.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NEH 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alund aidho malu ku diewor i ng’et kulo, man aneno gang’kidi; man adok, e amondo ku dhugang’ m’i poga, man adok kumeno. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.15",
+            "verseOrgIds": [
+              "NEH.2.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NEH 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man jubim ging’eyo ngo ka m’acidho i ie, kadi gin m’atimo; kadok an de fodi awacu ngo ni Juyahudi, kadok ni julam, kadi ni judongo, kadi ni jubim, kadi ni dong’ dhanu m’utimo tic.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.16",
+            "verseOrgIds": [
+              "NEH.2.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NEH 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.16",
+            "verseOrgIds": [
+              "NEH.2.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "NEH 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alund awacu igi kumae, Wuneno bedo ma rac ma wani i ie, maram Yerusalem ubedo ko ni uvuru, man dhugang’ne juwang’u ku mac: wubin, wagoyu gang’kidi mi Yerusalem, kara ku wabed ni cac kendo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.17",
+            "verseOrgIds": [
+              "NEH.2.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "NEH 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "E ayero igi pi cing’ Mungu para m’ubedo ber i kuma, man ku lembe p’ubimo bende m’eyero ira. Man giwacu kumae, Dong’ waeyu man wagoyue. Ka kumeno gidwoko cing’gi tek pi tic ma ber. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.18",
+            "verseOrgIds": [
+              "NEH.2.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "NEH 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ento ka Sanbalat ma Jahoroni, man Tobia ma jatic, ma Jaemoni, man Gecem ma Jaarabi, giwinjo maeni, ging’ierowa ginyai ko lewic i wiwa, man gicayuwa, giwacu kumae, Girang’o ma wutimo maeni? wubijai ni ubimo? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.19",
+            "verseOrgIds": [
+              "NEH.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "NEH 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alund aloko lembe igi, man awacu igi kumae, Mungu m’i polo, ebiketho lembe bedo miero iwa; ka kumeno wa jutic pare wa biai man wabigoyo: ento wubedo ku makapiny moko ngo, kadi ng’ol, kadi jampoi, i Yerusalem.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.20",
+            "verseOrgIds": [
+              "NEH.2.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NEH.3",
+    "number": "3",
+    "bookId": "NEH"
+  },
+  "previous": {
+    "id": "NEH.1",
+    "number": "1",
+    "bookId": "NEH"
+  }
+}

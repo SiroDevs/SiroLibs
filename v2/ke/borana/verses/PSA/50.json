@@ -1,0 +1,47 @@
+{
+  "id": "PSA.50",
+  "number": "50",
+  "bookId": "PSA",
+  "reference": "Faaru 50",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "50",
+        "style": "c",
+        "sid": "PSA 50"
+      },
+      "items": [
+        {
+          "text": "50",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Aka araarama Waaqa kad'atani",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.51",
+    "number": "51",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.49",
+    "number": "49",
+    "bookId": "PSA"
+  }
+}

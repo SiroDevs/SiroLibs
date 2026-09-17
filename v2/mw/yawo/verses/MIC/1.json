@@ -1,0 +1,581 @@
+{
+  "id": "MIC.1",
+  "number": "1",
+  "bookId": "MIC",
+  "reference": "Mik 1",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MIC 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pa jele ndaŵijo Yotamu, Ahasi ni Hesekiya ŵaliji ayimwene ŵa ku Yuda, AMBUJE ŵamsalile Mika jwakutyocela ku msinda wa Moleseti utenga wakuyicisyawu. AMBUJE ŵajuwile kwa jwalakwejo kupitila m'mesomkulola yakwayana ni Samaliya ni Yelusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.1",
+            "verseOrgIds": [
+              "MIC.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "2 Ayi 15:32—16:20; 18:1—20:21",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.27.1+2CH.27.2+2CH.27.3+2CH.27.4+2CH.27.5+2CH.27.6+2CH.27.7"
+              },
+              "items": [
+                {
+                  "text": "2 Mbi 27:1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "28:1—32:33",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Samaliya ni Yelusalemu akwamucidwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MIC 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.4",
+            "verseOrgIds": [
+              "MIC.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MIC 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yeleyi yikutendekwa ligongo lya yakusakala ya yisukulu ya Yakobo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.5",
+            "verseOrgIds": [
+              "MIC.1.5"
+            ]
+          }
+        },
+        {
+          "text": " Ana ŵani uŵalemwekasisye Aisalaeli? Ana ngaŵaga ŵa ku Samaliya? Ana ŵani uŵalemwekasisye Ayuda? Ana ngaŵaga ŵa ku Yelusalemu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.5",
+            "verseOrgIds": [
+              "MIC.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MIC 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sambano AMBUJE akuti, “Samaliyajo tinjimsandusya kuŵa masame, malo gakulimamo mgunda wa mipeleya. Maganga gakwe tinjigajasa ku yiŵata, soni tinjiwukula yilimbilimbi yakwe yosope ya msindawo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.6",
+            "verseOrgIds": [
+              "MIC.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MIC 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tinjikasanya tumilungu twawo tosope, soni mituka jakwe josope tijicijocedwa pa moto. Yilandanyo yakwe yosope ya milungu jakwe tinjiyijijonanga. Mituka jakwe ŵajipocele kutyocela kwa acakongwe ŵalilama, myoyo soni ŵane tacilikamulisya masengo mpela malipilo ga acakongwe ŵalilama.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MIC 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MIC 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaneko Mika ŵatite kuti, “Ali ni ligongo lyakwe tinjilila mwakutesya canasa. Tinjijenda makonope ngali citonga, ni kulila mpela likule ni kulila mpela linjici. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.8",
+            "verseOrgIds": [
+              "MIC.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Samaliya, maŵanga ga ulemwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.9",
+            "verseOrgIds": [
+              "MIC.1.9"
+            ]
+          }
+        },
+        {
+          "text": " ngaŵa mkomboleka kupola, nombe Yuda tacilaga mwa litala lilili. Conasiko cili pakuŵandicila ni msinda wa ŵandu ŵangu, cijile kwika mpaka ku Yelusalemu kusyene.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.9",
+            "verseOrgIds": [
+              "MIC.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Amagongo akuŵandicila ku Yelusalemu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.9",
+            "verseOrgIds": [
+              "MIC.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MIC 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mkasimwasalila yeleyi amagongo ŵetu ku Gati. Mkakunda kuti amagongo ŵetu amwone mli kulila. M'malo mwakwe, mligalagatisye mu luwundu ku Beti Leafula kulosya canasa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.10",
+            "verseOrgIds": [
+              "MIC.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MIC 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jemanja ŵandu ŵa ku Shafili timcijawula ku ukapolo mli makonope ni ŵa soni. Ŵandu ŵa ku Sanani ngasakopoka mu msinda mwawo. Naga mkwapikana ŵandu ŵa ku Beti Eseli ali mkulila, pelepo tim'manyilile kuti jemanjajo ngaŵa mkomboleka kumkamusya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.11",
+            "verseOrgIds": [
+              "MIC.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MIC 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ŵandu wa ku Maloti akudandawula pakwembecela cikamucisyo, ligongo AMBUJE ayice ni conasiko ciŵandika ni Yelusalemu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.12",
+            "verseOrgIds": [
+              "MIC.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MIC 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mtaŵilile mahaci ku mageleta jemanja ŵandu ŵa ku Lakishi. Mwasyasisye ulemwa wa Aisalaeli, pakutenda myoyo mwalemwekasisye ŵandu ŵa ku Yelusalemu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.13",
+            "verseOrgIds": [
+              "MIC.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MIC 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sambano jemanja ŵandu ŵa ku Yuda, mlangane nawo ŵandu ŵa mu msinda wa Molesheti Gati. Acayimwene ŵa ku Isalaeli ngasapata cikamucisyo kutyocela ku msinda wa Akisibi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.14",
+            "verseOrgIds": [
+              "MIC.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MIC 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.14",
+            "verseOrgIds": [
+              "MIC.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MIC 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ŵandu ŵa ku Malesha, ambuje tacimpeleka jemanja kwa m'magongo, jutacisumula msinda wenu. Acakulungwa ŵa ku Isalaeli tacijuŵa mu mbanga ja Adulamu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.15",
+            "verseOrgIds": [
+              "MIC.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MIC 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ŵandu ŵa ku Yuda, m'myole mpala, kulosya kuti mkwalilila ŵanace ŵenu umwanonyelaga. Mŵe ni lulasi pakuti ŵanacewo ŵamlesile, ni kujigalidwa kwawula ku ukapolo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.16",
+            "verseOrgIds": [
+              "MIC.1.16"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.2",
+    "number": "2",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.intro",
+    "number": "intro",
+    "bookId": "MIC"
+  }
+}

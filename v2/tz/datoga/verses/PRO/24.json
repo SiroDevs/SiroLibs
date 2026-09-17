@@ -1,0 +1,106 @@
+{
+  "id": "PRO.24",
+  "number": "24",
+  "bookId": "PRO",
+  "reference": "Ghwasiildeanga 24",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "24",
+        "style": "c",
+        "sid": "PRO 24"
+      },
+      "items": [
+        {
+          "text": "24",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ng'asha suuk bea weaghuumeeda",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "PRO 24:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.24.22",
+            "verseOrgIds": [
+              "PRO.24.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "PRO 24:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ak eara suh ea ng'asheega fuga weaghoodi gil,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.24.23",
+            "verseOrgIds": [
+              "PRO.24.23"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.25",
+    "number": "25",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.23",
+    "number": "23",
+    "bookId": "PRO"
+  }
+}

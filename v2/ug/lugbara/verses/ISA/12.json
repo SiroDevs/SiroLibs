@@ -1,0 +1,135 @@
+{
+  "id": "ISA.12",
+  "number": "12",
+  "bookId": "ISA",
+  "reference": "Isaya 12",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "ISA 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.12.1",
+            "verseOrgIds": [
+              "ISA.12.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.2.11"
+              },
+              "items": [
+                {
+                  "text": "Isa 2:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.14.20"
+              },
+              "items": [
+                {
+                  "text": "Zek 14:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.14.21"
+              },
+              "items": [
+                {
+                  "text": "21",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "O’du ’dasi mi nga di ’yo: Ma nga awa’difo fe mi dri, Yehova, a’disiku mi ka ndra ovu ma vu aokosi ti, aoko mini oja i ’bo, azini mi ma asi omi ra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.12.1",
+            "verseOrgIds": [
+              "ISA.12.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.13",
+    "number": "13",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.11",
+    "number": "11",
+    "bookId": "ISA"
+  }
+}

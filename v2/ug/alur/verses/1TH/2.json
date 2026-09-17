@@ -1,0 +1,830 @@
+{
+  "id": "1TH.2",
+  "number": "2",
+  "bookId": "1TH",
+  "reference": "1 Jutesaloniki 2",
+  "verseCount": 20,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "1TH 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1TH 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum wun giwu, umego, wung’eyo mondo mwa m’i beng’wu, ya junwang’u ebedo mananu ngo: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.1",
+            "verseOrgIds": [
+              "1TH.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1TH 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.16.19+ACT.16.20+ACT.16.21+ACT.16.22+ACT.16.23+ACT.16.24"
+              },
+              "items": [
+                {
+                  "text": "Tic 16:19-24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.17.1+ACT.17.2+ACT.17.3+ACT.17.4+ACT.17.5+ACT.17.6+ACT.17.7+ACT.17.8+ACT.17.9"
+              },
+              "items": [
+                {
+                  "text": "Tic 17:1-9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "ento wan ma walar wasendra man jutimowa rac dit, calu wung’eyo, i Filipi, cwinywa doko tek i Mungu mwa ma wayero ko iwu lembanyong’a ma juboth ko pa Mungu ma waii ko aiia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.2",
+            "verseOrgIds": [
+              "1TH.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1TH 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum juk mwa en e mi ndra ngo, kadi mi sasa de ngo, kadi i abombi de ngo: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.3",
+            "verseOrgIds": [
+              "1TH.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1TH 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ento cil calu Mungu ufoyo ya wagwok lembanyong’a ma juboth ko, kumeno wayero; calu ma nyayu mutoro i dhanu ngo, ento ma nyayu mutoro i Mungu m’umulo adundewa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.4",
+            "verseOrgIds": [
+              "1TH.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1TH 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum nindo moko junwang’u watimo lembe mi pak mananu ngo, calu wung’eyo, kadi ku jambomb mi ketho cwiny hai kum piny de ngo, Mungu en e jamulembe; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.5",
+            "verseOrgIds": [
+              "1TH.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1TH 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kadi wabeyenyo dwong’ mi dhanu de ngo, kadok m’uai i beng’wu kadi ba jumange de, nwang’u wacopo wacu y a wa weg ng’ol calu jukwenda pa Kristu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.6",
+            "verseOrgIds": [
+              "1TH.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1TH 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ento wabedo yo i kindwu, calu ka japidi bepido nyithindho pare ma dhe: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.7",
+            "verseOrgIds": [
+              "1TH.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1TH 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "cil kumeno, wan ma waketho cwinywa i kumwu ku mer, ebedo ni mutoro ma dit iwa ya wami iwu, lembanyong’a ma juboth ko pa Mungu kende ngo, ento kwo mwa bende, kum wudoko ju ma kacwinywa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.8",
+            "verseOrgIds": [
+              "1TH.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1TH 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum wupoi, umego, pi tic ma wamula ko ku sendri: ma wabewatimo diewor ku dieceng’, kara ku wanur kindwu moko, wayero iwu lembanyong’a ma juboth ko pa Mungu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.9",
+            "verseOrgIds": [
+              "1TH.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1TH 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wun wu jumulembe, ku Mungu bende, maram watimbra ko leng’, man pwe, man umbe adote iwu wu ju m’uyio: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.10",
+            "verseOrgIds": [
+              "1TH.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1TH 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "calu wung’ eyo maram watimo ko iwu kubeng’wu kubeng’wu, calu wego timo ni nyithindhe ma dhe, ma wabewajukowu, wabewapiko lembe i iwu, wabewatuco de, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.11",
+            "verseOrgIds": [
+              "1TH.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1TH 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kara nia wuwoth calu uromo ku Mungu, m’elwong’owu i ker pare gire man i dwong’.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.12",
+            "verseOrgIds": [
+              "1TH.2.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1TH 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.12",
+            "verseOrgIds": [
+              "1TH.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1TH 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man pi lembe nini wafoyo Mungu areri, nia, ka wujolo lembe mi kwenda i bang’wa, ndhu lem pa Mungu, wujole calu en e lembe mi dhanu ngo, ento, calu ebedo andha, lembe pa Mungu, m’etimo bende i iwu wu ju m’uyio. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.13",
+            "verseOrgIds": [
+              "1TH.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1TH 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.17.5"
+              },
+              "items": [
+                {
+                  "text": "Tic 17:5",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Kum wun, umego, wudoko jupor mi kanisa pa Mungu ma gini i Kristu Yesu i Yahudi: kum wun bende wusendru ku gin ma cal cal ni juthu, cil calu joca ke ni Juyahudi; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.14",
+            "verseOrgIds": [
+              "1TH.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1TH 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.9.23"
+              },
+              "items": [
+                {
+                  "text": "Tic 9:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.9.29"
+              },
+              "items": [
+                {
+                  "text": "29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.13.45"
+              },
+              "items": [
+                {
+                  "text": "13:45",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.13.50"
+              },
+              "items": [
+                {
+                  "text": "50",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.14.2"
+              },
+              "items": [
+                {
+                  "text": "14:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.14.5"
+              },
+              "items": [
+                {
+                  "text": "5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.14.19"
+              },
+              "items": [
+                {
+                  "text": "19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.17.5"
+              },
+              "items": [
+                {
+                  "text": "17:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.17.13"
+              },
+              "items": [
+                {
+                  "text": "13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.18.12"
+              },
+              "items": [
+                {
+                  "text": "18:12",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "ma ginego Rwoth Yesu ku jubila, giriemo wan de woko, ginyayu mutoro ngo i Mungu, man gi tung’ ku dhanu ceke; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.15",
+            "verseOrgIds": [
+              "1TH.2.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1TH 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "gikwero ya ku wayer ni Thekdhanumange kara gibothi; kara gipong’ dubo migi thiri thiri: ento kwinyo wok i wigi cil i kajikne.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.16",
+            "verseOrgIds": [
+              "1TH.2.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1TH 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.16",
+            "verseOrgIds": [
+              "1TH.2.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1TH 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ento wan, umego, ma jupokowa wakudu mi nindo ma nyanok, mi nendri ku wang’ kud adunde re ngo, waponjo apila ma sagu ya wanen weng’wu kud amora ma dit: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.17",
+            "verseOrgIds": [
+              "1TH.2.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1TH 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kum nwang’u wayenyo dit wabin i beng’wu, an a Paolo wang’ acel man kendo; e Jok ucerowa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.18",
+            "verseOrgIds": [
+              "1TH.2.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "1TH 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum genogen mwa en e ang’o, kadi anyong’a mwa, kadi jamkermi wic mwa mi kulula? Ndhu wun ungo, i wang’ Rwoth mwa ma Yesu i bino pare? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.19",
+            "verseOrgIds": [
+              "1TH.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1TH 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kum wun wu dwong’ mwa man mutoro mwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.20",
+            "verseOrgIds": [
+              "1TH.2.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1TH.3",
+    "number": "3",
+    "bookId": "1TH"
+  },
+  "previous": {
+    "id": "1TH.1",
+    "number": "1",
+    "bookId": "1TH"
+  }
+}

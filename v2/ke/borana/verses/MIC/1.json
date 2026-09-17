@@ -1,0 +1,584 @@
+{
+  "id": "MIC.1",
+  "number": "1",
+  "bookId": "MIC",
+  "reference": "Mika 1",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MIC 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.1",
+            "verseOrgIds": [
+              "MIC.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        2 Hay 15.32—16.20; 18.1—20.21",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.27.1+2CH.27.2+2CH.27.3+2CH.27.4+2CH.27.5+2CH.27.6+2CH.27.7"
+              },
+              "items": [
+                {
+                  "text": "2 Od-dur 27.1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "28.1—32.33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Gaafa Yothamufi Ahazifi Hezekiani hayyoota Yuda, dubbini AABBO Waaqa Mika nama Moreshethi d'ufte. AABBO Waaqi dubbi tana ch'ufa, ta waan Samariatifi ta Yerusalemu, Mika daayyani agarsiise.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.1",
+            "verseOrgIds": [
+              "MIC.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Aka Samariafi Yerusalemu bohani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MIC 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.4",
+            "verseOrgIds": [
+              "MIC.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MIC 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wonti woni kunini ch'ufti taatuufi, maro wollaala Yakobotiifi ch'ubbu worra Israeliti. Wollaala Yakobo eentu d'ufeeni? Worra Samariatiniti? Ch'ubbu worra Yuda eentu d'ufeeni? Worra Yerusalemutiniti? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.5",
+            "verseOrgIds": [
+              "MIC.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MIC 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tanaafi AABBO Waaqi waan jed'u, Anini dira Samaria mana ona ka lafa diida keesati jige tolcha, fulla zabibu iti oobrani. Anini d'akhaye maneeni worraa ta jidde suni bale keesa jisse, yayaba dira suni diidati gabaasa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.6",
+            "verseOrgIds": [
+              "MIC.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MIC 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Waan worri boch'e kad'atu ch'ufa ch'ach'absani, waan sharmut'a mana waaqoota suni ke jiru baasani ch'ufa gubani, ammalle wonti boch'ani kad'atani suni ch'ufti onte baddi. Waan kana ch'ufa Samariani kara sharmut'omatiini argate, amma nyaapi isii waan suni ch'ufa fud'ate lafa d'ibi geese kad'ata.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MIC 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MIC 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jennaani Mikaani waan jed'e, Maro waan kana ch'ufatiifi anini laalefad'e bohe kobefi woya baafad'e qullaa deema. Anini aka geedala waakise, aka guchi boha. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.8",
+            "verseOrgIds": [
+              "MIC.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mada Samaria wonti fayyisa injirtu, Yudaleeni diquma akasi intahiini; gaargalileeni ya balbala fullo Yerusalemu, fulla worri kiyya tau, gahe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.9",
+            "verseOrgIds": [
+              "MIC.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Aka nyaapi Yerusalemuti d'iaate",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.9",
+            "verseOrgIds": [
+              "MIC.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MIC 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyaapa keenna ka Gathi jiru, aka nu dabsatani, iti inhimina; boha teesani worra argu d'owa. Worra Beth-Leafra, aka ufi jibbattani, biyye keesa gangalad'a, garsiisa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.10",
+            "verseOrgIds": [
+              "MIC.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MIC 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Isani worri Shafiri, qullaa baqad'a, ch'eera. Nami dira Saanani keesa tau keesaa imbahu. Hojja isani boha worra Betheseli d'ageetani, aka fullaani iti baqatani injirre beetani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.11",
+            "verseOrgIds": [
+              "MIC.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MIC 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Worri Marothi aka jaba qarqaarsa eegata, waan AABBO Waaqi badi guddo balbala Yerusalemutini d'ufeefi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.12",
+            "verseOrgIds": [
+              "MIC.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MIC 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Isani nami Lakishi keesa tau, farda keesani gaariti hid'ad'a. Isani ch'ubbu worra Israeli gula deemtani worra Yerusalemu ch'ubbu keesa buuftani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.13",
+            "verseOrgIds": [
+              "MIC.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MIC 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amma, isani worra Yuda, dira Moreshethi Gathi nagayaati jed'aani. Hayyooti Israeli qarqaarsa dira Akzibu ira inargattu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.14",
+            "verseOrgIds": [
+              "MIC.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MIC 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.14",
+            "verseOrgIds": [
+              "MIC.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MIC 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Worra Maresha, AABBO Waaqi harka nyaapa keesani ka dira keesani dabsate fud'atuti isani keenna. Worri gugurdaani Israeli yae goda Adulamuti d'okhata. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.15",
+            "verseOrgIds": [
+              "MIC.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MIC 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Isani worra Yuda, rifeensa keesani haadad'a, ilmaani teesani ta isani jaalattani bohaa. Aka ruumicha mata ufi moleesa, maro ijoolle teesani boojiani lafa d'ibi geesaniifi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.16",
+            "verseOrgIds": [
+              "MIC.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Waan nama hiyyeesa dabsu tolchani",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.2",
+    "number": "2",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.intro",
+    "number": "intro",
+    "bookId": "MIC"
+  }
+}

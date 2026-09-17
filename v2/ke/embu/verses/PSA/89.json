@@ -1,0 +1,145 @@
+{
+  "id": "PSA.89",
+  "number": "89",
+  "bookId": "PSA",
+  "reference": "Tha 89",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "89",
+        "style": "c",
+        "sid": "PSA 89"
+      },
+      "items": [
+        {
+          "text": "89",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Rwîmbo rwa vîndî ya mathîna vûrûrirî",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 89:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.89.2",
+            "verseOrgIds": [
+              "PSA.89.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 89:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "We Ngai nîwaugire atîrî,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.89.3",
+            "verseOrgIds": [
+              "PSA.89.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kîrîkanîro kîa Ngai kûrî Daudi.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Gûcakaya nîûndû wa kûvootwa kwa mûthamaki",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Îvoya nîûndû wa kûvonokua",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.90",
+    "number": "90",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.88",
+    "number": "88",
+    "bookId": "PSA"
+  }
+}

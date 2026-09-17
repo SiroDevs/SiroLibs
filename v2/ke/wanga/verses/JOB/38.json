@@ -1,0 +1,81 @@
+{
+  "id": "JOB.38",
+  "number": "38",
+  "bookId": "JOB",
+  "reference": "Ayubu 38",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "38",
+        "style": "c",
+        "sid": "JOB 38"
+      },
+      "items": [
+        {
+          "text": "38",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "OMWAMl yamwechesia Ayubu shinga olwa aramanyile likhuwa liosi ta.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 38:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mana OMWAMI namukalusilia Ayubu okhurula mumbumbuyeka; ari",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.38.1",
+            "verseOrgIds": [
+              "JOB.38.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.39",
+    "number": "39",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.37",
+    "number": "37",
+    "bookId": "JOB"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": "ISA.50",
+  "number": "50",
+  "bookId": "ISA",
+  "reference": "Isaya 50",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "50",
+        "style": "c",
+        "sid": "ISA 50"
+      },
+      "items": [
+        {
+          "text": "50",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 50:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "AAKOÓ MUNGÚ i kaahi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.50.1",
+            "verseOrgIds": [
+              "ISA.50.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 50:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.50.3",
+            "verseOrgIds": [
+              "ISA.50.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 50:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aakoó MUNGÚ aníng iga intsaahhatís axweesantá qooma",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.50.4",
+            "verseOrgIds": [
+              "ISA.50.4"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.51",
+    "number": "51",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.49",
+    "number": "49",
+    "bookId": "ISA"
+  }
+}

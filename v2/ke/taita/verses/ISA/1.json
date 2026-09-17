@@ -1,0 +1,165 @@
+{
+  "id": "ISA.1",
+  "number": "1",
+  "bookId": "ISA",
+  "reference": "Isaya 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "ISA 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mawono gha Isaya mwana wa Amozi, oreghiwonieghe kwa wundu ghwa Juda na Jerusalemu; matuku gha Uzia, Jothamu, Ahazi, na Hezekia wazuri wa Juda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.1",
+            "verseOrgIds": [
+              "ISA.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.15.1+2KI.15.2+2KI.15.3+2KI.15.4+2KI.15.5+2KI.15.6+2KI.15.7"
+              },
+              "items": [
+                {
+                  "text": "2 Waz. 15.1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "15.32–16.20; 18.1–20.21",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.26.1+2CH.26.2+2CH.26.3+2CH.26.4+2CH.26.5+2CH.26.6+2CH.26.7+2CH.26.8+2CH.26.9+2CH.26.10+2CH.26.11+2CH.26.12+2CH.26.13+2CH.26.14+2CH.26.15+2CH.26.16+2CH.26.17+2CH.26.18+2CH.26.19+2CH.26.20+2CH.26.21+2CH.26.22+2CH.26.23"
+              },
+              "items": [
+                {
+                  "text": "2 Mal. 26.1-23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.27.1+2CH.27.2+2CH.27.3+2CH.27.4+2CH.27.5+2CH.27.6+2CH.27.7+2CH.27.8+2CH.27.9"
+              },
+              "items": [
+                {
+                  "text": "27.1-9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.28.1+2CH.28.2+2CH.28.3+2CH.28.4+2CH.28.5+2CH.28.6+2CH.28.7+2CH.28.8+2CH.28.9+2CH.28.10+2CH.28.11+2CH.28.12+2CH.28.13+2CH.28.14+2CH.28.15+2CH.28.16+2CH.28.17+2CH.28.18+2CH.28.19+2CH.28.20+2CH.28.21+2CH.28.22+2CH.28.23+2CH.28.24+2CH.28.25+2CH.28.26+2CH.28.27"
+              },
+              "items": [
+                {
+                  "text": "28.1-27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "29.1–32.33",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mlungu kuwikemia wandu wake",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Muzi ghwa kaung'a",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.2",
+    "number": "2",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.intro",
+    "number": "intro",
+    "bookId": "ISA"
+  }
+}

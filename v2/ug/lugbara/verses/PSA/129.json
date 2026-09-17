@@ -1,0 +1,118 @@
+{
+  "id": "PSA.129",
+  "number": "129",
+  "bookId": "PSA",
+  "reference": "Zaburi 129",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "129",
+        "style": "c",
+        "sid": "PSA 129"
+      },
+      "items": [
+        {
+          "text": "129",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 129:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.129.1",
+            "verseOrgIds": [
+              "PSA.129.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.23.3"
+              },
+              "items": [
+                {
+                  "text": "Eze 23:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.2.15"
+              },
+              "items": [
+                {
+                  "text": "Hos 2:15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Inza ma pale kakau engazu ewu mani adrizu karilau­rurisi ecazu curu’do, Israeli ma ’yo ’dini-",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.129.1",
+            "verseOrgIds": [
+              "PSA.129.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.130",
+    "number": "130",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.128",
+    "number": "128",
+    "bookId": "PSA"
+  }
+}

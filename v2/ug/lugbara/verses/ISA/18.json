@@ -1,0 +1,109 @@
+{
+  "id": "ISA.18",
+  "number": "18",
+  "bookId": "ISA",
+  "reference": "Isaya 18",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "18",
+        "style": "c",
+        "sid": "ISA 18"
+      },
+      "items": [
+        {
+          "text": "18",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 18:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.18.1",
+            "verseOrgIds": [
+              "ISA.18.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEP.2.12"
+              },
+              "items": [
+                {
+                  "text": "Zef 2:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wa wo! Angu opile copi e’yere ovupi yi raza Etiopiaari ma tia ’aa’dasiri;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.18.1",
+            "verseOrgIds": [
+              "ISA.18.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.19",
+    "number": "19",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.17",
+    "number": "17",
+    "bookId": "ISA"
+  }
+}

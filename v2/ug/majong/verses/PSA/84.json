@@ -1,0 +1,106 @@
+{
+  "id": "PSA.84",
+  "number": "84",
+  "bookId": "PSA",
+  "reference": "Ŋikiru. 84",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "84",
+        "style": "c",
+        "sid": "PSA 84"
+      },
+      "items": [
+        {
+          "text": "84",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Alelyanu ŋina ka akilip alo Kai ka Akuj",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 84:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.11",
+            "verseOrgIds": [
+              "PSA.84.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 84:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Okoe Ekapolon ŋolo a ŋajoresyo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.12",
+            "verseOrgIds": [
+              "PSA.84.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.85",
+    "number": "85",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.83",
+    "number": "83",
+    "bookId": "PSA"
+  }
+}

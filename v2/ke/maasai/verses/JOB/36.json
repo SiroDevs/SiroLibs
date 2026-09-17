@@ -1,0 +1,69 @@
+{
+  "id": "JOB.36",
+  "number": "36",
+  "bookId": "JOB",
+  "reference": "Yoa 36",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "36",
+        "style": "c",
+        "sid": "JOB 36"
+      },
+      "items": [
+        {
+          "text": "36",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 36:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Neitoki Elihu alo dukuya nejo:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.36.1",
+            "verseOrgIds": [
+              "JOB.36.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.37",
+    "number": "37",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.35",
+    "number": "35",
+    "bookId": "JOB"
+  }
+}

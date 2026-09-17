@@ -1,0 +1,496 @@
+{
+  "id": "REV.5",
+  "number": "5",
+  "bookId": "REV",
+  "reference": "Lembanyutha 5",
+  "verseCount": 9,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "REV 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "REV 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.1",
+            "verseOrgIds": [
+              "REV.5.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.2.9"
+              },
+              "items": [
+                {
+                  "text": "Eze 2:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.2.10"
+              },
+              "items": [
+                {
+                  "text": "10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.29.11"
+              },
+              "items": [
+                {
+                  "text": "Isa 29:11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Man aneno kitabu, ma jugoro ie ku yor i ng’eye de, m’emwondre ki kud ayi abiro, i cing’ ng’atu m’ujany wi komker ca ma yor acwic. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.1",
+            "verseOrgIds": [
+              "REV.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "REV 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man aneno malaika ma tek m’ubeyero ku dwal ma dit kumae, Ng’a m’uromo m’eyabu ko kitabu, m’ealu ko ayine de? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.2",
+            "verseOrgIds": [
+              "REV.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "REV 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man ng’atu moko mbe i polo, kadi wi ng’om de, kadi the ng’om, ma copo yabu kitabune, kadi wie anena de. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.3",
+            "verseOrgIds": [
+              "REV.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "REV 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man aywak dit, kum junwang’u ng’atu moko ngo m’uromo yabu kitabune, kadi wie anena de: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.4",
+            "verseOrgIds": [
+              "REV.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "REV 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.49.9"
+              },
+              "items": [
+                {
+                  "text": "Tha 49:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.11.1"
+              },
+              "items": [
+                {
+                  "text": "Isa 11:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.11.10"
+              },
+              "items": [
+                {
+                  "text": "10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "man ng’atu acel ma kind judongo wacu ira kumae, Kud iywaki: nen, Umvor ma en e mi suru pa Yuda, Ulag Daudi, eloyo m’eyabu ko kitabune kud ayine abiro de. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.5",
+            "verseOrgIds": [
+              "REV.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "REV 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.53.7"
+              },
+              "items": [
+                {
+                  "text": "Isa 53:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.4.10"
+              },
+              "items": [
+                {
+                  "text": "Zek 4:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Man aneno Nyathi Rombo i kind komker man i kind yedi ma kwo ang’wen, man i kind judongo, ecungo, calu ma tek juthume, ma tunge abiro, wang’e de abiro ma gi Tipo abiro pa Mungu, ma juoro i ng’om yu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.6",
+            "verseOrgIds": [
+              "REV.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "REV 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man ebino, eting’e kud i cing’ ma yor acwic pa ng’atu m’ujany wi komker ca. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.7",
+            "verseOrgIds": [
+              "REV.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "REV 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.141.2"
+              },
+              "items": [
+                {
+                  "text": "Zab 141:2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Man kan edaru ting’o kitabune, e yedi ma kwo ang’wen ku judongo pier ario wi ang’wende gipodho piny wang’ Nyathi Rombo, ma adungu ni kubang’gi nzu, ku tabu mi mola ma kwar ma gin ma ng’wice ng’ar upong’ i ie, ma en e rwo mi jumaleng’. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.8",
+            "verseOrgIds": [
+              "REV.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "REV 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.33.3"
+              },
+              "items": [
+                {
+                  "text": "Zab 33:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.98.1"
+              },
+              "items": [
+                {
+                  "text": "98:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.42.10"
+              },
+              "items": [
+                {
+                  "text": "Isa 42:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Man giwero wer ma nyen, giwacu kumae,",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.9",
+            "verseOrgIds": [
+              "REV.5.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "REV.6",
+    "number": "6",
+    "bookId": "REV"
+  },
+  "previous": {
+    "id": "REV.4",
+    "number": "4",
+    "bookId": "REV"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "PSA.25",
+  "number": "25",
+  "bookId": "PSA",
+  "reference": "Zaburi 25",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "25",
+        "style": "c",
+        "sid": "PSA 25"
+      },
+      "items": [
+        {
+          "text": "25",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 25:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee Mwenyezi-Mungu, kwako naielekeza nafsi yangu!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.1",
+            "verseOrgIds": [
+              "PSA.25.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.26",
+    "number": "26",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.24",
+    "number": "24",
+    "bookId": "PSA"
+  }
+}

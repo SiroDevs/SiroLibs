@@ -1,0 +1,581 @@
+{
+  "id": "REV.5",
+  "number": "5",
+  "bookId": "REV",
+  "reference": "Kus 5",
+  "verseCount": 9,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "REV 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Omuzingo gw'ekitabu ogwatairweho emanyiikirizo musanju",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "REV 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.1",
+            "verseOrgIds": [
+              "REV.5.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.2.9"
+              },
+              "items": [
+                {
+                  "text": "Ezek 2:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.2.10"
+              },
+              "items": [
+                {
+                  "text": "10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.29.11"
+              },
+              "items": [
+                {
+                  "text": "Is 29:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omu mukono ogw'obulyo gw'Ogu anyakusingire ha kitebe ky'obukama, nkaroramu omuzingo gw'ekitabu oguhandiikirwe embaju zombi, oguboherwe emanyiikirizo musanju; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.1",
+            "verseOrgIds": [
+              "REV.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "REV 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kandi narora malaika ow'amaani naarangirra n'iraka likooto ati: “Nooha asemeriire kwanjurra omuzingo n'okucwa emanyiikirizo zagwo?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.2",
+            "verseOrgIds": [
+              "REV.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "REV 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baitu hatabeho n'omu omwiguru, rundi omunsi, rundi okuzimu ayasoboire kwanjurra omuzingo n'okugusoma. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.3",
+            "verseOrgIds": [
+              "REV.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "REV 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na nyowe nkarra muno habw'okuburwaho n'omu ow'akaba asemeriire kwanjurra omuzingo n'okugusoma. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.4",
+            "verseOrgIds": [
+              "REV.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "REV 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.49.9"
+              },
+              "items": [
+                {
+                  "text": "Kub 49:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.11.1"
+              },
+              "items": [
+                {
+                  "text": "Is 11:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.11.10"
+              },
+              "items": [
+                {
+                  "text": "10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nubwo omu ha bakuru yangambiire ati: “Leka kurra; orole Entale ey'orunganda rwa Yuda, Ekikoro kya Daudi, asingwire. Nahabweki uwe asobora kwanjurra omuzingo n'okubambura emanyiikirizo zagwo musanju.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.5",
+            "verseOrgIds": [
+              "REV.5.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "REV 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.5",
+            "verseOrgIds": [
+              "REV.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "REV 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.6",
+            "verseOrgIds": [
+              "REV.5.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.53.7"
+              },
+              "items": [
+                {
+                  "text": "Is 53:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.4.10"
+              },
+              "items": [
+                {
+                  "text": "Zek 4:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hagati y'ekitebe ky'obukama n'ebihangwa bbina ebyomeezi, n'omu bakuru abo hagati, nkarora Omwana gw'Entaama ayemeriire, naasisana nk'anyakutambirwe, aina amahembe musanju n'amaiso musanju, agarukumanyisa emyoyo musanju Ruhanga ei yatumire omunsi yoona. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.6",
+            "verseOrgIds": [
+              "REV.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "REV 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yagenda yaiha omuzingo omu mukono ogw'obulyo ogw'Ogu ow'akaba asingire ha kitebe ky'obukama. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.7",
+            "verseOrgIds": [
+              "REV.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "REV 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.141.2"
+              },
+              "items": [
+                {
+                  "text": "Zab 141:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obu yamazire kutwara omuzingo, ebihangwa ebbina ebyomeezi n'abakuru amakumi abiri na bbana baajuumara omumaiso g'Omwana gw'entaama, buli omu akwasire endongo n'ebibindi bya zaabbu ebiijwire omugaju, nubwo bumanyisa okusaba kw'abahikiriire. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.8",
+            "verseOrgIds": [
+              "REV.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "REV 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.33.3"
+              },
+              "items": [
+                {
+                  "text": "Zab 33:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.98.1"
+              },
+              "items": [
+                {
+                  "text": "98:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.42.10"
+              },
+              "items": [
+                {
+                  "text": "Is 42:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baazina ekizina ekihyaka nibagamba bati:",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.5.9",
+            "verseOrgIds": [
+              "REV.5.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "REV.6",
+    "number": "6",
+    "bookId": "REV"
+  },
+  "previous": {
+    "id": "REV.4",
+    "number": "4",
+    "bookId": "REV"
+  }
+}

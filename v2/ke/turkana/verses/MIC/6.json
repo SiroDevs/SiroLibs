@@ -1,0 +1,61 @@
+{
+  "id": "MIC.6",
+  "number": "6",
+  "bookId": "MIC",
+  "reference": "Mika 6",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "MIC 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Isuburae Ekapolon Akuj Ngisirael",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ibore ni esaki Ekapolon Akuj",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.7",
+    "number": "7",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.5",
+    "number": "5",
+    "bookId": "MIC"
+  }
+}

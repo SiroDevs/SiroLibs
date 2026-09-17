@@ -1,0 +1,391 @@
+{
+  "id": "1JN.1",
+  "number": "1",
+  "bookId": "1JN",
+  "reference": "1 Yohana 1",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "1JN 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1JN 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.1",
+            "verseOrgIds": [
+              "1JN.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.1"
+              },
+              "items": [
+                {
+                  "text": "Yoh 1:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maeno ma nuti ugambre ku kwong’a, maeno ma wawinjo, maeno ma waneno ku wang’wa, maeno ma waneno tel, ma cingwa de mulo, pi Lembe mi kwo ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.1",
+            "verseOrgIds": [
+              "1JN.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1JN 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.14"
+              },
+              "items": [
+                {
+                  "text": "Yoh 1:14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "(kwone de nyuthre, e wadaru neno, wanyutho lembe de, wayero iwu de pi kwo, kwo ma rondo ku rondo, m’ubedo ku Wego, man enyuthre iwa de); ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.2",
+            "verseOrgIds": [
+              "1JN.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1JN 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "maeno ma waneno ma wawinjo de wayero iwu bende, kara wun bende wubed ku ripocwiny wakudu; eyo, man ripocwiny mwa ni karacelo ku Wego, man ku Wode Yesu Kristu; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.3",
+            "verseOrgIds": [
+              "1JN.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1JN 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "e wagoro gin maeni kara anyong’a mwa pong’.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.4",
+            "verseOrgIds": [
+              "1JN.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1JN 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.4",
+            "verseOrgIds": [
+              "1JN.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1JN 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maeni en e rwonglembe ma wawinjo i bang’e man wayero iwu de, nia Mungu en e der, man mudho tak de mbe i ie. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.5",
+            "verseOrgIds": [
+              "1JN.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1JN 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tek wawacu nia wabedo ku ripocwiny wakude enke wawotho i mudho, nwang’u waewayu ndra, watimo lemandha de ngo: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.6",
+            "verseOrgIds": [
+              "1JN.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1JN 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ento tek wawotho i der, calu en eni i der, nwang’u wabedo ku ripocwiny ma man ku wadi man ku wadi, man rimb Yesu ma Wode ubelonyowa ni dubo ceke. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.7",
+            "verseOrgIds": [
+              "1JN.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1JN 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tek wawacu nia dubo mbe kudwa, nwang’u wawondra giwa, lemandha de mbe i iwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.8",
+            "verseOrgIds": [
+              "1JN.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1JN 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tek watuco dubo mwa, en e mandha man pwe mi weko dubo mwa, mi lonyowa de ni gondri ceke. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.9",
+            "verseOrgIds": [
+              "1JN.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1JN 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tek wawacu nia wadubo ngo, nwang’u wadwoke ni jandra, lem pare de mbe i iwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.10",
+            "verseOrgIds": [
+              "1JN.1.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1JN.2",
+    "number": "2",
+    "bookId": "1JN"
+  },
+  "previous": {
+    "id": "2PE.3",
+    "number": "3",
+    "bookId": "2PE"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ISA.53",
+  "number": "53",
+  "bookId": "ISA",
+  "reference": "Isaya 53",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "53",
+        "style": "c",
+        "sid": "ISA 53"
+      },
+      "items": [
+        {
+          "text": "53",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 53:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.53.1",
+            "verseOrgIds": [
+              "ISA.53.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CO.1.18"
+              },
+              "items": [
+                {
+                  "text": "1 Kor 1:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.12.38"
+              },
+              "items": [
+                {
+                  "text": "Yoh 12:38",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.10.16"
+              },
+              "items": [
+                {
+                  "text": "Rum 10:16",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "A’di a’i e’yo amani olulerini ya? Dri Yehovani e’da i a’di dri ya?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.53.1",
+            "verseOrgIds": [
+              "ISA.53.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.54",
+    "number": "54",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.52",
+    "number": "52",
+    "bookId": "ISA"
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "id": "HOS.3",
+  "number": "3",
+  "bookId": "HOS",
+  "reference": "Hoseya 3",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "HOS 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.3.1",
+            "verseOrgIds": [
+              "HOS.3.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "SNG.2.5"
+              },
+              "items": [
+                {
+                  "text": "Ind 2:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maz’ Uhoraho arambarira, ati Subira ugende, ukunde wa mugore akundwa n’umwūzure wiwe, kandi w’umusambanyikazi, nk’uk’ Uhoraho nkunda Abisirayeli, naho bo bāhindukiriye izindi mana, bagakunda uturobe tubumbabumbge mu nzabibu zumye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.3.1",
+            "verseOrgIds": [
+              "HOS.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "HOS 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.27.16"
+              },
+              "items": [
+                {
+                  "text": "Lew 27:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nuko ndamutangakw intete z’ifeza cumi na zitanu, n’ingero yitwa homeru ya sayiri imwe n’igice. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.3.2",
+            "verseOrgIds": [
+              "HOS.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HOS 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.21.13"
+              },
+              "items": [
+                {
+                  "text": "Gus 21:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maze ndamubarira, nt’ Uzomara imisi myinshi undorereye; ntuz’ uje mu busambanyi, ntuz’ uje ku wundi mugabo wese: nanje nzokumerera ntyo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.3.3",
+            "verseOrgIds": [
+              "HOS.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HOS 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.17.5"
+              },
+              "items": [
+                {
+                  "text": "Abac 17:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.10.1"
+              },
+              "items": [
+                {
+                  "text": "Hos 10:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.10.2"
+              },
+              "items": [
+                {
+                  "text": "2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kukw Abisirayeli bazomara imisi myinshi ata mwami, ata n’ūganza, ata n’ikimazi batanga, ata n’inkingi y’ikigirwamana, ata n’umwambaro witwa efodi cank’ ibigirwamana vyitwa terafimu: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.3.4",
+            "verseOrgIds": [
+              "HOS.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HOS 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.2.2"
+              },
+              "items": [
+                {
+                  "text": "Yes 2:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.23.5"
+              },
+              "items": [
+                {
+                  "text": "Yer 23:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.50.4"
+              },
+              "items": [
+                {
+                  "text": "50:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.34.24"
+              },
+              "items": [
+                {
+                  "text": "Ezk 34:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.1.11"
+              },
+              "items": [
+                {
+                  "text": "Hos 1:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MIC.7.17"
+              },
+              "items": [
+                {
+                  "text": "Mik 7:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "maz’ amaherezo Abisirayeli bazogaruka, barondere Uhoraho Imana yabo, na Dawidi umwami wabo; bazoba mu gatengo baje k’Uhoraho no ku migisha yiwe mu misi y’iherezo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.3.5",
+            "verseOrgIds": [
+              "HOS.3.5"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.4",
+    "number": "4",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.2",
+    "number": "2",
+    "bookId": "HOS"
+  }
+}

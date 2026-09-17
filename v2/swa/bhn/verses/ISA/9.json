@@ -1,0 +1,151 @@
+{
+  "id": "ISA.9",
+  "number": "9",
+  "bookId": "ISA",
+  "reference": "Isaya 9",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "9",
+        "style": "c",
+        "sid": "ISA 9"
+      },
+      "items": [
+        {
+          "text": "9",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 9:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.1",
+            "verseOrgIds": [
+              "ISA.9.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "9:1 Taz Mat 4:15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Lakini nchi ile iliyokuwa imekumbwa na huzuni haitabaki daima katika giza hilo kuu. Hapo awali Mungu alizifedhehesha nchi za Zebuluni na Naftali, lakini siku za usoni ataifanikisha sehemu hii ya baharini na nchi iliyo ngambo ya Yordani na hata Galilaya wanamoishi watu wa mataifa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.1",
+            "verseOrgIds": [
+              "ISA.9.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 9:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.7",
+            "verseOrgIds": [
+              "ISA.9.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 9:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwenyezi-Mungu ametoa tamko dhidi ya Yakobo",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.8",
+            "verseOrgIds": [
+              "ISA.9.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.10",
+    "number": "10",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.8",
+    "number": "8",
+    "bookId": "ISA"
+  }
+}

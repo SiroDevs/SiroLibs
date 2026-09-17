@@ -1,0 +1,82 @@
+{
+  "id": "AMO.4",
+  "number": "4",
+  "bookId": "AMO",
+  "reference": "Amosi 4",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "AMO 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ū Isilaeli ataalī kūnshokela Mulungu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gūdegelekagi ū mhayo ūyū bing'we",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.4.1",
+            "verseOrgIds": [
+              "AMO.4.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.5",
+    "number": "5",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.3",
+    "number": "3",
+    "bookId": "AMO"
+  }
+}

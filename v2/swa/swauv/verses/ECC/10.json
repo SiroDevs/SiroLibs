@@ -1,0 +1,179 @@
+{
+  "id": "ECC.10",
+  "number": "10",
+  "bookId": "ECC",
+  "reference": "Mhu 10",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "ECC 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Maoni Mengine",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ECC 10:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.10.4",
+            "verseOrgIds": [
+              "ECC.10.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ECC 10:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Liko baa nililoliona chini ya jua, nalo ni kama kosa litokalo kwake yeye atawalaye; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.10.5",
+            "verseOrgIds": [
+              "ECC.10.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ECC 10:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ya kuwa upumbavu huwekwa mahali pa juu sana, nao wakwasi hukaa mahali pa chini. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.10.6",
+            "verseOrgIds": [
+              "ECC.10.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ECC 10:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.19.10"
+              },
+              "items": [
+                {
+                  "text": "Mit 19:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mimi nimeona watumwa wamepanda farasi, na wakuu wakienda kwa miguu juu ya nchi kama watumwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.10.7",
+            "verseOrgIds": [
+              "ECC.10.7"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.11",
+    "number": "11",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "ECC.9",
+    "number": "9",
+    "bookId": "ECC"
+  }
+}

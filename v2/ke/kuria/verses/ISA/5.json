@@ -1,0 +1,157 @@
+{
+  "id": "ISA.5",
+  "number": "5",
+  "bookId": "ISA",
+  "reference": "Isaya 5",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "ISA 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Irisiringio riö ömögöndö göë ëmësabhibhu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.5.1",
+            "verseOrgIds": [
+              "ISA.5.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.21.33"
+              },
+              "items": [
+                {
+                  "text": "Mat 21:33",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.12.1"
+              },
+              "items": [
+                {
+                  "text": "Mk 12:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.20.9"
+              },
+              "items": [
+                {
+                  "text": "Ruk 20:9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Nëndasiringi igörö yö ömöhanchöa waane,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.5.1",
+            "verseOrgIds": [
+              "ISA.5.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Amanyanku gano abhantö bhaagökora",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.6",
+    "number": "6",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.4",
+    "number": "4",
+    "bookId": "ISA"
+  }
+}

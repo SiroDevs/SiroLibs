@@ -1,0 +1,106 @@
+{
+  "id": "HOS.13",
+  "number": "13",
+  "bookId": "HOS",
+  "reference": "Hos 13",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "13",
+        "style": "c",
+        "sid": "HOS 13"
+      },
+      "items": [
+        {
+          "text": "13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Îtua rîa Ngai kûrî andû a Isiraeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HOS 13:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.13.3",
+            "verseOrgIds": [
+              "HOS.13.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HOS 13:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai-Mûnene arauga atîrî,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.13.4",
+            "verseOrgIds": [
+              "HOS.13.4"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.14",
+    "number": "14",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.12",
+    "number": "12",
+    "bookId": "HOS"
+  }
+}

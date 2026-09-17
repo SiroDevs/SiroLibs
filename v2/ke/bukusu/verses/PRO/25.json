@@ -1,0 +1,82 @@
+{
+  "id": "PRO.25",
+  "number": "25",
+  "bookId": "PRO",
+  "reference": "Chis. 25",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "25",
+        "style": "c",
+        "sid": "PRO 25"
+      },
+      "items": [
+        {
+          "text": "25",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Chisimo chichiindi cha Solomoni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 25:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Chino chosi chili chisimo cha Solomoni nicho babaandu ba Hesekia omwami owa Yuda baandika.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.25.1",
+            "verseOrgIds": [
+              "PRO.25.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.26",
+    "number": "26",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.24",
+    "number": "24",
+    "bookId": "PRO"
+  }
+}

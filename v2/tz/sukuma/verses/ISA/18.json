@@ -1,0 +1,116 @@
+{
+  "id": "ISA.18",
+  "number": "18",
+  "bookId": "ISA",
+  "reference": "Isaya 18",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "18",
+        "style": "c",
+        "sid": "ISA 18"
+      },
+      "items": [
+        {
+          "text": "18",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Būhangi wa kūkenaagūlwa Esiopia",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 18:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Īlī mu kwihīga ī sī ya kū nkīlo",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.18.1",
+            "verseOrgIds": [
+              "ISA.18.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 18:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "A manong'ho gakwenhwa kū lūgūlū lwa Sayuni, ipandī lya ng'wa SEEBA wa mabità.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.18.7",
+            "verseOrgIds": [
+              "ISA.18.7"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.19",
+    "number": "19",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.17",
+    "number": "17",
+    "bookId": "ISA"
+  }
+}

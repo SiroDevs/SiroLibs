@@ -1,0 +1,110 @@
+{
+  "id": "ISA.1",
+  "number": "1",
+  "bookId": "ISA",
+  "reference": "Isaaya 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "ISA 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.1",
+            "verseOrgIds": [
+              "ISA.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        2 Bag 15:32—16:20; 18:1—20:21; 2 Bus 26:1—32:33",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.7.1+ISA.7.2+ISA.7.3+ISA.7.4+ISA.7.5+ISA.7.6+ISA.7.7+ISA.7.8+ISA.7.9+ISA.7.10+ISA.7.11+ISA.7.12"
+              },
+              "items": [
+                {
+                  "text": "Isa 7:1-12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "36:1—39:8.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Okworekwa kwa Isaaya mwene Amozi, oku yaareebire ahari Yuda na Yerusaalemu obu busingye bwa Uziya, Yosamu, Ahazi na Hezekia abagabe ba Yuda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.1.1",
+            "verseOrgIds": [
+              "ISA.1.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.2",
+    "number": "2",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "SNG.8",
+    "number": "8",
+    "bookId": "SNG"
+  }
+}

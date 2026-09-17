@@ -1,0 +1,132 @@
+{
+  "id": "AMO.1",
+  "number": "1",
+  "bookId": "AMO",
+  "reference": "Amoc 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "AMO 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.1",
+            "verseOrgIds": [
+              "AMO.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.15.1+2KI.15.2+2KI.15.3+2KI.15.4+2KI.15.5+2KI.15.6+2KI.15.7"
+              },
+              "items": [
+                {
+                  "text": "2 Luker 15.1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.26.1+2CH.26.2+2CH.26.3+2CH.26.4+2CH.26.5+2CH.26.6+2CH.26.7+2CH.26.8+2CH.26.9+2CH.26.10+2CH.26.11+2CH.26.12+2CH.26.13+2CH.26.14+2CH.26.15+2CH.26.16+2CH.26.17+2CH.26.18+2CH.26.19+2CH.26.20+2CH.26.21+2CH.26.22+2CH.26.23"
+              },
+              "items": [
+                {
+                  "text": "2 Tek 26.1-23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.14.23+2KI.14.24+2KI.14.25+2KI.14.26+2KI.14.27+2KI.14.28+2KI.14.29"
+              },
+              "items": [
+                {
+                  "text": "2 Luker 14.23-29",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Man aye lok pa Amoc, ma en yam ŋat acel i kin lukwat romi me Tekoa, gin ma en oneno i kom Icrael i kare pa Ujia kabaka me Juda, ki i kare pa Jeroboam wod pa Y oaci kabaka me Icrael, ma odoŋ mwaka aryo ma peya oyeŋyeŋ oyeŋo lobo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.1",
+            "verseOrgIds": [
+              "AMO.1.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.2",
+    "number": "2",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "JOL.3",
+    "number": "3",
+    "bookId": "JOL"
+  }
+}

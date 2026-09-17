@@ -1,0 +1,896 @@
+{
+  "id": "ZEP.2",
+  "number": "2",
+  "bookId": "ZEP",
+  "reference": "Zefania 2",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "ZEP 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEP 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wucokru karacelo, eyo, wucokru karacelo, E thek ma lewic umbe kude; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.1",
+            "verseOrgIds": [
+              "ZEP.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ZEP 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ma fodi cik kupong’ ungo, ma fodi ceng’ kukadhu calu cung’ ungo, ma fodi ng’ecwiny ma lake tek pa Yehova kuwok ungo i wiwu, ma fodi ceng’ mi ng’ecwiny pa Yehova kuwok ungo i wiwu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.2",
+            "verseOrgIds": [
+              "ZEP.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ZEP 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wuyeny Yehova, wu ju ma mol ceke mi ng’om, ma wutimo lembapoka pare; wuyeny bedopwe, wuyeny molcwiny: kuno nyo jubipanuwu i ceng’ mi ng’ecwiny pa Yehova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.3",
+            "verseOrgIds": [
+              "ZEP.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ZEP 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.3",
+            "verseOrgIds": [
+              "ZEP.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ZEP 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.4",
+            "verseOrgIds": [
+              "ZEP.2.4"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.14.29+ISA.14.30+ISA.14.31"
+              },
+              "items": [
+                {
+                  "text": "Isa 14:29-31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.47.1+JER.47.2+JER.47.3+JER.47.4+JER.47.5+JER.47.6+JER.47.7"
+              },
+              "items": [
+                {
+                  "text": "Yer 47:1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.25.15+EZK.25.16+EZK.25.17"
+              },
+              "items": [
+                {
+                  "text": "Eze 25:15-17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOL.3.4+JOL.3.5+JOL.3.6+JOL.3.7+JOL.3.8"
+              },
+              "items": [
+                {
+                  "text": "Yoe 3:4-8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.6+AMO.1.7+AMO.1.8"
+              },
+              "items": [
+                {
+                  "text": "Amo 1:6-8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.9.5+ZEC.9.6+ZEC.9.7"
+              },
+              "items": [
+                {
+                  "text": "Zek 9:5-7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Kum Gaza jubiweko, man Ackelon bibedo ni uvuru; gibiriemo Acdod ku dieceng’, man jubimugo Ekron. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.4",
+            "verseOrgIds": [
+              "ZEP.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ZEP 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Can wi ju m’ubedo dhu nam, thek mi Jukerethi! lembe pa Yehova ni i wiwu, E Kanan, ng’om mi Jufilisti; abinyothi, kara jabedo moko bed umbe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.5",
+            "verseOrgIds": [
+              "ZEP.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ZEP 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man dhu nam bibedo ni kakwae, ku udi mi jukwac man dwol mir udul rombe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.6",
+            "verseOrgIds": [
+              "ZEP.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ZEP 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man dhu wath bibedo ni dong’ dhanu mi ot pa Yuda; gibikwayu udul rombe migi keca; gibivuto uthieno i udi mi Ackelon; kum Yehova Mungu migi biliewogi, man ebidwoko ng’eca migi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.7",
+            "verseOrgIds": [
+              "ZEP.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ZEP 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "Isa 15:1-16:14",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.25.10+ISA.25.11+ISA.25.12"
+              },
+              "items": [
+                {
+                  "text": "25:10-12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.48.1+JER.48.2+JER.48.3+JER.48.4+JER.48.5+JER.48.6+JER.48.7+JER.48.8+JER.48.9+JER.48.10+JER.48.11+JER.48.12+JER.48.13+JER.48.14+JER.48.15+JER.48.16+JER.48.17+JER.48.18+JER.48.19+JER.48.20+JER.48.21+JER.48.22+JER.48.23+JER.48.24+JER.48.25+JER.48.26+JER.48.27+JER.48.28+JER.48.29+JER.48.30+JER.48.31+JER.48.32+JER.48.33+JER.48.34+JER.48.35+JER.48.36+JER.48.37+JER.48.38+JER.48.39+JER.48.40+JER.48.41+JER.48.42+JER.48.43+JER.48.44+JER.48.45+JER.48.46+JER.48.47"
+              },
+              "items": [
+                {
+                  "text": "Yer 48:1-47",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.25.8+EZK.25.9+EZK.25.10+EZK.25.11"
+              },
+              "items": [
+                {
+                  "text": "Eze 25:8-11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.13+AMO.1.14+AMO.1.15"
+              },
+              "items": [
+                {
+                  "text": "Amo 1:13-15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.49.1+JER.49.2+JER.49.3+JER.49.4+JER.49.5+JER.49.6"
+              },
+              "items": [
+                {
+                  "text": "Yer 49:1-6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.21.28+EZK.21.29+EZK.21.30+EZK.21.31+EZK.21.32"
+              },
+              "items": [
+                {
+                  "text": "Eze 21:28-32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.25.1+EZK.25.2+EZK.25.3+EZK.25.4+EZK.25.5+EZK.25.6+EZK.25.7"
+              },
+              "items": [
+                {
+                  "text": "25:1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.13+AMO.1.14+AMO.1.15"
+              },
+              "items": [
+                {
+                  "text": "Amo 1:13-15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Awinjo cac mi Moab, man ng’iero mi nyithindho mir Amon, ma gicayu ko dhanu para, ma giyungri ko gigi kum kieu migi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.8",
+            "verseOrgIds": [
+              "ZEP.2.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ZEP 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.8",
+            "verseOrgIds": [
+              "ZEP.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEP 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.9",
+            "verseOrgIds": [
+              "ZEP.2.9"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.19.24"
+              },
+              "items": [
+                {
+                  "text": "Tha 19:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ka kumeno calu abedo kwo, Yehova mir udul uwacu, Mungu mir Israel, Andha Moab bibedo calu Sodom, man nyithindho mir Amon calu Gomora, piny mir ayilayila, man longro mi kadu, man uvuru ma nja: dong’ dhanu para ma bidong’ gibidwokogi ni amaci, man dong’ thek para bicamu pacu i wigi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.9",
+            "verseOrgIds": [
+              "ZEP.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ZEP 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gibibedo ku maeni ni kuhaya migi, kum gicayu man giyungri gigi kum dhanu pa Yehova mir udul, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.10",
+            "verseOrgIds": [
+              "ZEP.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ZEP 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yehova bibedo ni ng’oyondiri igi; kum ebimogo mungu ceke m’i ng’om; man dhanu birwo ire, ku ba dhanu ku ba dhanu ng’atuman i kakare, cil dhu wath ceke mi thek.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.11",
+            "verseOrgIds": [
+              "ZEP.2.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ZEP 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.11",
+            "verseOrgIds": [
+              "ZEP.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ZEP 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.12",
+            "verseOrgIds": [
+              "ZEP.2.12"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.18.1+ISA.18.2+ISA.18.3+ISA.18.4+ISA.18.5+ISA.18.6+ISA.18.7"
+              },
+              "items": [
+                {
+                  "text": "Isa 18:1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wu Juethiopia bende, jubinegowu ku palamularu para. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.12",
+            "verseOrgIds": [
+              "ZEP.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ZEP 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.10.5+ISA.10.6+ISA.10.7+ISA.10.8+ISA.10.9+ISA.10.10+ISA.10.11+ISA.10.12+ISA.10.13+ISA.10.14+ISA.10.15+ISA.10.16+ISA.10.17+ISA.10.18+ISA.10.19+ISA.10.20+ISA.10.21+ISA.10.22+ISA.10.23+ISA.10.24+ISA.10.25+ISA.10.26+ISA.10.27+ISA.10.28+ISA.10.29+ISA.10.30+ISA.10.31+ISA.10.32+ISA.10.33+ISA.10.34"
+              },
+              "items": [
+                {
+                  "text": "Isa 10:5-34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.14.24+ISA.14.25+ISA.14.26+ISA.14.27"
+              },
+              "items": [
+                {
+                  "text": "14:24-27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "Nah 1:1-3:19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man ebirieyo cinge kum yor ariwa ma malu, man ebinyotho Ascur, ebidwoko Nineve de ni uvuru, m’etal de calu langa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.13",
+            "verseOrgIds": [
+              "ZEP.2.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ZEP 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.13",
+            "verseOrgIds": [
+              "ZEP.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ZEP 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man udul lim bivuto i dierene, yedi ceke mi thek: alungu ku ceu gibigonjo i wie; dwandgi biwer i wang’ot; uvuru bibedo nuti dhugola: kum eyabu tic mi musonge. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.14",
+            "verseOrgIds": [
+              "ZEP.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ZEP 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maeni adhura mi mutoro ma paru lembe moko ngo, m’uwacu i adundene kumae, Anuti, man ng’atu moko mange mbe an a kenda: aka thwo dwok ma judwoke ko ni uvuru mire ma, kabedo mi yedi ma givuto i ie! ku ba dhanu ceke m’ukadhu kud i vute biewie, man ebiyengo cinge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.15",
+            "verseOrgIds": [
+              "ZEP.2.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEP.3",
+    "number": "3",
+    "bookId": "ZEP"
+  },
+  "previous": {
+    "id": "ZEP.1",
+    "number": "1",
+    "bookId": "ZEP"
+  }
+}

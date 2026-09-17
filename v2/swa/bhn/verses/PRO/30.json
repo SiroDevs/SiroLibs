@@ -1,0 +1,149 @@
+{
+  "id": "PRO.30",
+  "number": "30",
+  "bookId": "PRO",
+  "reference": "Methali 30",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "30",
+        "style": "c",
+        "sid": "PRO 30"
+      },
+      "items": [
+        {
+          "text": "30",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 30:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maneno ya Aguri, mwana wa Yake. Mawaidha ambayo mtu huyu alimwambia Ithieli, naam, Ithieli na Ukali.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.30.1",
+            "verseOrgIds": [
+              "PRO.30.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "30:1",
+              "type": "text"
+            },
+            {
+              "text": "Ithieli, Ukali:",
+              "type": "text"
+            },
+            {
+              "text": "Majina hayo yaweza kumaanisha Nimechoka ee Mungu; nimechoka na sina nguvu.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PRO 30:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.30.14",
+            "verseOrgIds": [
+              "PRO.30.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PRO 30:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mruba anao binti wawili wasemao, “Nipe, nipe!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.30.15",
+            "verseOrgIds": [
+              "PRO.30.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.31",
+    "number": "31",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.29",
+    "number": "29",
+    "bookId": "PRO"
+  }
+}

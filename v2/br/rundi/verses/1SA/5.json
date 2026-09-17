@@ -1,0 +1,827 @@
+{
+  "id": "1SA.5",
+  "number": "5",
+  "bookId": "1SA",
+  "reference": "1 Samweli 5",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "1SA 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1SA 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.1",
+            "verseOrgIds": [
+              "1SA.5.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.13.3"
+              },
+              "items": [
+                {
+                  "text": "Yos 13:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.4.1"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 4:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.7.12"
+              },
+              "items": [
+                {
+                  "text": "7:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abafilisitiya bafashe mpiri isandugu y’Imana, bayikūra i Ebenezeri bayijana i Ashidodi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.1",
+            "verseOrgIds": [
+              "1SA.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1SA 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.16.23"
+              },
+              "items": [
+                {
+                  "text": "Abac 16:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baraheza bayinjiza mu ngoro ya Dagoni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.2",
+            "verseOrgIds": [
+              "1SA.5.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "5:2",
+              "type": "text"
+            },
+            {
+              "text": "Dagoni n’ikigirwamana cabo.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " bayitereka i ruhande ya Dagoni nyene. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.2",
+            "verseOrgIds": [
+              "1SA.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1SA 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.46.1"
+              },
+              "items": [
+                {
+                  "text": "Yes 46:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.46.2"
+              },
+              "items": [
+                {
+                  "text": "2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bukeye mu mavyuka ya kare Abanyashidodi basanga Dagoni yatemvye yubamye imbere y’isandugu y’Uhoraho; barayegura, bayisubiza ahantu hayo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.3",
+            "verseOrgIds": [
+              "1SA.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1SA 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.50.2"
+              },
+              "items": [
+                {
+                  "text": "Yer 50:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.6.4"
+              },
+              "items": [
+                {
+                  "text": "Ezk 6:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.6.6"
+              },
+              "items": [
+                {
+                  "text": "6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MIC.1.7"
+              },
+              "items": [
+                {
+                  "text": "Mik 1:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bukeye bgaho, mu mavyuka ya kare nyene, basanga Dagoni yongeye gutemba yubamye imbere y’isandugu y’Uhoraho, kand’ umutwe n’ibikonjo vyayo vyahimbaguritse vyayivuyeko, bitembagara mu rwinjiriro; hari hasigaye umutumba wayo gusa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.4",
+            "verseOrgIds": [
+              "1SA.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1SA 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEP.1.9"
+              },
+              "items": [
+                {
+                  "text": "Zef 1:9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni co gituma abaherezi ba Dagoni n’uwinjira mu ngoro yayo wese, bitonda kudakandagira mu rwinjiriro rw’ ingoro ya Dagoni yo muri Ashidodi gushitsa n’ubu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.5",
+            "verseOrgIds": [
+              "1SA.5.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1SA 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.5",
+            "verseOrgIds": [
+              "1SA.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1SA 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.6",
+            "verseOrgIds": [
+              "1SA.5.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.9.3"
+              },
+              "items": [
+                {
+                  "text": "Kuv 9:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.6.5"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 6:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.32.4"
+              },
+              "items": [
+                {
+                  "text": "Zab 32:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.13.11"
+              },
+              "items": [
+                {
+                  "text": "Ivyak 13:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maz’ ukuboko kw’Uhoraho gushikamira Abanyashidodi n’abāhakūkira, arabageseza, abatērēra ibihute. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.6",
+            "verseOrgIds": [
+              "1SA.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1SA 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanyashidodi babonye bibaye birtyo baravugana, bat’ Isandugu y’Imana y’Abisirayeli ntikagume muri twebge, kuk’ ukuboko kwayo kudushikamiye, twe na Dagoni imana yacu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.7",
+            "verseOrgIds": [
+              "1SA.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1SA 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.13.3"
+              },
+              "items": [
+                {
+                  "text": "Yos 13:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni kwo gutuma ku baganwa b’Abafilisitiya bose, bakoraniraho barababaza, bati Mbeg’ isandugu y’Imana y’ Abisirayeli tuyigenze dute? Barabishura, bati Ni bayijane i Gati. Nuko bajanay’ iyo sandugu y’ Imana y’Abisirayeli. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.8",
+            "verseOrgIds": [
+              "1SA.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1SA 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.2.15"
+              },
+              "items": [
+                {
+                  "text": "Gus 2:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.6.5"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 6:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.7.13"
+              },
+              "items": [
+                {
+                  "text": "7:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bamaze kuyishikanayo, ukuboko kw’Uhoraho kurwanya ico gisagara, kubaca ivutu; atērēra ibihute abo mur’ ico gisagara, abato n’abakuru, bisēsa ku mibiri yabo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.9",
+            "verseOrgIds": [
+              "1SA.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1SA 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nukw iyo sandugu y’Imana bayirungika i Ekuroni. Igiserukayo, Abanyekuroni bavuza induru, bati Batuzaniye ya sandugu y’Imana y’Abisirayeli ngw itumarane n’ abacu! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.10",
+            "verseOrgIds": [
+              "1SA.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1SA 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni kwo gutuma ku baganwa bose b’Abafilisitiya, bakoraniraho, barababgira, bati Ni murungike iyi sandugu y’Imana y’Abisirayeli, isubire aho yahora, ireke kutumarana n’abacu; kuko mur’ ico gisagara cose urupfu rwari rwabaciye ivutu, kand’ ukuboko kw’Imana kwari kubashikamiye cane. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.11",
+            "verseOrgIds": [
+              "1SA.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1SA 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.6.5"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 6:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abatāpfuye batērērwa ibihute; induru z’ico gisagara zishika mw ijuru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.12",
+            "verseOrgIds": [
+              "1SA.5.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1SA.6",
+    "number": "6",
+    "bookId": "1SA"
+  },
+  "previous": {
+    "id": "1SA.4",
+    "number": "4",
+    "bookId": "1SA"
+  }
+}

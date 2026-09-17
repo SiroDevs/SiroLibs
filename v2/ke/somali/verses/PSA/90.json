@@ -1,0 +1,47 @@
+{
+  "id": "PSA.90",
+  "number": "90",
+  "bookId": "PSA",
+  "reference": "Sabuurrada 90",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "90",
+        "style": "c",
+        "sid": "PSA 90"
+      },
+      "items": [
+        {
+          "text": "90",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kitaabka Afraad",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.91",
+    "number": "91",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.89",
+    "number": "89",
+    "bookId": "PSA"
+  }
+}

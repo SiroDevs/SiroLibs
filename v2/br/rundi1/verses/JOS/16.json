@@ -1,0 +1,93 @@
+{
+  "id": "JOS.16",
+  "number": "16",
+  "bookId": "JOS",
+  "reference": "Yosuwa 16",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "16",
+        "style": "c",
+        "sid": "JOS 16"
+      },
+      "items": [
+        {
+          "text": "16",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JOS 16:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.16.9",
+            "verseOrgIds": [
+              "JOS.16.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JOS 16:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ntibirukanye Abanyakanani baba i Gezeri, gushika n’ubu Abanyakanani baracabana n’Abefurayimu, ariko babakorera nk’abaja.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.16.10",
+            "verseOrgIds": [
+              "JOS.16.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOS.17",
+    "number": "17",
+    "bookId": "JOS"
+  },
+  "previous": {
+    "id": "JOS.15",
+    "number": "15",
+    "bookId": "JOS"
+  }
+}

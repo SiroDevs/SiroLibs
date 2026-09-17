@@ -1,0 +1,550 @@
+{
+  "id": "HAG.1",
+  "number": "1",
+  "bookId": "HAG",
+  "reference": "Hag 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "HAG 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Eitanapishe Olaitoriani pee esheti enkaji e Nkai",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HAG 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.1",
+            "verseOrgIds": [
+              "HAG.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        Esr 4.24–5.2",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZR.6.14"
+              },
+              "items": [
+                {
+                  "text": "6.14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Ore to lari li are le Darias ilo aiguanani, to lapa le ile, te nkolong e dukuya o lapa, eewuo ororei lo Laitoriani aimu Hagai ilo oiboni le Nkai, alotu enetii Serubabel olayioni le Shealtiel, olbalusui le Yuda, o Yoshua olayioni le Yehosadak, ilo apolosani kitok. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.1",
+            "verseOrgIds": [
+              "HAG.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "HAG 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nji ejo Olaitoriani loo lororani: Ejo kulo tung'ana inchere eton eitu ebau enkata pee eigili aashet enkaji o Laitoriani.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.2",
+            "verseOrgIds": [
+              "HAG.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HAG 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Neitoki ororei lo Laitoriani alotu eimu Hagai ilo oiboni le Nkai, ejo, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.3",
+            "verseOrgIds": [
+              "HAG.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HAG 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Kenkata naishiaakino nitonini intae ti atua nena ajijik inyi naaikodo too mbaoi, eton etii ena aji enkidaaroto. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.4",
+            "verseOrgIds": [
+              "HAG.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HAG 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ore naa nji ejo Olaitoriani loo lororani; Entadamu eninkunariri intae. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.5",
+            "verseOrgIds": [
+              "HAG.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "HAG 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ituunishote oleng, nisampumpu nkuti; idaa intae, kake miraposhosho; niokishosho, kake miishushu ae kata enkure; ninchopishopo ate, kake meetae oloirouaju; naa ore ilo ong'amu olmushaara, neng'amu olmushaara nepik embene naudo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.6",
+            "verseOrgIds": [
+              "HAG.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "HAG 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.6",
+            "verseOrgIds": [
+              "HAG.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "HAG 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nji ejo Olaitoriani loo lororani: Entadamu eninkunariri intae. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.7",
+            "verseOrgIds": [
+              "HAG.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "HAG 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Elepa enchom ildoinyo niyauu ilkeek lishetietie ena aji, pee atum atishipakinoyu natum sii ataliooyu te nkitoo ai, Olaitoriani ojo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.8",
+            "verseOrgIds": [
+              "HAG.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "HAG 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Isiligutua intae nkumok, naa ng'ura, etaa kuti; ore pee iyauu intae ang, nakutaa nanu. Aainyo? Olaitoriani loo lororani ojo. Te nkaraki ena aji ai nairragita te nkidaaroto amijoonu, intanyamaluoluo maate oltung'ani ake te nkaji enye makewan. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.9",
+            "verseOrgIds": [
+              "HAG.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "HAG 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ore enkaraki ina, eibooyie keper natii shumata intae enkoiliolio, ore enkop neibooyo ilng'anayio lenyena. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.10",
+            "verseOrgIds": [
+              "HAG.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "HAG 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naipotuo nanu olameyu meeu shumata enkop o ldoinyo, meeu shumata nkurman, o sabibu, o eilata, te nena pooki naabulu te nkop, too ltung'ana o nkishu, o too siaaitin enye pooki.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.11",
+            "verseOrgIds": [
+              "HAG.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Eiruko iltung'ana enkitanapata o Laitoriani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "HAG 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.11",
+            "verseOrgIds": [
+              "HAG.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "HAG 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Neiruk Serubabel olayioni le Shealtiel, o Yoshua olayioni le Yehosadak, ilo apolosani kitok, te nebo nena lekunot oo ltung'ana ilo pisiai pooki loo ltung'ana ororei lo Laitoriani Enkai enye, o rorei le Hagai ilo oiboni le Nkai anaa enairriwayie Olaitoriani Enkai enye ninye; neureishoyu iltung'ana te dukuya Olaitoriani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.12",
+            "verseOrgIds": [
+              "HAG.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "HAG 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Neitoki Hagai, ilo kilikuai lo Laitoriani, airorie iltung'ana to lkilikuai lo Laitoriani, ejo, “Atii nanu te nebo intae, ejo Olaitoriani.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.13",
+            "verseOrgIds": [
+              "HAG.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "HAG 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Neputu Olaitoriani enkiyang'et e Serubabel le Shealtiel, ilo balusui le Yuda, o enkiyang'et e Yoshua olayioni le Yehosadak, ilo apolosani kitok, o enkiyang'et e lelo lekunot pooki loo ltung'ana; nepuonu ninche aas esiaai e ina aji o Laitoriani loo lororani Enkai enye, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.14",
+            "verseOrgIds": [
+              "HAG.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "HAG 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "te nkolong e tikitam o ong'uan o lapa, to lapa le ile.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.15",
+            "verseOrgIds": [
+              "HAG.1.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAG.2",
+    "number": "2",
+    "bookId": "HAG"
+  },
+  "previous": {
+    "id": "HAG.intro",
+    "number": "intro",
+    "bookId": "HAG"
+  }
+}

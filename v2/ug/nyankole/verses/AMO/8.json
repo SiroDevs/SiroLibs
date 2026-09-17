@@ -1,0 +1,147 @@
+{
+  "id": "AMO.8",
+  "number": "8",
+  "bookId": "AMO",
+  "reference": "Amosi 8",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "8",
+        "style": "c",
+        "sid": "AMO 8"
+      },
+      "items": [
+        {
+          "text": "8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 8:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eki nikyo Mukama RUHANGA yaanyorekire. Nkareeba ekiibo ky'ebijuma by'omu kyanda. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.1",
+            "verseOrgIds": [
+              "AMO.8.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "AMO 8:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.24.1"
+              },
+              "items": [
+                {
+                  "text": "Yer 24:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LAM.4.18"
+              },
+              "items": [
+                {
+                  "text": "Tonz 4:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MIC.7.1"
+              },
+              "items": [
+                {
+                  "text": "Mik 7:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Yangira ati: Iwe Amosi, nooreeba ki? Naamugarukamu nti: Nindeeba ekiibo ky'ebijuma by'omu kyanda. MUKAMA nikwo kungira ati:",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.2",
+            "verseOrgIds": [
+              "AMO.8.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.9",
+    "number": "9",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.7",
+    "number": "7",
+    "bookId": "AMO"
+  }
+}

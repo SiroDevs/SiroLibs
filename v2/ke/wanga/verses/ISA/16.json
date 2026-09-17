@@ -1,0 +1,118 @@
+{
+  "id": "ISA.16",
+  "number": "16",
+  "bookId": "ISA",
+  "reference": "Isaya 16",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "16",
+        "style": "c",
+        "sid": "ISA 16"
+      },
+      "items": [
+        {
+          "text": "16",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 16:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.16.12",
+            "verseOrgIds": [
+              "ISA.16.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 16:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lino nilio likhuwa elia OMWAMI yaboola khuMoabu khale. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.16.13",
+            "verseOrgIds": [
+              "ISA.16.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ISA 16:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ne bulaano OMWAMI yaboolile ari Emiyika nichishilo okhubira chitaru, shinga emiyika chiomukholi womushaara, oluyali iwaMoabu lulaiwolwa kata olwa abandube bali abanji; nomusikalo kulaba omutuutu muno, okurapaarwakhwo ta.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.16.14",
+            "verseOrgIds": [
+              "ISA.16.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.17",
+    "number": "17",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.15",
+    "number": "15",
+    "bookId": "ISA"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "JER.47",
+  "number": "47",
+  "bookId": "JER",
+  "reference": "Yeremiya 47",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "47",
+        "style": "c",
+        "sid": "JER 47"
+      },
+      "items": [
+        {
+          "text": "47",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Giijasta NG'UTAMIIDA aba badayda Filisti",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 47:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ng'asheanda NG'UTAMIIDA weah heeda Yeremiya was sibaneeda aba badayda fuga Filisti, gheata mii ghabwara Farao Gaasa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.47.1",
+            "verseOrgIds": [
+              "JER.47.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.48",
+    "number": "48",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.46",
+    "number": "46",
+    "bookId": "JER"
+  }
+}

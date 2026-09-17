@@ -1,0 +1,81 @@
+{
+  "id": "PSA.17",
+  "number": "17",
+  "bookId": "PSA",
+  "reference": "Ësabhuri 17",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "17",
+        "style": "c",
+        "sid": "PSA 17"
+      },
+      "items": [
+        {
+          "text": "17",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Irisabhi riö ömöntö umuuya",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 17:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wei ÖMÖNENE, tanyiguëra ëng'ana yaane yö öbhöheene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.1",
+            "verseOrgIds": [
+              "PSA.17.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.18",
+    "number": "18",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.16",
+    "number": "16",
+    "bookId": "PSA"
+  }
+}

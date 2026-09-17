@@ -1,0 +1,216 @@
+{
+  "id": "AMO.2",
+  "number": "2",
+  "bookId": "AMO",
+  "reference": "Amosi 2",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "AMO 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uku ni ko ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.2.1",
+            "verseOrgIds": [
+              "AMO.2.1"
+            ]
+          }
+        },
+        {
+          "text": " avuze:",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.2.1",
+            "verseOrgIds": [
+              "AMO.2.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "AMO 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.2.3",
+            "verseOrgIds": [
+              "AMO.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "AMO 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uku ni ko ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.2.4",
+            "verseOrgIds": [
+              "AMO.2.4"
+            ]
+          }
+        },
+        {
+          "text": " avuze:",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.2.4",
+            "verseOrgIds": [
+              "AMO.2.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "AMO 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.2.5",
+            "verseOrgIds": [
+              "AMO.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "AMO 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uku ni ko ",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.2.6",
+            "verseOrgIds": [
+              "AMO.2.6"
+            ]
+          }
+        },
+        {
+          "text": " avuze:",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.2.6",
+            "verseOrgIds": [
+              "AMO.2.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.3",
+    "number": "3",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.1",
+    "number": "1",
+    "bookId": "AMO"
+  }
+}

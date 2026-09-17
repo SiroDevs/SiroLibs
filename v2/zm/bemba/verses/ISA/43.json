@@ -1,0 +1,153 @@
+{
+  "id": "ISA.43",
+  "number": "43",
+  "bookId": "ISA",
+  "reference": "Esaya 43",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "43",
+        "style": "c",
+        "sid": "ISA 43"
+      },
+      "items": [
+        {
+          "text": "43",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ISA 43:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.43.15",
+            "verseOrgIds": [
+              "ISA.43.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ISA 43:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ifi efyasosa Yawe ukuti,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.43.16",
+            "verseOrgIds": [
+              "ISA.43.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ISA 43:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.43.21",
+            "verseOrgIds": [
+              "ISA.43.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "ISA 43:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yawe aletila ati,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.43.22",
+            "verseOrgIds": [
+              "ISA.43.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.44",
+    "number": "44",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.42",
+    "number": "42",
+    "bookId": "ISA"
+  }
+}

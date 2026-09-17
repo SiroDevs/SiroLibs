@@ -1,0 +1,628 @@
+{
+  "id": "1SA.21",
+  "number": "21",
+  "bookId": "1SA",
+  "reference": "1 Sam 21",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "21",
+        "style": "c",
+        "sid": "1SA 21"
+      },
+      "items": [
+        {
+          "text": "21",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Daudi nairuka Saulo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1SA 21:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.21.1",
+            "verseOrgIds": [
+              "1SA.21.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.12.3"
+              },
+              "items": [
+                {
+                  "text": "Mat 12:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.12.4"
+              },
+              "items": [
+                {
+                  "text": "4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.2.25"
+              },
+              "items": [
+                {
+                  "text": "Mar 2:25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MRK.2.26"
+              },
+              "items": [
+                {
+                  "text": "26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.6.3"
+              },
+              "items": [
+                {
+                  "text": "Luk 6:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hanyuma nubwo yagenzire Nobbu, hali Ahimereki nyakatagara; Ahimereki yaija kumutangirra naatukumira, yamukaguza ati: “Kiki ekikuleesire wenka otaina muntu?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.21.1",
+            "verseOrgIds": [
+              "1SA.21.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1SA 21:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi yamugarukamu ati: “Omukama aina ekiyantumire; ‘kandi akanteererra ekintu eki, ekiyantumire kandi ekiyandagiire kutakigambiraho muntu noomu.’ Abasigazi bange, ndagaine nabo nti: Turaasaangaana omukiikaro bunanka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.21.2",
+            "verseOrgIds": [
+              "1SA.21.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1SA 21:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yamukaguza ati: Oina ki? Mpa emigaati etaano, rundi ekintu ekindi kyona ekyoinakyo.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.21.3",
+            "verseOrgIds": [
+              "1SA.21.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1SA 21:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyakatagara yagarukamu Daudi ati: “Tinyina mugaati ogwa butoosa, nyina omugaati ogurukwera; abasaija bawe obubaraaba bamazire ebiro ebihingwire batarukweyiriza haihi bakazi, nugwo nkuhe.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.21.4",
+            "verseOrgIds": [
+              "1SA.21.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1SA 21:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi yagarukamu nyakatagara ati: “Obumba ningenda orugendo, tufuuhiza kimu abakazi; noobu tuba nitugenda orugendo orwa butoosa, ebikwato eby'abasigazi biikara nibyera, kandi kaaswa hati, tibayere kukiraho muno?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.21.5",
+            "verseOrgIds": [
+              "1SA.21.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1SA 21:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.24.5+LEV.24.6+LEV.24.7+LEV.24.8+LEV.24.9"
+              },
+              "items": [
+                {
+                  "text": "Lev 24:5-9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyakatagara nukwo kuha Daudi omugaati ogurukwera; habwokuba omugaati ogwakaba ainagwo, nugwo ogu ogukaba guhongiirwe MUKAMA, ogwaihirwe ha meeza erukwera, omukiikaro kyagwo haagarurwamu ogundi ogwakaruga kucumbwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.21.6",
+            "verseOrgIds": [
+              "1SA.21.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1SA 21:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.21.6",
+            "verseOrgIds": [
+              "1SA.21.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1SA 21:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kiro eki, omusaija omu ha baheereza ba Saulo, ayamazire akasumi ali omu maiso ga Mukama, yasangwaho; ibara ly'omusaija ogu nuwe Dohegi Omwedomu, mukuru w'abaliisa ba Saulo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.21.7",
+            "verseOrgIds": [
+              "1SA.21.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1SA 21:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.21.7",
+            "verseOrgIds": [
+              "1SA.21.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1SA 21:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi, yakaguza Ahimereki ati: “Oina icumu rundi empirima okagimpa? Omukama andagiirege kwimukya bwango, nukwo kutasobora kuleeta empirima yange, rundi ekyokurwanisa kyange ekindi.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.21.8",
+            "verseOrgIds": [
+              "1SA.21.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1SA 21:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.17.51"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 17:51",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyakatagara yagarukamu Daudi ati: “Empirima ya Golyasi omufirisiti ou wanagire omukihanga kya Era, ngiri esemberwe omurugoye, enyuma y'efodi; obworaaba nogyenda, gitwale. Eki nikyo eky'okurwanisa kyonka ekinyinaho.” Daudi yagarukamu ati: “Gimpe, tiharoho mpirima erukukira egi.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.21.9",
+            "verseOrgIds": [
+              "1SA.21.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1SA 21:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.21.9",
+            "verseOrgIds": [
+              "1SA.21.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1SA 21:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kiro eki, Daudi yairuka yaruga omunsi ya Saulo yagenda omwa Akisi omukama wa Gaasi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.21.10",
+            "verseOrgIds": [
+              "1SA.21.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1SA 21:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.18.7"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 18:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.29.5"
+              },
+              "items": [
+                {
+                  "text": "29:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abaheereza ba Akisi baayekaguza bati: “Ogu tali nuwe Daudi omukama w'ensi ey'owabu? Tali nuwe ogu abakazi ou baagambaga nibazina ngu:",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.21.11",
+            "verseOrgIds": [
+              "1SA.21.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1SA.22",
+    "number": "22",
+    "bookId": "1SA"
+  },
+  "previous": {
+    "id": "1SA.20",
+    "number": "20",
+    "bookId": "1SA"
+  }
+}

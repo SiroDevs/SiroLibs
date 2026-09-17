@@ -1,0 +1,106 @@
+{
+  "id": "EZK.15",
+  "number": "15",
+  "bookId": "EZK",
+  "reference": "Esek. 15",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "15",
+        "style": "c",
+        "sid": "EZK 15"
+      },
+      "items": [
+        {
+          "text": "15",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ekitoe a epiini ŋolo emam ajokis",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EZK 15:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.15.5",
+            "verseOrgIds": [
+              "EZK.15.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EZK 15:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aŋun, ŋakiro ŋuna irworo Ekapolon Akuj ikes nu, “Lopite ŋolopei elemunere akitoe a epiini alokito a ŋulu ka amoni kinokae,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.15.6",
+            "verseOrgIds": [
+              "EZK.15.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EZK.16",
+    "number": "16",
+    "bookId": "EZK"
+  },
+  "previous": {
+    "id": "EZK.14",
+    "number": "14",
+    "bookId": "EZK"
+  }
+}

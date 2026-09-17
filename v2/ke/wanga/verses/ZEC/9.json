@@ -1,0 +1,107 @@
+{
+  "id": "ZEC.9",
+  "number": "9",
+  "bookId": "ZEC",
+  "reference": "Zakaria 9",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "9",
+        "style": "c",
+        "sid": "ZEC 9"
+      },
+      "items": [
+        {
+          "text": "9",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Obuyaasibwi bwamahanga akarondokhanaho",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEC 9:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omusiiko omusitohu; mbu amakhuwa kOMWAMI kali khushialo shiaHadarakhu, khandi kalayeela khuDamasiko;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.9.1",
+            "verseOrgIds": [
+              "ZEC.9.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Omuruchi waSayuni ouli okhwitsa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Sayuni okhukalusibwa habwene",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEC.10",
+    "number": "10",
+    "bookId": "ZEC"
+  },
+  "previous": {
+    "id": "ZEC.8",
+    "number": "8",
+    "bookId": "ZEC"
+  }
+}

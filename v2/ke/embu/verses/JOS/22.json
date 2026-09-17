@@ -1,0 +1,1262 @@
+{
+  "id": "JOS.22",
+  "number": "22",
+  "bookId": "JOS",
+  "reference": "Josh 22",
+  "verseCount": 34,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "22",
+        "style": "c",
+        "sid": "JOS 22"
+      },
+      "items": [
+        {
+          "text": "22",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mîvîrîga ya mwena wa îrathîro nîyetîkîrue îcoke kwao mîciî",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOS 22:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Joshua nîwacokire agîta andû a mûvîrîga wa Reubeni, Gadi, na Manase a mwena wa îrathîro vamwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.1",
+            "verseOrgIds": [
+              "JOS.22.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JOS 22:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.32.20+NUM.32.21+NUM.32.22+NUM.32.23+NUM.32.24+NUM.32.25+NUM.32.26+NUM.32.27+NUM.32.28+NUM.32.29+NUM.32.30+NUM.32.31+NUM.32.32"
+              },
+              "items": [
+                {
+                  "text": "Nda 32.20-32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.1.12+JOS.1.13+JOS.1.14+JOS.1.15"
+              },
+              "items": [
+                {
+                  "text": "Josh 1.12-15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Nîwamerire atîrî, “Mue nîmwîkîte maûndû monthe marîa Musa ndungata ya Ngai-Mûnene aamwathire mwîke na nîmwathîkîrîte maathani makwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.2",
+            "verseOrgIds": [
+              "JOS.22.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JOS 22:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Îvinda rîu rîonthe we mûtiatiganîria andû enyu Aisiraeli, nwatî mwîthîrîtwe mûkîathîkîra ûrîa Ngai-Mûnene, Ngai wenyu amwwathire. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.3",
+            "verseOrgIds": [
+              "JOS.22.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JOS 22:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rîu Ngai-Mûnene, Ngai wenyu nîatûmîte andû enyu Aisiraeli matûûre marî na thayû wata ûrîa aameerîre. Kwoguo thiîni kwenyu mûciî vûrûrirî ûrîa watuîkire waku. Vûrûri ûcio nî ûrîa Musa ndungata ya Ngai-Mûnene aamûveere mûringo ûrîa wîngî wa rûnjî rwa Jorodani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.4",
+            "verseOrgIds": [
+              "JOS.22.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JOS 22:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Menyerera mwathîkagîre maathani na mawatho marîa Musa aamwathire. Aamwathire mwendage Ngai-Mûnene, Ngai wenyu, mûrûmagîrîre njîra ciake cionthe, mwathîkagîre maathani make, mwîthagîrwe mûrî evokeku kûrî ke na ûmûtungatagîre na ngoro cienyu cionthe na vinya wenyu wonthe.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.5",
+            "verseOrgIds": [
+              "JOS.22.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOS 22:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwoguo Joshua nîwamarathimire na akîmeera mathiî. Nao nîmaathiîre kwao mîciî. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.6",
+            "verseOrgIds": [
+              "JOS.22.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JOS 22:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa nîwagaîrîte nuthu îmwe ya mûvîrîga wa Manase vûrûri wa Bashani, nwatî nuthu îo îngî ya mûvîrîga wa Manase aamaveere mwena wa îthûîro wa rûnjî rwa Jorodani vakuvî na aa mûrwang'ina. Na rîrîa Joshua aamarathimire na akîmeera mathiî kwao mîciî ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.7",
+            "verseOrgIds": [
+              "JOS.22.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JOS 22:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nîwamerire atîrî, “Nîmûcoka kwenyu mîciî mûrî atongu mûno. Nîmûthiî na ndîthia nene, sîlûva, thaavu, gîcango, cuuma na nguo nyîngî. Mwakinya mûkagaana na andû enyu indo icio mwatavire kuuma kûrî nthû cienyu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.8",
+            "verseOrgIds": [
+              "JOS.22.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JOS 22:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.8",
+            "verseOrgIds": [
+              "JOS.22.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JOS 22:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwoguo andû a mûvîrîga wa Reubeni, Gadi na nuthu ya mûvîrîga wa Manase mwena wa îrathîro, nîmaatigire andû acio engî a Isiraeli kûu Shilo vûrûrirî wa Kanaani makîthiî kwao vûrûrirî wa Gileadi. Vûrûri ûcio nîguo megwatîre wata ûrîa Ngai-Mûnene aathanîte kûvîtûkîra kûrî Musa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.9",
+            "verseOrgIds": [
+              "JOS.22.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Metha ya kîgongoona nîyatumirwe vakuvî na rûnjî rwa Jorodani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JOS 22:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.9",
+            "verseOrgIds": [
+              "JOS.22.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JOS 22:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Vîndî îrîa andû a mûvîrîga wa Reubeni na wa Gadi na nuthu îmwe ya mûvîrîga wa Manase maakinyire Gelilothu vakuvî na rûnjî rwa Jorodani, nîmaatumire metha nene mbaro ya kîgongoona. Vîndî îo maarî mwena wa îthûîro wa rûnjî rwa Jorodani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.10",
+            "verseOrgIds": [
+              "JOS.22.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JOS 22:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao andû acio engî a Isiraeli nîmeerirwe atîrî, “Tathikîrîriani! Andû a mûvîrîga wa Reubeni, Gadi na Manase a mwena wa îrathîro nîmatumîte metha ya kîgongoona îtûûrarî rîa Gelilothu mwena wetû wa rûnjî rwa Jorodani.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.11",
+            "verseOrgIds": [
+              "JOS.22.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JOS 22:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Vîndî îrîa andû a Isiraeli megwire ûvoro ûcio, onthe nîmaagomanire vamwe kûu Shilo, nîguo makarûe na mîvîrîga îo îngî ya mwena wa îrathîro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.12",
+            "verseOrgIds": [
+              "JOS.22.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JOS 22:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.12",
+            "verseOrgIds": [
+              "JOS.22.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JOS 22:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andû a Isiraeli nîmaacokire magîtûma Finehasi, mûvîcî wa Eleazaru ûrîa warî mûthînjîri-Ngai kûrî andû a mûvîrîga wa Reubeni, Gadi na nuthu ya Manase vûrûrirî wa Gileadi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.13",
+            "verseOrgIds": [
+              "JOS.22.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JOS 22:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Finehasi nîwathiîcanirie na anene îkûmi. Na wa mûnene aarî mûtongoria wa mbarî îmwe ya mîvîrîga îkûmi ya andû a Isiraeli mwena wa îthûîro. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.14",
+            "verseOrgIds": [
+              "JOS.22.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JOS 22:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao nîmaathiîre Gileadi kûrî andû a Reubeni, Gadi na nuthu ya mûvîrîga wa Manase a mwena wa îrathîro. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.15",
+            "verseOrgIds": [
+              "JOS.22.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JOS 22:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.12.13+DEU.12.14"
+              },
+              "items": [
+                {
+                  "text": "Gûco 12.13-14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Nîmaaririe vandûrî va andû onthe a Ngai-Mûnene na nîmaaûririe atîrî, “Nîkwa mûrekire ûndû ûyû mûcûku ûguo wa kûregana na Ngai wa Isiraeli nîkî na mûgîîtumîra metha ya kîgongoona? Mue mûtiramûrûmîrîra. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.16",
+            "verseOrgIds": [
+              "JOS.22.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JOS 22:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.25.1+NUM.25.2+NUM.25.3+NUM.25.4+NUM.25.5+NUM.25.6+NUM.25.7+NUM.25.8+NUM.25.9"
+              },
+              "items": [
+                {
+                  "text": "Nda 25.1-9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Taririkanani mevia marîa twekire Peori. Ngai-Mûnene nîwaverithirie andû ake na njîra ya gûtûma kûgîe mûrimû ûrîa waûragire andû eengî. Wana rîu nwa tûrathînîka nîûndû wa mevia mau. Wîvia ûcio anga warî mûnini? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.17",
+            "verseOrgIds": [
+              "JOS.22.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JOS 22:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ûmûnthî mûngîrega kûrûmîrîra Ngai-Mûnene na mûregane nake, rûyû nî akaarakara nî andû onthe a Isiraeli. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.18",
+            "verseOrgIds": [
+              "JOS.22.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JOS 22:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nwatî ethîrwa vûrûri wenyu tî mwagîrîru wa kûgoocagîrwa, ûkani vûrûrirî wa Ngai-Mûnene kûrîa Îgema rîake rîrî. Ûkani vûrûrirî wetû na mûthuure vandû mûngîtûûra. Mûtikaregane na Ngai-Mûnene na mûtûme wanatue tûtuîka evia a kûregana nake. Mûtigatume metha îngî ya kîgongoona nîûndû kûrî na metha ya kîgongoona ya Ngai-Mûnene, Ngai wetû. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.19",
+            "verseOrgIds": [
+              "JOS.22.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "JOS 22:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.7.1+JOS.7.2+JOS.7.3+JOS.7.4+JOS.7.5+JOS.7.6+JOS.7.7+JOS.7.8+JOS.7.9+JOS.7.10+JOS.7.11+JOS.7.12+JOS.7.13+JOS.7.14+JOS.7.15+JOS.7.16+JOS.7.17+JOS.7.18+JOS.7.19+JOS.7.20+JOS.7.21+JOS.7.22+JOS.7.23+JOS.7.24+JOS.7.25+JOS.7.26"
+              },
+              "items": [
+                {
+                  "text": "Josh 7.1-26",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Taririkanani ûrîa Akani mûvîcî wa Zera aaregire kwîvokeka maûndûrî megiî indo irîa ciatuîtwe icûkangue. Andû onthe a Isiraeli nîmaaverithirue nîûndû wa ûndû ûcio. Kwoguo tî Akani wenga wakuire nîûndû wa mevia make.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.20",
+            "verseOrgIds": [
+              "JOS.22.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "JOS 22:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.20",
+            "verseOrgIds": [
+              "JOS.22.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "JOS 22:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andû a mîvîrîga ya Reubeni, Gadi na nuthu ya mûvîrîga wa Manase nîmaacokerie atongoria a Aisiraeli atîrî, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.21",
+            "verseOrgIds": [
+              "JOS.22.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "JOS 22:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ngai Ûmwe ûrîa ûrî Vinya, nîke Ngai-Mûnene! Ngai Ûmwe ûrîa ûrî Vinya, nîke Ngai-Mûnene! Ke nîwicî kîrîa gîatûmire twîke ûguo na nîtûkwenda wanamue mûmenye. Ethîrwa nîtwekire ûndû mûcûku na tûkîthûkia kîrîkanîro gîetû na Ngai-Mûnene, ndûkareke tûtûûra mwoyo! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.22",
+            "verseOrgIds": [
+              "JOS.22.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "JOS 22:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ethîrwa nîtwaregire kwathîkîra Ngai-Mûnene na tûgîtuma metha yetû ya kîgongoona nîguo tûrutagîre magongoona ma kûvîvua kana magongoona ma irio kana ma thayû vo, Ngai-Mûnene ke mwene arotûverithia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.23",
+            "verseOrgIds": [
+              "JOS.22.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "JOS 22:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nwatî tîguo kûrî! Twekire ûguo nîûndû nîtwetigagîra atî mavinda marîa magaaûka njiarwa cienyu nîikaaûria njiarwa cietû atî: ‘Nîmwenda atîa na Ngai-Mûnene, Ngai wa Isiraeli? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.24",
+            "verseOrgIds": [
+              "JOS.22.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "JOS 22:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai-Mûnene nîwathondekire rûnjî rwa Jorodani rûtuîke mûvaka wa andû a mûvîrîga wa Reubeni na Gadi. Mue mûtiagîrîrwe nî kûgooca Ngai-Mûnene.’ Nacio njiarwa cienyu nwa itûme njiarwa cietû itiga kûgooca Ngai-Mûnene. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.25",
+            "verseOrgIds": [
+              "JOS.22.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "JOS 22:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kîu nîkîo gîatûmire tûtuma metha ya kîgongoona. Tûtiamîtuma îrî ya kûrutîra magongoona ma kûvîvua kana ya kûrutîra matega. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.26",
+            "verseOrgIds": [
+              "JOS.22.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "JOS 22:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Vandû va ûguo, twatumire metha ya kîgongoona ûrî ûira wa kwonia njiarwa cietû na cienyu na njiarwa irîa igaûka atî nîtûgoocaga Ngai-Mûnene tûrî îgemarî rîake rîtheru. Tûretaga matega metû îgemarî rîake rîtheru nîguo mavîvue na tûrî na magongoona na matega ma thayû. Ûndû ûcio warî wa gûtûma njiarwa cienyu itikeere njiarwa cietû atî tue tûtirî a Ngai-Mûnene. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.27",
+            "verseOrgIds": [
+              "JOS.22.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "JOS 22:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tweciragia atî ethîrwa ûndû ûcio nîûgekîka, njiarwa cietû nîikaauga atî, ‘Taroria! Methe metû maatumire metha ya kîgongoona îkariî ta metha ya Ngai-Mûnene ya kîgongoona. Ndîarî ya kûrutîra matega ma kûvîvua kana ya kûrutîra magongoona, nwatî maamîtumire ûrî ûndû wa kwonania atî wanatue tûrî a Ngai-Mûnene’. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.28",
+            "verseOrgIds": [
+              "JOS.22.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "JOS 22:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tûtingîregana na Ngai-Mûnene na tûtume metha ya kîgongoona îngî îrîa îngîrutîrwa magongoona, tiga îrîa ya Ngai-Mûnene, Ngai wetû îrîa îrî mbere ya îgema rîake rîa gûtûnganwa.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.29",
+            "verseOrgIds": [
+              "JOS.22.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "JOS 22:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.29",
+            "verseOrgIds": [
+              "JOS.22.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "JOS 22:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rîrîa Finehasi ûrîa warî mûthînjîri-Ngai na atongoria îkûmi arîa maarî nake na anene a mîvîrîga îrîa yarî mwena wa îthûîro megwire ûrîa andû a mûvîrîga wa Reubeni, Gadi na Manase ya mwena wa îrathîro maaugire nîmaakenire. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.30",
+            "verseOrgIds": [
+              "JOS.22.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "JOS 22:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Finehasi mûvîcî wa Eliazaru mûthînjîri-Ngai nîwamerire atîrî, “Rîu nîtwamenya atî Ngai-Mûnene arî natue. Mûtinaregana nake, kwoguo nîmwavonokia andû a Isiraeli kuuma kûrî îverithia rîake.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.31",
+            "verseOrgIds": [
+              "JOS.22.31"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "JOS 22:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.31",
+            "verseOrgIds": [
+              "JOS.22.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "JOS 22:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Finehasi na atongoria arîa maarî nake nîmaatigire andû a mûvîrîga wa Reubeni na Gadi vûrûrirî wa Gileadi. Nîmaacokire Kanaani kûrî andû a Isiraeli na makîmeera ûrîa maûndû monthe meekîkîte. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.32",
+            "verseOrgIds": [
+              "JOS.22.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "JOS 22:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andû a Isiraeli nîmaakenire na magîkumia Ngai nîûndû wa ûguo gwekîkire. Nao matianacoka kwaria ûvoro wîgiî kûrûa na andû a mûvîrîga ya Reubeni na Gadi na gûcûkangia vûrûri ûrîa maatûûraga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.33",
+            "verseOrgIds": [
+              "JOS.22.33"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "JOS 22:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.33",
+            "verseOrgIds": [
+              "JOS.22.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "JOS 22:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andû a mûvîrîga wa Reubeni na a mûvîrîga wa Gadi nîmaaugire atîrî, “Metha îno ya kîgongoona nî ûira kûrî tue tuonthe atî Ngai-Mûnene nî Ngai.” Nao nîmaamîtuîrîre rîîtwa “Ûira.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.22.34",
+            "verseOrgIds": [
+              "JOS.22.34"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOS.23",
+    "number": "23",
+    "bookId": "JOS"
+  },
+  "previous": {
+    "id": "JOS.21",
+    "number": "21",
+    "bookId": "JOS"
+  }
+}

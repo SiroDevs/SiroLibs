@@ -1,0 +1,912 @@
+{
+  "id": "ZEP.2",
+  "number": "2",
+  "bookId": "ZEP",
+  "reference": "Zefaniya 2",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "ZEP 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Bahugurirwa gushaka Uwiteka bicisha bugufi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEP 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nimuteranire hamwe, ni ukuri muterane mwa bwoko butagira isoni mwe, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.1",
+            "verseOrgIds": [
+              "ZEP.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ZEP 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ibyategetswe bitarasohora, umunsi utarahita nk'umurama ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.2",
+            "verseOrgIds": [
+              "ZEP.2.2"
+            ]
+          }
+        },
+        {
+          "text": ", kandi uburakari bukaze bw'Uwiteka butarabageraho, n'umunsi w'uburakari bw'Uwiteka utarabageraho. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.2",
+            "verseOrgIds": [
+              "ZEP.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ZEP 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mushake Uwiteka mwa bagwaneza bo mu isi mwese mwe, bakomeza amategeko ye. Mushake gukiranuka, mushake no kugwa neza, ahari muzahishwa ku munsi w'uburakari bw'Uwiteka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.3",
+            "verseOrgIds": [
+              "ZEP.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ZEP 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.3",
+            "verseOrgIds": [
+              "ZEP.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ZEP 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.4",
+            "verseOrgIds": [
+              "ZEP.2.4"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.14.29+ISA.14.30+ISA.14.31"
+              },
+              "items": [
+                {
+                  "text": "Yes 14.29-31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.47.1+JER.47.2+JER.47.3+JER.47.4+JER.47.5+JER.47.6+JER.47.7"
+              },
+              "items": [
+                {
+                  "text": "Yer 47.1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.25.15+EZK.25.16+EZK.25.17"
+              },
+              "items": [
+                {
+                  "text": "Ezek 25.15-17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOL.4.4+JOL.4.5+JOL.4.6+JOL.4.7+JOL.4.8"
+              },
+              "items": [
+                {
+                  "text": "Yow 4.4-8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.6+AMO.1.7+AMO.1.8"
+              },
+              "items": [
+                {
+                  "text": "Amosi 1.6-8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.9.5+ZEC.9.6+ZEC.9.7"
+              },
+              "items": [
+                {
+                  "text": "Zek 9.5-7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " I Gaza hazarekwa, na Ashikeloni hazaba umusaka, abo kuri Ashidodi bazirukanwa ku manywa y'ihangu, na Ekuroni hazasenywa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.4",
+            "verseOrgIds": [
+              "ZEP.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ZEP 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abatuye ku nkombe z'inyanja ubwoko bw'Abakereti bazagusha ishyano! Ijambo ry'Uwiteka riri kuri mwe, Banyakanāni mwe: “Igihugu cy'Abafilisitiya nzakirimbura he kugira uhasigara.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.5",
+            "verseOrgIds": [
+              "ZEP.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ZEP 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ibibaya byo ku nyanja bizaba ibyanya, bibemo ibiraro by'abashumba n'ibikumba by'intama. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.6",
+            "verseOrgIds": [
+              "ZEP.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ZEP 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ibibaya byo ku nyanja bizaba iby'abasigaye bo mu nzu ya Yuda, ni ho bazaragira intama zabo. Bazajya barara mu mazu ya Ashikeloni, kuko Uwiteka azabagenderera akagarura abajyanywe ari imbohe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.7",
+            "verseOrgIds": [
+              "ZEP.2.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ZEP 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.7",
+            "verseOrgIds": [
+              "ZEP.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ZEP 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.8",
+            "verseOrgIds": [
+              "ZEP.2.8"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n        Yes 15.1—16.14",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.25.10+ISA.25.11+ISA.25.12"
+              },
+              "items": [
+                {
+                  "text": "25.10-12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "Yer 48.1—49.6",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.21.33+EZK.21.34+EZK.21.35+EZK.21.36+EZK.21.37"
+              },
+              "items": [
+                {
+                  "text": "Ezek 21.33-37",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.25.1+EZK.25.2+EZK.25.3+EZK.25.4+EZK.25.5+EZK.25.6+EZK.25.7+EZK.25.8+EZK.25.9+EZK.25.10+EZK.25.11"
+              },
+              "items": [
+                {
+                  "text": "25.1-11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.1.13+AMO.1.14+AMO.1.15"
+              },
+              "items": [
+                {
+                  "text": "Amosi 1.13-15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Uwiteka Nyiringabo Imana ya Isirayeli iravuga iti “Numvise ibitutsi by'Abamowabu no kwiyenza kwa bene Amoni, batutse ubwoko bwanjye, bakarenga urugabano rwabo babasuzuguye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.8",
+            "verseOrgIds": [
+              "ZEP.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEP 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.19.24"
+              },
+              "items": [
+                {
+                  "text": "Itang 19.24",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Ni cyo gituma nirahiye, ni ukuri Mowabu hazamera nk'i Sodomu, na bene Amoni nk'i Gomora, ahantu huzuye ibisura n'ibigugu by'imyunyu, habe ikidaturwa iteka ryose. Bazasahurwa n'abasigaye bo mu bantu banjye, kandi bazatwarwa n'abarokotse bo mu bwoko bwanjye.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.9",
+            "verseOrgIds": [
+              "ZEP.2.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEP 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.9",
+            "verseOrgIds": [
+              "ZEP.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ZEP 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ibyo ni byo bazīturirwa ubwibone bwabo, kuko batukaga ubwoko bw'Uwiteka Nyiringabo, bakabīrātaho. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.10",
+            "verseOrgIds": [
+              "ZEP.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ZEP 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uwiteka azababera igiteye ubwoba, kuko azatera ubwonde ibigirwamana byo mu isi byose, kandi abantu bazamusenga, umuntu wese azava iwe ndetse n'abo mu birwa by'abanyamahanga byose.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.11",
+            "verseOrgIds": [
+              "ZEP.2.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ZEP 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.11",
+            "verseOrgIds": [
+              "ZEP.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ZEP 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.12",
+            "verseOrgIds": [
+              "ZEP.2.12"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.18.1+ISA.18.2+ISA.18.3+ISA.18.4+ISA.18.5+ISA.18.6+ISA.18.7"
+              },
+              "items": [
+                {
+                  "text": "Yes 18.1-7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Namwe Abanyetiyopiya, nzabisha inkota yanjye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.12",
+            "verseOrgIds": [
+              "ZEP.2.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ZEP 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.12",
+            "verseOrgIds": [
+              "ZEP.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ZEP 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.13",
+            "verseOrgIds": [
+              "ZEP.2.13"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.10.5+ISA.10.6+ISA.10.7+ISA.10.8+ISA.10.9+ISA.10.10+ISA.10.11+ISA.10.12+ISA.10.13+ISA.10.14+ISA.10.15+ISA.10.16+ISA.10.17+ISA.10.18+ISA.10.19+ISA.10.20+ISA.10.21+ISA.10.22+ISA.10.23+ISA.10.24+ISA.10.25+ISA.10.26+ISA.10.27+ISA.10.28+ISA.10.29+ISA.10.30+ISA.10.31+ISA.10.32+ISA.10.33+ISA.10.34"
+              },
+              "items": [
+                {
+                  "text": "Yes 10.5-34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.14.24+ISA.14.25+ISA.14.26+ISA.14.27"
+              },
+              "items": [
+                {
+                  "text": "14.24-27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "Nah 1.1—3.19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Kandi azaramburira ukuboko kwe aherekera ikasikazi arimbure Ashuri, i Nineve azahahindura amatongo, hume nko mu mburamazi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.13",
+            "verseOrgIds": [
+              "ZEP.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ZEP 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Imikumbi izagiramo ibiraro byayo n'inyamaswa z'amoko yose zihabone ibikumba, ndetse n'uruyongoyongo n'ikinyogote bizaba mu nkomanizo z'amazu yaho, amajwi yabyo azumvikanira mu madirishya, mu miryango yaho hazaba hasenyutse kuko yatamuruye iby'imyerezi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.14",
+            "verseOrgIds": [
+              "ZEP.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ZEP 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uwo ni wa murwa wishimaga, wadabagiraga ukibwira mu mutima uti, “Ni jye, nta wundi uriho kereka jye.” Ko hahindutse amatongo, n'ahantu hasigaye hararwa n'inyamaswa! Uzahanyura wese azahatangarira yimyoze, ahamamishe ukuboko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.15",
+            "verseOrgIds": [
+              "ZEP.2.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEP.3",
+    "number": "3",
+    "bookId": "ZEP"
+  },
+  "previous": {
+    "id": "ZEP.1",
+    "number": "1",
+    "bookId": "ZEP"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "AMO.4",
+  "number": "4",
+  "bookId": "AMO",
+  "reference": "Amosi 4",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "AMO 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Emi eri e’yo ’diri, emi ti Basani ovupi oni Samariari ma dria, ’ba alioru inzapi, ’ba afa kokoru ’diyi ma dri otupi, ’yopi opi emini ma tia kini, Emi cii, ama ma mvu! ’diyi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.4.1",
+            "verseOrgIds": [
+              "AMO.4.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.5",
+    "number": "5",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.3",
+    "number": "3",
+    "bookId": "AMO"
+  }
+}

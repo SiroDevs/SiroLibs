@@ -1,0 +1,94 @@
+{
+  "id": "ISA.41",
+  "number": "41",
+  "bookId": "ISA",
+  "reference": "Isaya 41",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "41",
+        "style": "c",
+        "sid": "ISA 41"
+      },
+      "items": [
+        {
+          "text": "41",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 41:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Waaqi waan jed'u,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.41.1",
+            "verseOrgIds": [
+              "ISA.41.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Aka AABBO Waaqi, waaqa d'ara goyeesu:",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Hojatu AABBO Waaqaa",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.42",
+    "number": "42",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.40",
+    "number": "40",
+    "bookId": "ISA"
+  }
+}

@@ -1,0 +1,995 @@
+{
+  "id": "EXO.2",
+  "number": "2",
+  "bookId": "EXO",
+  "reference": "Kurug 2",
+  "verseCount": 25,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "EXO 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Okuzaarwa kwa Musa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EXO 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omusaija ow'oruganda rwa Leevi akaswera omu ha baijukuru ba Leevi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.1",
+            "verseOrgIds": [
+              "EXO.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EXO 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.20"
+              },
+              "items": [
+                {
+                  "text": "Ebik 7:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.11.23"
+              },
+              "items": [
+                {
+                  "text": "Baheb 11:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omukazi yatwara enda, yazaara omwana omwojo; obu yaboine nkooku ali mwana murungi muno, yamusereka okumara ameezi asatu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.2",
+            "verseOrgIds": [
+              "EXO.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EXO 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obu yaboine atakyasobora kwongera kumusereka yamuserurra ekigega ekinyakurukirwe omu bifunjo, yakihoma n'ibumba, yakisiiga orweju; yakitamu omwana, yakita omu rugoro, ha mwegeego gw'ekyambu Nairo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.3",
+            "verseOrgIds": [
+              "EXO.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EXO 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Munyanya omwana akeemerra haraho, arole ekiraamubaho. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.4",
+            "verseOrgIds": [
+              "EXO.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EXO 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omu kasumi ako, muhara wa Faraaho yaija kwoga ha kyambu, abazaana be baikara nibarubatarubata haihi n'ekyambu; muhara wa Faraaho yarora ekigega kiri omu rugoro, yatuma omu ha bazaana be akireete. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.5",
+            "verseOrgIds": [
+              "EXO.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EXO 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obu yakifundukwire, yasangamu omwana narra. Yamugirra embabazi yagamba ati: “Onu omu ha baana Abahebburaayo.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.6",
+            "verseOrgIds": [
+              "EXO.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EXO 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nubwo, munyanya omwana yakaguza muhara wa Faraaho ati: “Ngende omu bakazi Abahebburaayo nkwihireyo omukazi ow'araamulera?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.7",
+            "verseOrgIds": [
+              "EXO.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EXO 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Muhara wa Faraaho yamuragira ati: “Genda.” Omwisiki yagenda yayeta nyina omwana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.8",
+            "verseOrgIds": [
+              "EXO.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EXO 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Muhara wa Faraaho yaragira omukazi ogu ati: “Omwana onu, mutwale omunderre, ndikuha empeera.” Nubwo, omukazi yatwara omwana yamulera. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.9",
+            "verseOrgIds": [
+              "EXO.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EXO 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.21"
+              },
+              "items": [
+                {
+                  "text": "Ebik 7:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omwana obu yakuzire, yamugarurra muhara wa Faraaho yaba mwana we. Muhara wa Faraaho yamuruka ibara Musa, habwokuba akagamba ati: “Nkamwiha mu maizi.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.10",
+            "verseOrgIds": [
+              "EXO.2.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Musa naasingirwa Midiani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EXO 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.10",
+            "verseOrgIds": [
+              "EXO.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EXO 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.11",
+            "verseOrgIds": [
+              "EXO.2.11"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.23+ACT.7.24+ACT.7.25+ACT.7.26+ACT.7.27+ACT.7.28"
+              },
+              "items": [
+                {
+                  "text": "Ebik 7:23-28",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.11",
+            "verseOrgIds": [
+              "EXO.2.11"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.11.24"
+              },
+              "items": [
+                {
+                  "text": "Baheb 11:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa obu yakuzire, kiro kimu, akagenda kubungira abantu ab'ihanga lye, yarora nkooku bali ha muhito; yarora Omunyamisiri naateera Omuhebburaayo, omu ha bantu ab'ihanga lye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.11",
+            "verseOrgIds": [
+              "EXO.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EXO 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yamagamaga kunu n'oku, obu yaboine hataroho muntu n'omu, yaita Omunyamisiri, yamusereka omu musenyi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.12",
+            "verseOrgIds": [
+              "EXO.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EXO 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obu yagarukireyo kiro kindi, yarora Abahebburaayo babiri nibarwana. Yakaguza omuntu ayakozire kubi ati: “Mutaahi wawe noomutura ki?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.13",
+            "verseOrgIds": [
+              "EXO.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EXO 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omusaija yamugarukamu ati: “Nooha ayakuhaire obusobozi obw'okutulema n'okutucwera emisango? Nooyenda kunyita nkooku waisire Omunyamisiri?” Nubwo Musa yatiina, yagamba ati: “Mazima kwo, ekintu eky'okwita omuntu, kimanyirwe boona”. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.14",
+            "verseOrgIds": [
+              "EXO.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EXO 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.29"
+              },
+              "items": [
+                {
+                  "text": "Ebik 7:29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.11.27"
+              },
+              "items": [
+                {
+                  "text": "Baheb 11:27",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Faraaho obu yahuliire Musa nkooku aisire omuntu, yacwa amagezi ag'okumwita. Musa yairukaho Faraaho, yagenda kwikara omunsi Midiani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.15",
+            "verseOrgIds": [
+              "EXO.2.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EXO 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.15",
+            "verseOrgIds": [
+              "EXO.2.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EXO 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa obu akaba aikaliire haiziba rubaju, abaisiki musanju, bahara ba nyakatagara owa Midiani, baija kutaha amaizi, baijuze amaato, beesere amagana ga ise bo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.16",
+            "verseOrgIds": [
+              "EXO.2.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EXO 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abaliisa abandi baija baababinga; baitu Musa yaimuka yabarwanirra, yabeseerra amagana gaabo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.17",
+            "verseOrgIds": [
+              "EXO.2.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EXO 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obu baataahire omu ka, isebo Rweri yabakaguza ati: “Leero hati, mwanguhire muta?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.18",
+            "verseOrgIds": [
+              "EXO.2.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EXO 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baamugarukamu bati: “Haroho Omunyamisiri anyakutujunire abaliisa, yatutahira amaizi, yatweseerra amagana gaitu.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.19",
+            "verseOrgIds": [
+              "EXO.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EXO 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yakaguza bahara be ati: “Omusaija ogu ali nkaha? Kiki ekimubasigisizeyo? Mumwete aije alye ebyokulya.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.20",
+            "verseOrgIds": [
+              "EXO.2.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "EXO 2:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa yaikiriza kwikara n'omusaija ogu, kandi omusaija ogu, yamuha muhara we Zipora amuswere. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.21",
+            "verseOrgIds": [
+              "EXO.2.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EXO 2:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Zipora yazigaija omwana omwojo, Musa yamuruka ibara Geresomu; habwokuba akagamba ati: “Mbaire ndi munyaihanga omunsi etali y'owaitu.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.22",
+            "verseOrgIds": [
+              "EXO.2.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "EXO 2:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obu haahingwireho emyaka nyingi, omukama wa Misiri yafa. Abantu ba Isirairi baasinda muno nibasalizibwa obwiru. Baataaga, nibaserra ow'okubakoonyera. Habw'okusaalizibwa obwiru, okutaaga kwabo, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.23",
+            "verseOrgIds": [
+              "EXO.2.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "EXO 2:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.15.13"
+              },
+              "items": [
+                {
+                  "text": "Kub 15:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.15.14"
+              },
+              "items": [
+                {
+                  "text": "14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ruhanga yahurra okutaaga kwabo, yaijuka endagaano ei yaragaine na Abburahamu, Isaaka, na Yakobbo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.24",
+            "verseOrgIds": [
+              "EXO.2.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "EXO 2:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yarora abantu ba Isirairi, yamanya obujune bwabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.2.25",
+            "verseOrgIds": [
+              "EXO.2.25"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EXO.3",
+    "number": "3",
+    "bookId": "EXO"
+  },
+  "previous": {
+    "id": "EXO.1",
+    "number": "1",
+    "bookId": "EXO"
+  }
+}

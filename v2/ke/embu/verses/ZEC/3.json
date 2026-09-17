@@ -1,0 +1,553 @@
+{
+  "id": "ZEC.3",
+  "number": "3",
+  "bookId": "ZEC",
+  "reference": "Zak 3",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "ZEC 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mûrathi nîwagîre na kîoneki kîa Mûthînjîri-Ngai ûrîa mûnene",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEC 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.1",
+            "verseOrgIds": [
+              "ZEC.3.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZR.5.2"
+              },
+              "items": [
+                {
+                  "text": "Ezira 5.2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "REV.12.10"
+              },
+              "items": [
+                {
+                  "text": "Kûguû 12.10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Ngai-Mûnene nîwacokire akîmonia kîoneki kîngî. Kîonekirî kîu nînonire Joshua Mûthînjîri-Ngai mûnene arûngamîte mbere ya mûraika wa Ngai-Mûnene. Nake Caitani aarûngamîte mwena wa ûrîo wa Joshua evarîrîtie kûmûthitanga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.1",
+            "verseOrgIds": [
+              "ZEC.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ZEC 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JUD.1.9"
+              },
+              "items": [
+                {
+                  "text": "Juda 9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Nake mûraika wa Ngai-Mûnene nîwamwîrire atîrî, “Ngai-Mûnene arogûkûûma we Caitani! Ngai-Mûnene ûrîa ûthuurîte îtûûra rîa Jerusalemu arogûkûûma! Anga mûndû ûyû ndekariî ta karûkû gagîakana karutîtwe mwakirî?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.2",
+            "verseOrgIds": [
+              "ZEC.3.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ZEC 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.2",
+            "verseOrgIds": [
+              "ZEC.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ZEC 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Joshua aarûngamîte mbere ya mûraika ekîrîte nguo ciarî na gîko. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.3",
+            "verseOrgIds": [
+              "ZEC.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ZEC 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mûraika nîwerire arîa maarûngamîte mbere yake atîrî, “Rutani Joshua nguo icio irî na gîko.” Nîwacokire akîra Joshua, mûthînjîri-Ngai mûnene atîrî, “Taroria, nînakûthengutîria wîvia waku wonthe na nîngûgwîkîra nguo cia goro.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.4",
+            "verseOrgIds": [
+              "ZEC.3.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ZEC 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.4",
+            "verseOrgIds": [
+              "ZEC.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ZEC 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mûraika nîwacokire akîra andû arîa maatungatagîra Joshua atîrî, “Îkîrani Joshua kîremba kîtheru kîongo.” Kwoguo nîmeekîrire kîremba kîtheru kîongorî Kîam Joshua na makîmwîkîra nguo mûraika wa Ngai-Mûnene arûgamîte vo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.5",
+            "verseOrgIds": [
+              "ZEC.3.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ZEC 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.5",
+            "verseOrgIds": [
+              "ZEC.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ZEC 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mûraika wa Ngai-Mûnene nîwacokire akîra Joshua atîrî, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.6",
+            "verseOrgIds": [
+              "ZEC.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ZEC 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ngai-Mûnene mwene vinya wonthe augîte ûngîathîkîra maathani make na ûrûmagîrîre maûndû marîa akwathîte, nîagaakûva ûvoti wathanage hekarûrî yake na ivaarorî ciayo, na nîagaagwîtîkîria ûtungatage ta ûrîa aya marûngamîte ava matungataga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.7",
+            "verseOrgIds": [
+              "ZEC.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ZEC 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.23.5"
+              },
+              "items": [
+                {
+                  "text": "Jer 23.5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.33.15"
+              },
+              "items": [
+                {
+                  "text": "33.15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.6.12"
+              },
+              "items": [
+                {
+                  "text": "Zak 6.12",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Tathikîrîria waro, we Joshua Mûthînjîri-Ngai mûnene. Wa namue athînjîri-Ngai arîa mûtungataga vamwe nake tathikîrîriani. Mue oni a maûndû ma mavinda marîa magaaûka tathikîrîriani. Nîngûreta ndungata yakwa îrîa îtagwa Rûvûa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.8",
+            "verseOrgIds": [
+              "ZEC.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEC 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Taroria, îthiga rîrîa mbigîte mbere ya Joshua, îgûrû rîarîo varî na mothiû mûgwanja. Îgûrû rîa îthiga rîu nîngaacora mandîko vo na nîngathengutia waganu wa vûrûri ûyû na mûthenya ûmwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.9",
+            "verseOrgIds": [
+              "ZEC.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ZEC 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MIC.4.4"
+              },
+              "items": [
+                {
+                  "text": "Mika 4.4",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": " Mûthenya ûcio wakinya, wa mûndû wa mûndû nîagetaga mûndû ûrîa mariganîtie nake athiî magekare rungu rwa mîthavibu na rungu rwa mîkûyû makenere thayû na ûgacîru wa vûrûri. Ûgo nîguo Ngai-Mûnene mwene vinya wonthe arauga.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.10",
+            "verseOrgIds": [
+              "ZEC.3.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEC.4",
+    "number": "4",
+    "bookId": "ZEC"
+  },
+  "previous": {
+    "id": "ZEC.2",
+    "number": "2",
+    "bookId": "ZEC"
+  }
+}

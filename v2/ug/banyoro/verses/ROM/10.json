@@ -1,0 +1,951 @@
+{
+  "id": "ROM.10",
+  "number": "10",
+  "bookId": "ROM",
+  "reference": "Bar 10",
+  "verseCount": 19,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "ROM 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Okuteetegereza kw'Abaisirairi hali obuhikiriire oburuga hali Ruhanga",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ROM 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Beene baitu, omutima gwange eki gurukwenda, kandi eki ndukusabira Abaisirairi hali Ruhanga, nikyo kinu: bajunwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.1",
+            "verseOrgIds": [
+              "ROM.10.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ROM 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningumya nkooku bagonza kwo Ruhanga, baitu tibakabaire kwetegereza. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.2",
+            "verseOrgIds": [
+              "ROM.10.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ROM 10:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Habw'okutamanya obuhikiriire oburuga hali Ruhanga na habw'okuserra okweteeraho obuhikiriire bwabo nyabwabo, bateeteho obu oburuga hali Ruhanga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.3",
+            "verseOrgIds": [
+              "ROM.10.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ROM 10:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Habwokuba omu Kristo nuho Ebiragiro bihikirizibwa, nukwo weena arukumwikiriza ahikirizibwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.4",
+            "verseOrgIds": [
+              "ROM.10.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Obwakaiso bwa Musa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ROM 10:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.4",
+            "verseOrgIds": [
+              "ROM.10.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ROM 10:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.5",
+            "verseOrgIds": [
+              "ROM.10.5"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.18.5"
+              },
+              "items": [
+                {
+                  "text": "Lev 18:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa akahandiika naagamba ati: Omuntu anyakwekambira obuhikiriire oburukusigikira ha Biragiro, nubwo bulimuhaisa obwomeezi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.5",
+            "verseOrgIds": [
+              "ROM.10.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ROM 10:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.30.12+DEU.30.13+DEU.30.14"
+              },
+              "items": [
+                {
+                  "text": "Bir 30:12-14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baitu obuhikiriire oburukusigikira ha kwikiriza tibukutanga kugamba omu mutima gwawe oti: “Nooha alitemba omu iguru?” [Nukwo aiheyo Kristo]. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.6",
+            "verseOrgIds": [
+              "ROM.10.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ROM 10:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rundi oti: “Nooha alisirimuka okuzimu?” [Nukwo aihe Kristo omu bafu]. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.7",
+            "verseOrgIds": [
+              "ROM.10.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ROM 10:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi Ebyahandiikirwe byonyini bigamba biti: Ekigambo kikuli haihi, kikuli ha munwa, n'omu mutima gwawe. [Nikyo kigambo eky'okwikiriza ekitwegesa]. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.8",
+            "verseOrgIds": [
+              "ROM.10.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ROM 10:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kakuba oyatura n'akanwa kaawe oti: Yesu aba MUKAMA, okaikiriza n'omutima gwawe Ruhanga nkooku yamuhumbwire omu bafu, alijunwa. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.9",
+            "verseOrgIds": [
+              "ROM.10.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ROM 10:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omuntu aikiriza Kristo n'omutima gwe, nukwo ahikirre; kandi ayatura Kristo n'akanwa ke, nukwo ajunwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.10",
+            "verseOrgIds": [
+              "ROM.10.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ROM 10:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.28.16"
+              },
+              "items": [
+                {
+                  "text": "Is 28:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ebyahandiikirwe bigamba biti: “Weena anyakumwikiriza, talikwatwa nsoni.” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.11",
+            "verseOrgIds": [
+              "ROM.10.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ROM 10:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Habwokuba tiharoho mbaganizo ha Muyudaaya n'Omugiriiki: MUKAMA ogu omu, aba MUKAMA wa boona, kandi oburungi bwe abugabira boona abamukunga. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.12",
+            "verseOrgIds": [
+              "ROM.10.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ROM 10:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOL.2.32"
+              },
+              "items": [
+                {
+                  "text": "Yow 2:32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningira: “Weena anyakwamirra MUKAMA alijunwa.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.13",
+            "verseOrgIds": [
+              "ROM.10.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Abaisirairi tibaina kyekwaso",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ROM 10:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.13",
+            "verseOrgIds": [
+              "ROM.10.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ROM 10:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baitu abantu basobora bata kwamirra ogu ou bataraikiriize? Kandi n'okwikiriza ou batakahurrahoga? Kandi barahurra bata, hataroho murangirize? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.14",
+            "verseOrgIds": [
+              "ROM.10.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ROM 10:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.52.7"
+              },
+              "items": [
+                {
+                  "text": "Is 52:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kandi bbo bararangirra bata, batatumirwe? Nkooku kyahandiikirwe kiti: “Ka birungi ebigere by'abarukurangirra Amakuru Amarungi!” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.15",
+            "verseOrgIds": [
+              "ROM.10.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ROM 10:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.53.1"
+              },
+              "items": [
+                {
+                  "text": "Is 53:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baitu boona abaagahuliire, batagateho mutima, nangwa. Isaaya nkooku yagambire ati: “Ai MUKAMA, nooha ayaikiriize ebi twamurangiire?” ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.16",
+            "verseOrgIds": [
+              "ROM.10.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ROM 10:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nahabweki okwikiriza kuruga omu bigambo ebi tuhurra, kandi ebigambo ebi tuhurra biruga omu kurangirra Kristo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.17",
+            "verseOrgIds": [
+              "ROM.10.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ROM 10:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.17",
+            "verseOrgIds": [
+              "ROM.10.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ROM 10:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.18",
+            "verseOrgIds": [
+              "ROM.10.18"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.19.4"
+              },
+              "items": [
+                {
+                  "text": "Zab 19:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Leka nyowe nkaguze nti: Abaisirairi batahurre? Mazimakwo bakahurra, habwokuba kikahandiikwa kiti: “Iraka lyabo likahulirwa abantu boona, n'ebigambo byabu bikahika ha mitaano y'ensi.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.18",
+            "verseOrgIds": [
+              "ROM.10.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ROM 10:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.18",
+            "verseOrgIds": [
+              "ROM.10.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ROM 10:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.19",
+            "verseOrgIds": [
+              "ROM.10.19"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.32.21"
+              },
+              "items": [
+                {
+                  "text": "Bir 32:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ninyongera kukaguza nti: Ihanga lya Isirairi litabyetegereze?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.10.19",
+            "verseOrgIds": [
+              "ROM.10.19"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ROM.11",
+    "number": "11",
+    "bookId": "ROM"
+  },
+  "previous": {
+    "id": "ROM.9",
+    "number": "9",
+    "bookId": "ROM"
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "id": "ISA.11",
+  "number": "11",
+  "bookId": "ISA",
+  "reference": "Isa 11",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "11",
+        "style": "c",
+        "sid": "ISA 11"
+      },
+      "items": [
+        {
+          "text": "11",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mûnene wa Thîîrî ûrîa ûkeeja",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Antû barîa bathaamîrîtue nthîgûrû ingî bagaacoka",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 11:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.11.9",
+            "verseOrgIds": [
+              "ISA.11.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 11:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.11.10",
+            "verseOrgIds": [
+              "ISA.11.10"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.15.12"
+              },
+              "items": [
+                {
+                  "text": "Aro 15.12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Îgiita rîu rîakinya, mûnene ûu ûkaaumania na rûrîîjo rwa Jesii nîwe ûkeethîrwa arî ngerekano kîrî antû bonthe. Antû ba mîgongo yonthe bagaacwaga kîrîra kîrî we, nakîo gîkaro kîaawe gîkethagîrwa kîrî na mwago mono.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.11.10",
+            "verseOrgIds": [
+              "ISA.11.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 11:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.11.10",
+            "verseOrgIds": [
+              "ISA.11.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 11:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Îgiita rîu rîakinya, MWATHANI agaatambûrûkia njara yaawe o kaîrî oothûranie antû baawe barîa bakeethîrwa batigeere nthîgûrû ya Asîria, na ya Misri, na ya Pathirosi, na ya Ethiopia, na ya Edomu, na ya Shinari, na ya Hamathi, na nthîgûrû irîa irigeenie na îria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.11.11",
+            "verseOrgIds": [
+              "ISA.11.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.12",
+    "number": "12",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.10",
+    "number": "10",
+    "bookId": "ISA"
+  }
+}

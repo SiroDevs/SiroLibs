@@ -1,0 +1,900 @@
+{
+  "id": "1TH.2",
+  "number": "2",
+  "bookId": "1TH",
+  "reference": "1 Thessalonians 2",
+  "verseCount": 20,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "1TH 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1TH 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Our brothers and sisters, you yourselves know that our visit to you was not a failure. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.1",
+            "verseOrgIds": [
+              "1TH.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1TH 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.16.19+ACT.16.20+ACT.16.21+ACT.16.22+ACT.16.23+ACT.16.24"
+              },
+              "items": [
+                {
+                  "text": "Acts 16.19–24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.17.1+ACT.17.2+ACT.17.3+ACT.17.4+ACT.17.5+ACT.17.6+ACT.17.7+ACT.17.8+ACT.17.9"
+              },
+              "items": [
+                {
+                  "text": "17.1–9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "You know how we had already been ill-treated and insulted in Philippi before we came to you in Thessalonica. And even though there was much opposition, our God gave us courage to tell you the Good News that comes from him. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.2",
+            "verseOrgIds": [
+              "1TH.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1TH 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Our appeal to you is not based on error or impure motives, nor do we try to trick anyone. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.3",
+            "verseOrgIds": [
+              "1TH.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1TH 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Instead, we always speak as God wants us to, because he has judged us worthy to be entrusted with the Good News. We do not try to please people, but to please God, who tests our motives. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.4",
+            "verseOrgIds": [
+              "1TH.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1TH 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You know very well that we did not come to you with flattering talk, nor did we use words to cover up greed — God is our witness! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.5",
+            "verseOrgIds": [
+              "1TH.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1TH 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "We did not try to get praise from anyone, either from you or from others, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.6",
+            "verseOrgIds": [
+              "1TH.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1TH 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "even though as apostles of Christ we could have made demands on you. But we were gentle when we were with you, like a mother",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.7",
+            "verseOrgIds": [
+              "1TH.2.7"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "2.7",
+              "type": "text"
+            },
+            {
+              "text": "we were gentle when we were with you, like a mother",
+              "type": "text"
+            },
+            {
+              "text": "; some manuscripts have",
+              "type": "text"
+            },
+            {
+              "text": "we were like children when we were with you; we were like a mother.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " taking care of her children. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.7",
+            "verseOrgIds": [
+              "1TH.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1TH 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Because of our love for you we were ready to share with you not only the Good News from God but even our own lives. You were so dear to us! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.8",
+            "verseOrgIds": [
+              "1TH.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1TH 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Surely you remember, our brothers and sisters, how we worked and toiled! We worked day and night so that we would not be any trouble to you as we preached to you the Good News from God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.9",
+            "verseOrgIds": [
+              "1TH.2.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1TH 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.9",
+            "verseOrgIds": [
+              "1TH.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1TH 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You are our witnesses, and so is God, that our conduct towards you who believe was pure, right, and without fault. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.10",
+            "verseOrgIds": [
+              "1TH.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1TH 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You know that we treated each one of you just as a father treats his own children. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.11",
+            "verseOrgIds": [
+              "1TH.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1TH 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "We encouraged you, we comforted you, and we kept urging you to live the kind of life that pleases God, who calls you to share in his own Kingdom and glory.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.12",
+            "verseOrgIds": [
+              "1TH.2.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1TH 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.12",
+            "verseOrgIds": [
+              "1TH.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1TH 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And there is another reason why we always give thanks to God. When we brought you God's message, you heard it and accepted it, not as a message from human beings but as God's message, which indeed it is. For God is at work in you who believe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.13",
+            "verseOrgIds": [
+              "1TH.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1TH 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.17.5"
+              },
+              "items": [
+                {
+                  "text": "Acts 17.5",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Our brothers and sisters, the same things happened to you that happened to the churches of God in Judea, to the people there who belong to Christ Jesus. You suffered the same persecutions from your own people that they suffered from the Jews, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.14",
+            "verseOrgIds": [
+              "1TH.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1TH 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.9.23"
+              },
+              "items": [
+                {
+                  "text": "Acts 9.23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.9.29"
+              },
+              "items": [
+                {
+                  "text": "29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.13.45"
+              },
+              "items": [
+                {
+                  "text": "13.45",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.13.50"
+              },
+              "items": [
+                {
+                  "text": "50",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.14.2"
+              },
+              "items": [
+                {
+                  "text": "14.2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.14.5"
+              },
+              "items": [
+                {
+                  "text": "5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.14.19"
+              },
+              "items": [
+                {
+                  "text": "19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.17.5"
+              },
+              "items": [
+                {
+                  "text": "17.5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.17.13"
+              },
+              "items": [
+                {
+                  "text": "13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.18.12"
+              },
+              "items": [
+                {
+                  "text": "18.12",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "who killed the Lord Jesus and the prophets, and persecuted us. How displeasing they are to God! How hostile they are to everyone! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.15",
+            "verseOrgIds": [
+              "1TH.2.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1TH 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They even tried to stop us from preaching to the Gentiles the message that would bring them salvation. In this way they have brought to completion all the sins they have always committed. And now God's anger has at last come down on them!",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.16",
+            "verseOrgIds": [
+              "1TH.2.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1TH 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.16",
+            "verseOrgIds": [
+              "1TH.2.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1TH 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "As for us, brothers and sisters, when we were separated from you for a little while — not in our thoughts, of course, but only in body — how we missed you and how hard we tried to see you again! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.17",
+            "verseOrgIds": [
+              "1TH.2.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1TH 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "We wanted to return to you. I myself tried to go back more than once, but Satan would not let us. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.18",
+            "verseOrgIds": [
+              "1TH.2.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "1TH 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "After all, it is you — you, no less than others! — who are our hope, our joy, and our reason for boasting of our victory in the presence of our Lord Jesus when he comes. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.19",
+            "verseOrgIds": [
+              "1TH.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1TH 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Indeed, you are our pride and our joy!",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.2.20",
+            "verseOrgIds": [
+              "1TH.2.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1TH.3",
+    "number": "3",
+    "bookId": "1TH"
+  },
+  "previous": {
+    "id": "1TH.1",
+    "number": "1",
+    "bookId": "1TH"
+  }
+}

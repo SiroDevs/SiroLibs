@@ -1,0 +1,81 @@
+{
+  "id": "ISA.48",
+  "number": "48",
+  "bookId": "ISA",
+  "reference": "Isa. 48",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "48",
+        "style": "c",
+        "sid": "ISA 48"
+      },
+      "items": [
+        {
+          "text": "48",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Akuj akasuban ka akalakunan",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 48:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Kiirasi ŋakiro nu okoe ŋiletok a Yakob ŋulu ikinyaritae a ekiro a Isirael",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.48.1",
+            "verseOrgIds": [
+              "ISA.48.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.49",
+    "number": "49",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.47",
+    "number": "47",
+    "bookId": "ISA"
+  }
+}

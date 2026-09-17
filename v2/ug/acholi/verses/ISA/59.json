@@ -1,0 +1,94 @@
+{
+  "id": "ISA.59",
+  "number": "59",
+  "bookId": "ISA",
+  "reference": "Icaya 59",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "59",
+        "style": "c",
+        "sid": "ISA 59"
+      },
+      "items": [
+        {
+          "text": "59",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ISA 59:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.59.20",
+            "verseOrgIds": [
+              "ISA.59.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ISA 59:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Doŋ ki tuŋ bota, man en aye obedo gicikke ma acikke kwede kwedwu, Cwiny Maleŋ ma mera ma doŋ atyeko miyo botwu, ki lokka ma doŋ atyeko keto i dogwu, pe doŋ bia ki i dogwu, kadi ki i dog litinowu, nyo i dog litino pa litinowu, cakke tin cito kwede anyim kun bedo bene nakanaka.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.59.21",
+            "verseOrgIds": [
+              "ISA.59.21"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.60",
+    "number": "60",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.58",
+    "number": "58",
+    "bookId": "ISA"
+  }
+}

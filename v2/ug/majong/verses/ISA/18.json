@@ -1,0 +1,81 @@
+{
+  "id": "ISA.18",
+  "number": "18",
+  "bookId": "ISA",
+  "reference": "Isa. 18",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "18",
+        "style": "c",
+        "sid": "ISA 18"
+      },
+      "items": [
+        {
+          "text": "18",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ŋakiro ŋuna etoroniyaritere Esiopia",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 18:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Okoe iyoŋ akwap ŋina eruwor emaase alokekwaye ŋaŋololin a Esiopia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.18.1",
+            "verseOrgIds": [
+              "ISA.18.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.19",
+    "number": "19",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.17",
+    "number": "17",
+    "bookId": "ISA"
+  }
+}

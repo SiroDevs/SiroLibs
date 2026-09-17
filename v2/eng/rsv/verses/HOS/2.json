@@ -1,0 +1,210 @@
+{
+  "id": "HOS.2",
+  "number": "2",
+  "bookId": "HOS",
+  "reference": "Hosea 2",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "HOS 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.2.1",
+            "verseOrgIds": [
+              "HOS.2.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "2.1",
+              "type": "text"
+            },
+            {
+              "text": "Ch 2.3 in Heb",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.2.1",
+            "verseOrgIds": [
+              "HOS.2.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.9.25"
+              },
+              "items": [
+                {
+                  "text": "Rom 9.25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.2.10"
+              },
+              "items": [
+                {
+                  "text": "1 Pet 2.10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Say to your brother,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.2.1",
+            "verseOrgIds": [
+              "HOS.2.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "2.1",
+              "type": "text"
+            },
+            {
+              "text": "Gk: Heb",
+              "type": "text"
+            },
+            {
+              "text": "brothers",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " “My people,” and to your sister,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.2.1",
+            "verseOrgIds": [
+              "HOS.2.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "2.1",
+              "type": "text"
+            },
+            {
+              "text": "Gk Vg: Heb",
+              "type": "text"
+            },
+            {
+              "text": "sisters",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " “She has obtained pity.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.2.1",
+            "verseOrgIds": [
+              "HOS.2.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.3",
+    "number": "3",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.1",
+    "number": "1",
+    "bookId": "HOS"
+  }
+}

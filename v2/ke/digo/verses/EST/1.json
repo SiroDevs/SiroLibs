@@ -1,0 +1,780 @@
+{
+  "id": "EST.1",
+  "number": "1",
+  "bookId": "EST",
+  "reference": "Esta 1",
+  "verseCount": 21,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "EST 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.1",
+            "verseOrgIds": [
+              "EST.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZR.4.6"
+              },
+              "items": [
+                {
+                  "text": "Ezira 4:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Katika utawala wa Pashia, kpwakala na mfalume mmwenga ariyekala achiihwa Ahasuero. Ahasuero hiyu watawala majimbo gana na mirongo miiri na sabaa, kula India hadi Kushi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.1",
+            "verseOrgIds": [
+              "EST.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ahasuero kala achitawala kula chihiche cha ufalume hiko Susa, mana Susa kala ndio mudzi mkpwulu wa Pashia na ndiko kokala nyumba ya chifalume. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.2",
+            "verseOrgIds": [
+              "EST.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Katika mwaka wa hahu wa kutawalakpwe, waahendera sharee akulu na atumishie osi. Akulu a jeshi osi a Pashia na Medi na akulu osi a majimbo, phamwenga na atu a mbari ya chifalume kala a phapho. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.3",
+            "verseOrgIds": [
+              "EST.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Phahi achiaonyesa hinyo atu utajiriwe wosi na ukulu wa ufalumewe kpwa muda wa siku gana na mirongo minane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.4",
+            "verseOrgIds": [
+              "EST.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.4",
+            "verseOrgIds": [
+              "EST.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EST 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ariphomala hivyo, achiausira sharee atu osi ariokala kpwenye mudzi wa Susa, enye vyeo na atu a kawaida. Sharee iyo yahala siku sabaa na yahendwa katika muhala wa iyo nyumba ya mfalume. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.5",
+            "verseOrgIds": [
+              "EST.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EST 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hinyo muhala kala ukapambwa na paziya nyereru na za buluu za kushonwa na pamba. Paziya hizi kala zikafungbwa dzulu ya milingoti ya marumaru kpwa kuhumira pete za feza na nyugbwe nyereru za pamba. Kala phana makochi ga zahabu na feza garigoikpwa kpwenye sakafu ya marumaru ya kundu na nyereru, lulu na mawe ganjina ga samani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.6",
+            "verseOrgIds": [
+              "EST.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EST 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mfalume walavya uchi wa zabibu wa chifalume kpwa unji. Uchi hinyo watiywa kpwenye vikombe vya zahabu vya chila aina. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.7",
+            "verseOrgIds": [
+              "EST.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EST 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Chila mutu wanwa hadi achitosheka kabisa, mana mfalume kala akalagiza ahendadzi-kazie kukala chila mutu akale huru kunwa kama alondavyo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.8",
+            "verseOrgIds": [
+              "EST.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakati uho vivyo, Vashiti mkpwaza mfalume naye kala anaahendera sharee achetu hiko ndani ya nyumba ya chifalume ya Ahasuero.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.9",
+            "verseOrgIds": [
+              "EST.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.9",
+            "verseOrgIds": [
+              "EST.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EST 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sambi, iriphofika siku ya sabaa ya iyo sharee, mfalume wanwa uchi wa zabibu na achisikira raha sana mwakpwe moyoni kpwa sababu ya hinyo uchi wa zabibu. Chisha achialagiza hinyo atumishie sabaa ariotulwa akamrehe mchewe Vashiti mbereze. Atumishi hinyo kala ni Mahemani, Bizitha, Haribona, Bigitha, Abagitha, Zethari na Karikasi. Mfalume walagiza kukala arehwe, kuno akavwala kofiyaye ya chifalume ili edze aonyese hinyo akulu phamwenga na atumishie unono wa Vashiti, mana kala ni mnono tamuna. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.10+EST.1.11",
+            "verseOrgIds": [
+              "EST.1.10",
+              "EST.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EST 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Phahi ano ahumwa achiphiya kpwa Vashiti kama arivyolagizwa ni mfalume. Ela anafika hiko, Vashiti achirema kuphiya. Hipho mfalume achitsukirwa sana na achisikira utsungu sana mwakpwe moyoni. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.12",
+            "verseOrgIds": [
+              "EST.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EST 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Achiiha ashaurie, atu enye ikima amanyao mambo gahendwavyo, mana kala ni kawaida mfalume kulonda mashauri kula kpwa osi ariokala na ujuzi wa shariya na kuamula kesi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.13",
+            "verseOrgIds": [
+              "EST.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EST 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ariokala phephi naye kala ni Karishena, Shetari, Adimatha, Tarishishi, Meresi, Marisena na Memukani. Vilongozi hinya sabaa a Pashia na Medi kala ndio vitswa katika utawalawe na ndio ariokala na uhuru wosi wa kumuona mfalume. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.14",
+            "verseOrgIds": [
+              "EST.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EST 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sambi mfalume Ahasuero achiauza achiamba, “Vashiti akarema kulunga lagizo nchirolagiza mimi kama mfalume, kutsupira kpwa hinyo atumishi angu ariotulwa. Dze, chishariya ahendwedze?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.15",
+            "verseOrgIds": [
+              "EST.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EST 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.15",
+            "verseOrgIds": [
+              "EST.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EST 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hipho Memukani achijibu mbere za mfalume na vilongozi anjina achiamba, Malikia Vashiti kakamkosera mfalume macheye, ela hata vilongozi osi ario tsinize, phamwenga na atu anjina osi ario kpwenye majimbo gatawalwago ni mfalume Ahasuero. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.16",
+            "verseOrgIds": [
+              "EST.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EST 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mana dzambo hiri achirohenda Malikia Vashiti rindaafikira achetu anjina osi nao andaabera alume aho na alume andaatsukirira achetu aho mana andaamba, Mbona ye Malikia Vashiti waihwa ni mfalume Ahasuero achirema na kahenderwe chitu? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.17",
+            "verseOrgIds": [
+              "EST.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EST 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ihi rero kare akaza vilongozi a Pashia na Medi achiosikira vyo Malikia Vashiti achivyohenda, andaabera alume aho dza achivyohenda Vashiti na hivi vindaahenda azirane sana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.18",
+            "verseOrgIds": [
+              "EST.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EST 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Phahi uchiona ni sawa uwe mfalume, lavya lagizo kukala kuandikpwe shariya isiyogaluka katika hizo shariya za Pashia na Medi. Shariya iyo naiambe kukala Vashiti kana tsona ruhusa ya kpwedza mbere ya mfalume Ahasuero. Halafu hala iyo nafwasiye ya umalikia uilavye kpwa mchetu wanjina, mnono kutsupa iye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.19",
+            "verseOrgIds": [
+              "EST.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EST 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na chila mchetu katika utawalao wosi mkpwulu achisikira hiro lagizo uchirolavya, andamuishimu mlumewe kula mbaha hadi mdide.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.20",
+            "verseOrgIds": [
+              "EST.1.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EST 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.20",
+            "verseOrgIds": [
+              "EST.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "EST 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Phahi maneno ga Memukani gachimuhamira mfalume na vilongozie anjina. Kpwa hivyo mfalume achihenda kama Memukani arivyogomba. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.21",
+            "verseOrgIds": [
+              "EST.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EST 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Achilavya lagizo richiphirikpwa chila jimbo rokala achiritawala. Chila jimbo raandikirwa shariya hizo katika arufuze na chila kabila richiandikirwa katika lugaye kukala, “Chila mlume ni akale chitswa katika nyumbaye na agombe lugaye.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.22",
+            "verseOrgIds": [
+              "EST.1.22"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:22",
+              "type": "text"
+            },
+            {
+              "text": "Mana yanjina ya Chieburania ya maneno higa",
+              "type": "text"
+            },
+            {
+              "text": "agombe lugaye",
+              "type": "text"
+            },
+            {
+              "text": "ni",
+              "type": "text"
+            },
+            {
+              "text": "atawale na mamlaka gosi",
+              "type": "text"
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EST.2",
+    "number": "2",
+    "bookId": "EST"
+  },
+  "previous": {
+    "id": "EST.intro",
+    "number": "intro",
+    "bookId": "EST"
+  }
+}

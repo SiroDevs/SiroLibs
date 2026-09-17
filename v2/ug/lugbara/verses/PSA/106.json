@@ -1,0 +1,235 @@
+{
+  "id": "PSA.106",
+  "number": "106",
+  "bookId": "PSA",
+  "reference": "Zaburi 106",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "106",
+        "style": "c",
+        "sid": "PSA 106"
+      },
+      "items": [
+        {
+          "text": "106",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 106:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.106.1",
+            "verseOrgIds": [
+              "PSA.106.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1CH.16.34"
+              },
+              "items": [
+                {
+                  "text": "1 Sur 16:34",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.5.13"
+              },
+              "items": [
+                {
+                  "text": "2 Sur 5:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.7.3"
+              },
+              "items": [
+                {
+                  "text": "7:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZR.3.11"
+              },
+              "items": [
+                {
+                  "text": "Ezr 3:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.100.5"
+              },
+              "items": [
+                {
+                  "text": "Zab 100:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.107.1"
+              },
+              "items": [
+                {
+                  "text": "107:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.118.1"
+              },
+              "items": [
+                {
+                  "text": "118:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.136.1"
+              },
+              "items": [
+                {
+                  "text": "136:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.63.7"
+              },
+              "items": [
+                {
+                  "text": "Isa 63:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.33.11"
+              },
+              "items": [
+                {
+                  "text": "Yer 33:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.19.17"
+              },
+              "items": [
+                {
+                  "text": "Mat 19:17",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Emi inzi Yehovani! Emi fe awa’difo Yehova dri fo, erini ovule onyirurisi; eri ma yiki alerurini adrile ’danirisi!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.106.1",
+            "verseOrgIds": [
+              "PSA.106.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.107",
+    "number": "107",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.105",
+    "number": "105",
+    "bookId": "PSA"
+  }
+}

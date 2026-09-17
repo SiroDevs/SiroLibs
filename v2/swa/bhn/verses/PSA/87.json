@@ -1,0 +1,68 @@
+{
+  "id": "PSA.87",
+  "number": "87",
+  "bookId": "PSA",
+  "reference": "Zaburi 87",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "87",
+        "style": "c",
+        "sid": "PSA 87"
+      },
+      "items": [
+        {
+          "text": "87",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 87:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mungu amejenga mji wake",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.87.1",
+            "verseOrgIds": [
+              "PSA.87.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.88",
+    "number": "88",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.86",
+    "number": "86",
+    "bookId": "PSA"
+  }
+}

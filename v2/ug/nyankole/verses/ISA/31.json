@@ -1,0 +1,200 @@
+{
+  "id": "ISA.31",
+  "number": "31",
+  "bookId": "ISA",
+  "reference": "Isaaya 31",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "31",
+        "style": "c",
+        "sid": "ISA 31"
+      },
+      "items": [
+        {
+          "text": "31",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 31:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.31.5",
+            "verseOrgIds": [
+              "ISA.31.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 31:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.31.6",
+            "verseOrgIds": [
+              "ISA.31.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.1.5"
+              },
+              "items": [
+                {
+                  "text": "Isa 1:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.30.15"
+              },
+              "items": [
+                {
+                  "text": "30:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Imwe Baisraeli 'mwe, mugarukire Ogwo ou mwagomeire mukarengyesereza; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.31.6",
+            "verseOrgIds": [
+              "ISA.31.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 31:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.30.22"
+              },
+              "items": [
+                {
+                  "text": "Isa 30:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ahakuba eryo izooba ebishushani bye by'efeeza n'eby'ezaabu, ebyakozirwe engaro zaanyu, bikabarugiramu ekibi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.31.7",
+            "verseOrgIds": [
+              "ISA.31.7"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.32",
+    "number": "32",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.30",
+    "number": "30",
+    "bookId": "ISA"
+  }
+}

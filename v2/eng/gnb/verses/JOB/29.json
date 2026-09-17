@@ -1,0 +1,68 @@
+{
+  "id": "JOB.29",
+  "number": "29",
+  "bookId": "JOB",
+  "reference": "Job 29",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "29",
+        "style": "c",
+        "sid": "JOB 29"
+      },
+      "items": [
+        {
+          "text": "29",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 29:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Job began speaking again.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.29.1",
+            "verseOrgIds": [
+              "JOB.29.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.30",
+    "number": "30",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.28",
+    "number": "28",
+    "bookId": "JOB"
+  }
+}

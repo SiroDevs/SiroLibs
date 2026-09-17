@@ -1,0 +1,273 @@
+{
+  "id": "PRO.1",
+  "number": "1",
+  "bookId": "PRO",
+  "reference": "Nthi 1",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "PRO 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Vata wa Nthimo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.1.1",
+            "verseOrgIds": [
+              "PRO.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1KI.4.32"
+              },
+              "items": [
+                {
+                  "text": "1Atha 4.32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Ino nî nthimo irîa ciatungirwe nî Solomoni mûvîcî wa Daudi, mûthamaki wa Isiraeli. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.1.1",
+            "verseOrgIds": [
+              "PRO.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PRO 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nthimo ino ikaavotithagia andû kûgîa na ûûgî, kîrîra na ûtaûku wa maûndû marîa ithomithagia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.1.2",
+            "verseOrgIds": [
+              "PRO.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PRO 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nthimo ino ithomithagia andû ûrîa magîrîrwe nî gwîkaga maûndû na njîra ya ûûgî, ûthingu, kîvooto na waragania, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.1.3",
+            "verseOrgIds": [
+              "PRO.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PRO 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nîguo itaare andû arîa matarî na ûmenyo, na ive andû aîthî ûtaûku na ûrîa mangîvota kûgîa na mîvango mîkinyanîru. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.1.4",
+            "verseOrgIds": [
+              "PRO.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PRO 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andû arîa aûgî wanao nîmaithikagîrîrie nîguo mongerere ûûgî, na andû arîa marî na ûmenyo magîcage na wara, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.1.5",
+            "verseOrgIds": [
+              "PRO.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PRO 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nîguo mataûkagîrwe nî nthimo na ngerekano, mîario ya andû arîa aûgî na ndaî ciao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.1.6",
+            "verseOrgIds": [
+              "PRO.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mataaro kûrî andû ethî",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ûûgî nîaretana",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.2",
+    "number": "2",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.intro",
+    "number": "intro",
+    "bookId": "PRO"
+  }
+}

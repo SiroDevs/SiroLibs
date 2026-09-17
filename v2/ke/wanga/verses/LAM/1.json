@@ -1,0 +1,47 @@
+{
+  "id": "LAM.1",
+  "number": "1",
+  "bookId": "LAM",
+  "reference": "Tsiayeremia 1",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "LAM 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Amasila kaSayuni mumbole",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "LAM.2",
+    "number": "2",
+    "bookId": "LAM"
+  },
+  "previous": {
+    "id": "JER.52",
+    "number": "52",
+    "bookId": "JER"
+  }
+}

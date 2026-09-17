@@ -1,0 +1,925 @@
+{
+  "id": "HAG.1",
+  "number": "1",
+  "bookId": "HAG",
+  "reference": "Hagai 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "HAG 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HAG 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.1",
+            "verseOrgIds": [
+              "HAG.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZR.4.24"
+              },
+              "items": [
+                {
+                  "text": "Ezr 4:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZR.5.1"
+              },
+              "items": [
+                {
+                  "text": "5:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZR.5.2"
+              },
+              "items": [
+                {
+                  "text": "2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Omu mwaka gwa kabiri ogw'omu busingye bw'omugabe Dario, omu kwezi kwa mukaaga, aha kiro kyakwo ky'okubanza, ekigambo kya MUKAMA kikaija ahari Zerubabeeli, mwene Shealutieli, omutegyeki wa Yuda, n'ahari Yoshua mwene Yehozadaaki omunyamurwa omukuru, nikiraba omuri nabi Hagai, nikigira kiti: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.1",
+            "verseOrgIds": [
+              "HAG.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "HAG 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oku nikwo MUKAMA ow'amahe arikugamba naagira ati: Abantu aba nibagira bati: Obunaku bw'okugaruka kwombeka enju ya MUKAMA tibukahikire. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.2",
+            "verseOrgIds": [
+              "HAG.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HAG 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bwanyima ekigambo kya MUKAMA kyaija nikiraba omuri nabi Hagai nikigira kiti: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.3",
+            "verseOrgIds": [
+              "HAG.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HAG 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2SA.7.2"
+              },
+              "items": [
+                {
+                  "text": "2 Sam 7:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.64.11"
+              },
+              "items": [
+                {
+                  "text": "Isa 64:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Nimugira ngu obu nibwo bunaku obu mushemereire kuraara omu maju gaanyu agashwekirwe embaaho omunda, haza enju egi ekaguma eri omushaka? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.4",
+            "verseOrgIds": [
+              "HAG.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HAG 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "N'ahabw'ekyo hati MUKAMA ow'amahe naagira ati: Muteekateekye aha mitwarize yaanyu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.5",
+            "verseOrgIds": [
+              "HAG.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "HAG 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.4.10"
+              },
+              "items": [
+                {
+                  "text": "Hos 4:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MIC.6.15"
+              },
+              "items": [
+                {
+                  "text": "Mik 6:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Mukabiba bingi, mwagyesha bikye; nimurya kwonka timurikuhaaga; nimunywa, kwonka timurikuhwa iriho; nimujwara, kwonka timurikutagatirwa; kandi n'orikukorera ebihembo, naabikorera kubibiika omu nshaho efumukire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.6",
+            "verseOrgIds": [
+              "HAG.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "HAG 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.6",
+            "verseOrgIds": [
+              "HAG.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "HAG 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oku nikwo MUKAMA ow'amahe arikugamba naagira ati: Muteekateekye aha mitwarize yaanyu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.7",
+            "verseOrgIds": [
+              "HAG.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "HAG 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.132.13"
+              },
+              "items": [
+                {
+                  "text": "Zab 132:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.132.14"
+              },
+              "items": [
+                {
+                  "text": "14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Mwinamukye omu bibungo, mureete ebiti, mwombekye egyo nju, mbone kugishemerererwa n'okugihimbisizibwamu; nikwo MUKAMA arikugira. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.8",
+            "verseOrgIds": [
+              "HAG.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "HAG 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mukagira amatsiko g'okutunga bingi, mbwenu reeba, bibaire bikye; kandi ku mubireetsire omuka, naabihuuha, byatuntumuka. Nimugira ngu ekyo kireetsirwe ki? nikwo MUKAMA ow'amahe arikubuuza. Kireetsirwe enju yangye kuguma eri omushaka, haza buri muntu omuriimwe akahugira aha kwombeka eye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.9",
+            "verseOrgIds": [
+              "HAG.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "HAG 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1KI.8.35"
+              },
+              "items": [
+                {
+                  "text": "1 Bag 8:35",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.5.24"
+              },
+              "items": [
+                {
+                  "text": "Yer 5:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.5.25"
+              },
+              "items": [
+                {
+                  "text": "25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Nikyo eiguru ahaiguru yaanyu riimiire orume ahabwanyu, n'ensi ekanga kweza, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.10",
+            "verseOrgIds": [
+              "HAG.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "HAG 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.8.1"
+              },
+              "items": [
+                {
+                  "text": "2 Bag 8:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.105.16"
+              },
+              "items": [
+                {
+                  "text": "Zab 105:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.128.2"
+              },
+              "items": [
+                {
+                  "text": "128:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HAG.2.17"
+              },
+              "items": [
+                {
+                  "text": "Hag 2:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " naanye nkareeta omushana mwingi omu nsi n'aha bibungo, aha mbibo, ahari viinyo, aha majuta, aha birikumera omu itaka byona, aha bantu, aha matungo n'aha bi barikuhendekyera byona.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.11",
+            "verseOrgIds": [
+              "HAG.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "HAG 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.11",
+            "verseOrgIds": [
+              "HAG.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "HAG 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bwanyima Zerubabeeli mwene Shealutieli, na Yoshua mwene Yehozadaaki omunyamurwa omukuru n'abantu boona abaatsigaireho, baayorobera eiraka rya MUKAMA Ruhanga waabo yaamutumire; kandi abantu boona baatiina MUKAMA. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.12",
+            "verseOrgIds": [
+              "HAG.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "HAG 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAL.1.1"
+              },
+              "items": [
+                {
+                  "text": "Mal 1:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAL.2.7"
+              },
+              "items": [
+                {
+                  "text": "2:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAL.3.1"
+              },
+              "items": [
+                {
+                  "text": "3:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Bwanyima Hagai, entumwa ya MUKAMA, yaagambira abantu ebi MUKAMA amutumire, naagira ati: MUKAMA naagira ati: Ndi hamwe naimwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.13",
+            "verseOrgIds": [
+              "HAG.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "HAG 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZR.1.1"
+              },
+              "items": [
+                {
+                  "text": "Ezr 1:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZR.5.8"
+              },
+              "items": [
+                {
+                  "text": "5:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " Atyo MUKAMA yaimutsya omutima gwa Zerubabeeli mwene Shealutieli omutegyeki wa Yuda, n'ogwa Yoshua mwene Yehozadaaki omunyamurwa omukuru, n'ey'abantu boona abaatsigareho, baija, baatandika kwombeka enju ya MUKAMA ow'amahe Ruhanga waabo, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.14",
+            "verseOrgIds": [
+              "HAG.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "HAG 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HAG.1.1"
+              },
+              "items": [
+                {
+                  "text": "Hag 1:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " aha kiro kya makumi abiri na bina omuri okwo kwezi kwa mukaaga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAG.1.15",
+            "verseOrgIds": [
+              "HAG.1.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAG.2",
+    "number": "2",
+    "bookId": "HAG"
+  },
+  "previous": {
+    "id": "ZEP.3",
+    "number": "3",
+    "bookId": "ZEP"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "JOB.5",
+  "number": "5",
+  "bookId": "JOB",
+  "reference": "Ayu 5",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "JOB 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ayubu Akosolewa na Mungu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Haya, ita sasa; je! Yuko atakayekujibu?",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.5.1",
+            "verseOrgIds": [
+              "JOB.5.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.6",
+    "number": "6",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.4",
+    "number": "4",
+    "bookId": "JOB"
+  }
+}

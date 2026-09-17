@@ -1,0 +1,81 @@
+{
+  "id": "PSA.105",
+  "number": "105",
+  "bookId": "PSA",
+  "reference": "Zaburi 105",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "105",
+        "style": "c",
+        "sid": "PSA 105"
+      },
+      "items": [
+        {
+          "text": "105",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Nyasaye na avandu veve",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 105:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musandizi Yahova, mulandizi ovonene vwivwe;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.105.1",
+            "verseOrgIds": [
+              "PSA.105.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.106",
+    "number": "106",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.104",
+    "number": "104",
+    "bookId": "PSA"
+  }
+}

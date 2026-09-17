@@ -1,0 +1,73 @@
+{
+  "id": "ZEP.3",
+  "number": "3",
+  "bookId": "ZEP",
+  "reference": "Sepan. 3",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "ZEP 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Asecit a Yerusalem ka alakuno keŋ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Akisicanio ka akibelekin a ŋituŋa a ŋakwapin",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Eete ŋolo ka alelyanu",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAG.intro",
+    "number": "intro",
+    "bookId": "HAG"
+  },
+  "previous": {
+    "id": "ZEP.2",
+    "number": "2",
+    "bookId": "ZEP"
+  }
+}

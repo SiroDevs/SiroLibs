@@ -1,0 +1,378 @@
+{
+  "id": "JOS.20",
+  "number": "20",
+  "bookId": "JOS",
+  "reference": "Yoshua 20",
+  "verseCount": 9,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "20",
+        "style": "c",
+        "sid": "JOS 20"
+      },
+      "items": [
+        {
+          "text": "20",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOS 20:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.1",
+            "verseOrgIds": [
+              "JOS.20.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NUM.35.6+NUM.35.7+NUM.35.8+NUM.35.9+NUM.35.10+NUM.35.11+NUM.35.12+NUM.35.13+NUM.35.14+NUM.35.15+NUM.35.16+NUM.35.17+NUM.35.18+NUM.35.19+NUM.35.20+NUM.35.21+NUM.35.22+NUM.35.23+NUM.35.24+NUM.35.25+NUM.35.26+NUM.35.27+NUM.35.28+NUM.35.29+NUM.35.30+NUM.35.31+NUM.35.32"
+              },
+              "items": [
+                {
+                  "text": "Hen 35.6-32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.4.41+DEU.4.42+DEU.4.43"
+              },
+              "items": [
+                {
+                  "text": "Qab-Ser 4.41-43",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.19.1+DEU.19.2+DEU.19.3+DEU.19.4+DEU.19.5+DEU.19.6+DEU.19.7+DEU.19.8+DEU.19.9+DEU.19.10+DEU.19.11+DEU.19.12+DEU.19.13"
+              },
+              "items": [
+                {
+                  "text": "19.1-13",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Jennaani AABBO Waaqi waan Yoshuani jed'e, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.1",
+            "verseOrgIds": [
+              "JOS.20.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JOS 20:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Worra Israelitini waan jettu, Dira jaa ka iti baqatani, ka anini Musani isaniti hime fohad'a. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.2",
+            "verseOrgIds": [
+              "JOS.20.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JOS 20:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nami danu nama ijeese dandae arti d'aqa, aka nama sila isa ijeese haalo baafatu baqatu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.3",
+            "verseOrgIds": [
+              "JOS.20.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JOS 20:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inni dandae dira kana tokoti baqate fulla fullo, ta jaaroleeni iti koratu d'aqe, waan tahe jaaroleeti hima. Duuba worri aka inni dira seenu ee jed'e, fulla inni tau kennaafi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.4",
+            "verseOrgIds": [
+              "JOS.20.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JOS 20:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yo namichi isa ijeese haalo baafachu fed'u kaani barbaada isaa d'ufe, worri dira suni harka isaati isa kennu himalle. Wonti akanatiifi inni danu nama suni ijeese, worri taka wolind'amne. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.5",
+            "verseOrgIds": [
+              "JOS.20.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOS 20:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Duuba inni dira suni keesa taa haga dubbi isaa jaaroleeni qortuti, ammalle haga qaallichi guddaani gaafasi huji harkaa qabu duuti. Eegi suni namichi dandae dirafi worra isaa ka qara keesa baqateti gala.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.6",
+            "verseOrgIds": [
+              "JOS.20.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOS 20:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.6",
+            "verseOrgIds": [
+              "JOS.20.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JOS 20:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jennaani galaana Yordani ilaboruti, dira Kadeshi, ka Galilaya, lafa gaareeni ta Naftali keesa, ammalle Shekemu, lafa gaareeni ta Efraimu keesa, Hebronile, lafa gaareeni ta Yuda keesa fohatani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.7",
+            "verseOrgIds": [
+              "JOS.20.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JOS 20:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ammalle galaana Yordani ilaboru dirra lafa gamooji, ka Yerikoni ilaboru keesa, Beezeri ka lafa Reubeni keesa jiruufi Ramothi ka Gileadi lafa Gadi keesa jiruufi Golani ka Bashanile, ka lafa Manase keesa jiru fohatani. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.8",
+            "verseOrgIds": [
+              "JOS.20.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JOS 20:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Diri jaani kuni dira Israeliini fohate, aka worraafi keessumani worraleeni iti baqatu. Nami nama danu ijeese dandae achiti nama ijeechaa isa barbaadu duraa baha; haga dubbi isa jaaroleeni qortuti isa inijeesani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.9",
+            "verseOrgIds": [
+              "JOS.20.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Dira heddu gosa Lawiti kennani",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOS.21",
+    "number": "21",
+    "bookId": "JOS"
+  },
+  "previous": {
+    "id": "JOS.19",
+    "number": "19",
+    "bookId": "JOS"
+  }
+}

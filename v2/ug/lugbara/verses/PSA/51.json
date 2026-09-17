@@ -1,0 +1,109 @@
+{
+  "id": "PSA.51",
+  "number": "51",
+  "bookId": "PSA",
+  "reference": "Zaburi 51",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "51",
+        "style": "c",
+        "sid": "PSA 51"
+      },
+      "items": [
+        {
+          "text": "51",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 51:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.51.1",
+            "verseOrgIds": [
+              "PSA.51.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.2.14"
+              },
+              "items": [
+                {
+                  "text": "Kol 2:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mi ovu yiki be ma vu, Mungu la, leta mini yiki beri vusi; mi ini ezata mani, yiki aleru mini asi ndriza be kakau ’diyi vusi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.51.1",
+            "verseOrgIds": [
+              "PSA.51.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.52",
+    "number": "52",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.50",
+    "number": "50",
+    "bookId": "PSA"
+  }
+}

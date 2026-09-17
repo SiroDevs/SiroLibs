@@ -1,0 +1,702 @@
+{
+  "id": "1PE.5",
+  "number": "5",
+  "bookId": "1PE",
+  "reference": "1 Petro 5",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "1PE 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1PE 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ka kumeno ajuko judongo m’i kindwu, ma an de a jadit wedwu, man jamulembe mi sendri pa Kristu, ma an bende a jarib mi dwong’ ma binyuthre: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.1",
+            "verseOrgIds": [
+              "1PE.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1PE 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.21.15+JHN.21.16+JHN.21.17"
+              },
+              "items": [
+                {
+                  "text": "Yoh 21:15-17",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Wukwai udul pa Mungu ma ni i kindwu, wunen wigi de, ma jukucukowu acuka ngo, ento ni kum avane m’unegowu, calku yeny ma Mungu yenyo; kadi kum kuloka ma rac de ngo, endre ku pidoic ma yot; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.2",
+            "verseOrgIds": [
+              "1PE.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1PE 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kadi kud wurwodh arwodha wi ju ma jukethowu i wigi, endre wukethru ni por ni udul. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.3",
+            "verseOrgIds": [
+              "1PE.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1PE 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "E ka Jakwac ma dit binyuthre, wubigamu jamkermiwic mi dwong’ ma duny woko ngo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.4",
+            "verseOrgIds": [
+              "1PE.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1PE 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.3.34"
+              },
+              "items": [
+                {
+                  "text": "Lem 3:34",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Wu ju ma nok bende, kumeno, wubed wor ni judongo mu. Eyo, kewu ceke wuronjru ku molcwiny, ma wutim ko ni juwedwu ng’atuman ni wadi man ni wadi: kum Mungu jul kum jukuhaya, ento emio bero ni ju ma mol. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.5",
+            "verseOrgIds": [
+              "1PE.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1PE 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.23.12"
+              },
+              "items": [
+                {
+                  "text": "Mt 23:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.14.11"
+              },
+              "items": [
+                {
+                  "text": "Lk 14:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.18.14"
+              },
+              "items": [
+                {
+                  "text": "18:14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ka kumeno wujwigru the cing’ Mungu ma tek, kara edodwu ka kakare tundo; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.6",
+            "verseOrgIds": [
+              "1PE.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1PE 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ma wubol ko adieng’a cwinywu ceke i wie, kum ie bepido piwu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.7",
+            "verseOrgIds": [
+              "1PE.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1PE 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wubed nger, wuki de; jakwojwu ma wonabali, calu umvor m’ubeywak, ubewotho ku ku ku, m’ebeyenyo ko ka ng’atu m’ecam: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.8",
+            "verseOrgIds": [
+              "1PE.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1PE 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "wujul ni ng’atuca ma wubed ko tek i yioyic mu, ma wung’eyo ko nia sendri ma calcal timbre ni juwedwu ma gini i ng’om. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.9",
+            "verseOrgIds": [
+              "1PE.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1PE 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man Mungu mi bero ceke, m’elwong’owu ni dwong’ pare ma nja i Kristu, ka wudaru sendru nyanok, en ku kite ebidwokowu cu ma ndhu, ebiketho wunyang’ de, ebiketho wudoko tek. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.10",
+            "verseOrgIds": [
+              "1PE.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1PE 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kero bed ire rondo ku rondo. Amen.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.11",
+            "verseOrgIds": [
+              "1PE.5.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1PE 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.11",
+            "verseOrgIds": [
+              "1PE.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1PE 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.12",
+            "verseOrgIds": [
+              "1PE.5.12"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.15.22"
+              },
+              "items": [
+                {
+                  "text": "Tic 15:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.15.40"
+              },
+              "items": [
+                {
+                  "text": "40",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Agoro iwu ku lembe ma nyanok, aoro ku cing’ Siluano, m’umegwa mandha, calu akwane, abejuko man abetuco nia maeni en e bero mandha pa Mungu: wucung ki i ie. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.12",
+            "verseOrgIds": [
+              "1PE.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1PE 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.12.12"
+              },
+              "items": [
+                {
+                  "text": "Tic 12:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.12.25"
+              },
+              "items": [
+                {
+                  "text": "25",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.13.13"
+              },
+              "items": [
+                {
+                  "text": "13:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.15.37+ACT.15.38+ACT.15.39"
+              },
+              "items": [
+                {
+                  "text": "15:37-39",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.4.10"
+              },
+              "items": [
+                {
+                  "text": "Kol 4:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PHM.1.24"
+              },
+              "items": [
+                {
+                  "text": "Flm 1:24",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ng’atu ma jugoyo nyinge wukugi, ma ni i Babeli, umothowu; ku Marko ma woda bende. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.13",
+            "verseOrgIds": [
+              "1PE.5.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1PE 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wumothru ku cwic mi mer.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.14",
+            "verseOrgIds": [
+              "1PE.5.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1PE 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwiocwiny ubed i beng’wu ceke wu ju ma wuni i Kristu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.14",
+            "verseOrgIds": [
+              "1PE.5.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2PE.1",
+    "number": "1",
+    "bookId": "2PE"
+  },
+  "previous": {
+    "id": "1PE.4",
+    "number": "4",
+    "bookId": "1PE"
+  }
+}

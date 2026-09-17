@@ -1,0 +1,119 @@
+{
+  "id": "PRO.4",
+  "number": "4",
+  "bookId": "PRO",
+  "reference": "Ŋakit. 4",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "PRO 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ŋakiro a ŋikauruunak neni a ŋidwe kec",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ŋakiro ŋuna ikilimokinitae akiwuapya erot ŋolo iyookino",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PRO 4:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.4.9",
+            "verseOrgIds": [
+              "PRO.4.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PRO 4:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ikaakoku, kiira ka tocamu ŋuna erworo ayoŋ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.4.10",
+            "verseOrgIds": [
+              "PRO.4.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.5",
+    "number": "5",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.3",
+    "number": "3",
+    "bookId": "PRO"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "HAB.1",
+  "number": "1",
+  "bookId": "HAB",
+  "reference": "Kabakuk 1",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "HAB 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAB.2",
+    "number": "2",
+    "bookId": "HAB"
+  },
+  "previous": {
+    "id": "NAM.3",
+    "number": "3",
+    "bookId": "NAM"
+  }
+}

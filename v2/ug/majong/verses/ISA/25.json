@@ -1,0 +1,149 @@
+{
+  "id": "ISA.25",
+  "number": "25",
+  "bookId": "ISA",
+  "reference": "Isa. 25",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "25",
+        "style": "c",
+        "sid": "ISA 25"
+      },
+      "items": [
+        {
+          "text": "25",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Akipuro aŋuna ka alakuno anakisicanio",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 25:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Okoe Ekapolon, irae iyoŋ Akuj kaŋ;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.25.1",
+            "verseOrgIds": [
+              "ISA.25.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 25:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekapolon elope alimu ŋun.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.25.8",
+            "verseOrgIds": [
+              "ISA.25.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 25:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ipudaaryo ŋituŋa a Moab anakibois kec,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.25.10",
+            "verseOrgIds": [
+              "ISA.25.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.26",
+    "number": "26",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.24",
+    "number": "24",
+    "bookId": "ISA"
+  }
+}

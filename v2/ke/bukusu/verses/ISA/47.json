@@ -1,0 +1,107 @@
+{
+  "id": "ISA.47",
+  "number": "47",
+  "bookId": "ISA",
+  "reference": "Isa. 47",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "47",
+        "style": "c",
+        "sid": "ISA 47"
+      },
+      "items": [
+        {
+          "text": "47",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Bukhalaki khu Babiloni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 47:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.47.4",
+            "verseOrgIds": [
+              "ISA.47.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 47:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wele Omunyali Owa Bioosi aboolela Babiloni ali,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.47.5",
+            "verseOrgIds": [
+              "ISA.47.5"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.48",
+    "number": "48",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.46",
+    "number": "46",
+    "bookId": "ISA"
+  }
+}

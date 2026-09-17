@@ -1,0 +1,127 @@
+{
+  "id": "PRO.6",
+  "number": "6",
+  "bookId": "PRO",
+  "reference": "Methali 6",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "PRO 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwanangu, kama umejitolea kumdhamini jirani yako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.6.1",
+            "verseOrgIds": [
+              "PRO.6.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "PRO 6:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.6.19",
+            "verseOrgIds": [
+              "PRO.6.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "PRO 6:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwanangu, shika maagizo ya baba yako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.6.20",
+            "verseOrgIds": [
+              "PRO.6.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.7",
+    "number": "7",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.5",
+    "number": "5",
+    "bookId": "PRO"
+  }
+}

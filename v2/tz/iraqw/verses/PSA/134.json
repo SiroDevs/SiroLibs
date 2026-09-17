@@ -1,0 +1,68 @@
+{
+  "id": "PSA.134",
+  "number": "134",
+  "bookId": "PSA",
+  "reference": "Wara'Ami 134",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "134",
+        "style": "c",
+        "sid": "PSA 134"
+      },
+      "items": [
+        {
+          "text": "134",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 134:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Qwalaasé', kuungásingá' sagadiyuusér AAKOÓ MUNGÚ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.1",
+            "verseOrgIds": [
+              "PSA.134.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.135",
+    "number": "135",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.133",
+    "number": "133",
+    "bookId": "PSA"
+  }
+}

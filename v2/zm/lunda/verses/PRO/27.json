@@ -1,0 +1,69 @@
+{
+  "id": "PRO.27",
+  "number": "27",
+  "bookId": "PRO",
+  "reference": "Liproverbia 27",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "27",
+        "style": "c",
+        "sid": "PRO 27"
+      },
+      "items": [
+        {
+          "text": "27",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 27:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bayi wudisama yakumadikuku muloŋa hiwuneluki yakasoŋa mwifukuku.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.27.1",
+            "verseOrgIds": [
+              "PRO.27.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.28",
+    "number": "28",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PRO.26",
+    "number": "26",
+    "bookId": "PRO"
+  }
+}

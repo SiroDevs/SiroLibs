@@ -1,0 +1,94 @@
+{
+  "id": "ISA.49",
+  "number": "49",
+  "bookId": "ISA",
+  "reference": "Isa. 49",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "49",
+        "style": "c",
+        "sid": "ISA 49"
+      },
+      "items": [
+        {
+          "text": "49",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Etic a eketiyan ka Akuj",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 49:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Iyes ŋituŋa ŋulu iboiyete anakwapin a ŋuna idunyito anam,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.49.1",
+            "verseOrgIds": [
+              "ISA.49.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ayauno a ŋituŋa a Sion lore kec",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.50",
+    "number": "50",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.48",
+    "number": "48",
+    "bookId": "ISA"
+  }
+}

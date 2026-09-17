@@ -1,0 +1,2137 @@
+{
+  "id": "GEN.42",
+  "number": "42",
+  "bookId": "GEN",
+  "reference": "Matalikilo 42",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 38,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "42",
+        "style": "c",
+        "sid": "GEN 42"
+      },
+      "items": [
+        {
+          "text": "42",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "GEN 42:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.1",
+            "verseOrgIds": [
+              "GEN.42.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.12"
+              },
+              "items": [
+                {
+                  "text": "Inc 7:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lino Jakobo naakamvwa kuti maila nkwaali ku-Egepita, Jakobo wakabuzya bana bakwe kuti, Ino nkaambonzi mulalangana buyo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.1",
+            "verseOrgIds": [
+              "GEN.42.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "GEN 42:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.43.8"
+              },
+              "items": [
+                {
+                  "text": "Matl 43:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.33.18"
+              },
+              "items": [
+                {
+                  "text": "Int 33:18",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.33.19"
+              },
+              "items": [
+                {
+                  "text": "19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.38.1"
+              },
+              "items": [
+                {
+                  "text": "Is 38:1",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Wakaamba kuti, Amuswiilile! Ndamvwa kuti maila nkwaali ku-Egepita, Amwiinke nkuko, mukatuulile, kuti tupone, tutafwi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.2",
+            "verseOrgIds": [
+              "GEN.42.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "GEN 42:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aboobo babunyina Josefa bali ikumi bakainka kuyoosunza ku-Egepita. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.3",
+            "verseOrgIds": [
+              "GEN.42.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "GEN 42:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.42.38"
+              },
+              "items": [
+                {
+                  "text": "Matl 42:38",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Pele Benjamini mwanike wa-Josefa, Jakobo takamutumide ababunyina, nkaambo wakati, Ambweni bubi bulamujana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.4",
+            "verseOrgIds": [
+              "GEN.42.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "GEN 42:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.12.10"
+              },
+              "items": [
+                {
+                  "text": "Matl 12:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.26.1"
+              },
+              "items": [
+                {
+                  "text": "26:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.7.11"
+              },
+              "items": [
+                {
+                  "text": "Inc 7:11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Elyo bana ba-Israyeli bakasika kuyoosunza akati kabamwi basikusunza, nkaambo kakuli inzala munyika ya-Kanana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.5",
+            "verseOrgIds": [
+              "GEN.42.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "GEN 42:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.5",
+            "verseOrgIds": [
+              "GEN.42.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "GEN 42:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.6",
+            "verseOrgIds": [
+              "GEN.42.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.41.41"
+              },
+              "items": [
+                {
+                  "text": "Matl 41:41",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.27.29"
+              },
+              "items": [
+                {
+                  "text": "27:29",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.33.6"
+              },
+              "items": [
+                {
+                  "text": "33:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.37.7"
+              },
+              "items": [
+                {
+                  "text": "37:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "RUT.2.10"
+              },
+              "items": [
+                {
+                  "text": "Rut 2:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1KI.1.16"
+              },
+              "items": [
+                {
+                  "text": "1 Bam 1:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.60.14"
+              },
+              "items": [
+                {
+                  "text": "Is 60:14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Lino Josefa kali mweendelezi wacisi coonse. Ngonguwe iwakali kuuzizya bantu boonse banyika. Aboobo babunyina Josefa bakeza, bamukotamina cakuvundama ansi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.6",
+            "verseOrgIds": [
+              "GEN.42.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "GEN 42:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkabela Josefa naakabona babunyina wakabaziba, elyo wakalifulunganya mbuli mweenzu, wabaambila cakuhalamuka. Wakababuzya kuti, Mwazwa kuli? Bakati, Twazwa kunyika ya-Kanana kuzoosunza zyakulya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.7",
+            "verseOrgIds": [
+              "GEN.42.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "GEN 42:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lino Josefa wakaziba bakulana bakwe, pele balo tabakamuzibide. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.8",
+            "verseOrgIds": [
+              "GEN.42.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "GEN 42:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.37.5+GEN.37.6+GEN.37.7+GEN.37.8+GEN.37.9+GEN.37.10"
+              },
+              "items": [
+                {
+                  "text": "Matl 37:5-10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Elyo Josefa wakaibalukwa ziloto zyakwe nzyaakalota aambabo, nkabela wakabaambila kuti, Pe, muli basimutambatamba, mweza kuzoobona butete bwanyika. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.9",
+            "verseOrgIds": [
+              "GEN.42.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "GEN 42:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bakamuvwiila kuti, Pe, mwami, balanda bako beza kuzoosunza zyakulya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.10",
+            "verseOrgIds": [
+              "GEN.42.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "GEN 42:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Toonse biyo tuli bana bamuntu omwe. Tuli bantu baluleme. Balanda bako tabali basimutambatamba pe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.11",
+            "verseOrgIds": [
+              "GEN.42.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "GEN 42:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakati, Nee! mweza kuzoobona butete bwanyika. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.12",
+            "verseOrgIds": [
+              "GEN.42.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "GEN 42:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.37.30"
+              },
+              "items": [
+                {
+                  "text": "Matl 37:30",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.44.20"
+              },
+              "items": [
+                {
+                  "text": "44:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LAM.5.7"
+              },
+              "items": [
+                {
+                  "text": "Malo 5:7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Bakati, Pe, swebo tobalanda bako tuli babunyina bali ikumi ababili, bana bamuntu omwe munyika ya-Kanana, Muniini wasyaala kulitateesu, aumwi taciwo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.13",
+            "verseOrgIds": [
+              "GEN.42.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "GEN 42:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pele Josefa wakabaambila kuti, Ncobeni makani ali mbubonya mbundaamba, Muli basimutambatamba. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.14",
+            "verseOrgIds": [
+              "GEN.42.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "GEN 42:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.1.26"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 1:26",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.17.55"
+              },
+              "items": [
+                {
+                  "text": "17:55",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mbuboobu mbumuyoosolekwa. Ncobeni Farao mbali muumi, tamukoyooinka kuzwa okuno, cita mwanike wanu akasike okuno. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.15",
+            "verseOrgIds": [
+              "GEN.42.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "GEN 42:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amutume umwi wanu kuti akete mwanike wanu, pele nywebo mulaangwa. Mbuboobo majwi aanu mbwaayoosolekwa, kuzibwe na ngaalusinizyo, Na takuli boobo, ncobeni Farao mbacili muumi, muli basimutambatamba. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.16",
+            "verseOrgIds": [
+              "GEN.42.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "GEN 42:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mpuwo wakabaanga muntolongo mazuba otatwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.17",
+            "verseOrgIds": [
+              "GEN.42.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "GEN 42:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.17",
+            "verseOrgIds": [
+              "GEN.42.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "GEN 42:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.18",
+            "verseOrgIds": [
+              "GEN.42.18"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LEV.25.43"
+              },
+              "items": [
+                {
+                  "text": "Lev 25:43",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "NEH.5.15"
+              },
+              "items": [
+                {
+                  "text": "Neh 5:15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Lino buzuba bwatatu nebwakaca, Josefa wakabaambila kuti, Amucite obo, mupone, nkaambo mebo ndayoowa Leza. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.18",
+            "verseOrgIds": [
+              "GEN.42.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "GEN 42:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na muli bantu baluleme, umwi munyoko wanu asyaale muntolongo yanu, pele nywebo kamuya, mutolele maanda aanu zilyo zyabusunzi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.19",
+            "verseOrgIds": [
+              "GEN.42.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "GEN 42:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.43.5"
+              },
+              "items": [
+                {
+                  "text": "Matl 43:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.44.23"
+              },
+              "items": [
+                {
+                  "text": "44:23",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Lino amulete mwanike wanu kulindime, aboobo lusinizyo lwamajwi aanu luyoozibwa, kuti mutafwi. Mpawo bakacita obo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.20",
+            "verseOrgIds": [
+              "GEN.42.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "GEN 42:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.36.8"
+              },
+              "items": [
+                {
+                  "text": "Job 36:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.36.9"
+              },
+              "items": [
+                {
+                  "text": "9",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HOS.5.15"
+              },
+              "items": [
+                {
+                  "text": "Hos 5:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.107.17"
+              },
+              "items": [
+                {
+                  "text": "Int 107:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.5.22"
+              },
+              "items": [
+                {
+                  "text": "Tus 5:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.11.21"
+              },
+              "items": [
+                {
+                  "text": "11:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.7.2"
+              },
+              "items": [
+                {
+                  "text": "Mt 7:2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Nkabela bakaamba umwi aumwi kumweenzinyina kuti, Ncobeni tulijisi mulandu mumakani aamwanike wesu, nkaambo twakabona kunyonyongana kwamoyo wakwe naakali kutukombelezya, nekubaboobo twakakaka kuswiilila: Nciceeco mapenzi aya ncaasikila kulindiswe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.21",
+            "verseOrgIds": [
+              "GEN.42.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "GEN 42:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.9.5"
+              },
+              "items": [
+                {
+                  "text": "Matl 9:5",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.37.21+GEN.37.22"
+              },
+              "items": [
+                {
+                  "text": "37:21-22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1KI.2.32"
+              },
+              "items": [
+                {
+                  "text": "1 Bam 2:32",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2CH.24.22"
+              },
+              "items": [
+                {
+                  "text": "2 Mak 24:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.9.12"
+              },
+              "items": [
+                {
+                  "text": "Int 9:12",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.11.50"
+              },
+              "items": [
+                {
+                  "text": "Lk 11:50",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.11.51"
+              },
+              "items": [
+                {
+                  "text": "51",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Lino Rubeni wakabaambila kuti, Sa teendakamwaambila kuti, Mutabisizyi mwana! Nekubaboobo mwakakaka kuswiilila. Aboobo sunu twapegwa mulandu wabulowa bwakwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.22",
+            "verseOrgIds": [
+              "GEN.42.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "GEN 42:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Teebakaziba kuti Josefa ulamvwa, nkaambo bakali kwaambilana amutoloki. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.23",
+            "verseOrgIds": [
+              "GEN.42.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "GEN 42:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mpawo wakabafutatila, walila. Amane wakaboola alimwi kulimbabo, wabaambila, wagwisya Simeoni akati kabo, wamwaanga kumeso aabo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.24",
+            "verseOrgIds": [
+              "GEN.42.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "GEN 42:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.5.44"
+              },
+              "items": [
+                {
+                  "text": "Mt 5:44",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ROM.12.17+ROM.12.18+ROM.12.19+ROM.12.20+ROM.12.21"
+              },
+              "items": [
+                {
+                  "text": "Rom 12:17-21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1PE.3.9"
+              },
+              "items": [
+                {
+                  "text": "1 Pet 3:9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Elyo Josefa wakalailila kuti inkomo zyabo zizuzigwe maila, amali aabo aboozegwe umwi aumwi munkomo yakwe, alimwi bapegwe bulilu bwakulya munzila. Lino kwakacitwa obo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.25",
+            "verseOrgIds": [
+              "GEN.42.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "GEN 42:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.25",
+            "verseOrgIds": [
+              "GEN.42.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "GEN 42:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mpoonya awo bakabopa imbongolo zyabo amaila, bainka. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.26",
+            "verseOrgIds": [
+              "GEN.42.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "GEN 42:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.43.21"
+              },
+              "items": [
+                {
+                  "text": "Matl 43:21",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Pele kucile, umwi wabo wakajula inkomo yakwe kuti asanine imbongolo yakwe, elyo wakabona mali aakwe, mwaali mumulomo wasaka lyakwe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.27",
+            "verseOrgIds": [
+              "GEN.42.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "GEN 42:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lino wakaambila beenzinyina kuti, Amubone! mali aangu apilusigwa, Mwaali mumulomo wasaka lyangu, Bamvwe obo, myoyo yabo yakazwa, nkabela bakalangana umwi aumwi kumweenzinyina cakukankama, bati, Ino ncinzi eci Leza ncatucitila?",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.28",
+            "verseOrgIds": [
+              "GEN.42.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "GEN 42:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.28",
+            "verseOrgIds": [
+              "GEN.42.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "GEN 42:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lino nebakasika kuli-Jakobo wisaabo munyika ya-Kanana, bakamwaambila makani oonse aakabacitikila, bati, ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.29",
+            "verseOrgIds": [
+              "GEN.42.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "GEN 42:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.42.7"
+              },
+              "items": [
+                {
+                  "text": "Matl 42:7",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ulya muntu, mwami wacisi, wakatukalamukila, watwaambila kuti, Muli basimutambatamba banyika. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.30",
+            "verseOrgIds": [
+              "GEN.42.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "GEN 42:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pele twakaamwaambila kuti, Ne! Tuli bantu baluleme. Tatuli basimutambatamba pe. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.31",
+            "verseOrgIds": [
+              "GEN.42.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "GEN 42:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tuli babunyina bali ikumi ababili, bana bamuntu omwe, Umwi taciwo, amuniini wasyaala kuliwiseesu munyika ya-Kanana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.32",
+            "verseOrgIds": [
+              "GEN.42.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "GEN 42:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.42.15"
+              },
+              "items": [
+                {
+                  "text": "Matl 42:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.42.19"
+              },
+              "items": [
+                {
+                  "text": "19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.42.20"
+              },
+              "items": [
+                {
+                  "text": "20",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Elyo oyo muntu, mwami wacisi, wakatwaambila kuti, Mbuboobu mbunkonzya kuziba kuti muli balulami. Amusie munyoko umwi kulindime. Lino amutole zilyo zyakusunza kumaanda aanu, mwiinke. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.33",
+            "verseOrgIds": [
+              "GEN.42.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "GEN 42:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.34.10"
+              },
+              "items": [
+                {
+                  "text": "Matl 34:10",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Pele amundiletele munyoko muniini, aboobo njooziba kuti tamuli basimutambatamba, muli bantu baluleme, Mwaakucita obo, njoomuboozezya munyoko, nkabela muyookonzya kusambala munyika.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.34",
+            "verseOrgIds": [
+              "GEN.42.34"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "GEN 42:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.34",
+            "verseOrgIds": [
+              "GEN.42.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "GEN 42:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.35",
+            "verseOrgIds": [
+              "GEN.42.35"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.43.21"
+              },
+              "items": [
+                {
+                  "text": "Matl 43:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lino nebakali kutaula masaka aabo, bakajana umwi aumwi ciputizyo camali aakwe musaka lyakwe. Mpawo nebakabona ziputizyo zyamali aabo, bakayoowa boonse awisaabo. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.35",
+            "verseOrgIds": [
+              "GEN.42.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "GEN 42:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.43.14"
+              },
+              "items": [
+                {
+                  "text": "Matl 43:14",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Nkabela Jakobo wisaabo wakabaambila kuti, Mwandilobya! Josefa taciwo, alakwe Simeoni taciwo, lino mulayanda kutola Benjamini. Andilemena mapenzi! ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.36",
+            "verseOrgIds": [
+              "GEN.42.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "GEN 42:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mpawo Rubeni wakaambila wisi kuti, Ukajaye bana bangu bobile na ndabula kumuboozya kulinduwe. Umubike mumaanza aangu, Ndamuboozya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.37",
+            "verseOrgIds": [
+              "GEN.42.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "GEN 42:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.37.33"
+              },
+              "items": [
+                {
+                  "text": "Matl 37:33",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.44.28+GEN.44.29+GEN.44.30+GEN.44.31"
+              },
+              "items": [
+                {
+                  "text": "44:28-31",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Pele wakati, Nel Mwanaangu takooyooinka anywebo, nkaambo mupati wakwe wakafwa, lino wasyaala alike. Na wasikilwa bubi mulweendo ndomutola, muyooselusya imvwi zyangu cabuusu mukabanda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.42.38",
+            "verseOrgIds": [
+              "GEN.42.38"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "GEN.43",
+    "number": "43",
+    "bookId": "GEN"
+  },
+  "previous": {
+    "id": "GEN.41",
+    "number": "41",
+    "bookId": "GEN"
+  }
+}

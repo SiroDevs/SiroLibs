@@ -1,0 +1,1055 @@
+{
+  "id": "NUM.2",
+  "number": "2",
+  "bookId": "NUM",
+  "reference": "Nombres 2",
+  "copyright": "Texte libre de droits",
+  "verseCount": 34,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "NUM 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NUM 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "*Et l'",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.1",
+            "verseOrgIds": [
+              "NUM.2.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Éternel",
+              "type": "text",
+              "attrs": {
+                "verseId": "NUM.2.1",
+                "verseOrgIds": [
+                  "NUM.2.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "parla à Moïse et à Aaron, disant :",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.1",
+            "verseOrgIds": [
+              "NUM.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Les fils d'Israël camperont chacun près de sa bannière, sous les enseignes de leurs maisons de pères ; ils camperont autour de la tente d'assignation, à distance, vis-à-vis.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.2",
+            "verseOrgIds": [
+              "NUM.2.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NUM 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "[Voici] ceux qui camperont à l'orient, vers le levant, [sous] la bannière du camp de Juda, selon leurs armées : le prince des fils de Juda, Nakhshon, fils d'Amminadab,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.3",
+            "verseOrgIds": [
+              "NUM.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "et son armée ; et ses dénombrés",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.4",
+            "verseOrgIds": [
+              "NUM.2.4"
+            ]
+          }
+        },
+        {
+          "text": ", 74 600.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.4",
+            "verseOrgIds": [
+              "NUM.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NUM 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "– Et ceux qui camperont près de lui, sont la tribu d'Issacar : le prince des fils d'Issacar, Nethaneël, fils de Tsuar,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.5",
+            "verseOrgIds": [
+              "NUM.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NUM 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "et son armée ; et ses dénombrés, 54 400.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.6",
+            "verseOrgIds": [
+              "NUM.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NUM 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "– [Avec eux] sera la tribu de Zabulon : le prince des fils de Zabulon, Éliab, fils de Hélon,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.7",
+            "verseOrgIds": [
+              "NUM.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NUM 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "et son armée ; et ses dénombrés, 57 400.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.8",
+            "verseOrgIds": [
+              "NUM.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NUM 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "– Tous les dénombrés du camp de Juda, 186 400, selon leurs armées ; ils partiront les premiers.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.9",
+            "verseOrgIds": [
+              "NUM.2.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NUM 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "La bannière du camp de Ruben, selon ses armées, sera vers le midi : le prince des fils de Ruben, Élitsur, fils de Shedéur,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.10",
+            "verseOrgIds": [
+              "NUM.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NUM 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "et son armée ; et ses dénombrés, 46 500.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.11",
+            "verseOrgIds": [
+              "NUM.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NUM 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "– Et ceux qui camperont près de lui, sont la tribu de Siméon : le prince des fils de Siméon, Shelumiel, fils de Tsurishaddaï,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.12",
+            "verseOrgIds": [
+              "NUM.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NUM 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "et son armée ; et ses dénombrés, 59 300.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.13",
+            "verseOrgIds": [
+              "NUM.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NUM 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "– Et [avec eux] sera la tribu de Gad : le prince des fils de Gad, Éliasaph, fils de Rehuel",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.14",
+            "verseOrgIds": [
+              "NUM.2.14"
+            ]
+          }
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.14",
+            "verseOrgIds": [
+              "NUM.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NUM 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "et son armée ; et ses dénombrés, 45 650.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.15",
+            "verseOrgIds": [
+              "NUM.2.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NUM 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "– Tous les dénombrés du camp de Ruben, 151 450, selon leurs armées ; et ils partiront les seconds.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.16",
+            "verseOrgIds": [
+              "NUM.2.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "NUM 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Et la tente d'assignation partira, le camp des Lévites étant au milieu des camps ; comme ils auront campé, ainsi ils partiront, chacun à sa place, selon leurs bannières.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.17",
+            "verseOrgIds": [
+              "NUM.2.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "NUM 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "La bannière du camp d'Éphraïm, selon ses armées, sera vers l'occident : le prince des fils d'Éphraïm, Élishama, fils d'Ammihud,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.18",
+            "verseOrgIds": [
+              "NUM.2.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "NUM 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "et son armée ; et ses dénombrés, 40 500.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.19",
+            "verseOrgIds": [
+              "NUM.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "NUM 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "– Et près de lui la tribu de Manassé : le prince des fils de Manassé, Gameliel, fils de Pedahtsur,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.20",
+            "verseOrgIds": [
+              "NUM.2.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "NUM 2:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "et son armée ; et ses dénombrés, 32 200.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.21",
+            "verseOrgIds": [
+              "NUM.2.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "NUM 2:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "– Et [avec eux] sera la tribu de Benjamin : le prince des fils de Benjamin, Abidan, fils de Guidhoni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.22",
+            "verseOrgIds": [
+              "NUM.2.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "NUM 2:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "et son armée ; et ses dénombrés, 35 400.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.23",
+            "verseOrgIds": [
+              "NUM.2.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "NUM 2:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "– Tous les dénombrés du camp d'Éphraïm, 108 100, selon leurs armées ; et ils partiront les troisièmes.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.24",
+            "verseOrgIds": [
+              "NUM.2.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "NUM 2:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "La bannière du camp de Dan, selon ses armées, sera vers le nord : le prince des fils de Dan, Akhiézer, fils d'Ammishaddaï,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.25",
+            "verseOrgIds": [
+              "NUM.2.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "NUM 2:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "et son armée ; et ses dénombrés, 62 700.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.26",
+            "verseOrgIds": [
+              "NUM.2.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "NUM 2:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "– Et ceux qui camperont près de lui, sont la tribu d'Aser : le prince des fils d'Aser, Paghiel, fils d'Ocran,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.27",
+            "verseOrgIds": [
+              "NUM.2.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "NUM 2:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "et son armée ; et ses dénombrés, 41 500.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.28",
+            "verseOrgIds": [
+              "NUM.2.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "NUM 2:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "– Et [avec eux] sera la tribu de Nephthali : le prince des fils de Nephthali, Akhira, fils d'Énan,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.29",
+            "verseOrgIds": [
+              "NUM.2.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "NUM 2:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "et son armée ; et ses dénombrés, 53 400.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.30",
+            "verseOrgIds": [
+              "NUM.2.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "NUM 2:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "– Tous les dénombrés du camp de Dan, 157 600 ; ils partiront les derniers, selon leurs bannières.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.31",
+            "verseOrgIds": [
+              "NUM.2.31"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "NUM 2:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ce sont là les dénombrés des fils d'Israël, selon leurs maisons de pères. Tous les dénombrés des camps, selon leurs armées, furent 603 550.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.32",
+            "verseOrgIds": [
+              "NUM.2.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "NUM 2:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mais les Lévites ne furent pas dénombrés parmi les fils d'Israël, ainsi que l'",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.33",
+            "verseOrgIds": [
+              "NUM.2.33"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Éternel",
+              "type": "text",
+              "attrs": {
+                "verseId": "NUM.2.33",
+                "verseOrgIds": [
+                  "NUM.2.33"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "l'avait commandé à Moïse.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.33",
+            "verseOrgIds": [
+              "NUM.2.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "NUM 2:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Et les fils d'Israël firent selon tout ce que l'",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.34",
+            "verseOrgIds": [
+              "NUM.2.34"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Éternel",
+              "type": "text",
+              "attrs": {
+                "verseId": "NUM.2.34",
+                "verseOrgIds": [
+                  "NUM.2.34"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "avait commandé à Moïse : ainsi ils campèrent selon leurs bannières, et ainsi ils partirent, chacun selon leurs familles, selon leurs maisons de pères.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.2.34",
+            "verseOrgIds": [
+              "NUM.2.34"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NUM.3",
+    "number": "3",
+    "bookId": "NUM"
+  },
+  "previous": {
+    "id": "NUM.1",
+    "number": "1",
+    "bookId": "NUM"
+  }
+}

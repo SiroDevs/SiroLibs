@@ -1,0 +1,47 @@
+{
+  "id": "PSA.5",
+  "number": "5",
+  "bookId": "PSA",
+  "reference": "Zab 5",
+  "verseCount": 0,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "PSA 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mwamini Mungu kwa Ukombozi kutoka kwa Adui",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.6",
+    "number": "6",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.4",
+    "number": "4",
+    "bookId": "PSA"
+  }
+}

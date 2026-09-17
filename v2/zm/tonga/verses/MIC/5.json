@@ -1,0 +1,1003 @@
+{
+  "id": "MIC.5",
+  "number": "5",
+  "bookId": "MIC",
+  "reference": "Mika 5",
+  "copyright": "PUBLIC DOMAIN",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "MIC 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.1",
+            "verseOrgIds": [
+              "MIC.5.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.16.10"
+              },
+              "items": [
+                {
+                  "text": "Job 16:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LAM.3.30"
+              },
+              "items": [
+                {
+                  "text": "Malo 3:30",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.27.30"
+              },
+              "items": [
+                {
+                  "text": "Mt 27:30",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Lino kolinenga cakulila, nkaambo watusinkila, Mubetesi wa-Israyeli balamuumya musako aseya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.1",
+            "verseOrgIds": [
+              "MIC.5.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.1",
+            "verseOrgIds": [
+              "MIC.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MIC 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.2",
+            "verseOrgIds": [
+              "MIC.5.2"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.35.19"
+              },
+              "items": [
+                {
+                  "text": "Matl 35:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.49.10"
+              },
+              "items": [
+                {
+                  "text": "49:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.132.6"
+              },
+              "items": [
+                {
+                  "text": "Int 132:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.9.6"
+              },
+              "items": [
+                {
+                  "text": "Is 9:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.90.2"
+              },
+              "items": [
+                {
+                  "text": "Int 90:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.8.22"
+              },
+              "items": [
+                {
+                  "text": "Tus 8:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.1.1"
+              },
+              "items": [
+                {
+                  "text": "Joh 1:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.2.6"
+              },
+              "items": [
+                {
+                  "text": "Mt 2:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.7.42"
+              },
+              "items": [
+                {
+                  "text": "Joh 7:42",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Pele webo, O Betelehemu-Efrata, nekuba kuti uli muniini buyo akati kamikowa ya-Juda, mulinduwe momuyoozwa uuti kaendelezye ba-Israyeli. Kweendeenda kwakwe nkwakalekale, nkwamazuba aaciindi loko. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.2",
+            "verseOrgIds": [
+              "MIC.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MIC 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkaambo kako uyoobaaba mane kusikila kuciindi cakuzyala cayooyo uuti zyale, elyo babunyina basyeede bayoopiluka kubana ba-Israyeli. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.3",
+            "verseOrgIds": [
+              "MIC.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MIC 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.72.8"
+              },
+              "items": [
+                {
+                  "text": "Int 72:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.52.13"
+              },
+              "items": [
+                {
+                  "text": "Is 52:13",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.9.10"
+              },
+              "items": [
+                {
+                  "text": "Zek 9:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.32"
+              },
+              "items": [
+                {
+                  "text": "Lk 1:32",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Uyooima akweembela munguzu zya-Jehova, mubulemu bwazina lya-Jehova Leza wakwe. Nkabela bayookalilila, nkaambo uyooba mupati koonse koonse akusikila kumagolelo aanyika. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.4",
+            "verseOrgIds": [
+              "MIC.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MIC 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.9.6"
+              },
+              "items": [
+                {
+                  "text": "Is 9:6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.2.14"
+              },
+              "items": [
+                {
+                  "text": "Lk 2:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EPH.2.14"
+              },
+              "items": [
+                {
+                  "text": "Ef 2:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "COL.1.20"
+              },
+              "items": [
+                {
+                  "text": "Kol 1:20",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ngonguwe uyooba luumuno lwesu, baAsuri nibayoosika munyika yesu akulyataula mumaanda esu aabwami, elyo tuyoobusya beembezi bali musanu ababili abeendelezi bali musanu abatatu bakubalwisya. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.5",
+            "verseOrgIds": [
+              "MIC.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MIC 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.71"
+              },
+              "items": [
+                {
+                  "text": "Lk 1:71",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.10.8+GEN.10.9+GEN.10.10+GEN.10.11"
+              },
+              "items": [
+                {
+                  "text": "Matl 10:8-11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Bayooendelezya cisi ca-Asuri kunguzu zyapanga, acisi caNimrodi apanga lisomwedwe. Nkabela uyootuvuna mumaanza aaba-Asuri nibayoonjila mucisi cesu anibayooendenda munyika yesu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.6",
+            "verseOrgIds": [
+              "MIC.5.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MIC 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.6",
+            "verseOrgIds": [
+              "MIC.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MIC 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.7",
+            "verseOrgIds": [
+              "MIC.5.7"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.110.3"
+              },
+              "items": [
+                {
+                  "text": "Int 110:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lino inkamu iisyeede ya-Jakobo iyooba akati kamisyobo minji yabantu mbuli lume luzwa kuli-Jehova, ambuli lunywanywa lutalindili muntu nikuba kwiimina bantu baansi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.7",
+            "verseOrgIds": [
+              "MIC.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MIC 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inkamu iisyeede ya-Jakobo iyooba akati kabamasi, akati kamisyobo minji yabantu, mbuli mulavu akati kabanyama bamusokwe, ambuli syuumbwa akati kamatanga aambelele. Naainda cakulyata acakukwamuna taakwe uukonzya kuvuna. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.8",
+            "verseOrgIds": [
+              "MIC.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ijanza lyako lisumpulwe cakulwisya basimulandunyoko, abasinkondonyoko boonse banyonyooke.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.9",
+            "verseOrgIds": [
+              "MIC.5.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.9",
+            "verseOrgIds": [
+              "MIC.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MIC 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.10",
+            "verseOrgIds": [
+              "MIC.5.10"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.9.10"
+              },
+              "items": [
+                {
+                  "text": "Zek 9:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lino mubuzuba obo, mbwaamba Jehova, njoomanisya imbizi zyako akati kanu, akunyonyoona inkalaki zyako. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.10",
+            "verseOrgIds": [
+              "MIC.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MIC 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Njoomanisya minzi yamucisi cako akumwaya zitabilizyo zyako. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.11",
+            "verseOrgIds": [
+              "MIC.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MIC 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Njoomanisya malozi aamumaanza aako, nkabela takooyooba abasondi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.12",
+            "verseOrgIds": [
+              "MIC.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MIC 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.13.2"
+              },
+              "items": [
+                {
+                  "text": "Zek 13:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.2.8"
+              },
+              "items": [
+                {
+                  "text": "Is 2:8",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Alimwi njoomanisya zikozyano zyako zibezedwe amatantilo aako akati kanu, kuti utakombi limbi zibumbwa zyamaanza aako omwini. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.13",
+            "verseOrgIds": [
+              "MIC.5.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MIC 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Azyaanda zyako zyoonse njoozinonkola akati kanu, aminzi yako njooinyonyoona. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.14",
+            "verseOrgIds": [
+              "MIC.5.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MIC 5:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkabela bamasi batana kuswiilila njoobatemena milandu cabukali acakunyemesya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.5.15",
+            "verseOrgIds": [
+              "MIC.5.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.6",
+    "number": "6",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.4",
+    "number": "4",
+    "bookId": "MIC"
+  }
+}

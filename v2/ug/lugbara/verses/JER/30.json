@@ -1,0 +1,229 @@
+{
+  "id": "JER.30",
+  "number": "30",
+  "bookId": "JER",
+  "reference": "Yeremia 30",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "30",
+        "style": "c",
+        "sid": "JER 30"
+      },
+      "items": [
+        {
+          "text": "30",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 30:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "E’yo ecapi Yeremia vu engapi Yehova vuri, kini: ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.30.1",
+            "verseOrgIds": [
+              "JER.30.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JER 30:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.30.8"
+              },
+              "items": [
+                {
+                  "text": "Isa 30:8",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Yehova Mungu Israeliniri ’yo e’yo ’dini, kini: Mi ma si mini e’yo mani ’yole mi tia ’bo ’diyi dria buku ma alia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.30.2",
+            "verseOrgIds": [
+              "JER.30.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JER 30:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.30.3"
+              },
+              "items": [
+                {
+                  "text": "Azi 30:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "AMO.9.14"
+              },
+              "items": [
+                {
+                  "text": "Amo 9:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.27.22"
+              },
+              "items": [
+                {
+                  "text": "Yer 27:22",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.29.14"
+              },
+              "items": [
+                {
+                  "text": "29:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.31.23"
+              },
+              "items": [
+                {
+                  "text": "31:23",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.16.15"
+              },
+              "items": [
+                {
+                  "text": "16:15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "A’disiku, mi ne, o’duni nga eca ra, Yehova ’yo ra, o’du nde ’diyisi ma nga e’yo suru mani Israeli pini Yuda be yini ovuzu ati’baruri oja ra, Yehova ’yo ra, azini ma nga fe yi ma emvi angu mani fele yi ma a’bipi driria, te yi nga angu nderi nyani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.30.3",
+            "verseOrgIds": [
+              "JER.30.3"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.31",
+    "number": "31",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.29",
+    "number": "29",
+    "bookId": "JER"
+  }
+}

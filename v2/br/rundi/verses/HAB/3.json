@@ -1,0 +1,102 @@
+{
+  "id": "HAB.3",
+  "number": "3",
+  "bookId": "HAB",
+  "reference": "Habakuki 3",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "HAB 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HAB 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Isengesho ry’uwavugishwa n’ Imana Habakuki, ryaririmbishwa mw ijwi ryitwa Shigiyonoti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.3.1",
+            "verseOrgIds": [
+              "HAB.3.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "HAB 3:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Vyahawe umukuru w’abaririmvyi: bavugira inanga zanje.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.3.19",
+            "verseOrgIds": [
+              "HAB.3.19"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEP.1",
+    "number": "1",
+    "bookId": "ZEP"
+  },
+  "previous": {
+    "id": "HAB.2",
+    "number": "2",
+    "bookId": "HAB"
+  }
+}

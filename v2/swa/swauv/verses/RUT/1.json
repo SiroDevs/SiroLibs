@@ -1,0 +1,1638 @@
+{
+  "id": "RUT.1",
+  "number": "1",
+  "bookId": "RUT",
+  "reference": "Rut 1",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "RUT 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Familia ya Elimeleki Yaenda Moabu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "RUT 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.1",
+            "verseOrgIds": [
+              "RUT.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.2.16"
+              },
+              "items": [
+                {
+                  "text": "Amu 2:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.12.10"
+              },
+              "items": [
+                {
+                  "text": "Mwa 12:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.26.1"
+              },
+              "items": [
+                {
+                  "text": "26:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.28.38"
+              },
+              "items": [
+                {
+                  "text": "Kum 28:38",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1KI.18.2"
+              },
+              "items": [
+                {
+                  "text": "1 Fal 18:2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2KI.8.1"
+              },
+              "items": [
+                {
+                  "text": "2 Fal 8:1",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.17.8"
+              },
+              "items": [
+                {
+                  "text": "Amu 17:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MIC.5.2"
+              },
+              "items": [
+                {
+                  "text": "Mik 5:2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ikawa zamani za Waamuzi walipoamua, kulikuwa na njaa katika nchi. Akaondoka mtu mmoja wa Bethlehemu ya Yuda, akaenda kukaa katika nchi ya Moabu, yeye na mkewe na wanawe wawili. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.1",
+            "verseOrgIds": [
+              "RUT.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "RUT 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.35.19"
+              },
+              "items": [
+                {
+                  "text": "Mwa 35:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.3.30"
+              },
+              "items": [
+                {
+                  "text": "Amu 3:30",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Na jina la mtu huyo aliitwa Elimeleki, na jina la mkewe Naomi, na majina ya wanawe wawili Maloni na Kilioni, Waefrathi wa Bethlehemu ya Yuda. Wakafika nchi ya Moabu, wakakaa huko. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.2",
+            "verseOrgIds": [
+              "RUT.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "RUT 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akafa Elimeleki, mumewe Naomi; na yule mwanamke akasalia na wanawe wawili. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.3",
+            "verseOrgIds": [
+              "RUT.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "RUT 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao wakaoa wake katika wanawake wa Moabu; na jina la mmoja aliitwa Orpa, na jina la wa pili Ruthu. Wakakaa huko yapata miaka kumi. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.4",
+            "verseOrgIds": [
+              "RUT.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "RUT 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakafa na Maloni na Kilioni wote wawili; na huyo mwanamke akawa amefiwa na wanawe wawili, na mumewe pia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.5",
+            "verseOrgIds": [
+              "RUT.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Naomi na Wakweze Wamoabi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "RUT 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.5",
+            "verseOrgIds": [
+              "RUT.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "RUT 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.6",
+            "verseOrgIds": [
+              "RUT.1.6"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.4.31"
+              },
+              "items": [
+                {
+                  "text": "Kut 4:31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.80.14"
+              },
+              "items": [
+                {
+                  "text": "Zab 80:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JER.29.10"
+              },
+              "items": [
+                {
+                  "text": "Yer 29:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEP.2.7"
+              },
+              "items": [
+                {
+                  "text": "Sef 2:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ZEC.10.3"
+              },
+              "items": [
+                {
+                  "text": "Zek 10:3",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.1.68"
+              },
+              "items": [
+                {
+                  "text": "Lk 1:68",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LUK.7.16"
+              },
+              "items": [
+                {
+                  "text": "7:16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.28.20"
+              },
+              "items": [
+                {
+                  "text": "Mwa 28:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.48.15"
+              },
+              "items": [
+                {
+                  "text": "48:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.16.4"
+              },
+              "items": [
+                {
+                  "text": "Kut 16:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.16.6"
+              },
+              "items": [
+                {
+                  "text": "6",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.104.14"
+              },
+              "items": [
+                {
+                  "text": "Zab 104:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.104.16"
+              },
+              "items": [
+                {
+                  "text": "16",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.30.8"
+              },
+              "items": [
+                {
+                  "text": "Mit 30:8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.55.10"
+              },
+              "items": [
+                {
+                  "text": "Isa 55:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.6.11"
+              },
+              "items": [
+                {
+                  "text": "Mt 6:11",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ndipo alipoondoka, yeye na wakweze, ili kurudi kutoka nchi ya Moabu; maana huko katika nchi ya Moabu amesikia ya kwamba BWANA amewajilia watu wake na kuwapa chakula. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.6",
+            "verseOrgIds": [
+              "RUT.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "RUT 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi akatoka pale alipokuwapo, na wakweze wawili pamoja naye; wakashika njia ili kurudi mpaka nchi ya Yuda. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.7",
+            "verseOrgIds": [
+              "RUT.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "RUT 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.24.15"
+              },
+              "items": [
+                {
+                  "text": "Yos 24:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2TI.1.16"
+              },
+              "items": [
+                {
+                  "text": "2 Tim 1:16",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Kisha Naomi akawaambia wakweze wawili, Nendeni sasa mkarejee kila mmoja nyumbani kwa mamaye; BWANA na awatendee mema ninyi, kama ninyi mlivyowatendea mema hao waliofariki na mimi pia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.8",
+            "verseOrgIds": [
+              "RUT.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "RUT 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "RUT.3.1"
+              },
+              "items": [
+                {
+                  "text": "Rut 3:1",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "BWANA na awajalie kuona raha kila mmoja nyumbani kwa mumewe. Kisha akawabusu; nao wakapaza sauti zao wakalia. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.9",
+            "verseOrgIds": [
+              "RUT.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "RUT 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakamwambia, La, sivyo; lakini tutarudi pamoja nawe kwa watu wako. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.10",
+            "verseOrgIds": [
+              "RUT.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "RUT 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "GEN.38.11"
+              },
+              "items": [
+                {
+                  "text": "Mwa 38:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.25.5"
+              },
+              "items": [
+                {
+                  "text": "Kum 25:5",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Naye Naomi akasema, Enyi wanangu, mrejee; kwani kufuatana na mimi? Je! Mimi ninao watoto wa kiume tena tumboni mwangu, hata wawe waume zenu? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.11",
+            "verseOrgIds": [
+              "RUT.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "RUT 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Enyi wanangu, mrejee; nendeni zenu; kwa kuwa mimi ni mzee, siwezi kupata mume tena. Kama ningesema, Natumaini; kama ningepata mume hata usiku huu, na kuzaa watoto wa kiume; ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.12",
+            "verseOrgIds": [
+              "RUT.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "RUT 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.2.15"
+              },
+              "items": [
+                {
+                  "text": "Amu 2:15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.19.21"
+              },
+              "items": [
+                {
+                  "text": "Ayu 19:21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.32.4"
+              },
+              "items": [
+                {
+                  "text": "Zab 32:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PSA.38.2"
+              },
+              "items": [
+                {
+                  "text": "38:2",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "je! Mngesubiri hata watakapokuwa watu wazima? Mngejizuia msiwe na waume? La, sivyo, wanangu; maana ni vigumu kwangu kuliko kwenu, kwa sababu mkono wa BWANA umetoka juu yangu. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.13",
+            "verseOrgIds": [
+              "RUT.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "RUT 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.4.4"
+              },
+              "items": [
+                {
+                  "text": "Kum 4:4",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "DEU.10.20"
+              },
+              "items": [
+                {
+                  "text": "10:20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.17.17"
+              },
+              "items": [
+                {
+                  "text": "Mit 17:17",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "PRO.18.24"
+              },
+              "items": [
+                {
+                  "text": "18:24",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JHN.6.66+JHN.6.67+JHN.6.68+JHN.6.69"
+              },
+              "items": [
+                {
+                  "text": "Yn 6:66-69",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "HEB.10.39"
+              },
+              "items": [
+                {
+                  "text": "Ebr 10:39",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Nao wakapaza sauti zao, wakalia tena, na Orpa akambusu mkwewe, lakini Ruthu akaambatana naye. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.14",
+            "verseOrgIds": [
+              "RUT.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "RUT 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOS.24.15+JOS.24.16+JOS.24.17+JOS.24.18+JOS.24.19+JOS.24.20+JOS.24.21"
+              },
+              "items": [
+                {
+                  "text": "Yos 24:15-21",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JDG.11.24"
+              },
+              "items": [
+                {
+                  "text": "Amu 11:24",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Naye akasema, Tazama, shemeji yako amerejea kwa watu wake, na kwa mungu wake; basi urejee wewe umfuate shemeji yako. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.15",
+            "verseOrgIds": [
+              "RUT.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "RUT 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naye Ruthu akasema,",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.16",
+            "verseOrgIds": [
+              "RUT.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "RUT 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.17",
+            "verseOrgIds": [
+              "RUT.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "RUT 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.18",
+            "verseOrgIds": [
+              "RUT.1.18"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ACT.21.14"
+              },
+              "items": [
+                {
+                  "text": "Mdo 21:14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "\n",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi alipomwona kuwa amekaza nia yake kufuatana naye, aliacha kusema naye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.18",
+            "verseOrgIds": [
+              "RUT.1.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "RUT 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.18",
+            "verseOrgIds": [
+              "RUT.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "RUT 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.19",
+            "verseOrgIds": [
+              "RUT.1.19"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAT.21.10"
+              },
+              "items": [
+                {
+                  "text": "Mt 21:10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.23.7"
+              },
+              "items": [
+                {
+                  "text": "Isa 23:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "LAM.2.15"
+              },
+              "items": [
+                {
+                  "text": "Omb 2:15",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Hivyo hao wakaendelea wote wawili hata walipofika Bethlehemu. Na ikawa walipofika Bethlehemu, mji wote ulitaharuki kwa habari zao. Nao wanawake wakasema, Je! Huyu ni Naomi? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.19",
+            "verseOrgIds": [
+              "RUT.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "RUT 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akawaambia, Msiniite Naomi",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.20",
+            "verseOrgIds": [
+              "RUT.1.20"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:20",
+              "type": "text"
+            },
+            {
+              "text": "Naomi",
+              "type": "text"
+            },
+            {
+              "text": "maana yake ni, Kupendeza.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ", niiteni Mara",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.20",
+            "verseOrgIds": [
+              "RUT.1.20"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "f",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "1:20",
+              "type": "text"
+            },
+            {
+              "text": "Mara",
+              "type": "text"
+            },
+            {
+              "text": "maana yake ni, Uchungu.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ", kwa sababu Mwenyezi Mungu amenitenda mambo machungu sana. ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.20",
+            "verseOrgIds": [
+              "RUT.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "RUT 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.2.7"
+              },
+              "items": [
+                {
+                  "text": "1 Sam 2:7",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ",",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "1SA.2.8"
+              },
+              "items": [
+                {
+                  "text": "8",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOB.1.21"
+              },
+              "items": [
+                {
+                  "text": "Ayu 1:21",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mimi nalitoka hali nimejaa, naye BWANA amenirudisha sina kitu, kwani kuniita Naomi, ikiwa BWANA ameshuhudia juu yangu, na Mwenyezi Mungu amenitesa? ",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.21",
+            "verseOrgIds": [
+              "RUT.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "RUT 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EXO.9.31"
+              },
+              "items": [
+                {
+                  "text": "Kut 9:31",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "2SA.21.9"
+              },
+              "items": [
+                {
+                  "text": "2 Sam 21:9",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Basi Naomi akarudi; pamoja na Ruthu Mmoabi, mkwewe; ambao walirudi kutoka nchi ya Moabu; nao wakafika Bethlehemu mwanzo wa mavuno ya shayiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.22",
+            "verseOrgIds": [
+              "RUT.1.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "RUT.2",
+    "number": "2",
+    "bookId": "RUT"
+  },
+  "previous": {
+    "id": "RUT.intro",
+    "number": "intro",
+    "bookId": "RUT"
+  }
+}

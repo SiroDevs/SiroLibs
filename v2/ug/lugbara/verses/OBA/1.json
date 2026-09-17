@@ -1,0 +1,144 @@
+{
+  "id": "OBA.1",
+  "number": "1",
+  "bookId": "OBA",
+  "reference": "Obadia 1",
+  "verseCount": 1,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "OBA 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "OBA 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.1",
+            "verseOrgIds": [
+              "OBA.1.1"
+            ]
+          }
+        },
+        {
+          "name": "note",
+          "type": "tag",
+          "attrs": {
+            "style": "x",
+            "caller": "#"
+          },
+          "items": [
+            {
+              "text": "\n",
+              "type": "text"
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "ISA.21.11"
+              },
+              "items": [
+                {
+                  "text": "Isa 21:11",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "EZK.25.12+EZK.25.13+EZK.25.14"
+              },
+              "items": [
+                {
+                  "text": "Eze 25:12-14",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "JOL.3.19"
+              },
+              "items": [
+                {
+                  "text": "Yoe 3:19",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "tag",
+              "attrs": {
+                "loc": "MAL.1.3"
+              },
+              "items": [
+                {
+                  "text": "Mal 1:3",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ndreza Obadiani. Yehova ’yo ’dini Edomu e’yosi: Ama eri e’yo kuza ibizu Yehova vu, pe ojio ti suru ma eselia, kini: Emi enga! ama ma’di a’di eri be!",
+          "type": "text",
+          "attrs": {
+            "verseId": "OBA.1.1",
+            "verseOrgIds": [
+              "OBA.1.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JON.1",
+    "number": "1",
+    "bookId": "JON"
+  },
+  "previous": {
+    "id": "AMO.9",
+    "number": "9",
+    "bookId": "AMO"
+  }
+}
